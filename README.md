@@ -1,5 +1,7 @@
 # Fabric Radar · Centro de inteligencia de Microsoft Fabric
 
+**Sitio publicado:** https://daniel01010101010101.github.io/mocrosoft_fabric/
+
 Plataforma web en español que **consulta automáticamente las fuentes oficiales de Microsoft Fabric cinco veces al día**, guarda cada novedad en una base de datos persistente, la **traduce y analiza con IA** y la presenta en un dashboard con histórico, roadmap, categorías y trazabilidad completa.
 
 > Proyecto independiente, no afiliado a Microsoft. Toda la información procede de fuentes oficiales y enlaza siempre a la publicación original.
@@ -53,17 +55,22 @@ Plataforma web en español que **consulta automáticamente las fuentes oficiales
 - **Frontend:** `web/` — React 19 + Vite + Tailwind CSS 4 + Motion. Consume una API JSON estática generada en cada build (`npm run export`).
 - **Escalabilidad:** la capa de almacenamiento está aislada en `pipeline/src/core/store.ts`; puede sustituirse por PostgreSQL u otra base de datos sin tocar fuentes, IA ni frontend.
 
-## Puesta en marcha (una sola vez)
+## Ramas y publicación
 
-1. **Activar GitHub Pages:** *Settings → Pages → Build and deployment → Source: **GitHub Actions***.
-2. **Añadir la clave de IA:** *Settings → Secrets and variables → Actions → New repository secret*
+- **`main` es la rama de producción**: contiene la base de datos actualizada y es la única autorizada a desplegar en el entorno `github-pages`. Cada ejecución automática trabaja sobre `main`, guarda allí los datos y lanza el workflow *Publicar en GitHub Pages*.
+- Los cron de GitHub Actions se disparan desde la rama por defecto del repositorio, pero siempre operan sobre `main`, así que la automatización funciona sea cual sea la rama por defecto (se recomienda que sea `main`).
+- Cualquier cambio de código que llegue a `main` se publica automáticamente.
+
+## Puesta en marcha
+
+1. GitHub Pages ya está activado con origen **GitHub Actions** y el sitio publicado.
+2. **Añadir la clave de IA** para la traducción: *Settings → Secrets and variables → Actions → New repository secret*
    - Nombre: `ANTHROPIC_API_KEY`
    - Valor: tu clave de la API de Anthropic (https://console.anthropic.com).
-3. **Lanzar la primera ejecución:** *Actions → «Ingesta automática de novedades» → Run workflow*. Para procesar más rápido el histórico inicial puedes indicar, por ejemplo, `ai_max_updates = 120` y `ai_max_roadmap_batches = 50`.
+3. Opcional: *Actions → «Ingesta automática de novedades» → Run workflow* para no esperar a la siguiente ejecución programada. Para procesar más rápido el histórico inicial puedes indicar, por ejemplo, `ai_max_updates = 120` y `ai_max_roadmap_batches = 50`.
 
-A partir de ahí todo es automático: cada ejecución consulta las fuentes, actualiza la base de datos, la guarda en el repositorio y publica el sitio.
+A partir de ahí todo es automático: cada ejecución consulta las fuentes, actualiza la base de datos, la guarda en `main` y publica el sitio.
 
-> Los workflows programados de GitHub se ejecutan en la **rama por defecto** del repositorio.
 > Sin `ANTHROPIC_API_KEY` la plataforma funciona igualmente (consulta, almacena y muestra las novedades), pero los textos se ven en su idioma original con la etiqueta «Traducción pendiente»; se traducen solos en cuanto se configura la clave.
 
 ### Variables opcionales (*Settings → Secrets and variables → Actions → Variables*)

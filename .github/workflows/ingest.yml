@@ -23,8 +23,8 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
+  # Necesario para lanzar el despliegue en GitHub Pages al terminar.
+  actions: write
 
 # Nunca dos ingestas a la vez (evita conflictos en la base de datos).
 concurrency:
@@ -44,14 +44,15 @@ jobs:
       AI_MAX_UPDATES_PER_RUN: ${{ inputs.ai_max_updates || vars.AI_MAX_UPDATES_PER_RUN }}
       AI_MAX_ROADMAP_BATCHES_PER_RUN: ${{ inputs.ai_max_roadmap_batches || vars.AI_MAX_ROADMAP_BATCHES_PER_RUN }}
       TRIGGER: ${{ github.event_name == 'schedule' && 'schedule' || 'manual' }}
-      # En eventos "schedule" no existe github.event.repository: se usa la rama en la que corre
-      # el workflow (los cron siempre se ejecutan en la rama por defecto).
-      TARGET_BRANCH: ${{ github.ref_name }}
+      # Rama de producción: contiene la base de datos y es la única autorizada a desplegar en
+      # el entorno github-pages. Los cron se disparan desde la rama por defecto, pero siempre
+      # trabajan sobre esta rama.
+      TARGET_BRANCH: main
     steps:
-      - name: Descargar el repositorio
+      - name: Descargar la rama de producción
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.ref_name }}
+          ref: main
 
       - name: Configurar Node.js
         uses: actions/setup-node@v4
@@ -84,6 +85,7 @@ jobs:
         run: node pipeline/scripts/record-failure.mjs "Fallo al preparar el entorno de ejecución (instalación de dependencias)."
 
       - name: Guardar la base de datos en el repositorio
+        id: save
         if: always()
         run: |
           git config user.name "fabric-radar-bot"
@@ -106,6 +108,13 @@ jobs:
           echo "::error::No se pudieron guardar los datos en el repositorio."
           exit 1
 
+      - name: Publicar la plataforma en GitHub Pages
+        # Se publica incluso si la ingesta falló, para que el panel de estado muestre el error real.
+        if: always() && steps.save.outcome != 'skipped'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run pages.yml --ref "${TARGET_BRANCH}" --repo "${{ github.repository }}"
+
       - name: Resultado de la ingesta
         if: always()
         run: |
@@ -114,14 +123,3 @@ jobs:
             exit 1
           fi
           npm run --silent status | head -n 40
-
-  publish:
-    name: Publicar la plataforma
-    needs: ingest
-    # Se publica incluso si la ingesta falló, para que el panel de estado muestre el error real.
-    if: ${{ always() && needs.ingest.result != 'cancelled' }}
-    uses: ./.github/workflows/pages.yml
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
