@@ -1,0 +1,23 @@
+{
+  "id": "rm-20850fc1-9d06-ef11-9f89-000d3a33ff0b",
+  "releaseItemId": "20850fc1-9d06-ef11-9f89-000d3a33ff0b",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Data pipeline support for Azure HDInsight",
+  "description": "HDInsight is the Azure PaaS service for Hadoop that enables developers to build very powerful big data solutions in the cloud. The new HDI pipeline activity will enable HDInsights job activities inside of your Data Factory data pipelines similar to the existing funcationality that you've enhoyed for years in ADF and Synapse pipelines. We've now brought this capability directly into Fabric data pipelines.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2024",
+  "releaseQuarterStart": "2024-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=20850fc1-9d06-ef11-9f89-000d3a33ff0b",
+  "contentHash": "db5725453fda131d37dd2a88e682b480b7a084d08b84ff3e789debf685438d16",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

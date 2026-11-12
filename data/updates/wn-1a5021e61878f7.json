@@ -1,0 +1,60 @@
+{
+  "id": "wn-1a5021e61878f7",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/continuous-ingestion-from-azure-storage-to-eventhouse-preview?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/get-data-azure-storage",
+  "title": "Continuous ingestion from Azure Storage to Eventhouse (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "You can now use continuous ingestion from Azure Storage to Eventhouse (preview) to automatically and efficiently ingest data from Azure Storage into Eventhouse. For more information, see Get data from Azure Storage.",
+    "html": "You can now use <a href=\"https://blog.fabric.microsoft.com/blog/continuous-ingestion-from-azure-storage-to-eventhouse-preview?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">continuous ingestion from Azure Storage to Eventhouse (preview)</a> to automatically and efficiently ingest data from Azure Storage into Eventhouse. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/get-data-azure-storage\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Get data from Azure Storage</a>.",
+    "excerpt": "You can now use continuous ingestion from Azure Storage to Eventhouse (preview) to automatically and efficiently ingest data from Azure Storage into Eventhouse. For more information, see Get data from Azure Storage.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "continuous ingestion from Azure Storage to Eventhouse (preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/continuous-ingestion-from-azure-storage-to-eventhouse-preview?ft=All"
+      },
+      {
+        "label": "Get data from Azure Storage",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/get-data-azure-storage"
+      }
+    ]
+  },
+  "contentHash": "9bf969194bf562e7a048ae7cedff624b3a7f368374f60337aa7089f1f0a00778",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/continuous-ingestion-from-azure-storage-to-eventhouse-preview?ft=All",
+    "backfill": "true"
+  }
+}

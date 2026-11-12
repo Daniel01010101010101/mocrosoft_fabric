@@ -1,0 +1,61 @@
+{
+  "id": "wn-816edfcaa9b17c",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-Outbound-Access-Protection-OAP-for-Operations-Agent/ba-p/5363817",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/security/workspace-outbound-access-protection-fabric-maps",
+  "title": "Workspace outbound access protection for Fabric Maps (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Workspace outbound access protection for Fabric Maps (Preview) allows only approved map data sources and external geospatial services through workspace data connection rules. For more information, see Workspace outbound access protection for Fabric Maps.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-Outbound-Access-Protection-OAP-for-Operations-Agent/ba-p/5363817\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace outbound access protection for Fabric Maps (Preview)</a> allows only approved map data sources and external geospatial services through workspace data connection rules. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/security/workspace-outbound-access-protection-fabric-maps\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace outbound access protection for Fabric Maps</a>.",
+    "excerpt": "Workspace outbound access protection for Fabric Maps (Preview) allows only approved map data sources and external geospatial services through workspace data connection rules. For more information, see Workspace outbound access protection for Fabric Maps.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Workspace outbound access protection for Fabric Maps (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-Outbound-Access-Protection-OAP-for-Operations-Agent/ba-p/5363817"
+      },
+      {
+        "label": "Workspace outbound access protection for Fabric Maps",
+        "url": "https://learn.microsoft.com/en-us/fabric/security/workspace-outbound-access-protection-fabric-maps"
+      }
+    ]
+  },
+  "contentHash": "ebb47942843c501f7c69dd65566f49635661143d00e676dd9ffce08fe50469cc",
+  "categories": [
+    "admin-governance",
+    "security"
+  ],
+  "primaryCategory": "admin-governance",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-Outbound-Access-Protection-OAP-for-Operations-Agent/ba-p/5363817",
+    "backfill": "true"
+  }
+}

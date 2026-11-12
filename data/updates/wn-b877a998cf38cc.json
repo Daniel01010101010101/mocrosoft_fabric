@@ -1,0 +1,54 @@
+{
+  "id": "wn-b877a998cf38cc",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+  "title": "Refresh SQL analytics endpoint activity (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.28,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Refresh SQL analytics endpoint activity (Preview) refreshes a lakehouse SQL analytics endpoint on demand or on a schedule within a Fabric pipeline.",
+    "html": "The <a href=\"https://aka.ms/RSQLDocs\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Refresh SQL analytics endpoint activity (Preview)</a> refreshes a lakehouse SQL analytics endpoint on demand or on a schedule within a Fabric pipeline.",
+    "excerpt": "The Refresh SQL analytics endpoint activity (Preview) refreshes a lakehouse SQL analytics endpoint on demand or on a schedule within a Fabric pipeline.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Refresh SQL analytics endpoint activity (Preview)",
+        "url": "https://aka.ms/RSQLDocs"
+      }
+    ]
+  },
+  "contentHash": "8306f65ed10f68440563bc810cc5faea396a6da85d338c8ec7b637acef252df8",
+  "categories": [
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

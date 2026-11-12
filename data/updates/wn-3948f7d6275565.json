@@ -1,0 +1,64 @@
+{
+  "id": "wn-3948f7d6275565",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-Outbound-Access-Protection-OAP-for-Real-Time/ba-p/5241179",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/security/workspace-outbound-access-protection-overview",
+  "title": "Workspace outbound access protection for Real-Time Intelligence (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Workspace outbound access protection (OAP) for Real-Time Intelligence (Preview) extends workspace-level outbound network controls to Eventstream, Eventhouse, KQL QuerySet, Activator, Real-Time Dashboards, and Azure and Fabric events, so admins block unwanted outbound connections by default and allow only approved destinations through data connection rules. For more information, see Workspace outbound access protection.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-Outbound-Access-Protection-OAP-for-Real-Time/ba-p/5241179\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace outbound access protection (OAP) for Real-Time Intelligence (Preview)</a> extends workspace-level outbound network controls to Eventstream, Eventhouse, KQL QuerySet, Activator, Real-Time Dashboards, and Azure and Fabric events, so admins block unwanted outbound connections by default and allow only approved destinations through data connection rules. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/security/workspace-outbound-access-protection-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace outbound access protection</a>.",
+    "excerpt": "Workspace outbound access protection (OAP) for Real-Time Intelligence (Preview) extends workspace-level outbound network controls to Eventstream, Eventhouse, KQL QuerySet, Activator, Real-Time Dashboards, and Azure and Fabric events, so admins block unwanted outbound connections by default and allow only approved…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Workspace outbound access protection (OAP) for Real-Time Intelligence (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-Outbound-Access-Protection-OAP-for-Real-Time/ba-p/5241179"
+      },
+      {
+        "label": "Workspace outbound access protection",
+        "url": "https://learn.microsoft.com/en-us/fabric/security/workspace-outbound-access-protection-overview"
+      }
+    ]
+  },
+  "contentHash": "904d8676a2c6b98ba7d9126772aa39c3445dbef23de4a39e0570711f604bebd9",
+  "categories": [
+    "real-time-intelligence",
+    "admin-governance",
+    "security"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "administrators",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-Outbound-Access-Protection-OAP-for-Real-Time/ba-p/5241179",
+    "backfill": "true"
+  }
+}

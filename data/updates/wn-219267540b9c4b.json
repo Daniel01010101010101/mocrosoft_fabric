@@ -1,0 +1,61 @@
+{
+  "id": "wn-219267540b9c4b",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_93",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-science/data-agent-visuals",
+  "title": "Fabric data agent visualizations (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.85,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric data agent visualizations return interactive charts with text and tables. For more information, see Get visual responses from a data agent.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_93\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric data agent visualizations</a> return interactive charts with text and tables. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-science/data-agent-visuals\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Get visual responses from a data agent</a>.",
+    "excerpt": "Fabric data agent visualizations return interactive charts with text and tables. For more information, see Get visual responses from a data agent.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric data agent visualizations",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_93"
+      },
+      {
+        "label": "Get visual responses from a data agent",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-science/data-agent-visuals"
+      }
+    ]
+  },
+  "contentHash": "5bc81e32329dbfd8557257b632f301867bbb012129cfd166a06193368fe79a73",
+  "categories": [
+    "copilot-ai",
+    "power-bi"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_93"
+  }
+}

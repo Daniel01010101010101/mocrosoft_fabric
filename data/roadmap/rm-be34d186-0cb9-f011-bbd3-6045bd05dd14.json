@@ -1,0 +1,23 @@
+{
+  "id": "rm-be34d186-0cb9-f011-bbd3-6045bd05dd14",
+  "releaseItemId": "be34d186-0cb9-f011-bbd3-6045bd05dd14",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Workspace-Friendly Connections",
+  "description": "Fabric workspace connection strings often contain complex, encoded server names that make it difficult for developers to identify or manage connections easily.With Friendly workspace server name, developers can configure a friendly server name for a workspace that helps connections simpler to manage.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=be34d186-0cb9-f011-bbd3-6045bd05dd14",
+  "contentHash": "5f4ad8aa875e6706adfa729969854d0b2ac1ce8e6123c4e5e7884b5bba2ac4a4",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

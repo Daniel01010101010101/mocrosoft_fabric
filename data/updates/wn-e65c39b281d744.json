@@ -1,0 +1,56 @@
+{
+  "id": "wn-e65c39b281d744",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_54",
+  "title": "Capacity alert templates (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.3,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Capacity alert templates create common capacity-health alerts from ready-made patterns.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_54\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Capacity alert templates</a> create common capacity-health alerts from ready-made patterns.",
+    "excerpt": "Capacity alert templates create common capacity-health alerts from ready-made patterns.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Capacity alert templates",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_54"
+      }
+    ]
+  },
+  "contentHash": "6b2551d0a834bd8e633a77e0ac6fb6d0f4a547bf70df5895fd46f67d2d2ab903",
+  "categories": [
+    "data-activator",
+    "admin-governance"
+  ],
+  "primaryCategory": "data-activator",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_54"
+  }
+}

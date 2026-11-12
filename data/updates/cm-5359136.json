@@ -1,0 +1,55 @@
+{
+  "id": "cm-5359136",
+  "kind": "blog",
+  "source": "powerbi-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Edit-your-Power-BI-projects-anywhere-and-reload-them-instantly/ba-p/5359136",
+  "docsUrl": "https://learn.microsoft.com/power-bi/developer/projects/projects-overview",
+  "title": "Edit your Power BI projects anywhere and reload them instantly in Power BI Desktop (Preview)",
+  "author": "saralam",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-08-18T17:00:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Power BI Projects (PBIP) make reports and semantic models file-based, enabling source control, automation, and other developer workflows. You can edit those files directly in a code editor or through external tools. Until now, changes made outside of Power BI Desktop wouldn't appear until you restarted the application. With this update, Power BI Desktop detects those changes automatically, so there's no restart required.\nEdit anywhere and see changes immediately\nPower BI Desktop now detects changes made directly to PBIP files, regardless of whether those changes come from an editor, external tool, or automated process.\nWhen a PBIP file changes on disk, Desktop detects the update and prompts you to reload the latest version of your project.\nApply external changes prompt in Power BI Desktop\nSelecting Apply external changes reloads the updated files into Power BI Desktop without restarting the application.\nThis creates a much smoother experience when moving between Power BI Desktop and the tools you already use.\nOpen your project directly in Visual Studio Code\nPower BI Desktop now includes an Open in VS Code option for PBIP projects.\nSelecting it launches Visual Studio Code with the project folder already loaded as the active workspace, giving you immediate access to report and semantic model files.\nOpen Visual Studio Code entry point in Power BI DesktopBenefits\nThese updates make it easier to use PBIP files with external tools and automated processes while continuing to work in Power BI Desktop.\nTypical scenarios include:\n• Editing project files in Visual Studio Code.\n• Updating files through scripts or automation.\n• Working with AI-assisted development tools that modify PBIP artifacts.\nGet started\nTrying it out is simple:\n• Open a PBIP project in Power BI Desktop.\n• Select Open in VS Code.\n• Make a change to your project files and save it.\n• Return to Power BI Desktop and select Apply external changes when prompted.\nYou can now move seamlessly between Power BI Desktop and your editing tools, making it easier than ever to work with PBIP files wherever your workflow takes you.\nExplore the documentation to learn more about Power BI Projects (PBIP).",
+    "html": "<p>Power BI Projects (PBIP) make reports and semantic models file-based, enabling source control, automation, and other developer workflows. You can edit those files directly in a code editor or through external tools. Until now, changes made outside of Power BI Desktop wouldn't appear until you restarted the application. With this update, Power BI Desktop detects those changes automatically, so there's no restart required.</p><h2>Edit anywhere and see changes immediately</h2><p>Power BI Desktop now detects changes made directly to PBIP files, regardless of whether those changes come from an editor, external tool, or automated process.</p><p>When a PBIP file changes on disk, Desktop detects the update and prompts you to reload the latest version of your project.</p><p> </p>Apply external changes prompt in Power BI Desktop<p> </p><p>Selecting <strong>Apply external changes</strong> reloads the updated files into Power BI Desktop without restarting the application.</p><p>This creates a much smoother experience when moving between Power BI Desktop and the tools you already use.</p><h2>Open your project directly in Visual Studio Code</h2><p>Power BI Desktop now includes an <strong>Open in VS Code</strong> option for PBIP projects.</p><p>Selecting it launches Visual Studio Code with the project folder already loaded as the active workspace, giving you immediate access to report and semantic model files.</p><p> </p>Open Visual Studio Code entry point in Power BI Desktop<h2>Benefits</h2><p>These updates make it easier to use PBIP files with external tools and automated processes while continuing to work in Power BI Desktop.</p><p>Typical scenarios include:</p><ul><li>Editing project files in Visual Studio Code.</li><li>Updating files through scripts or automation.</li><li>Working with AI-assisted development tools that modify PBIP artifacts.</li></ul><h2>Get started</h2><p>Trying it out is simple:</p><ol><li>Open a PBIP project in Power BI Desktop.</li><li>Select <strong>Open in VS Code</strong>.</li><li>Make a change to your project files and save it.</li><li>Return to Power BI Desktop and select <strong>Apply external changes</strong> when prompted.</li></ol><p>You can now move seamlessly between Power BI Desktop and your editing tools, making it easier than ever to work with PBIP files wherever your workflow takes you.</p><p>Explore the documentation to learn more about <a href=\"https://learn.microsoft.com/power-bi/developer/projects/projects-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Power BI Projects (PBIP)</a>.</p><p> </p>",
+    "excerpt": "Power BI Projects (PBIP) make reports and semantic models file-based, enabling source control, automation, and other developer workflows. You can edit those files directly in a code editor or through external tools. Until now, changes made outside of Power BI Desktop wouldn't appear until you restarted the…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Power BI Projects (PBIP)",
+        "url": "https://learn.microsoft.com/power-bi/developer/projects/projects-overview"
+      }
+    ]
+  },
+  "contentHash": "9ba8cf61bbccf3004f3575f2658466fdf394b4757024639789d4ab2107eca0de",
+  "categories": [
+    "power-bi"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "data-scientists",
+      "developers",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

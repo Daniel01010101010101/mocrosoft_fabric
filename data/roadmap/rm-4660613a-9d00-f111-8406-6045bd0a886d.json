@@ -1,0 +1,23 @@
+{
+  "id": "rm-4660613a-9d00-f111-8406-6045bd0a886d",
+  "releaseItemId": "4660613a-9d00-f111-8406-6045bd0a886d",
+  "product": "Fabric Ecosystem",
+  "productId": "94e84e43-aa69-f011-bec2-00224804b6c3",
+  "category": "integrations-connectors",
+  "name": "Stibo Master Data Management",
+  "description": "Stibo’s **DaaS workload **exposes its multi‑domain Master Data Management (MDM) capabilities as a service within Microsoft Fabric, enabling customers to consume trusted master data directly inside their analytics and AI workflows. This includes product, customer, supplier, and other core enterprise domains, delivered as governed, curated datasets rather than raw exports.Product Features1. Fabric‑Native Data Access via OneLake - Customers can materialize governed master data in OneLake and use the data for both BI and AI use-cases2.Configurable Data Export & Synchronization - Ability to select specific master data, denormalize data, managaging update frequecy enabling self-service data provisioning which preserving the governance model in the MDM system3.AI enriched master data - Automated product description generation, intelligent data quality recommendations and corrections. 4. Unified Analytics via Power BI - Leveraging the full Power BI co-pilot capabilities.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricecosystem&releaseItem=4660613a-9d00-f111-8406-6045bd0a886d",
+  "contentHash": "6bc6e517f3a114706bf247bddaeaac893b06dfcaa24cbfb6db8bfa73a4e22aa1",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

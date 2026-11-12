@@ -1,0 +1,23 @@
+{
+  "id": "rm-b7e155c6-94bf-f011-bbd3-000d3a5b0efa",
+  "releaseItemId": "b7e155c6-94bf-f011-bbd3-000d3a5b0efa",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "File-Level write-write conflict detection (Generally Available)",
+  "description": "Improve write concurrency in Microsoft Fabric Warehouse with file-level conflict detection. Concurrent updates and deletes that affect different data files within the same table can commit without unnecessary write conflicts, reducing transaction failures and retries while maintaining data consistency.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=b7e155c6-94bf-f011-bbd3-000d3a5b0efa",
+  "contentHash": "4b8240712a34d02e85cbc5620a070f85233041fd0dd3aa83ef0c20df0b01ed68",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

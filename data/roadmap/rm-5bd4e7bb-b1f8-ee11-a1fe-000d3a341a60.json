@@ -1,0 +1,23 @@
+{
+  "id": "rm-5bd4e7bb-b1f8-ee11-a1fe-000d3a341a60",
+  "releaseItemId": "5bd4e7bb-b1f8-ee11-a1fe-000d3a341a60",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Job Queueing for Notebook Jobs",
+  "description": "This feature allows scheduled Spark Notebooks to be queued when Spark usage is at its maximum number of jobs it can execute in parallel and then execute once usage has dropped back below the maximum number of parallel jobs allowed.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2024",
+  "releaseQuarterStart": "2024-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=5bd4e7bb-b1f8-ee11-a1fe-000d3a341a60",
+  "contentHash": "c2b68dea9a5284df03111b1c271e5bb19fa4e48d2a6c213aad49da3842de5b85",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

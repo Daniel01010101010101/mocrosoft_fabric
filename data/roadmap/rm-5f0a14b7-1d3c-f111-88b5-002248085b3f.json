@@ -1,0 +1,23 @@
+{
+  "id": "rm-5f0a14b7-1d3c-f111-88b5-002248085b3f",
+  "releaseItemId": "5f0a14b7-1d3c-f111-88b5-002248085b3f",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Create, Get, Update warehouse definition Rest API",
+  "description": "The Create, Get, and Update Warehouse Definition REST APIs enable programmatic lifecycle management of Fabric warehouses by allowing developers to create warehouses from definitions, retrieve existing warehouse definitions, and apply updates using definition-based payloads. This unlocks automation-first scenarios such as CI/CD, Git integration, and environment promotion, eliminating reliance on manual or UI-driven changes.* Create with Definition - Provision a new warehouse initialized from an item definition payload that supports Dacpac and SQL project artifacts.* Get Definition - Retrieve the definition as Dacpac and SQL projects that contains all object definitions.* Update Definition - Apply incremental updates to an existing warehouse using definition payloads,  that supports Dacpac and SQL project artifacts.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=5f0a14b7-1d3c-f111-88b5-002248085b3f",
+  "contentHash": "13a74e6433af18973b1236bc3129fea396852476d6202b74eb6f8b0178464e46",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-d9f40f14-f401-f111-8406-6045bd0a8ec1",
+  "releaseItemId": "d9f40f14-f401-f111-8406-6045bd0a8ec1",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "Add OneLake data to Foundry IQ Knowledge with OneLake catalog discovery experience",
+  "description": "We’re strengthening our better‑together story with Microsoft Foundry, making it easy to discover and build Knowledge directly from OneLake data through the OneLake catalog.Users can explore their entire OneLake data estate up front - viewing rich metadata, endorsements, sensitivity labels, and descriptions - and connect with a single click to add data to Knowledge.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=d9f40f14-f401-f111-8406-6045bd0a8ec1",
+  "contentHash": "de452d46f7813c3e5f8abe0cc9dcd425bca8edc11919691b47ecca568a6e688d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

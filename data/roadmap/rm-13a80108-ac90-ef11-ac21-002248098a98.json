@@ -1,0 +1,23 @@
+{
+  "id": "rm-13a80108-ac90-ef11-ac21-002248098a98",
+  "releaseItemId": "13a80108-ac90-ef11-ac21-002248098a98",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - Dataflow Gen2 CI/CD support",
+  "description": "Dataflow Gen2 items will support CI/CD capabilities in Fabric, including source control (Git integration) as well as ALM Deployment Pipelines.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=13a80108-ac90-ef11-ac21-002248098a98",
+  "contentHash": "f7334d1262756727fb1bc469a3e6fb24f2d1295da8315538813b44a4b986f71e",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

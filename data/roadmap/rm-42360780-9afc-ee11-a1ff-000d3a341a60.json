@@ -1,0 +1,23 @@
+{
+  "id": "rm-42360780-9afc-ee11-a1ff-000d3a341a60",
+  "releaseItemId": "42360780-9afc-ee11-a1ff-000d3a341a60",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Create and run DAX queries with Query view in Power BI Desktop",
+  "description": "Professional BI developers can write and run DAX queries natively within Power BI. Previously, as DAX queries is an existing feature, a BI developer would have needed to use third party external tools or use an API in order to write and run DAX queries. Now, they can write and run DAX queries natively in Power BI in context and with additional tools to quickly get started and productively use DAX queries.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=42360780-9afc-ee11-a1ff-000d3a341a60",
+  "contentHash": "6a12a027458319663a2a2cdc4a9a338579443c71fd035490d4f17748db59dbaf",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

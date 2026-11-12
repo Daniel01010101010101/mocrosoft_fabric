@@ -1,0 +1,60 @@
+{
+  "id": "wn-6fc91d1e9afbf5",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/delta-flow-output-transformation",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/delta-flow-output-transformation",
+  "title": "DeltaFlow transformation in Fabric Real-Time Intelligence's Eventstream (preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "DeltaFlow is a capability in Fabric Eventstream that transforms raw Change Data Capture (CDC) events into a flattened, analytics-ready format. Instead of working with deeply nested Debezium JSON payloads, DeltaFlow produces tabular rows that closely mirror the structure of the source database tables, enriched with metadata columns that describe each change. Eventstream supports DeltaFlow transformations, which are currently in preview. For more information, see DeltaFlow output transformation (preview) and Business events overview.",
+    "html": "DeltaFlow is a capability in Fabric Eventstream that transforms raw Change Data Capture (CDC) events into a flattened, analytics-ready format. Instead of working with deeply nested Debezium JSON payloads, DeltaFlow produces tabular rows that closely mirror the structure of the source database tables, enriched with metadata columns that describe each change. Eventstream supports DeltaFlow transformations, which are currently in preview. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/delta-flow-output-transformation\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">DeltaFlow output transformation (preview)</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-hub/business-events/business-events-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Business events overview</a>.",
+    "excerpt": "DeltaFlow is a capability in Fabric Eventstream that transforms raw Change Data Capture (CDC) events into a flattened, analytics-ready format. Instead of working with deeply nested Debezium JSON payloads, DeltaFlow produces tabular rows that closely mirror the structure of the source database tables, enriched with…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "DeltaFlow output transformation (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/delta-flow-output-transformation"
+      },
+      {
+        "label": "Business events overview",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-hub/business-events/business-events-overview"
+      }
+    ]
+  },
+  "contentHash": "1c2983fd142b08f6ffda74f3af9b388eada474f06f33a95a31e0e0ae120bbd33",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

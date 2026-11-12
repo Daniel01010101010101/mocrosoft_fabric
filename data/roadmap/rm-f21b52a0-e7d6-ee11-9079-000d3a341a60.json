@@ -1,0 +1,23 @@
+{
+  "id": "rm-f21b52a0-e7d6-ee11-9079-000d3a341a60",
+  "releaseItemId": "f21b52a0-e7d6-ee11-9079-000d3a341a60",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Purview Information Protection sensitivity labels",
+  "description": "Microsoft Purview Information Protection sensitivity labels integration into Fabric introduces the familiar concept of sensitivity from Office. In Office, you can see confidential documents and emails, and you may not be authorized to export sensitive data. Similarly in Fabric you can easily identify and control confidential content using Information Protection sensitivity labels. When the owner assigns a sensitivity label to a lakehouse or any other item, the label is inherited with the data to all the downstream items. Additionally, when exporting data from Fabric to Office files, the label and protection settings are automatically applied on the Office files.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=f21b52a0-e7d6-ee11-9079-000d3a341a60",
+  "contentHash": "d7df052c49cdb946fdd627d1995463f7ac0c940d771324355bf677e3f912b669",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

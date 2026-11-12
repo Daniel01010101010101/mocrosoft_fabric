@@ -1,0 +1,63 @@
+{
+  "id": "wn-9d1fc4d3890b6d",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/mcp-remote-eventhouse",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/mcp-remote-eventhouse",
+  "title": "MCP remote servers for Activator and Eventhouse in Real-Time Intelligence (preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric Real-Time Intelligence provides hosted Model Context Protocol (MCP) remote servers for Activator and Eventhouse, enabling AI assistants and agents to interact with RTI components through natural language. By using the Activator MCP server, AI assistants can create monitoring rules, manage alerts, and trigger actions in Fabric Activator. The Eventhouse remote MCP server allows AI agents to query, reason over, and act on real-time data stored in an RTI eventhouse by configuring a URL that points to the Eventhouse. For more information, see Get started with the remote MCP server for eventhouses (preview) and Get started with the remote MCP server for Activator (preview). This feature is currently in preview.",
+    "html": "Fabric Real-Time Intelligence provides hosted Model Context Protocol (MCP) remote servers for Activator and Eventhouse, enabling AI assistants and agents to interact with RTI components through natural language. By using the Activator MCP server, AI assistants can create monitoring rules, manage alerts, and trigger actions in Fabric Activator. The Eventhouse remote MCP server allows AI agents to query, reason over, and act on real-time data stored in an RTI eventhouse by configuring a URL that points to the Eventhouse. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/mcp-remote-eventhouse\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Get started with the remote MCP server for eventhouses (preview)</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/mcp-remote-activator\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Get started with the remote MCP server for Activator (preview)</a>. This feature is currently in preview.",
+    "excerpt": "Fabric Real-Time Intelligence provides hosted Model Context Protocol (MCP) remote servers for Activator and Eventhouse, enabling AI assistants and agents to interact with RTI components through natural language. By using the Activator MCP server, AI assistants can create monitoring rules, manage alerts, and trigger…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Get started with the remote MCP server for eventhouses (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/mcp-remote-eventhouse"
+      },
+      {
+        "label": "Get started with the remote MCP server for Activator (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/mcp-remote-activator"
+      }
+    ]
+  },
+  "contentHash": "44f6a30a0111ee06891427a4422e166bf1e6f709b6719b8d5af505894c10c76d",
+  "categories": [
+    "real-time-intelligence",
+    "copilot-ai",
+    "data-activator"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 60,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-scientists",
+      "administrators",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

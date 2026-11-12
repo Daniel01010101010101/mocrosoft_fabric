@@ -1,0 +1,23 @@
+{
+  "id": "rm-bf2b19e2-2c22-f011-9989-000d3a302e4a",
+  "releaseItemId": "bf2b19e2-2c22-f011-9989-000d3a302e4a",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "Inbound network protection to OneLake with resource instance rules",
+  "description": "This feature offers a simple and secure way to restrict OneLake access to only your application's Azure resources, while blocking all other public access. It works by configuring resource instance rules specific to your designated Azure resource.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=bf2b19e2-2c22-f011-9989-000d3a302e4a",
+  "contentHash": "fcae1a201230d2afccdc688769c41e0613dd6a4ba439560545bb2a0ab1f2bcfe",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "wn-933438574a67f9",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Diagnose-Fabric-Data-Warehouse-workloads-with-the-SQL-DW/ba-p/5366102",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-warehouse/skills-for-data-warehouse-operations",
+  "title": "Warehouse operations skill sqldw-cli (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Warehouse operations skill sqldw-cli runs bounded, read-only diagnostics for warehouse and SQL analytics endpoint issues and returns evidence, recommended actions, and validation steps. For more information, see Diagnose warehouse workloads with Warehouse operations skill sqldw-cli.",
+    "html": "The <a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Diagnose-Fabric-Data-Warehouse-workloads-with-the-SQL-DW/ba-p/5366102\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Warehouse operations skill sqldw-cli</a> runs bounded, read-only diagnostics for warehouse and SQL analytics endpoint issues and returns evidence, recommended actions, and validation steps. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/skills-for-data-warehouse-operations\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Diagnose warehouse workloads with Warehouse operations skill sqldw-cli</a>.",
+    "excerpt": "The Warehouse operations skill sqldw-cli runs bounded, read-only diagnostics for warehouse and SQL analytics endpoint issues and returns evidence, recommended actions, and validation steps. For more information, see Diagnose warehouse workloads with Warehouse operations skill sqldw-cli.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Warehouse operations skill sqldw-cli",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Diagnose-Fabric-Data-Warehouse-workloads-with-the-SQL-DW/ba-p/5366102"
+      },
+      {
+        "label": "Diagnose warehouse workloads with Warehouse operations skill sqldw-cli",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/skills-for-data-warehouse-operations"
+      }
+    ]
+  },
+  "contentHash": "344f38eb4159b93d80eba4a664e0d731bfdc63fe08fd81a645a20af494d34302",
+  "categories": [
+    "data-warehouse",
+    "developer-apis"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Diagnose-Fabric-Data-Warehouse-workloads-with-the-SQL-DW/ba-p/5366102"
+  }
+}

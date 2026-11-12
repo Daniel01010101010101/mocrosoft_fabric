@@ -1,0 +1,47 @@
+{
+  "id": "cm-5363807",
+  "kind": "blog",
+  "source": "powerbi-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-sample-reports-refreshed-with-modern-visual-defaults/ba-p/5363807",
+  "title": "Power BI sample reports, refreshed with modern visual defaults",
+  "author": "DataZoe",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-02T16:00:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Microsoft has refreshed its Power BI sample reports with modern visual defaults, stronger semantic models, mobile-optimized layouts, and newer authoring features to help creators build clearer, more effective reports.",
+    "html": "<p>Microsoft has refreshed its Power BI sample reports with modern visual defaults, stronger semantic models, mobile-optimized layouts, and newer authoring features to help creators build clearer, more effective reports.</p>",
+    "excerpt": "Microsoft has refreshed its Power BI sample reports with modern visual defaults, stronger semantic models, mobile-optimized layouts, and newer authoring features to help creators build clearer, more effective reports.",
+    "images": [],
+    "codeBlocks": [],
+    "links": []
+  },
+  "contentHash": "1f85cd6fa94697b1f53707e5221b594f8acc83a13114e270e1950d2c8f31c2d3",
+  "categories": [
+    "power-bi"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "announcement",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 30,
+    "level": "bajo",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "data-scientists"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

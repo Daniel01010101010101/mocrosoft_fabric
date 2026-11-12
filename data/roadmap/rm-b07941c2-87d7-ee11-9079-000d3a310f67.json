@@ -1,0 +1,23 @@
+{
+  "id": "rm-b07941c2-87d7-ee11-9079-000d3a310f67",
+  "releaseItemId": "b07941c2-87d7-ee11-9079-000d3a310f67",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "\"Get data from Eventstream\" in multiple Fabric items",
+  "description": "Customers are able to get event data from eventstreams in multiple Fabric items, including Lakehouse, KQL Database, and Reflex.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=b07941c2-87d7-ee11-9079-000d3a310f67",
+  "contentHash": "3255432f300e14020a8074312353977b4275ba66886a359fc076b0caf29be5d2",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

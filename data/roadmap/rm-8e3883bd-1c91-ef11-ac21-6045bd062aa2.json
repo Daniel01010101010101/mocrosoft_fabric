@@ -1,0 +1,23 @@
+{
+  "id": "rm-8e3883bd-1c91-ef11-ac21-6045bd062aa2",
+  "releaseItemId": "8e3883bd-1c91-ef11-ac21-6045bd062aa2",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Task flows",
+  "description": "Task flows are visual representations of connected tasks within workspaces, designed to illustrate the relationships and processes needed to complete a data solution. They help you organize, navigate, locate, and manage complex projects by showing how different items work together in workspaces.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=8e3883bd-1c91-ef11-ac21-6045bd062aa2",
+  "contentHash": "82bf23ef1c95eeba73d64ba05529d7a5f701de30c4830cb792d8c15e2b7dc925",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

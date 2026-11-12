@@ -1,0 +1,23 @@
+{
+  "id": "rm-f69a6609-1904-ef11-a1fe-000d3a32c2f2",
+  "releaseItemId": "f69a6609-1904-ef11-a1fe-000d3a32c2f2",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "New experience for data exploration from Real-Time Dashboards",
+  "description": "Directly from a real-time dashboard, users can refine their exploration using a user-friendly, form-like interface. This intuitive and dynamic experience is tailored for insights explorers craving insights based on real-time data. Add filters, create aggregations, and switch visualization types without writing queries to easily uncover insights.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2024",
+  "releaseQuarterStart": "2024-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=f69a6609-1904-ef11-a1fe-000d3a32c2f2",
+  "contentHash": "e0b8cb1354ea5fecd4621e126ba59eaff1c29bd9c6bbfef78629099077debd98",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

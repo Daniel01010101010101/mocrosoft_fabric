@@ -1,0 +1,23 @@
+{
+  "id": "rm-152a5f87-f112-f011-9989-000d3a34671f",
+  "releaseItemId": "152a5f87-f112-f011-9989-000d3a34671f",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Git integration - Cross-tenant Authentication to Azure DevOps",
+  "description": "Today, users of Fabric can work against Azure DevOps only using the same user they are logged into Fabric with.With this feature, we will enable (in addition to current single-sign-on experience) to connect using a separate user, that can be from a different tenant as well.This can enable few scenarios for different organizations:* When the org uses a different tenant for Azure DevOps than the tenant used in Fabric.* When the org uses Fabric with multiple tenants (such as dev/test/prod workspaces).* In cases of guest user in a tenant (B2B).",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=152a5f87-f112-f011-9989-000d3a34671f",
+  "contentHash": "20227355188af638ea515dbd51e38c329eaefbd9228369814d34b295d80aa4d1",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

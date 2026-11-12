@@ -1,0 +1,23 @@
+{
+  "id": "rm-3d030128-d3fa-ee11-a1ff-000d3a340b2c",
+  "releaseItemId": "3d030128-d3fa-ee11-a1ff-000d3a340b2c",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Time travel",
+  "description": "The ability to time travel at the T-SQL statement level empowers users to query historical data from various past timeframes by specifying the timestamp only once for the entire query. Time travel helps save significantly on storage costs by using single copy of data present in One Lake for conducting historical trend analysis, troubleshooting, and data reconciliation. Additionally, it also facilitates achieving stable reporting by upholding the data integrity across various tables within the data warehouse.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=3d030128-d3fa-ee11-a1ff-000d3a340b2c",
+  "contentHash": "e9f0e35ea884cb758749d2a6c358c716f94119ae1306f6a281574ff0296275c6",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

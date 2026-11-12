@@ -1,0 +1,59 @@
+{
+  "id": "wn-daa9765986d980",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_155",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-dynamic-expression-editor-data-destinations",
+  "title": "Dataflow destination expressions (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Dynamic destination expressions in Dataflow Gen2 (Preview) derive destination names from parameters, refresh dates, and workspace context. For more information, see Use the dynamic expression editor.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_155\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Dynamic destination expressions in Dataflow Gen2 (Preview)</a> derive destination names from parameters, refresh dates, and workspace context. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-dynamic-expression-editor-data-destinations\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Use the dynamic expression editor</a>.",
+    "excerpt": "Dynamic destination expressions in Dataflow Gen2 (Preview) derive destination names from parameters, refresh dates, and workspace context. For more information, see Use the dynamic expression editor.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Dynamic destination expressions in Dataflow Gen2 (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_155"
+      },
+      {
+        "label": "Use the dynamic expression editor",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-dynamic-expression-editor-data-destinations"
+      }
+    ]
+  },
+  "contentHash": "7afcacc82e0871ac0754c9f8ce8cfa5a244f6d4c8df72e34169665fc4a16d81c",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_155"
+  }
+}

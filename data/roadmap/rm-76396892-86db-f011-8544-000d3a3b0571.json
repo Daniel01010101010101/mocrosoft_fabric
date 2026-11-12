@@ -1,0 +1,23 @@
+{
+  "id": "rm-76396892-86db-f011-8544-000d3a3b0571",
+  "releaseItemId": "76396892-86db-f011-8544-000d3a3b0571",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Git Integration provider - GitHub Enterprise Cloud with data residency support",
+  "description": "Ability to connect Fabric workspace to repositories which reside on GitHub Enterprise Cloud with data residency",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=76396892-86db-f011-8544-000d3a3b0571",
+  "contentHash": "9cec0fc933c64b4dea1d5da72f15948e92718da0f96c1a00a1a4fbed0ae4440a",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "wn-7f6f75579c9622",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/compute-auto-scaling-choices-to-better-optimize-price-performance-for-sql-databases-in-microsoft-fabric-preview?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/database/sql/control-compute-usage",
+  "title": "Max vCores limit option in SQL databases (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Max vCores limit option (Preview) lets you cap SQL database compute at 4 or 32 vCores to control costs and protect shared capacities from noisy-neighbor scenarios. For more information, see Control compute usage.",
+    "html": "The <a href=\"https://blog.fabric.microsoft.com/blog/compute-auto-scaling-choices-to-better-optimize-price-performance-for-sql-databases-in-microsoft-fabric-preview?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Max vCores limit option (Preview)</a> lets you cap SQL database compute at 4 or 32 vCores to control costs and protect shared capacities from noisy-neighbor scenarios. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/database/sql/control-compute-usage\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Control compute usage</a>.",
+    "excerpt": "The Max vCores limit option (Preview) lets you cap SQL database compute at 4 or 32 vCores to control costs and protect shared capacities from noisy-neighbor scenarios. For more information, see Control compute usage.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Max vCores limit option (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/compute-auto-scaling-choices-to-better-optimize-price-performance-for-sql-databases-in-microsoft-fabric-preview?ft=All"
+      },
+      {
+        "label": "Control compute usage",
+        "url": "https://learn.microsoft.com/en-us/fabric/database/sql/control-compute-usage"
+      }
+    ]
+  },
+  "contentHash": "a90f190d84f354dfcb8aa6c917522ffa61fdf1d29fabc12138c08a837d036be6",
+  "categories": [
+    "databases"
+  ],
+  "primaryCategory": "databases",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 60,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/compute-auto-scaling-choices-to-better-optimize-price-performance-for-sql-databases-in-microsoft-fabric-preview?ft=All",
+    "backfill": "true"
+  }
+}

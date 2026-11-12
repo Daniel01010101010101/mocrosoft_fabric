@@ -1,0 +1,62 @@
+{
+  "id": "wn-3c4fca6429587b",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Resource-Profiles-in-Microsoft-Fabric-Data-Engineering-Preview/ba-p/5182862",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/configure-resource-profile-configurations",
+  "title": "Resource Profiles in Fabric Data Engineering (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Resource Profiles in Fabric Data Engineering (Preview) are preconfigured Spark compute profiles—write-heavy, read-heavy for Spark, and read-heavy for Power BI—that you select per environment so Fabric applies workload-aware settings automatically without manual tuning of dozens of Spark properties. For more information, see Configure Resource Profile Configurations.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Resource-Profiles-in-Microsoft-Fabric-Data-Engineering-Preview/ba-p/5182862\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Resource Profiles in Fabric Data Engineering (Preview)</a> are preconfigured Spark compute profiles—write-heavy, read-heavy for Spark, and read-heavy for Power BI—that you select per environment so Fabric applies workload-aware settings automatically without manual tuning of dozens of Spark properties. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/configure-resource-profile-configurations\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Configure Resource Profile Configurations</a>.",
+    "excerpt": "Resource Profiles in Fabric Data Engineering (Preview) are preconfigured Spark compute profiles—write-heavy, read-heavy for Spark, and read-heavy for Power BI—that you select per environment so Fabric applies workload-aware settings automatically without manual tuning of dozens of Spark properties. For more…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Resource Profiles in Fabric Data Engineering (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Resource-Profiles-in-Microsoft-Fabric-Data-Engineering-Preview/ba-p/5182862"
+      },
+      {
+        "label": "Configure Resource Profile Configurations",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/configure-resource-profile-configurations"
+      }
+    ]
+  },
+  "contentHash": "7793a8d575823e32515764b84d420d2a6abc8a50a74d4304ca7fd4e2d3c2897b",
+  "categories": [
+    "data-engineering"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Resource-Profiles-in-Microsoft-Fabric-Data-Engineering-Preview/ba-p/5182862",
+    "backfill": "true"
+  }
+}

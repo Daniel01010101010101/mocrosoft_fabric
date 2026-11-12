@@ -1,0 +1,23 @@
+{
+  "id": "rm-670671be-9afc-ee11-a1ff-000d3a341a60",
+  "releaseItemId": "670671be-9afc-ee11-a1ff-000d3a341a60",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Periodic refresh in Power BI Storytelling add-in to support Slideshow",
+  "description": "A Microsoft PowerPoint presentation can be configured to run in a continuous loop. This can be useful for general data displays, kiosks, or any other informational display that will run with or without interaction.We are adding a setting to Power BI add-in that will tell the add-in to automatically refresh the data in the slide every configured interval, so when the presentation is set for a continuous loop, the data keeps updating showing the most recent insights.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=670671be-9afc-ee11-a1ff-000d3a341a60",
+  "contentHash": "5e4712b0bfc5aae7658d379dfffcf04aab2cf87d6fae0422126798db8aff2bd0",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

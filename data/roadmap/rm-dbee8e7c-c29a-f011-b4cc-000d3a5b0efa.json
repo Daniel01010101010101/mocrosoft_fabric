@@ -1,0 +1,23 @@
+{
+  "id": "rm-dbee8e7c-c29a-f011-b4cc-000d3a5b0efa",
+  "releaseItemId": "dbee8e7c-c29a-f011-b4cc-000d3a5b0efa",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Copy job - SAP with ABAP add-on",
+  "description": "Copy job for SAP with ABAP add-on enables organizations to bring SAP data into Microsoft Fabric using a Microsoft Data Integration ABAP Add-On installed on the SAP server. It extends Fabric’s built-in SAP connectors and supports copying tables, views, and CDS views from supported SAP systems with both full and incremental copy modes.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=dbee8e7c-c29a-f011-b4cc-000d3a5b0efa",
+  "contentHash": "c6d5804dad06dfd97712bfdd53306cfb62400a5d40c4d199b8f0a3997ca26148",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

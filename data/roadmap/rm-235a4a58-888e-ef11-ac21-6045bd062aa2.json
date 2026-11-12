@@ -1,0 +1,23 @@
+{
+  "id": "rm-235a4a58-888e-ef11-ac21-6045bd062aa2",
+  "releaseItemId": "235a4a58-888e-ef11-ac21-6045bd062aa2",
+  "product": "SQL database",
+  "productId": "347da228-ea54-ef11-a317-0022480a694f",
+  "category": "databases",
+  "name": "Deployment pipelines",
+  "description": "Deploy database objects from one workspace to another with support for SQL in Fabric deployment pipelines. Per-object visibility to the differences between workspaces is available when comparing content between stages in the deployment pipeline.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=235a4a58-888e-ef11-ac21-6045bd062aa2",
+  "contentHash": "e43b45c999dd8ab9b55f8620f87783267f2766eb0d7b7e81fd2f6f5945aa57ff",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

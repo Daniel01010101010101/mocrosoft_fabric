@@ -1,0 +1,23 @@
+{
+  "id": "rm-62789c47-9a82-ef11-ac21-002248098a98",
+  "releaseItemId": "62789c47-9a82-ef11-ac21-002248098a98",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Identity columns",
+  "description": "Identity columns are numeric columns that automatically increment with each new row value that is inserted into a table with an Identity column defined.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=62789c47-9a82-ef11-ac21-002248098a98",
+  "contentHash": "3348230abd55d7db70f012dcd112ab71eea154a5dac1381baa923da075d2032b",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

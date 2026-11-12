@@ -1,0 +1,23 @@
+{
+  "id": "rm-ebae5677-5e07-ef11-9f89-000d3a34b75c",
+  "releaseItemId": "ebae5677-5e07-ef11-9f89-000d3a34b75c",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "New connectors for Copy Activity",
+  "description": "New connectors will be added for Copy activity to empower customer to ingest from the following sources, while leveraging data pipeline: Oracle, MySQL, Azure AI Search, Azure Files, Dynamics AX, Google BigQuery.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2024",
+  "releaseQuarterStart": "2024-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=ebae5677-5e07-ef11-9f89-000d3a34b75c",
+  "contentHash": "99c3480cc7f6b6c101c05add00e273fb7ba9042057c098e1b55bcfa12567f551",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

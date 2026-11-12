@@ -1,0 +1,23 @@
+{
+  "id": "rm-7bf646ea-b1f8-ee11-a1fe-000d3a341a60",
+  "releaseItemId": "7bf646ea-b1f8-ee11-a1fe-000d3a341a60",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Public monitoring APIs",
+  "description": "The Public Monitoring API feature for Fabric Spark aims to expose Spark monitoring APIs, allowing users to monitor Spark job progress, view execution tasks, and access logs programmatically. This feature is aligned with the public API standards, providing a seamless monitoring experience for Spark applications.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=7bf646ea-b1f8-ee11-a1fe-000d3a341a60",
+  "contentHash": "2b8352468204132d959b4bd7edf294593bf3cdace7902d671c92e7716aa704a1",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-46139b5a-c49d-f011-b41c-6045bd00f9db",
+  "releaseItemId": "46139b5a-c49d-f011-b41c-6045bd00f9db",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "security",
+  "name": "Airflow - Network Security",
+  "description": "Network security is critical to running an effective and secured Apache Airflow environment. We are excited to bring Vnet and Private Link support to Apache Airflow jobs in Fabric Data Factory.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=46139b5a-c49d-f011-b41c-6045bd00f9db",
+  "contentHash": "79961c129adb6cc8db710a33b59738f7650a16d063b2e29f04af2fddf1369db4",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

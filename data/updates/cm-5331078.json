@@ -1,0 +1,46 @@
+{
+  "id": "cm-5331078",
+  "kind": "blog",
+  "source": "powerbi-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Deep-dive-into-conditional-formatting-for-lines-and-legends/ba-p/5331078",
+  "title": "Deep dive into conditional formatting for lines and legends",
+  "author": "DataZoe",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-08-04T21:00:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Bring your Power BI reports to life with dynamic conditional formatting for lines and legends that stays consistent and updates automatically as your data changes.",
+    "html": "Bring your Power BI reports to life with dynamic conditional formatting for lines and legends that stays consistent and updates automatically as your data changes.",
+    "excerpt": "Bring your Power BI reports to life with dynamic conditional formatting for lines and legends that stays consistent and updates automatically as your data changes.",
+    "images": [],
+    "codeBlocks": [],
+    "links": []
+  },
+  "contentHash": "cca9943cf70a5cf4ee4a99786991fb57c7da402d145f54d5145280a7bb3d871a",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "guidance",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 22,
+    "level": "bajo",
+    "transformative": false,
+    "audiences": [
+      "data-analysts"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

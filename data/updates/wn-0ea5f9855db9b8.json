@@ -1,0 +1,67 @@
+{
+  "id": "wn-0ea5f9855db9b8",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Get-ready-for-table-discovery-in-OneLake-Catalog-search-Preview/ba-p/5365764",
+  "docsUrl": "https://learn.microsoft.com/en-us/rest/api/fabric/core/catalog/search",
+  "title": "OneLake Catalog table discovery (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "OneLake Catalog table discovery (Preview) lets you find tables from semantic models, lakehouses, and mirrored databases by table name, description, or exact column name in global search and the Search API. For more information, see OneLake Catalog Search API and Fabric Core remote MCP server.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Get-ready-for-table-discovery-in-OneLake-Catalog-search-Preview/ba-p/5365764\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">OneLake Catalog table discovery (Preview)</a> lets you find tables from semantic models, lakehouses, and mirrored databases by table name, description, or exact column name in global search and the Search API. For more information, see <a href=\"https://learn.microsoft.com/en-us/rest/api/fabric/core/catalog/search\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">OneLake Catalog Search API</a> and <a href=\"https://learn.microsoft.com/en-us/rest/api/fabric/articles/mcp-servers/core-remote/overview-core-mcp-server\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Core remote MCP server</a>.",
+    "excerpt": "OneLake Catalog table discovery (Preview) lets you find tables from semantic models, lakehouses, and mirrored databases by table name, description, or exact column name in global search and the Search API. For more information, see OneLake Catalog Search API and Fabric Core remote MCP server.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "OneLake Catalog table discovery (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Get-ready-for-table-discovery-in-OneLake-Catalog-search-Preview/ba-p/5365764"
+      },
+      {
+        "label": "OneLake Catalog Search API",
+        "url": "https://learn.microsoft.com/en-us/rest/api/fabric/core/catalog/search"
+      },
+      {
+        "label": "Fabric Core remote MCP server",
+        "url": "https://learn.microsoft.com/en-us/rest/api/fabric/articles/mcp-servers/core-remote/overview-core-mcp-server"
+      }
+    ]
+  },
+  "contentHash": "a1c556a37929399ef065107c4560445e86c4633496a0ba1b0a4248655722039a",
+  "categories": [
+    "onelake"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "data-scientists",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Get-ready-for-table-discovery-in-OneLake-Catalog-search-Preview/ba-p/5365764",
+    "backfill": "true"
+  }
+}

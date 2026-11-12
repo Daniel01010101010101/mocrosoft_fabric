@@ -1,0 +1,61 @@
+{
+  "id": "wn-a1bb33edb34f0b",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Migration-Assistant-for-SQL-database-Generally-Available/ba-p/5363606",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/database/sql/migration-assistant",
+  "title": "Migration Assistant to SQL database (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.91,
+  "publishedAt": "2026-08-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Migration Assistant to SQL database is generally available and lets you validate a source DACPAC for compatibility before provisioning a SQL database in Fabric. For more information, see Fabric Migration Assistant for SQL database.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Migration-Assistant-for-SQL-database-Generally-Available/ba-p/5363606\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Migration Assistant to SQL database</a> is generally available and lets you validate a source DACPAC for compatibility before provisioning a SQL database in Fabric. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/database/sql/migration-assistant\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Migration Assistant for SQL database</a>.",
+    "excerpt": "Migration Assistant to SQL database is generally available and lets you validate a source DACPAC for compatibility before provisioning a SQL database in Fabric. For more information, see Fabric Migration Assistant for SQL database.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Migration Assistant to SQL database",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Migration-Assistant-for-SQL-database-Generally-Available/ba-p/5363606"
+      },
+      {
+        "label": "Fabric Migration Assistant for SQL database",
+        "url": "https://learn.microsoft.com/en-us/fabric/database/sql/migration-assistant"
+      }
+    ]
+  },
+  "contentHash": "dae430c9ebe4ae4408bdb4de72d72fbf27662a742d907851cbfe19f5b5002be7",
+  "categories": [
+    "databases",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "databases",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "August 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Migration-Assistant-for-SQL-database-Generally-Available/ba-p/5363606"
+  }
+}

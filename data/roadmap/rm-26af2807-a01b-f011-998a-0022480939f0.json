@@ -1,0 +1,23 @@
+{
+  "id": "rm-26af2807-a01b-f011-998a-0022480939f0",
+  "releaseItemId": "26af2807-a01b-f011-998a-0022480939f0",
+  "product": "SQL database",
+  "productId": "347da228-ea54-ef11-a317-0022480a694f",
+  "category": "databases",
+  "name": "Database definition import/export API",
+  "description": "Quickly export the database object definition (SQL project) via REST API, accessing the portable scripts of the database objects with the same tools as the rest of your Fabric objects. Update an existing database with a compiled database definition through the import object definition REST API, where any differences between the contents of the dacpac (compiled SQL project) and the existing database are calculated and automatically applied.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=26af2807-a01b-f011-998a-0022480939f0",
+  "contentHash": "bec12954d5130856f2ecb5fe05e1ad9f864722cd8f220b07fcd46e3d146774ad",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

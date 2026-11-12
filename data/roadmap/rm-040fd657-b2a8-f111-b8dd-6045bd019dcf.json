@@ -1,0 +1,23 @@
+{
+  "id": "rm-040fd657-b2a8-f111-b8dd-6045bd019dcf",
+  "releaseItemId": "040fd657-b2a8-f111-b8dd-6045bd019dcf",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - Excel Document Builder for the Excel Workbook (XLSX) destination",
+  "description": "The Excel Document Builder in Dataflow Gen2 provides a low-code experience for composing advanced Excel workbooks as the output of a dataflow. Generating formatted Excel documents is possible today through the advanced format of the Excel Workbook (XLSX) data destination, but it requires authoring the document structure directly in M. The Document Builder brings the same capability into a visual authoring dialog, enabling users to design multi-sheet workbooks without writing code.Users compose a workbook from a structure of sheets and parts, including Sheet Data, Table, Chart, and Range parts, and configure each part through a properties pane instead of M syntax. Charts can reference an existing table part by name rather than duplicating the underlying data, and built-in validation surfaces structural issues, such as an empty sheet or incompatible parts on the same sheet, before a refresh is consumed. On refresh, the dataflow renders the composed workbook and writes it to the configured destination.Key benefits and scenarios:* Design multi-sheet Excel workbooks with formatted tables and charts, without writing M code* Validate document structure during authoring, before the dataflow is refreshed* Deliver recurring, formatted Excel reports to business users on a refresh schedule, rather than raw data dumps* Preserve the code-first path: the Document Builder generates standard M, so document definitions remain versionable in source control and editable in the advanced editorBy adding a low-code authoring experience on top of the Excel Workbook data destination, Dataflow Gen2 makes advanced Excel document generation accessible to every dataflow author, not only those comfortable authoring M.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=040fd657-b2a8-f111-b8dd-6045bd019dcf",
+  "contentHash": "910b84524552305327c1d8d6a863de7aa75920a5a4a3bcfcb0a4533a2b719db4",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

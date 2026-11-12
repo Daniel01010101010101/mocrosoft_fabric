@@ -1,0 +1,23 @@
+{
+  "id": "rm-b1f0bc28-efba-f011-bbd3-000d3a3740cc",
+  "releaseItemId": "b1f0bc28-efba-f011-bbd3-000d3a3740cc",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "Shortcut Transformations - Excel to Delta",
+  "description": "You will soon be able to bring your Excel data directly into Fabric Lakehouse Delta tables without extra steps. This feature allows you to select multiple tabs from a single Excel workbook and load them into structured Delta tables. You can preview and align schemas, automatically handle column mapping, and ensure data types remain consistent. The ingestion process is optimized for speed and reliability. With this update, you can transition from familiar Excel workflows to modern lakehouse architecture effortlessly, making analytics faster and collaboration easier.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=b1f0bc28-efba-f011-bbd3-000d3a3740cc",
+  "contentHash": "45e4568131cdac8cbf9fd00deec04d3ecad144212e33852782b34e63cb9b1f54",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

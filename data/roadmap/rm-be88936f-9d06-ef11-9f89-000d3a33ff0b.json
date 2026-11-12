@@ -1,0 +1,23 @@
+{
+  "id": "rm-be88936f-9d06-ef11-9f89-000d3a33ff0b",
+  "releaseItemId": "be88936f-9d06-ef11-9f89-000d3a33ff0b",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Data pipeline support for Azure Databricks Jobs",
+  "description": "We are updating the Data Factory data pipelines Azure Databricks activities to now use the latest jobs API enabling exciting workflow capabilities like executing DLT jobs.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2024",
+  "releaseQuarterStart": "2024-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=be88936f-9d06-ef11-9f89-000d3a33ff0b",
+  "contentHash": "64eff6f89d2226ec56e042fd3fb7e195b0c1860b0f8928fb52172cb1777db0d0",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

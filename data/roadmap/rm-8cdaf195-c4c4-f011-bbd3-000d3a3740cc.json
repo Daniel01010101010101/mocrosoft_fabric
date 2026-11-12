@@ -1,0 +1,23 @@
+{
+  "id": "rm-8cdaf195-c4c4-f011-bbd3-000d3a3740cc",
+  "releaseItemId": "8cdaf195-c4c4-f011-bbd3-000d3a3740cc",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Table and matrix fixed width columns",
+  "description": "A new option in the Table and Matrix visuals to specify each columns width.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=8cdaf195-c4c4-f011-bbd3-000d3a3740cc",
+  "contentHash": "ef47f16b708559fb2a8de0b58771ccbebc056f7bed962f61eae45df9c95366d3",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

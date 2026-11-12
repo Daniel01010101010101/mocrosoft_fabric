@@ -1,0 +1,61 @@
+{
+  "id": "wn-8991739e31dd5b",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_82",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/security/workspace-outbound-access-protection-overview",
+  "title": "Eventhouse outbound access protection (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Eventhouse outbound access protection blocks outbound traffic by default and permits approved destinations through data connection rules. For more information, see Workspace outbound access protection.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_82\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Eventhouse outbound access protection</a> blocks outbound traffic by default and permits approved destinations through data connection rules. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/security/workspace-outbound-access-protection-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace outbound access protection</a>.",
+    "excerpt": "Eventhouse outbound access protection blocks outbound traffic by default and permits approved destinations through data connection rules. For more information, see Workspace outbound access protection.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Eventhouse outbound access protection",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_82"
+      },
+      {
+        "label": "Workspace outbound access protection",
+        "url": "https://learn.microsoft.com/en-us/fabric/security/workspace-outbound-access-protection-overview"
+      }
+    ]
+  },
+  "contentHash": "e8e77eb8b789a66d65a3f90de164be378e40ff0ffbfd367a4b11938e8bc21082",
+  "categories": [
+    "security",
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "security",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_82"
+  }
+}

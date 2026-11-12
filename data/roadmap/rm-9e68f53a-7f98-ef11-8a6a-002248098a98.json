@@ -1,0 +1,23 @@
+{
+  "id": "rm-9e68f53a-7f98-ef11-8a6a-002248098a98",
+  "releaseItemId": "9e68f53a-7f98-ef11-8a6a-002248098a98",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "Cache support for on-premises data gateway in OneLake shortcuts",
+  "description": "Shortcut caching can be used to reduce egress costs associated with cross-cloud data access. As files are read through an external shortcut, the files are stored in a cache for the Fabric workspace. Subsequent read requests are served from cache rather than the remote storage provider. With the introduction of cache support for the On-premises-data gateway, you can leverage these capabilities while connecting to on-prem data or data behind a firewall.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=9e68f53a-7f98-ef11-8a6a-002248098a98",
+  "contentHash": "7fd272676a7fb092f648bd4cc5641d68c456e067a891a76e507ed68620f9f713",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

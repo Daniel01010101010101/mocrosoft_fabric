@@ -1,0 +1,59 @@
+{
+  "id": "wn-389fa38ccc9509",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_125",
+  "title": "Fabric Actions activity (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric Actions activity (Preview) gives pipelines authenticated access to supported Fabric REST operations. For more information, see Fabric Actions.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_125\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Actions activity (Preview)</a> gives pipelines authenticated access to supported Fabric REST operations. For more information, see <a href=\"https://aka.ms/fabric-actions-doc\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Actions</a>.",
+    "excerpt": "Fabric Actions activity (Preview) gives pipelines authenticated access to supported Fabric REST operations. For more information, see Fabric Actions.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric Actions activity (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_125"
+      },
+      {
+        "label": "Fabric Actions",
+        "url": "https://aka.ms/fabric-actions-doc"
+      }
+    ]
+  },
+  "contentHash": "54738981b558c751f49e785a658669e98ed4eb44489898f5b7dda06d024b1d05",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_125"
+  }
+}

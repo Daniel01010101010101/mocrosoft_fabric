@@ -1,0 +1,23 @@
+{
+  "id": "rm-3a1e1a9b-1b12-f111-8406-6045bd0a8ec1",
+  "releaseItemId": "3a1e1a9b-1b12-f111-8406-6045bd0a8ec1",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "[PuPr] Data Agent to Support Kusto External Tables",
+  "description": "Fabric Data Agent’s support for External Tables allows data agent users to include data that lives outside Eventhouse while keeping a single, governed agent configuration and schema context.This enables simpler setup and reuse of existing KQL data definitions, reducing duplication and manual query logic within data agent..",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=3a1e1a9b-1b12-f111-8406-6045bd0a8ec1",
+  "contentHash": "28606fee40b2b3692f0da6e79110e3588dcda40cb388ee143823488bb69af403",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

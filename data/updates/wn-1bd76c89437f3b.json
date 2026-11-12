@@ -1,0 +1,63 @@
+{
+  "id": "wn-1bd76c89437f3b",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/new-migration-experience-from-azure-data-factory-to-fabric-preview?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-factory/how-to-upgrade-your-azure-data-factory-pipelines-to-fabric-data-factory",
+  "title": "Fabric Migration Assessment for Data Factory (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.94,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The new Fabric Migration Assessment for Data Factory (Preview) provides a built-in assessment and migration experience that evaluates ADF pipeline readiness and migrates supported pipelines into a Fabric workspace with connection mapping. For more information, see Upgrade your Azure Data Factory pipelines to Fabric Data Factory.",
+    "html": "The new <a href=\"https://blog.fabric.microsoft.com/blog/new-migration-experience-from-azure-data-factory-to-fabric-preview?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Migration Assessment for Data Factory (Preview)</a> provides a built-in assessment and migration experience that evaluates ADF pipeline readiness and migrates supported pipelines into a Fabric workspace with connection mapping. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/how-to-upgrade-your-azure-data-factory-pipelines-to-fabric-data-factory\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Upgrade your Azure Data Factory pipelines to Fabric Data Factory</a>.",
+    "excerpt": "The new Fabric Migration Assessment for Data Factory (Preview) provides a built-in assessment and migration experience that evaluates ADF pipeline readiness and migrates supported pipelines into a Fabric workspace with connection mapping. For more information, see Upgrade your Azure Data Factory pipelines to Fabric…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric Migration Assessment for Data Factory (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/new-migration-experience-from-azure-data-factory-to-fabric-preview?ft=All"
+      },
+      {
+        "label": "Upgrade your Azure Data Factory pipelines to Fabric Data Factory",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/how-to-upgrade-your-azure-data-factory-pipelines-to-fabric-data-factory"
+      }
+    ]
+  },
+  "contentHash": "b929fcf2877b331f415752c8d6ef735a5d9e6ab09ee374b1553f49ccd6f95f81",
+  "categories": [
+    "data-factory",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "architects",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/new-migration-experience-from-azure-data-factory-to-fabric-preview?ft=All",
+    "backfill": "true"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "az-487464",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=487464",
+  "title": "Public Preview: Fabric Mirroring for Azure Database for PostgreSQL - flexible server",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2025-04-09T16:00:07.001Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Experience seamless integration and unparalleled data unification with Microsoft Fabric mirroring for Azure Database for PostgreSQL flexible server. Easily unify your organizational data in OneLake, enhance app integration with rich business insights by joining data across various sources, and enjoy one-click integration with Microsoft Power BI. Optimize your data with Delta table features for swift and efficient access. Elevate your enterprise data applications to new heights with this powerful tool.\nLearn more.",
+    "html": "<p><span><span>Experience seamless integration and unparalleled data unification with Microsoft Fabric mirroring for Azure Database for PostgreSQL </span><span>f</span><span>lexible </span><span>s</span><span>erver. Easily unify your organizational data in </span><span>OneLake</span><span>, enhance app integration with rich business insights by joining data across various sources, and enjoy one-click integration with Microsoft Power BI. </span><span>Optimize</span><span> your data with Delta table features for swift and efficient access. Elevate your enterprise data applications to new heights with this powerful tool.</span></span><span> </span></p><p><span><span></span></span><span> </span></p><p><span></span><a rel=\"noopener noreferrer nofollow\" href=\"https://aka.ms/postgresmirroringpublicpreview\" target=\"_blank\"><span><span>Learn more</span></span></a><span><span>. </span></span></p>",
+    "excerpt": "Experience seamless integration and unparalleled data unification with Microsoft Fabric mirroring for Azure Database for PostgreSQL flexible server. Easily unify your organizational data in OneLake, enhance app integration with rich business insights by joining data across various sources, and enjoy one-click…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://aka.ms/postgresmirroringpublicpreview"
+      }
+    ]
+  },
+  "contentHash": "f8bf4bf66f8ead246ae814b783ace4c6af3201fce567b4002cc3da4ddc223b8e",
+  "categories": [
+    "integrations-connectors",
+    "data-factory"
+  ],
+  "primaryCategory": "integrations-connectors",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "In preview",
+    "products": "Azure Database for PostgreSQL",
+    "tags": "Features",
+    "previewDate": "2025-04",
+    "modified": "2025-04-09T16:00:07.0016991Z"
+  }
+}

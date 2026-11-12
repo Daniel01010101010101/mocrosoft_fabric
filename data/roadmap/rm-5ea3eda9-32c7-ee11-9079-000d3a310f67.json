@@ -1,0 +1,23 @@
+{
+  "id": "rm-5ea3eda9-32c7-ee11-9079-000d3a310f67",
+  "releaseItemId": "5ea3eda9-32c7-ee11-9079-000d3a310f67",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Managed virtual network support for Spark",
+  "description": "Spark, as we know is a distributed processing system used for big data workloads. Hence, Spark in Fabric warrants access to data, at scale but also the ability to connect to protected data sources, as most business-critical data is secured in private networks. The Managed VNets feature allows Spark to seamlessly connect with protected data sources in a secure manner via Managed private endpoints in a Microsoft managed virtual network.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=5ea3eda9-32c7-ee11-9079-000d3a310f67",
+  "contentHash": "7b1c5738853947c254ba502bb0abf3a491ac1252f9fcf97c8f9ea93645b91b65",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

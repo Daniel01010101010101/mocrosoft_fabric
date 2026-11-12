@@ -1,0 +1,23 @@
+{
+  "id": "rm-6fffac4b-d2fa-ee11-a1ff-000d3a340b2c",
+  "releaseItemId": "6fffac4b-d2fa-ee11-a1ff-000d3a340b2c",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Incremental Statistics Refresh",
+  "description": "Incremental Statistics Refresh is a performance optimization to automatic statistic updates. It opportunistically reduces duration of automatic statistic updates by only sampling newly-added rows (instead of the entire column), thereby speeding up user queries that must update statistics before running.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=6fffac4b-d2fa-ee11-a1ff-000d3a340b2c",
+  "contentHash": "6dcc47ecf189c006be1bd2b87570dba8c4ad32c733c22d05ef21c85eb19abc74",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-ea1fc0f1-6d20-f011-998a-000d3a341dd9",
+  "releaseItemId": "ea1fc0f1-6d20-f011-998a-000d3a341dd9",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "OneLake Catalog - Govern Tab for Data Owners",
+  "description": "The Goven tab in OneLake Catalog, is a central place for data owners to find insights on their data, get recommended actions and find all the solutions in Fabric available for themAs part of the public preview, Data owners will be able to see information about the data they created, such as insights on their item inventory, last refresh, protection state (with sensitivity label or not), curations state (description, tags, endorsement)Recommended actions will focus the user on steps he should take in order to optimize their items, if it needs to be better curated, well protected and refreshed, while in some cases the user can decide those items are no longer relevant and help with housekeeping.Additional valuable are includes all the solutions available for data owners in Fabric and important links that can help to promote user's knowledge on Fabric to better utilize the system.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=ea1fc0f1-6d20-f011-998a-000d3a341dd9",
+  "contentHash": "3f52cc5e904047cd13ce3cf15129f708d244682917cde4d065366f9142be264f",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

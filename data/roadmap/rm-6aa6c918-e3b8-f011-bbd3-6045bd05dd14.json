@@ -1,0 +1,23 @@
+{
+  "id": "rm-6aa6c918-e3b8-f011-bbd3-6045bd05dd14",
+  "releaseItemId": "6aa6c918-e3b8-f011-bbd3-6045bd05dd14",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "SSMS 22.3 Support for Fabric Warehouse",
+  "description": "SSMS 22.3 provides key capabilities for Fabric Warehouse, including:* Browse and Connectivity: Explore and connect to Fabric Warehouses directly from SSMS.* Warehouse Actions: Ability to extract the definition of a warehouse from SSMS using Export Data tier application.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=6aa6c918-e3b8-f011-bbd3-6045bd05dd14",
+  "contentHash": "6b875c59d878cbc39d7d17a9fcfd3e6372aea763a5e97cbc2b8be2a5d11fa944",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

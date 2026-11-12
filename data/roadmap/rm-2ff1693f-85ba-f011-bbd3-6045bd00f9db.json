@@ -1,0 +1,23 @@
+{
+  "id": "rm-2ff1693f-85ba-f011-bbd3-6045bd00f9db",
+  "releaseItemId": "2ff1693f-85ba-f011-bbd3-6045bd00f9db",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Fabric Spark Diagnostic Log Emitter: General Availability",
+  "description": "This feature is intended to announce the General Availability of the Fabric Spark diagnostic emitter. The Spark emitter enables customers to send Spark logs and metrics to their preferred destinations, including Azure Log Analytics, Azure Event Hub, and Azure Blob Storage.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=2ff1693f-85ba-f011-bbd3-6045bd00f9db",
+  "contentHash": "ed60f8c7afeb1fb275416b32dbec1d35415ee2dc6ddb1c3e0ade5be40e5f62ba",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

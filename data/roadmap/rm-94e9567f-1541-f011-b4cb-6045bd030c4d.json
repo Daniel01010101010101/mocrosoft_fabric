@@ -1,0 +1,23 @@
+{
+  "id": "rm-94e9567f-1541-f011-b4cb-6045bd030c4d",
+  "releaseItemId": "94e9567f-1541-f011-b4cb-6045bd030c4d",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Extension Workloads - Frontend API access",
+  "description": "Extension workloads can now call Entra Backend APIs directly from the Frontend without the need to go throug a backend. This will enable several new developers to build Workloads and bring new capabilities to Fabric.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=94e9567f-1541-f011-b4cb-6045bd030c4d",
+  "contentHash": "6f71aacbc079c2f0dc60ee64832221674004b0d045239e845f116c626d222aae",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

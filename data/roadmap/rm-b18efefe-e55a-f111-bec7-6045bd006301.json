@@ -1,0 +1,23 @@
+{
+  "id": "rm-b18efefe-e55a-f111-bec7-6045bd006301",
+  "releaseItemId": "b18efefe-e55a-f111-bec7-6045bd006301",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "DirectQuery support for editing semantic models in the Power BI service",
+  "description": "This feature brings DirectQuery (DQ) support to Power BI web modeling, enabling users to create and edit DirectQuery and Dual models directly in the browser. Today, DirectQuery authoring is only available in Power BI Desktop.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=b18efefe-e55a-f111-bec7-6045bd006301",
+  "contentHash": "9e53ebd4ec4920e19091679a1bf0658f90779a67448bc3336b62d56a072c6d42",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

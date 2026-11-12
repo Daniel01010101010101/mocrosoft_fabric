@@ -1,0 +1,23 @@
+{
+  "id": "rm-44beb659-642c-f111-88b4-6045bd0a886d",
+  "releaseItemId": "44beb659-642c-f111-88b4-6045bd0a886d",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Git Integration - Selective Branching",
+  "description": "When developers branch out to work on a specific feature, they can now select only the items they need instead of copying all workspace items to the target. This reduces setup time and lets developers start coding faster.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=44beb659-642c-f111-88b4-6045bd0a886d",
+  "contentHash": "dee2a1290db8a21b2bc44366100c72b4371a4b4f6b63b15691ab43afeec8d004",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "wn-c20117024a97e0",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/ai-powered-real-time-intelligence-with-anomaly-detection-preview?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/anomaly-detection",
+  "title": "Anomaly detection (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "With a no-code interface, automatic model selection, and flexible alerts, tracking changes and unexpected events is easy with Anomaly detection in Real-Time Intelligence (Preview). For more information, see AI-Powered Real-Time Intelligence with Anomaly Detection (Preview). Billing for Anomaly Detector starts in December.",
+    "html": "With a no-code interface, automatic model selection, and flexible alerts, tracking changes and unexpected events is easy with <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/anomaly-detection\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Anomaly detection in Real-Time Intelligence (Preview)</a>. For more information, see <a href=\"https://blog.fabric.microsoft.com/blog/ai-powered-real-time-intelligence-with-anomaly-detection-preview?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">AI-Powered Real-Time Intelligence with Anomaly Detection (Preview)</a>. <a href=\"https://blog.fabric.microsoft.com/blog/billing-for-anomaly-detector-in-real-time-intelligence?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Billing for Anomaly Detector starts in December</a>.",
+    "excerpt": "With a no-code interface, automatic model selection, and flexible alerts, tracking changes and unexpected events is easy with Anomaly detection in Real-Time Intelligence (Preview). For more information, see AI-Powered Real-Time Intelligence with Anomaly Detection (Preview). Billing for Anomaly Detector starts in…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Anomaly detection in Real-Time Intelligence (Preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/anomaly-detection"
+      },
+      {
+        "label": "AI-Powered Real-Time Intelligence with Anomaly Detection (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/ai-powered-real-time-intelligence-with-anomaly-detection-preview?ft=All"
+      },
+      {
+        "label": "Billing for Anomaly Detector starts in December",
+        "url": "https://blog.fabric.microsoft.com/blog/billing-for-anomaly-detector-in-real-time-intelligence?ft=All"
+      }
+    ]
+  },
+  "contentHash": "5e2a5db164c3ff307ada4ed1bb7160f3f1fe681f61abda9d108740f38b1b31db",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 58,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-scientists"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/ai-powered-real-time-intelligence-with-anomaly-detection-preview?ft=All",
+    "backfill": "true"
+  }
+}

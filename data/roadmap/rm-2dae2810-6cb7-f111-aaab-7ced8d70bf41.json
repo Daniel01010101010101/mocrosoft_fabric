@@ -1,0 +1,23 @@
+{
+  "id": "rm-2dae2810-6cb7-f111-aaab-7ced8d70bf41",
+  "releaseItemId": "2dae2810-6cb7-f111-aaab-7ced8d70bf41",
+  "product": "SQL database",
+  "productId": "347da228-ea54-ef11-a317-0022480a694f",
+  "category": "databases",
+  "name": "Presence Expansion in USGov (Virginia and Texas GCC-H)",
+  "description": "Create SQL database in Fabric item in USGov (Virginia and Texas GCC-H) clouds.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=2dae2810-6cb7-f111-aaab-7ced8d70bf41",
+  "contentHash": "0af817f06cdcded1bcdb200aad8834df1fc89109abf1174a5af9f2b274589920",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

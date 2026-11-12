@@ -1,0 +1,23 @@
+{
+  "id": "rm-c5d5b8ce-02d7-ee11-9079-000d3a341a60",
+  "releaseItemId": "c5d5b8ce-02d7-ee11-9079-000d3a341a60",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Persistent filters in workspaces",
+  "description": "Currently, the workspace filters aren't persistent. You must reapply filters each time upon returning to the workspace. We heard your feedback and plan to enable persistent filters for improved navigation.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=c5d5b8ce-02d7-ee11-9079-000d3a341a60",
+  "contentHash": "14b8eba90377770c694924caac44cd3c7016056a1daa26eb064e11673339b02a",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

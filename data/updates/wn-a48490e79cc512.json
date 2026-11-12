@@ -1,0 +1,58 @@
+{
+  "id": "wn-a48490e79cc512",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_70",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-alert-queryset?tabs=visualization",
+  "title": "Activator query visibility (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.98,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "KQL and SQL query visibility in Activator shows the queries behind supported alerts and actions. For more information, see Create Activator alerts from a KQL Queryset.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_70\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">KQL and SQL query visibility in Activator</a> shows the queries behind supported alerts and actions. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-alert-queryset?tabs=visualization\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Create Activator alerts from a KQL Queryset</a>.",
+    "excerpt": "KQL and SQL query visibility in Activator shows the queries behind supported alerts and actions. For more information, see Create Activator alerts from a KQL Queryset.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "KQL and SQL query visibility in Activator",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_70"
+      },
+      {
+        "label": "Create Activator alerts from a KQL Queryset",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-alert-queryset?tabs=visualization"
+      }
+    ]
+  },
+  "contentHash": "57acea6059cc9f9b534eda6ff5bbb5999014aed8957945dca49c34db79b34da4",
+  "categories": [
+    "data-activator"
+  ],
+  "primaryCategory": "data-activator",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_70"
+  }
+}

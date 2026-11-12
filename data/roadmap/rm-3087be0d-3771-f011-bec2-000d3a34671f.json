@@ -1,0 +1,23 @@
+{
+  "id": "rm-3087be0d-3771-f011-bec2-000d3a34671f",
+  "releaseItemId": "3087be0d-3771-f011-bec2-000d3a34671f",
+  "product": "Fabric Ecosystem",
+  "productId": "94e84e43-aa69-f011-bec2-00224804b6c3",
+  "category": "integrations-connectors",
+  "name": "Statsig Experimentation Analytics",
+  "description": "Statsig is a product analytics platform that powers your entire product development lifecycle - from helping you understand users, to deciding what to build, to measuring the impact of everything you ship",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricecosystem&releaseItem=3087be0d-3771-f011-bec2-000d3a34671f",
+  "contentHash": "6f86905fb443e1619fc25e0fb35471b16a69e52ccb05d17abe7c2fb5818b5c74",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

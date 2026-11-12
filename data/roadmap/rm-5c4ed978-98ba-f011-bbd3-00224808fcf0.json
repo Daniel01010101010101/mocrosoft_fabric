@@ -1,0 +1,23 @@
+{
+  "id": "rm-5c4ed978-98ba-f011-bbd3-00224808fcf0",
+  "releaseItemId": "5c4ed978-98ba-f011-bbd3-00224808fcf0",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Fabric Spark - JDBC Drivers - Public Preview",
+  "description": "This feature provides the Spark JDBC driver as a downloadable component for use within client applications. It enables those applications to connect to Fabric or Synapse Spark and execute Spark jobs seamlessly.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=5c4ed978-98ba-f011-bbd3-00224808fcf0",
+  "contentHash": "24f7fb20b94cfc55386292df7d1dd94f180fb60161ec42b5601419fa66075f42",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

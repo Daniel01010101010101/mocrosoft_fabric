@@ -1,0 +1,23 @@
+{
+  "id": "rm-bb19728e-ed09-ef11-9f89-000d3a33ff0b",
+  "releaseItemId": "bb19728e-ed09-ef11-9f89-000d3a33ff0b",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Fabric Core REST APIs support Service Principal",
+  "description": "Enablement of Service Principal support in Microsoft Fabric REST API is a pivotal enhancement for the automation of customers deployment and management of environments.The ability to manage principal permissions for Fabric workspaces, as well as the creation and management of Fabric artifacts like eventhouse and lakehouse, is crucial for the automation of provisioning workflows. By end of July 2024, Service Principal will already be supported by few automation scenarios, such as Fabric Workspace management, Power BI Report management, Power BI Semantic Models management and Fabric Capacity.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2024",
+  "releaseQuarterStart": "2024-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=bb19728e-ed09-ef11-9f89-000d3a33ff0b",
+  "contentHash": "291703162376a7bc979ddd87b4fccb57087c6bc4563e750435fa90f4fadda144",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

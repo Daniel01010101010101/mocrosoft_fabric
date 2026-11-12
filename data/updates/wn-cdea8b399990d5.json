@@ -1,0 +1,57 @@
+{
+  "id": "wn-cdea8b399990d5",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146",
+  "title": "Metropolis VoiceLake (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Metropolis VoiceLake (Preview) brings supported communications data into a lakehouse with a semantic model and Power BI reports.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Metropolis VoiceLake (Preview)</a> brings supported communications data into a lakehouse with a semantic model and Power BI reports.",
+    "excerpt": "Metropolis VoiceLake (Preview) brings supported communications data into a lakehouse with a semantic model and Power BI reports.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Metropolis VoiceLake (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146"
+      }
+    ]
+  },
+  "contentHash": "4ff029b1d582a83c67569d4609fc319bc63839d0c950282652cc382408638477",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "data-scientists"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146",
+    "backfill": "true"
+  }
+}

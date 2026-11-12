@@ -1,0 +1,23 @@
+{
+  "id": "rm-1091ba5c-d78a-f111-ab0f-6045bd03ee11",
+  "releaseItemId": "1091ba5c-d78a-f111-ab0f-6045bd03ee11",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Workspace Item Events - Soft delete and recovery events",
+  "description": "Soft delete and recovery events for Fabric workspace items, delivered via Azure and Fabric Events.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=1091ba5c-d78a-f111-ab0f-6045bd03ee11",
+  "contentHash": "1b03597157ef5e119c625a044d681aaf9395cba0d8e63f8f7ba3b12deb7f0ab9",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

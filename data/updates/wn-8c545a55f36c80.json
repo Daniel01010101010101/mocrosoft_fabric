@@ -1,0 +1,57 @@
+{
+  "id": "wn-8c545a55f36c80",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Service-Principal-Support-for-Data-Agents-in-Fabric-Preview/ba-p/5181634",
+  "title": "Service principal support for Fabric data agents (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.96,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric data agents now support service principal (SPN) authentication, so custom apps and Microsoft Foundry agents call the data agent API with an application identity instead of a delegated user token. The data agent inherits workspace permissions.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Service-Principal-Support-for-Data-Agents-in-Fabric-Preview/ba-p/5181634\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric data agents now support service principal (SPN) authentication</a>, so custom apps and Microsoft Foundry agents call the data agent API with an application identity instead of a delegated user token. The data agent inherits workspace permissions.",
+    "excerpt": "Fabric data agents now support service principal (SPN) authentication, so custom apps and Microsoft Foundry agents call the data agent API with an application identity instead of a delegated user token. The data agent inherits workspace permissions.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric data agents now support service principal (SPN) authentication",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Service-Principal-Support-for-Data-Agents-in-Fabric-Preview/ba-p/5181634"
+      }
+    ]
+  },
+  "contentHash": "347bd126ad316e0ff2639ffac16980528d71dc483b20074af96d6093997404c0",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "administrators",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Service-Principal-Support-for-Data-Agents-in-Fabric-Preview/ba-p/5181634",
+    "backfill": "true"
+  }
+}

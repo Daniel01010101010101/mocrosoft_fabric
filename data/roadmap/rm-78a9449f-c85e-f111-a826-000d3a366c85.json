@@ -1,0 +1,23 @@
+{
+  "id": "rm-78a9449f-c85e-f111-a826-000d3a366c85",
+  "releaseItemId": "78a9449f-c85e-f111-a826-000d3a366c85",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - New Destination: PostgreSQL",
+  "description": "We are introducing PostgreSQL as a new data destination for Dataflow Gen2, enabling customers to publish transformed data from Microsoft Fabric directly into PostgreSQL databases using Dataflow Gen2’s low‑code Power Query experience.This release expands Dataflow Gen2’s destination ecosystem to better support operational, analytical, and application integration scenarios, giving customers a simple and flexible way to operationalize Fabric‑based data transformations in PostgreSQL environments.Key benefits and scenarios:* Publish curated outputs from Dataflow Gen2 directly into PostgreSQL databases and tables* Support operational reporting, application integration, and downstream analytics scenarios using PostgreSQL as a serving layer* Enable teams to prepare, standardize, and reshape data in Fabric before delivering it to PostgreSQL‑based applications, services, or analytics workloadsThe PostgreSQL data destination helps customers simplify data movement and reduce the need for custom pipelines by combining Fabric’s scalable transformation capabilities with PostgreSQL’s broad ecosystem compatibility and adoption.This release is part of our broader effort to make Dataflow Gen2 a flexible, low‑code transformation layer across data platforms, with continued investments planned to expand destination support and simplify end‑to‑end data integration experiences in Fabric.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=78a9449f-c85e-f111-a826-000d3a366c85",
+  "contentHash": "1df12da87f58ca410b0529ce560423199763ab52d43cef834f42904708cc4074",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

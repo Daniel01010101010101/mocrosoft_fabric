@@ -1,0 +1,23 @@
+{
+  "id": "rm-9f97e0b6-99b3-f011-bbd3-000d3a30273e",
+  "releaseItemId": "9f97e0b6-99b3-f011-bbd3-000d3a30273e",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - Intellisense support",
+  "description": "One of the most frequently requested enhancements to the Power Query Online experience by advanced users is parity with the Intellisense capabilities available today in Power Query Desktop. As part of this planned release item, we will provide Intellisense support for editing of M code across Power Query Online hosts.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=9f97e0b6-99b3-f011-bbd3-000d3a30273e",
+  "contentHash": "cbbec835306c87b3554ec070bb5923fda365b06e2ac46d552e8c55966515eccd",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "wn-de9d4f452b3ae0",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/overview",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/iq/ontology/overview",
+  "title": "Ontology (preview) item",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Ontology (preview) in Fabric IQ lets you define entity types, relationships, properties, and other constraints to organize data according to your business vocabulary. For more information, see What is ontology (preview)?",
+    "html": "<em>Ontology (preview)</em> in Fabric IQ lets you define entity types, relationships, properties, and other constraints to organize data according to your business vocabulary. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/iq/ontology/overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">What is ontology (preview)?</a>",
+    "excerpt": "Ontology (preview) in Fabric IQ lets you define entity types, relationships, properties, and other constraints to organize data according to your business vocabulary. For more information, see What is ontology (preview)?",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "What is ontology (preview)?",
+        "url": "https://learn.microsoft.com/en-us/fabric/iq/ontology/overview"
+      }
+    ]
+  },
+  "contentHash": "698f955f4f1d8c1745327b989e7c87904d8198777a16480b5007e7813296da36",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "cm-5400748",
+  "kind": "blog",
+  "source": "powerbi-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Announcing-the-retirement-of-R-and-Python-visuals-in-Power-BI/ba-p/5400748",
+  "docsUrl": "https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-r-powered-custom-visuals",
+  "title": "Announcing the retirement of R and Python visuals in Power BI",
+  "author": "DataZoe",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-09T19:00:39.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The built-in R and Python visuals in Power BI will retire in May 2027.\nWhat changes\nThis retirement applies only to R and Python visuals in interactive Power BI reports. Python scripts used in Power Query to populate tables are not affected.\n• Power BI service: At retirement, all R and Python visuals will stop working in published reports, including those published before retirement.\n• R-powered custom visuals: Custom visuals that use R will also no longer work at retirement.\n• Older versions of Power BI Desktop: These visuals will continue to work locally using R and Python installed on your machine.\n• Future versions of Power BI Desktop: After retirement, R and Python visuals will be removed, so you won't be able to add them to reports.\nWhat you need to do\nNo migration within your report will recreate your exact R or Python visual. You must replace it with a different visualization before retirement.\nStart reviewing your reports for R and Python visuals and communicate within your organization that reports using them will be impacted. Preserve their scripts and dependencies.\nIf you use Power BI project (PBIP) format and Git-integrated workspaces, search your report definitions in source control to find these visuals across multiple reports. Look for the visualType values pythonVisual for Python visuals and scriptVisual for R visuals.\nKeep the visualization in your report. Rebuild it with a built-in Power BI visual or an existing custom visual. AI coding tools can also help you create a visual with the Power BI custom visuals software development kit (SDK).\nThe Power BI roadmap includes planned HTML and Vega core visuals for more flexible report visualizations. Check the roadmap for planned availability.\nRecreate the analysis or visualization outside the report. Explore these alternatives:\n• Fabric notebooks: Recreate the analysis and visualization in a notebook. Scripts may need changes for supported languages, libraries, and data access.\n• Fabric Apps: Explore this option for visualizations that can't be recreated in a Power BI report.\nBoth Fabric notebooks and Fabric Apps can be added to Organizational Apps to share them with your audience.\nNext steps\nTest your replacement and let report consumers know what's changing before retirement. If you view an affected report but don't own it, contact the report owner.\nLearn more in the R visuals documentation and Python visuals documentation. Share feedback on this retirement in the comments.",
+    "html": "<p>The built-in R and Python visuals in Power BI will retire in <strong>May 2027</strong>.</p>\n<h3>What changes</h3>\n<p>This retirement applies only to R and Python visuals in interactive Power BI reports. <strong>Python scripts used in Power Query to populate tables are not affected.</strong></p>\n<ul>\n<li><strong>Power BI service:</strong> At retirement, all R and Python visuals will stop working in published reports, including those published before retirement.</li>\n<li><strong>R-powered custom visuals:</strong> <a href=\"https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-r-powered-custom-visuals\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Custom visuals that use R</a> will also no longer work at retirement.</li>\n<li><strong>Older versions of Power BI Desktop:</strong> These visuals will continue to work locally using R and Python installed on your machine.</li>\n<li><strong>Future versions of Power BI Desktop:</strong> After retirement, R and Python visuals will be removed, so you won't be able to add them to reports.</li>\n</ul>\n<h3>What you need to do</h3>\n<p>No migration within your report will recreate your exact R or Python visual. You must replace it with a different visualization before retirement.</p>\n<p>Start reviewing your reports for R and Python visuals and communicate within your organization that reports using them will be impacted. Preserve their scripts and dependencies.</p>\n<p>If you use <a href=\"https://learn.microsoft.com/power-bi/developer/projects/projects-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Power BI project (PBIP) format</a> and <a href=\"https://learn.microsoft.com/fabric/cicd/git-integration/git-get-started\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Git-integrated workspaces</a>, search your report definitions in source control to find these visuals across multiple reports. Look for the visualType values pythonVisual for Python visuals and scriptVisual for R visuals.</p>\n<p><strong>Keep the visualization in your report.</strong> Rebuild it with a <a href=\"https://learn.microsoft.com/power-bi/visuals/power-bi-visualizations-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">built-in Power BI visual</a> or an <a href=\"https://learn.microsoft.com/power-bi/developer/visuals/power-bi-custom-visuals\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">existing custom visual</a>. AI coding tools can also help you create a visual with the <a href=\"https://learn.microsoft.com/power-bi/developer/visuals/develop-power-bi-visuals\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Power BI custom visuals software development kit (SDK)</a>.</p>\n<p>The <a href=\"https://aka.ms/powerbiroadmap\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Power BI roadmap</a> includes planned HTML and Vega core visuals for more flexible report visualizations. Check the roadmap for planned availability.</p>\n<p><strong>Recreate the analysis or visualization outside the report.</strong> Explore these alternatives:</p>\n<ul>\n<li><a href=\"https://learn.microsoft.com/fabric/data-engineering/how-to-use-notebook\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric notebooks</a><strong>:</strong> Recreate the analysis and visualization in a notebook. Scripts may need changes for supported languages, libraries, and data access.</li>\n<li><a href=\"https://learn.microsoft.com/fabric/apps/create-app\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Apps</a>: Explore this option for visualizations that can't be recreated in a Power BI report.</li>\n</ul>\n<p>Both Fabric notebooks and Fabric Apps can be added to <a href=\"https://learn.microsoft.com/power-bi/explore-reports/org-app-items\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Organizational Apps</a> to share them with your audience.</p>\n<h3>Next steps</h3>\n<p>Test your replacement and let report consumers know what's changing before retirement. If you view an affected report but don't own it, contact the report owner.</p>\n<p>Learn more in the <a href=\"https://learn.microsoft.com/power-bi/create-reports/desktop-r-visuals\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">R visuals documentation</a> and <a href=\"https://learn.microsoft.com/power-bi/connect-data/desktop-python-visuals\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Python visuals documentation</a>. Share feedback on this retirement in the comments.</p>",
+    "excerpt": "The built-in R and Python visuals in Power BI will retire in May 2027. What changes This retirement applies only to R and Python visuals in interactive Power BI reports. Python scripts used in Power Query to populate tables are not affected. • Power BI service: At retirement, all R and Python visuals will stop working…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Custom visuals that use R",
+        "url": "https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-r-powered-custom-visuals"
+      },
+      {
+        "label": "Power BI project (PBIP) format",
+        "url": "https://learn.microsoft.com/power-bi/developer/projects/projects-overview"
+      },
+      {
+        "label": "Git-integrated workspaces",
+        "url": "https://learn.microsoft.com/fabric/cicd/git-integration/git-get-started"
+      },
+      {
+        "label": "built-in Power BI visual",
+        "url": "https://learn.microsoft.com/power-bi/visuals/power-bi-visualizations-overview"
+      },
+      {
+        "label": "existing custom visual",
+        "url": "https://learn.microsoft.com/power-bi/developer/visuals/power-bi-custom-visuals"
+      },
+      {
+        "label": "Power BI custom visuals software development kit (SDK)",
+        "url": "https://learn.microsoft.com/power-bi/developer/visuals/develop-power-bi-visuals"
+      },
+      {
+        "label": "Power BI roadmap",
+        "url": "https://aka.ms/powerbiroadmap"
+      },
+      {
+        "label": "Fabric notebooks",
+        "url": "https://learn.microsoft.com/fabric/data-engineering/how-to-use-notebook"
+      },
+      {
+        "label": "Fabric Apps",
+        "url": "https://learn.microsoft.com/fabric/apps/create-app"
+      },
+      {
+        "label": "Organizational Apps",
+        "url": "https://learn.microsoft.com/power-bi/explore-reports/org-app-items"
+      },
+      {
+        "label": "R visuals documentation",
+        "url": "https://learn.microsoft.com/power-bi/create-reports/desktop-r-visuals"
+      },
+      {
+        "label": "Python visuals documentation",
+        "url": "https://learn.microsoft.com/power-bi/connect-data/desktop-python-visuals"
+      }
+    ]
+  },
+  "contentHash": "425de30bb4c79b6637bffdf8f729e2a7daae85009384b597f1e7a47144826aa8",
+  "categories": [
+    "power-bi"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "deprecation",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 59,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "data-scientists",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

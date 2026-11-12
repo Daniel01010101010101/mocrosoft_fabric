@@ -1,0 +1,23 @@
+{
+  "id": "rm-5d0bf9bd-bc29-f011-8c4e-0022480939f0",
+  "releaseItemId": "5d0bf9bd-bc29-f011-8c4e-0022480939f0",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Extension Workloads - Standard Item creation experience",
+  "description": "Items are using the standard item creation and can now be created directly from the Workload page now.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=5d0bf9bd-bc29-f011-8c4e-0022480939f0",
+  "contentHash": "db17a5cd2c5c35fa63cb10ce42403f0d9de252e1fab5c145aa8460c2bd067f44",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-5d62411a-20db-f011-8544-000d3a3740cc",
+  "releaseItemId": "5d62411a-20db-f011-8544-000d3a3740cc",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Fabric Extensibility Toolkit - Variable support",
+  "description": "Items built with the Fabric Extensibility Toolkit can now pick up and resolve Variables, allowing them to dynamically adapt to the context in which they run. When a user opens an Item, the Item automatically evaluates any referenced Variables—such as workspace metadata, user‑provided parameters, or environment‑specific values—and replaces them with their resolved results. This enables Items to behave consistently across different workspaces and scenarios, while still responding to variable-driven configuration.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=5d62411a-20db-f011-8544-000d3a3740cc",
+  "contentHash": "ebd6fdb0040371a434767cb63544b68e47cec32abe9edb2343e047378e0334fb",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

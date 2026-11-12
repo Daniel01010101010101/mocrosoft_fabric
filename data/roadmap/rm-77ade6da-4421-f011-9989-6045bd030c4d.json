@@ -1,0 +1,23 @@
+{
+  "id": "rm-77ade6da-4421-f011-9989-6045bd030c4d",
+  "releaseItemId": "77ade6da-4421-f011-9989-6045bd030c4d",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - Parameter Support in Dataflow Gen2 Output Destinations",
+  "description": "Parameterized dataflows is a top area of customer feedback, and one of the most common use cases is to parameterize the Output Destination within a dataflow. We plan to support the ability to parameterize the container (database/artifact/folder), as well as the table within it to which the dataflow outputs data.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=77ade6da-4421-f011-9989-6045bd030c4d",
+  "contentHash": "7cc017cbdfb4d3f6aad66cf1641db9c9d01a96ab6315aee285ede300e38e7f12",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

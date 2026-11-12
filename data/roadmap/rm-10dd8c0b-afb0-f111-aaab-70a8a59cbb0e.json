@@ -1,0 +1,23 @@
+{
+  "id": "rm-10dd8c0b-afb0-f111-aaab-70a8a59cbb0e",
+  "releaseItemId": "10dd8c0b-afb0-f111-aaab-70a8a59cbb0e",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Support SPN + RLS",
+  "description": "Fabric Data Agent supports service principal (SPN) authentication, enabling agent-to-agent scenarios such as Microsoft Foundry calling a Data Agent using an SPN. However, SPN-based access is not currently supported with Row-Level Security (RLS). Supporting SPN + RLS would allow the Data Agent to preserve the appropriate user-level data permissions while using an SPN for service-to-service authentication, enabling more secure and flexible enterprise scenarios where both application identity and user identity need to be respected.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=10dd8c0b-afb0-f111-aaab-70a8a59cbb0e",
+  "contentHash": "76e967a6414642020a1db08fcc08f64ee9534629e6d333466b0eafbbe746ef6c",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

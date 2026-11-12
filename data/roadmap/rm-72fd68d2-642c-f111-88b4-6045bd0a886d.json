@@ -1,0 +1,23 @@
+{
+  "id": "rm-72fd68d2-642c-f111-88b4-6045bd0a886d",
+  "releaseItemId": "72fd68d2-642c-f111-88b4-6045bd0a886d",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Git integration - compare code changes",
+  "description": "When developers want to sync their workspace with the git repo, they want to view the changes made before taking actions.With this feature we will enable viewing the exact changes since the last sync between the workspace and the branch, as well as where those changes are.It will be shown as code compare experience that is familiar to developers. Devs can see what items and files have been changed, see the exact code changes and whether it is in a Fabric workspace, or in the repo.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=72fd68d2-642c-f111-88b4-6045bd0a886d",
+  "contentHash": "cbe934dd1404ed8bded6b7fdebb79993b1a21d90a45b324e8a7e0c1182d325cd",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

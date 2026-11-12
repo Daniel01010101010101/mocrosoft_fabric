@@ -1,0 +1,23 @@
+{
+  "id": "rm-92f3df07-a982-ef11-ac21-00224804e9b4",
+  "releaseItemId": "92f3df07-a982-ef11-ac21-00224804e9b4",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "SQL Analytics Endpoint Improvements",
+  "description": "This feature encompasses updates made to the SQL analytics endpoint experience, including:* Automatic refresh triggered upon opening the item or connecting to the endpoint* Improved UI to refresh the SQL analytics endpoint directly in the ribbon* New property for Last Successful Update in OneLake via the table properties dialog flyout* Improved error messages",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=92f3df07-a982-ef11-ac21-00224804e9b4",
+  "contentHash": "aa93a5d59ac1d84ca75ff080d603b46f4ed895b54683af555ea9fc3c2c3b41f9",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

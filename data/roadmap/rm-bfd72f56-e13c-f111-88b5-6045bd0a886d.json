@@ -1,0 +1,23 @@
+{
+  "id": "rm-bfd72f56-e13c-f111-88b5-6045bd0a886d",
+  "releaseItemId": "bfd72f56-e13c-f111-88b5-6045bd0a886d",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Optimized Truncate or DELETE all data in a table",
+  "description": "This feature will improve the performance of deleting all data from Fabric Data Warehouse tables through TRUNCATE or DELETE.Feature is awaiting WW deployment.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=bfd72f56-e13c-f111-88b5-6045bd0a886d",
+  "contentHash": "1edd423f26e289fb2920ea0d22abac7b006e36c5b089b8c6362b101c94b80611",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

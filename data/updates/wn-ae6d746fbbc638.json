@@ -1,0 +1,60 @@
+{
+  "id": "wn-ae6d746fbbc638",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/fabric-cli-in-azure-devops-automation-without-friction-preview?ft=All",
+  "title": "Fabric CLI in Azure DevOps (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.89,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Fabric CLI in Azure DevOps (Preview) provides the Fabric CLI (fab) as a built-in Azure DevOps pipeline task for automating workspace and item management without manual tool installation. Get started with the Fabric CLI (generally available) at https://aka.ms/FabCLI.",
+    "html": "The <a href=\"https://blog.fabric.microsoft.com/blog/fabric-cli-in-azure-devops-automation-without-friction-preview?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric CLI in Azure DevOps (Preview)</a> provides the Fabric CLI (<code>fab</code>) as a built-in Azure DevOps pipeline task for automating workspace and item management without manual tool installation. Get started with the Fabric CLI (generally available) at <a href=\"https://aka.ms/FabCLI\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">https://aka.ms/FabCLI</a>.",
+    "excerpt": "The Fabric CLI in Azure DevOps (Preview) provides the Fabric CLI (fab) as a built-in Azure DevOps pipeline task for automating workspace and item management without manual tool installation. Get started with the Fabric CLI (generally available) at https://aka.ms/FabCLI.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric CLI in Azure DevOps (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/fabric-cli-in-azure-devops-automation-without-friction-preview?ft=All"
+      },
+      {
+        "label": "https://aka.ms/FabCLI",
+        "url": "https://aka.ms/FabCLI"
+      }
+    ]
+  },
+  "contentHash": "50ab97ac81e11cf07f2d451080e62e44f19d7c22d748189abedbc1a8412004d1",
+  "categories": [
+    "developer-apis"
+  ],
+  "primaryCategory": "developer-apis",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-cli-in-azure-devops-automation-without-friction-preview?ft=All",
+    "backfill": "true"
+  }
+}

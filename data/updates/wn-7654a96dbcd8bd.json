@@ -1,0 +1,59 @@
+{
+  "id": "wn-7654a96dbcd8bd",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/fabric-july-2025-feature-summary/#post-25898-_Toc204701244",
+  "title": "Pass Parameter Values to Fabric Items (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2025-07-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Activator enables you to automatically activate Fabric items like pipeline and notebook whenever certain data conditions are met. You can not only activate and execute Fabric items but also pass values to the parameters defined in your Fabric items.",
+    "html": "Activator enables you to <a href=\"https://blog.fabric.microsoft.com/blog/fabric-july-2025-feature-summary/#post-25898-_Toc204701244\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">automatically activate Fabric items like pipeline and notebook</a> whenever certain data conditions are met. You can not only activate and execute Fabric items but also <a href=\"https://aka.ms/activatorActionParams\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">pass values to the parameters defined in your Fabric items</a>.",
+    "excerpt": "Activator enables you to automatically activate Fabric items like pipeline and notebook whenever certain data conditions are met. You can not only activate and execute Fabric items but also pass values to the parameters defined in your Fabric items.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "automatically activate Fabric items like pipeline and notebook",
+        "url": "https://blog.fabric.microsoft.com/blog/fabric-july-2025-feature-summary/#post-25898-_Toc204701244"
+      },
+      {
+        "label": "pass values to the parameters defined in your Fabric items",
+        "url": "https://aka.ms/activatorActionParams"
+      }
+    ]
+  },
+  "contentHash": "58d83537bbc2ed4a15a95880b008f4db003b538c29320df868e6d47cfb5a5b98",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-scientists"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-july-2025-feature-summary/#post-25898-_Toc204701244"
+  }
+}

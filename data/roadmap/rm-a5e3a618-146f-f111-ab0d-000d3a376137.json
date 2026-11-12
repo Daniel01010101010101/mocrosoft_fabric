@@ -1,0 +1,23 @@
+{
+  "id": "rm-a5e3a618-146f-f111-ab0d-000d3a376137",
+  "releaseItemId": "a5e3a618-146f-f111-ab0d-000d3a376137",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Matrix expand and collapse icons on column headers",
+  "description": "Adding expand and collapse icons to the column headers when more than one column is added, like how there are expand and collapse icons for row headers when there are more than one row added to the matrix in Power BI.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=a5e3a618-146f-f111-ab0d-000d3a376137",
+  "contentHash": "03d4297bf81c8d08c34c3b14ffe287d174424496f8c7d26e04ae38115814726c",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-274b528d-5907-ef11-9f89-000d3a34b75c",
+  "releaseItemId": "274b528d-5907-ef11-9f89-000d3a34b75c",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Mirroring - New Source: Azure CosmosDB",
+  "description": "Mirroring provides a seamless no-ETL experience to integrate your existing Azure Cosmos DB data with the rest of your data in Microsoft Fabric. You can continuously replicate your Azure Cosmos DB data directly into Fabric OneLake in near real-time, without any effect on the performance of your transactional workloads.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=274b528d-5907-ef11-9f89-000d3a34b75c",
+  "contentHash": "0aef0691ddd85ce2c3b72722db50fd1a80669c202fbd261a9bbae68c868bf37d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

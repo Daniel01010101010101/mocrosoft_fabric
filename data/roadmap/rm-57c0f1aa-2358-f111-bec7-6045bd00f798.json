@@ -1,0 +1,23 @@
+{
+  "id": "rm-57c0f1aa-2358-f111-bec7-6045bd00f798",
+  "releaseItemId": "57c0f1aa-2358-f111-bec7-6045bd00f798",
+  "product": "Data Science",
+  "productId": "0522b590-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-science",
+  "name": "Support tensor based models on model endpoints",
+  "description": "ML Endpoints are currently available for a limited set of ML model flavors, including Keras, LightGBM, Sklearn, and XGBoost. This feature allows users to activate ML endpoints for models with tensor-based schemas or no schemas.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=57c0f1aa-2358-f111-bec7-6045bd00f798",
+  "contentHash": "4a6572b34328627c86a6d654ec74e209a76d17de0129f452cee9d051dabb0c78",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

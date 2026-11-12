@@ -1,0 +1,62 @@
+{
+  "id": "wn-e4ebdd5ccbdd91",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Introducing-anonymous-data-access-for-Fabric-Apps-Preview/ba-p/5361116",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/apps/anonymous-data-access",
+  "title": "Anonymous data access for Fabric Apps (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Anonymous data access for Fabric Apps (Preview) lets an app expose selected entity operations to unauthenticated visitors while tenant settings and data-model roles limit access. For more information, see Anonymous data access.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Introducing-anonymous-data-access-for-Fabric-Apps-Preview/ba-p/5361116\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Anonymous data access for Fabric Apps (Preview)</a> lets an app expose selected entity operations to unauthenticated visitors while tenant settings and data-model roles limit access. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/apps/anonymous-data-access\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Anonymous data access</a>.",
+    "excerpt": "Anonymous data access for Fabric Apps (Preview) lets an app expose selected entity operations to unauthenticated visitors while tenant settings and data-model roles limit access. For more information, see Anonymous data access.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Anonymous data access for Fabric Apps (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Introducing-anonymous-data-access-for-Fabric-Apps-Preview/ba-p/5361116"
+      },
+      {
+        "label": "Anonymous data access",
+        "url": "https://learn.microsoft.com/en-us/fabric/apps/anonymous-data-access"
+      }
+    ]
+  },
+  "contentHash": "c1c4cb6eb10325028fbfaaa10b63b8d5c45d390d7ecbe922379ebdd7624a506c",
+  "categories": [
+    "power-bi"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-scientists",
+      "administrators",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Introducing-anonymous-data-access-for-Fabric-Apps-Preview/ba-p/5361116",
+    "backfill": "true"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-82e983ae-eb09-ef11-9f89-000d3a33ff0b",
+  "releaseItemId": "82e983ae-eb09-ef11-9f89-000d3a33ff0b",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Fabric Core REST API generally available",
+  "description": "Fabric Core REST APIs are now generally available. This marks a significant milestone in the evolution of Microsoft Fabric, a platform that has been meticulously designed to empower developers and businesses alike with a comprehensive suite of tools and services.The Core REST APIs are the backbone of Microsoft Fabric, providing the essential building blocks for a myriad of functionalities within the platform. They are designed to improve efficiency, reduce manual effort, increase accuracy, and lead to faster processing times. These APIs help scale operations more easily and efficiently as the volume of work grows, automate repeatable processes with consistency, and enable integration with other systems and applications, providing a streamlined and efficient data pipeline. The Microsoft Fabric Core REST APIs cover a broad spectrum of functionalities, including:Workspace management: APIs for handling workspace operations, including permission management.Item management: APIs enabling the creation, retrieval, update, and deletion of items, with upcoming plans for enhanced support in data source discovery and granular permissions management.Item defintion: Ability to create, retrieve, and update definitions for various items such as Semantic Model, Report, Notebook, SJD, and Data Pipeline.With these APIs, developers can exercise precise control over their deployment processes by effortlessly adjusting parameters such as semantic model configurations or report themes before publishing. Leveraging Microsoft Fabric REST APIs facilitates seamless project deployment through REST API calls.Additionally, the APIs offer functionalities for job and tenant management, streamlining operations within the platform.For developers eager to explore the details of Microsoft Fabric Core APIs, comprehensive documentation is readily available. This documentation includes usage guidelines, illustrative examples, and articles housed in a centralized repository for easy accessibility and discoverability.The documentation is continuously updated to reflect the latest features and improvements, ensuring that developers have the most current information at their fingertips.To learn more, see [Fabric REST API docs](/rest/api/fabric/articles/)",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2024",
+  "releaseQuarterStart": "2024-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=82e983ae-eb09-ef11-9f89-000d3a33ff0b",
+  "contentHash": "4d0a35cbad1392a18025ed968680ab2fd06903fda5e1e7805c761b87624aa8c4",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

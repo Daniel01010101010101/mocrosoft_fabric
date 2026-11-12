@@ -1,0 +1,62 @@
+{
+  "id": "wn-a07d9d476c8939",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-OneLake-network-security-for-Azurfe-Services-with/ba-p/5284830",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/onelake/onelake-manage-inbound-access-trusted-resources",
+  "title": "Resource Instance Rules for OneLake Network Security for Azure Services (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-07-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Resource Instance Rules for OneLake let you allow specific Azure resource instances to access OneLake over the public endpoint while Fabric still evaluates data permissions. For more information, see Manage workspace inbound access with Resource Instance Rules.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-OneLake-network-security-for-Azurfe-Services-with/ba-p/5284830\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Resource Instance Rules for OneLake</a> let you allow specific Azure resource instances to access OneLake over the public endpoint while Fabric still evaluates data permissions. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/onelake/onelake-manage-inbound-access-trusted-resources\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Manage workspace inbound access with Resource Instance Rules</a>.",
+    "excerpt": "Resource Instance Rules for OneLake let you allow specific Azure resource instances to access OneLake over the public endpoint while Fabric still evaluates data permissions. For more information, see Manage workspace inbound access with Resource Instance Rules.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Resource Instance Rules for OneLake",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-OneLake-network-security-for-Azurfe-Services-with/ba-p/5284830"
+      },
+      {
+        "label": "Manage workspace inbound access with Resource Instance Rules",
+        "url": "https://learn.microsoft.com/en-us/fabric/onelake/onelake-manage-inbound-access-trusted-resources"
+      }
+    ]
+  },
+  "contentHash": "a080a1f540251f286c4c574a64758bc086d17fd0202e51004a4b8c591c533b70",
+  "categories": [
+    "security",
+    "onelake"
+  ],
+  "primaryCategory": "security",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "July 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-OneLake-network-security-for-Azurfe-Services-with/ba-p/5284830"
+  }
+}

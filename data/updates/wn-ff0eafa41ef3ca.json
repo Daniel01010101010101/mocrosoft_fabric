@@ -1,0 +1,65 @@
+{
+  "id": "wn-ff0eafa41ef3ca",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/monitor-your-eventstreams-with-workspace-monitoring-%E2%80%94-now-with-per-eventstream-c/5331185",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/fabric-workspace-monitoring",
+  "title": "Eventstream workspace monitoring (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Workspace monitoring for Eventstreams (Preview) lets you choose which eventstreams emit performance, error, and node-health data to three KQL tables in the workspace monitoring Eventhouse. For more information, see Eventstream monitoring in Workspace Monitoring and Workspace Monitoring overview.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/monitor-your-eventstreams-with-workspace-monitoring-%E2%80%94-now-with-per-eventstream-c/5331185\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace monitoring for Eventstreams (Preview)</a> lets you choose which eventstreams emit performance, error, and node-health data to three KQL tables in the workspace monitoring Eventhouse. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/fabric-workspace-monitoring\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Eventstream monitoring in Workspace Monitoring</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/fundamentals/workspace-monitoring-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace Monitoring overview</a>.",
+    "excerpt": "Workspace monitoring for Eventstreams (Preview) lets you choose which eventstreams emit performance, error, and node-health data to three KQL tables in the workspace monitoring Eventhouse. For more information, see Eventstream monitoring in Workspace Monitoring and Workspace Monitoring overview.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Workspace monitoring for Eventstreams (Preview)",
+        "url": "https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/monitor-your-eventstreams-with-workspace-monitoring-%E2%80%94-now-with-per-eventstream-c/5331185"
+      },
+      {
+        "label": "Eventstream monitoring in Workspace Monitoring",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/fabric-workspace-monitoring"
+      },
+      {
+        "label": "Workspace Monitoring overview",
+        "url": "https://learn.microsoft.com/en-us/fabric/fundamentals/workspace-monitoring-overview"
+      }
+    ]
+  },
+  "contentHash": "c8e64b840258da56ef12f394197f8a824b749c3107bc10e1affa256dee6cf108",
+  "categories": [
+    "real-time-intelligence",
+    "admin-governance"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 55,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/monitor-your-eventstreams-with-workspace-monitoring-%E2%80%94-now-with-per-eventstream-c/5331185",
+    "backfill": "true"
+  }
+}

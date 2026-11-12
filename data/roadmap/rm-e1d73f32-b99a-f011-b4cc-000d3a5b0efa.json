@@ -1,0 +1,23 @@
+{
+  "id": "rm-e1d73f32-b99a-f011-b4cc-000d3a5b0efa",
+  "releaseItemId": "e1d73f32-b99a-f011-b4cc-000d3a5b0efa",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Copy job - Support more file formats: ORC, Excel, Avro, XML",
+  "description": "Copy job can be used to copy more file formats including ORC, Excel, Avro, XML.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=e1d73f32-b99a-f011-b4cc-000d3a5b0efa",
+  "contentHash": "ba4a26b4ea277b829dd70baff885705d316bf30ef1b02abed1b4f911a5823580",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

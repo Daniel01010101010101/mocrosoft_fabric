@@ -1,0 +1,57 @@
+{
+  "id": "wn-d42fc618facf5b",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-visuals",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-visuals",
+  "title": "Real-Time Dashboards Time Series Visualization (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.63,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Real-Time Dashboard-specific visuals in Real-Time Dashboards adds dedicated capabilities for navigating, comparing, and customizing time-based data, including a legend search bar, pin-and-overlay for series comparison, multiple aligned-time panels, flexible Y-axis scaling, color assignment, and zoom with a time slider.",
+    "html": "<a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-visuals\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Real-Time Dashboard-specific visuals</a> in Real-Time Dashboards adds dedicated capabilities for navigating, comparing, and customizing time-based data, including a legend search bar, pin-and-overlay for series comparison, multiple aligned-time panels, flexible Y-axis scaling, color assignment, and zoom with a time slider.",
+    "excerpt": "Real-Time Dashboard-specific visuals in Real-Time Dashboards adds dedicated capabilities for navigating, comparing, and customizing time-based data, including a legend search bar, pin-and-overlay for series comparison, multiple aligned-time panels, flexible Y-axis scaling, color assignment, and zoom with a time slider.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Real-Time Dashboard-specific visuals",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-visuals"
+      }
+    ]
+  },
+  "contentHash": "476f8a3c4e9bd7af0e9f8b64b2601443e3318ce5bfebc0ad05acfd14ac2a46ae",
+  "categories": [
+    "power-bi",
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

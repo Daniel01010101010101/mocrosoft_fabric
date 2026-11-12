@@ -1,0 +1,23 @@
+{
+  "id": "rm-878ac7c1-a461-f011-bec1-000d3a35e553",
+  "releaseItemId": "878ac7c1-a461-f011-bec1-000d3a35e553",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Multi-Tasking Configuration Experience for Data Agent Creators",
+  "description": "The new multi-tasking experience in the Data Agent is designed to make it easier for creators to switch between different configurations and chat with their data more fluidly. With this update, users can navigate across multiple configuration setups—such as different data sources, instructions, or example queries—without losing context or progress in their conversations.This experience directly addresses key user feedback around the friction of managing and testing configurations, especially when iterating on prompt quality. By streamlining how configurations are accessed and switched, creators can move faster, compare results across variations, and troubleshoot more effectively—all within a unified interface.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=878ac7c1-a461-f011-bec1-000d3a35e553",
+  "contentHash": "5d94a7f4a3a59cf9438735cdb4404932e4dbd363a85e89d64bb8acee44d18a22",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

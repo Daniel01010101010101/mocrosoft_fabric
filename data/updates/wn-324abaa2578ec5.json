@@ -1,0 +1,61 @@
+{
+  "id": "wn-324abaa2578ec5",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_50",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-visuals-customize",
+  "title": "Richer Real-Time Dashboard visuals (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Richer Real-Time Dashboard visuals add responsive KPI modes, reference lines, titles, text, and dividers. For more information, see Customize Real-Time Dashboard visuals.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_50\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Richer Real-Time Dashboard visuals</a> add responsive KPI modes, reference lines, titles, text, and dividers. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-visuals-customize\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Customize Real-Time Dashboard visuals</a>.",
+    "excerpt": "Richer Real-Time Dashboard visuals add responsive KPI modes, reference lines, titles, text, and dividers. For more information, see Customize Real-Time Dashboard visuals.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Richer Real-Time Dashboard visuals",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_50"
+      },
+      {
+        "label": "Customize Real-Time Dashboard visuals",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-visuals-customize"
+      }
+    ]
+  },
+  "contentHash": "316fdaf21fd8c32baa647990ffe96f13c79cdfab9f4524fcd2a069b5c83f7eca",
+  "categories": [
+    "power-bi",
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_50"
+  }
+}

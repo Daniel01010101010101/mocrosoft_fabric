@@ -1,0 +1,52 @@
+{
+  "id": "az-468765",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=468765",
+  "title": "Public Preview: Monitor your Fabric workspaces",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2024-11-19T16:00:37.593Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "We are excited to announce workspace monitoring in Fabric. Workspace monitoring is designed for admins and developers to view detailed diagnostic logs and workload metrics about their workspaces to troubleshoot performance issues, capacity performance, and data downtime. Fabric will provide a read-only Eventhouse KQL database of workspace logs that users can query ad-hoc, analyze for patterns and anomalies, or save drafted queries as query sets. You can use this database to conduct root-cause analysis for errors, long running queries, refresh failures, and other issues.",
+    "html": "We are excited to announce workspace monitoring in Fabric. Workspace monitoring is designed for admins and developers to view detailed diagnostic logs and workload metrics about their workspaces to troubleshoot performance issues, capacity performance, and data downtime. Fabric will provide a read-only Eventhouse KQL database of workspace logs that users can query ad-hoc, analyze for patterns and anomalies, or save drafted queries as query sets. You can use this database to conduct root-cause analysis for errors, long running queries, refresh failures, and other issues. <br />",
+    "excerpt": "We are excited to announce workspace monitoring in Fabric. Workspace monitoring is designed for admins and developers to view detailed diagnostic logs and workload metrics about their workspaces to troubleshoot performance issues, capacity performance, and data downtime. Fabric will provide a read-only Eventhouse KQL…",
+    "images": [],
+    "codeBlocks": [],
+    "links": []
+  },
+  "contentHash": "ab275d7aa74d000cb408aae8cfd173c12431213b30914fb00eb5d3590ed2d1f4",
+  "categories": [
+    "admin-governance"
+  ],
+  "primaryCategory": "admin-governance",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 58,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "In preview",
+    "products": "Microsoft Fabric",
+    "tags": "Microsoft Ignite, Management, Compliance, Features",
+    "previewDate": "2024-11",
+    "modified": "2024-11-19T16:00:37.5936893Z"
+  }
+}

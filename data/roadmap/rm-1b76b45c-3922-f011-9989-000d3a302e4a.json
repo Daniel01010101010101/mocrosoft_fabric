@@ -1,0 +1,23 @@
+{
+  "id": "rm-1b76b45c-3922-f011-9989-000d3a302e4a",
+  "releaseItemId": "1b76b45c-3922-f011-9989-000d3a302e4a",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "COPY INTO & OPENROWSET support from OneLake",
+  "description": "This feature enables customers to use COPY INTO statement to use a OneLake url in order to ingest data into a Fabric Warehouse from data within OneLake",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=1b76b45c-3922-f011-9989-000d3a302e4a",
+  "contentHash": "62b3972a85e24487cb195dac976a376427f242aa76059dffe2420f1bc21af7f8",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-80d82af8-7874-f011-bec3-0022480939f0",
+  "releaseItemId": "80d82af8-7874-f011-bec3-0022480939f0",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "Onelake shortcuts to Azure Blob storage GA",
+  "description": "OneLake blob shortcuts surface any container or folder from Azure Blob Storage inside Fabric as a normal OneLake path. The data stays where it is and is immediately queryable by Lakehouse, SQL, Spark, and Power BI. GA adds delegated credentials, workspace or service-principal auth, built-in caching for faster reads, and access through the on-premises data gateway.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=80d82af8-7874-f011-bec3-0022480939f0",
+  "contentHash": "7653966df6f4624fa4a1240317d0257ecc7d9a521973bef3db568b6ab5ca0bc3",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

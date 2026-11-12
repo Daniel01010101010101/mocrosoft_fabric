@@ -1,0 +1,60 @@
+{
+  "id": "wn-2cb7e2e69572a4",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/security/security-private-links-overview",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/security/security-private-links-overview",
+  "title": "SQL database support for private links (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "You can use tenant and workspace-level private links to provide secure access for data traffic in Microsoft Fabric, including SQL database. For SQL database, workspace-level private links are in preview. For more information, see Set up and use private links.",
+    "html": "You can use <a href=\"https://learn.microsoft.com/en-us/fabric/security/security-private-links-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">tenant and workspace-level private links</a> to provide secure access for data traffic in Microsoft Fabric, including SQL database. For SQL database, workspace-level private links are in preview. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/security/security-private-links-use\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Set up and use private links</a>.",
+    "excerpt": "You can use tenant and workspace-level private links to provide secure access for data traffic in Microsoft Fabric, including SQL database. For SQL database, workspace-level private links are in preview. For more information, see Set up and use private links.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "tenant and workspace-level private links",
+        "url": "https://learn.microsoft.com/en-us/fabric/security/security-private-links-overview"
+      },
+      {
+        "label": "Set up and use private links",
+        "url": "https://learn.microsoft.com/en-us/fabric/security/security-private-links-use"
+      }
+    ]
+  },
+  "contentHash": "c61b7a4032ed7852b48b1e47acd1cf01f32e6da5c9303b01c28fdb1cd30291c5",
+  "categories": [
+    "security",
+    "databases"
+  ],
+  "primaryCategory": "security",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 65,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

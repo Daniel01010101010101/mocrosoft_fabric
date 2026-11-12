@@ -1,0 +1,23 @@
+{
+  "id": "rm-e53ea767-5a21-f011-9989-000d3a329ecb",
+  "releaseItemId": "e53ea767-5a21-f011-9989-000d3a329ecb",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - AI-powered Modern Get Data",
+  "description": "Modern Get Data Integration with Copilot allows users to seamlessly discover, connect and transform data using Natural Language. Copilot will be able to understand user intent and connect them to the right data across Fabric and other recently used sources, as well as applying any necessary data transformations to get the data into the desired shape.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=e53ea767-5a21-f011-9989-000d3a329ecb",
+  "contentHash": "c3acbf41761cec718ce7809446b38ab343759180fa879b63d0cee216653170ba",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

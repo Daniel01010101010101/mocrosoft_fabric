@@ -1,0 +1,23 @@
+{
+  "id": "rm-a70d8815-4207-ef11-9f89-000d3a33ff0b",
+  "releaseItemId": "a70d8815-4207-ef11-9f89-000d3a33ff0b",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Live edit of Direct Lake semantic models in Power BI Desktop",
+  "description": "Previously, you could only create and edit semantic models using the incredible query performance of Direct Lake for your lakehouse based reports from the Power BI service. With live edit of Direct Lake semantic models in Power BI Desktop, you can also edit these semantic models in Power BI Desktop. Access the full power of semantic modeling capabilities and Git integration provided by Power BI Desktop for Direct Lake models! You can live edit semantic models by selecting the semantic model in OneLake Data Hub and simply click “Edit”.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2024",
+  "releaseQuarterStart": "2024-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=a70d8815-4207-ef11-9f89-000d3a33ff0b",
+  "contentHash": "301c62865b52e4bd02a7ced57b79e2b7a3cf7303eeef4b14ea3cc5d381173fe2",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

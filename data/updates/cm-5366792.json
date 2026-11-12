@@ -1,0 +1,63 @@
+{
+  "id": "cm-5366792",
+  "kind": "blog",
+  "source": "powerbi-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Manage-semantic-model-settings-in-context-with-the-default/ba-p/5366792",
+  "docsUrl": "https://learn.microsoft.com/power-bi/connect-data/service-datasets-permissions",
+  "title": "Manage semantic model settings in context with the default settings pane (Preview)",
+  "author": "kayu",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-17T16:00:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The semantic model settings pane is becoming the default way to configure semantic models in the Power BI service. The pane opens alongside your workspace, so you can review and change settings without leaving the current page. It provides the same settings as the full semantic model settings page while keeping the surrounding context visible. The classic settings page remains available during this transition, but it no longer opens first. This change builds on the settings pane preview and provides a more focused experience for managing semantic models.\nWhy it matters\nThe pane helps you stay in context while you manage a semantic model. It opens on the right side of the browser window and keeps your workspace visible. Settings are organized into expandable sections and tabs, including refresh, data access, performance, and OneDrive and SharePoint. You can use the search box at the top of the pane to find a setting across all sections and tabs. For example, enter \"re\" and select View refresh history to go directly to refresh history instead of opening sections one at a time. This organization is especially useful for semantic models with several connection, refresh, or performance settings. You can review a setting, make a change, and return to your work without navigating to a separate page.\nWhat's changing\nThe settings pane was an optional experience earlier in the preview. As this change rolls out, the pane opens by default when you open settings for a semantic model. The rollout is gradual, so the timing can vary by environment.\nThe pane includes the settings available on the full settings page. Its main area groups related settings into expandable sections, and the tabs at the top organize settings by category. Use the search box when you know the setting you want or browse the sections to review related options together.\nIf you prefer the full-page experience, select Open settings page at the bottom of the pane. The classic page opens in the same browser window. This option can help when you want to compare settings across semantic models or continue using a familiar workflow during the transition.\nThe classic settings page will be retired over time, so the switchback option is intended to support the transition. We're also working to consolidate related settings, including scheduled refresh and data connections. These planned improvements apply to the settings pane. The preview experience and behavior might change before general availability.\nFigure: Switch from the semantic model settings pane to the classic settings page.Next steps\n• Understand Semantic model permissions in Power BI.\n• Learn how to use the pane in Manage semantic model settings in the settings pane.\n• Open the settings for one of your semantic models and explore the grouped sections and search.\n• Share feature suggestions through Fabric Community Ideas.\n• Share feedback about the preview in the comments.",
+    "html": "<p>The semantic model settings pane is becoming the default way to configure semantic models in the Power BI service. The pane opens alongside your workspace, so you can review and change settings without leaving the current page. It provides the same settings as the full semantic model settings page while keeping the surrounding context visible. The classic settings page remains available during this transition, but it no longer opens first. This change builds on the settings pane preview and provides a more focused experience for managing semantic models.</p><h2>Why it matters</h2><p>The pane helps you stay in context while you manage a semantic model. It opens on the right side of the browser window and keeps your workspace visible. Settings are organized into expandable sections and tabs, including refresh, data access, performance, and OneDrive and SharePoint. You can use the search box at the top of the pane to find a setting across all sections and tabs. For example, enter \"re\" and select <strong>View refresh history</strong> to go directly to refresh history instead of opening sections one at a time. This organization is especially useful for semantic models with several connection, refresh, or performance settings. You can review a setting, make a change, and return to your work without navigating to a separate page.</p><h2>What's changing</h2><p>The settings pane was an optional experience earlier in the preview. As this change rolls out, the pane opens by default when you open settings for a semantic model. The rollout is gradual, so the timing can vary by environment.</p><p>The pane includes the settings available on the full settings page. Its main area groups related settings into expandable sections, and the tabs at the top organize settings by category. Use the search box when you know the setting you want or browse the sections to review related options together.</p><p>If you prefer the full-page experience, select <strong>Open settings page</strong> at the bottom of the pane. The classic page opens in the same browser window. This option can help when you want to compare settings across semantic models or continue using a familiar workflow during the transition.</p><p>The classic settings page will be retired over time, so the switchback option is intended to support the transition. We're also working to consolidate related settings, including scheduled refresh and data connections. These planned improvements apply to the settings pane. The preview experience and behavior might change before general availability.</p>Figure: Switch from the semantic model settings pane to the classic settings page.<h2>Next steps</h2><ul><li>Understand <a href=\"https://learn.microsoft.com/power-bi/connect-data/service-datasets-permissions\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Semantic model permissions in Power BI</a>.</li><li>Learn how to use the pane in <a href=\"https://learn.microsoft.com/power-bi/connect-data/service-semantic-model-settings-pane\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Manage semantic model settings in the settings pane</a>.</li><li>Open the settings for one of your semantic models and explore the grouped sections and search.</li><li>Share feature suggestions through <a href=\"https://community.fabric.microsoft.com/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Community Ideas</a>.</li><li>Share feedback about the preview in the comments.</li></ul>",
+    "excerpt": "The semantic model settings pane is becoming the default way to configure semantic models in the Power BI service. The pane opens alongside your workspace, so you can review and change settings without leaving the current page. It provides the same settings as the full semantic model settings page while keeping the…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Semantic model permissions in Power BI",
+        "url": "https://learn.microsoft.com/power-bi/connect-data/service-datasets-permissions"
+      },
+      {
+        "label": "Manage semantic model settings in the settings pane",
+        "url": "https://learn.microsoft.com/power-bi/connect-data/service-semantic-model-settings-pane"
+      },
+      {
+        "label": "Fabric Community Ideas",
+        "url": "https://community.fabric.microsoft.com/"
+      }
+    ]
+  },
+  "contentHash": "4b686648723704349f2b3306086c00b19a91c005068b4134032bfc81fa137633",
+  "categories": [
+    "power-bi"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 55,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "data-scientists",
+      "administrators",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

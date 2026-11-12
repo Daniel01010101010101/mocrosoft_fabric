@@ -1,0 +1,23 @@
+{
+  "id": "rm-8a059230-3855-f111-bec7-000d3a36696c",
+  "releaseItemId": "8a059230-3855-f111-bec7-000d3a36696c",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "Ontology Health",
+  "description": "We are introducing Ontology Health in Microsoft Fabric to help modelers quickly assess whether an ontology is ready for real-world use. With this capability, ontology quality is continuously evaluated across three core areas—foundation, validation, and refinement—ensuring models are structurally sound, properly configured, and operationally ready. With this capability, you can: * Identify structural issues and inconsistencies through foundation checks to ensure the ontology is sound. * Verify required configurations using validation checks to confirm completeness and correctness. * Improve clarity, coverage, and usability with refinement checks for downstream consumption. * Quickly prioritize fixes with results categorized as Critical, Warning, or Information. * Navigate directly to impacted elements with guided actions, enabling faster issue resolution and increased trust in queries, graph experiences, and AI-powered outcomes.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q2 2027",
+  "releaseQuarterStart": "2027-04-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=8a059230-3855-f111-bec7-000d3a36696c",
+  "contentHash": "75e4be7e167e67ff0d125aaea97f84b83de53bf5af4c9677fe7391429b460296",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

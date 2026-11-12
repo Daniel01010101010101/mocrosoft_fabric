@@ -1,0 +1,61 @@
+{
+  "id": "wn-fc3adfbd7cc4f0",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Secure-Azure-and-Fabric-Event-Flows-Across-Workspaces-with/ba-p/5240305",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-hub/private-links-real-time-events",
+  "title": "Workspace outbound access protection for Azure and Fabric events (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Workspace outbound access protection (OAP) for Azure and Fabric events (Preview) extends outbound network controls to cross-workspace event consumption. For more information, see Tenant private links for Azure and Fabric events.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Secure-Azure-and-Fabric-Event-Flows-Across-Workspaces-with/ba-p/5240305\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace outbound access protection (OAP) for Azure and Fabric events (Preview)</a> extends outbound network controls to cross-workspace event consumption. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-hub/private-links-real-time-events\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Tenant private links for Azure and Fabric events</a>.",
+    "excerpt": "Workspace outbound access protection (OAP) for Azure and Fabric events (Preview) extends outbound network controls to cross-workspace event consumption. For more information, see Tenant private links for Azure and Fabric events.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Workspace outbound access protection (OAP) for Azure and Fabric events (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Secure-Azure-and-Fabric-Event-Flows-Across-Workspaces-with/ba-p/5240305"
+      },
+      {
+        "label": "Tenant private links for Azure and Fabric events",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-hub/private-links-real-time-events"
+      }
+    ]
+  },
+  "contentHash": "cb68fec962fd0a7bbd5bbf710193033db3beb2b2967a98c7955fd6328e165e21",
+  "categories": [
+    "security",
+    "admin-governance"
+  ],
+  "primaryCategory": "security",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Secure-Azure-and-Fabric-Event-Flows-Across-Workspaces-with/ba-p/5240305",
+    "backfill": "true"
+  }
+}

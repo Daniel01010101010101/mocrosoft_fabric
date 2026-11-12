@@ -1,0 +1,23 @@
+{
+  "id": "rm-953e72e4-d3fa-ee11-a1ff-000d3a340b2c",
+  "releaseItemId": "953e72e4-d3fa-ee11-a1ff-000d3a340b2c",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "COPY INTO support for secure storage",
+  "description": "You can now ingest data into your Warehouse using COPY INTO from an external Azure storage account that is protected behind a Firewall.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2024",
+  "releaseQuarterStart": "2024-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=953e72e4-d3fa-ee11-a1ff-000d3a340b2c",
+  "contentHash": "8273a673909996f1ec0977a8481f94f2f2ecb9dab7031d9c89eeda46527b4f15",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

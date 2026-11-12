@@ -1,0 +1,52 @@
+{
+  "id": "wn-8d5942fac5d0e3",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_52",
+  "title": "Activator rule management (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.3,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Activator rule management (Preview) provides a central Real-Time Hub view for rules created across Fabric experiences.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_52\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Activator rule management (Preview)</a> provides a central Real-Time Hub view for rules created across Fabric experiences.",
+    "excerpt": "Activator rule management (Preview) provides a central Real-Time Hub view for rules created across Fabric experiences.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Activator rule management (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_52"
+      }
+    ]
+  },
+  "contentHash": "afb79663cf36128e490f8d8289dd373564511c9d1fb5ca03f7cfd9daa288a29a",
+  "categories": [
+    "data-activator"
+  ],
+  "primaryCategory": "data-activator",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_52"
+  }
+}

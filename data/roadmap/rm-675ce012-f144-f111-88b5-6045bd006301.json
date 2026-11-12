@@ -1,0 +1,23 @@
+{
+  "id": "rm-675ce012-f144-f111-88b5-6045bd006301",
+  "releaseItemId": "675ce012-f144-f111-88b5-6045bd006301",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "Outbound access protection for Operations Agent",
+  "description": "We are delivering Outbound Access Protection for Operations Agent in Microsoft Fabric, enabling administrators to enforce workspace-level security controls on all outbound actions performed by AI-driven automation.With this capability, you canEnsure all outbound actions such as triggering Power Automate flows, executing Fabric jobs, or sending Teams notifications are governed by administrator-defined connection rules.Block outbound connections by default when OAP is enabled, permitting traffic only through approved endpoints to prevent unauthorized data movement.Leverage a hybrid enforcement model that applies direct checks for external services like Teams while using Activator-managed enforcement for workflow and job execution across workspaces.Outbound Access Protection is available in Public Preview for all Fabric customers using Operations Agent. Configure access rules from the workspace security settings.Tentative GA Scope: Activator OAP toggle for OAOntology OAP toggle for OAPower Automate OAP toggle for OA",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=675ce012-f144-f111-88b5-6045bd006301",
+  "contentHash": "ab9b0f20e645302f050e3f1de3d3b9578b7407d0f78d8dc3d71a05b3c226f4ea",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

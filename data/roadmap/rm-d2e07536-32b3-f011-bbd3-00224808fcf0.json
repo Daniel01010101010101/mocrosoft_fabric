@@ -1,0 +1,23 @@
+{
+  "id": "rm-d2e07536-32b3-f011-bbd3-00224808fcf0",
+  "releaseItemId": "d2e07536-32b3-f011-bbd3-00224808fcf0",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Fabric OneLake catalog in Excel Get Data",
+  "description": "The OneLake catalog integration in Excel as part of modern Get Data unlocks seamless connectivity to Fabric data, empowering every business user to discover and analyze organizational content directly from Excel. This powerful capability simplifies data access and accelerates insights, making Excel a true gateway to Fabric’s rich data ecosystem.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=d2e07536-32b3-f011-bbd3-00224808fcf0",
+  "contentHash": "c0f6ec267e7f0a25e9657491128d97a5a77ad216e28d65c69e21fc9dc8cdbc83",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

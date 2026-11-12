@@ -1,0 +1,60 @@
+{
+  "id": "wn-14fa65246da9a5",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-introduction",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-introduction",
+  "title": "Activator as business events publisher (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.92,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Activator provides a no-code way to publish business events in Microsoft Fabric. When Activator detects that a condition is met in your data, it can emit a structured business event into Real-Time hub, making that signal discoverable, routable, and consumable by your entire organization. For more information, see What is Fabric Activator? and Business events overview.",
+    "html": "Activator provides a no-code way to publish business events in Microsoft Fabric. When Activator detects that a condition is met in your data, it can emit a structured business event into Real-Time hub, making that signal discoverable, routable, and consumable by your entire organization. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-introduction\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">What is Fabric Activator?</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-hub/business-events/business-events-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Business events overview</a>.",
+    "excerpt": "Activator provides a no-code way to publish business events in Microsoft Fabric. When Activator detects that a condition is met in your data, it can emit a structured business event into Real-Time hub, making that signal discoverable, routable, and consumable by your entire organization. For more information, see What…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "What is Fabric Activator?",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-introduction"
+      },
+      {
+        "label": "Business events overview",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-hub/business-events/business-events-overview"
+      }
+    ]
+  },
+  "contentHash": "2a079cc8f7358ad6282d37ec56ae25e15b0baf0842c47b0d02c4add538fa28a0",
+  "categories": [
+    "real-time-intelligence",
+    "data-activator"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

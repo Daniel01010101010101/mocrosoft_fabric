@@ -1,0 +1,23 @@
+{
+  "id": "rm-108da855-9f06-ef11-9f89-000d3a33ff0b",
+  "releaseItemId": "108da855-9f06-ef11-9f89-000d3a33ff0b",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Data pipeline support for Event-Driven Triggers",
+  "description": "A common use case for invoking Data Factory data pipelines is to trigger the pipeline upon file events like file arrival and file delete. For customers coming from ADF or Synapse to Fabric, using ADLS/Blog storage events is very common as a way to either signal for a new pipeline execution or to capture the names of the files created. Triggers in Fabric Data Factory leverage Fabric platform capabilities including EventStreams and Reflex triggers. Inside of the Fabric Data Factory pipeline design canvas, you will have a Trigger button that you can press to create a Reflex trigger for your pipeline or you can create the trigger directly from the Data Activator experience.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2024",
+  "releaseQuarterStart": "2024-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=108da855-9f06-ef11-9f89-000d3a33ff0b",
+  "contentHash": "0c091026104e6a853faa9667cca27811ecd15a62e6a42eba6082499420ae0994",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-0b5b5933-5ac0-f011-bbd3-6045bd05dd14",
+  "releaseItemId": "0b5b5933-5ac0-f011-bbd3-6045bd05dd14",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "General Availability of Fabric Data Agents",
+  "description": "**General Availability of Fabric Data Agents**We’re preparing to bring the core Fabric Data Agent capabilities to general availability in March. This release will introduce broad support for key data sources, including Lakehouse, Warehouse, Semantic Models, Eventhouse, SQL Databases, and Mirrored Databases. Users will also be able to configure data agent using agent-level instructions, data source–specific instructions, and example queries to tailor behavior to your scenarios. Publishing and sharing within Microsoft Fabric will also be generally available, making it easier to operationalize and collaborate on data agents.In addition, this release includes diagnostic downloads, Git integration, and deployment pipelines as part of Microsoft Fabric’s Application Lifecycle Management (ALM) capabilities, enabling robust governance and lifecycle management.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=0b5b5933-5ac0-f011-bbd3-6045bd05dd14",
+  "contentHash": "30f3853e14fe536b94a695d729f9d139dbb5caba89ff0d2ccab9e92b0faeddee",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

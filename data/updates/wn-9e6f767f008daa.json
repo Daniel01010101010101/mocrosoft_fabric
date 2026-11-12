@@ -1,0 +1,60 @@
+{
+  "id": "wn-9e6f767f008daa",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-Schema-Changes-in-Fabric-Data-Warehouse-with-ALTER/ba-p/5177593",
+  "docsUrl": "https://learn.microsoft.com/en-us/sql/t-sql/statements/alter-table-transact-sql?view=fabric&preserve-view=true#syntax-for-warehouse-in-fabric",
+  "title": "ALTER COLUMN for Fabric Data Warehouse (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.98,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "ALTER TABLE ... ALTER COLUMN (Preview) lets you make supported schema changes directly on warehouse tables with familiar T-SQL syntax. Supported scenarios complete as metadata-only updates without rewriting Parquet files. For more information, see ALTER TABLE (Transact-SQL) syntax for warehouse in Fabric.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-Schema-Changes-in-Fabric-Data-Warehouse-with-ALTER/ba-p/5177593\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ALTER TABLE ... ALTER COLUMN (Preview)</a> lets you make supported schema changes directly on warehouse tables with familiar T-SQL syntax. Supported scenarios complete as metadata-only updates without rewriting Parquet files. For more information, see <a href=\"https://learn.microsoft.com/en-us/sql/t-sql/statements/alter-table-transact-sql?view=fabric&amp;preserve-view=true#syntax-for-warehouse-in-fabric\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ALTER TABLE (Transact-SQL) syntax for warehouse in Fabric</a>.",
+    "excerpt": "ALTER TABLE ... ALTER COLUMN (Preview) lets you make supported schema changes directly on warehouse tables with familiar T-SQL syntax. Supported scenarios complete as metadata-only updates without rewriting Parquet files. For more information, see ALTER TABLE (Transact-SQL) syntax for warehouse in Fabric.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "ALTER TABLE ... ALTER COLUMN (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-Schema-Changes-in-Fabric-Data-Warehouse-with-ALTER/ba-p/5177593"
+      },
+      {
+        "label": "ALTER TABLE (Transact-SQL) syntax for warehouse in Fabric",
+        "url": "https://learn.microsoft.com/en-us/sql/t-sql/statements/alter-table-transact-sql?view=fabric&preserve-view=true#syntax-for-warehouse-in-fabric"
+      }
+    ]
+  },
+  "contentHash": "84acac7620f03736974754b5d2159e7d9133c2eea5cfeeb53f7e6e554e781b0c",
+  "categories": [
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-Schema-Changes-in-Fabric-Data-Warehouse-with-ALTER/ba-p/5177593",
+    "backfill": "true"
+  }
+}

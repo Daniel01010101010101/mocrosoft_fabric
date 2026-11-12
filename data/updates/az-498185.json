@@ -1,0 +1,59 @@
+{
+  "id": "az-498185",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=498185",
+  "title": "Public Preview: Cosmos DB in Microsoft Fabric",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2025-07-14T16:45:47.138Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Take advantage of the innovations in Fabric to unify your operational data and analytics in OneLake using real-time intelligence, Copilot-powered Microsoft Power BI, and SQL queries—without having to stitch together separate services. At Microsoft Build 2025, we announced a limited preview for Cosmos DB in Microsoft Fabric. This offering is now publicly available in preview—and includes many new features. For example, you can use mirroring to automatically replicate your data from Cosmos DB in Fabric to OneLake and use continuous integration and continuous deployment (CI/CD) to manage development, test, and production pipelines. This preview also includes foundational metrics monitoring, and vector and full-text search. This is a major step toward making operational data readily accessible across the Fabric ecosystem. We're continuing to expand integration support to help you drive even more value from your data in Fabric.\nLearn more.",
+    "html": "<span><span>Take advantage of the innovations in Fabric to unify your o</span><span>per</span><span>ational data and analytics in </span><span>OneLake</span><span> using real-time intelligence, Copilot-powered Microsoft Power BI, and SQL queries—without having to stitch together separate services. At Microsoft Build 2025, we announced a lim</span><span>ite</span><span>d preview for Cosmos DB in Microsoft Fabric. This offering is now publicly available in preview—and includes many new features. For example, you can use mirroring to automatically replicate your data from Cosmos DB in Fabric to </span><span>OneLake</span><span> and use continuous integration and continuous deployment (CI/CD) to manage development, test, and production pipelines. This preview also includes </span><span>foundational</span><span> </span><span>metrics</span><span> </span><span>monitoring, and</span><span> vector and full-text search. This is a major step toward making o</span><span>per</span><span>ational data readily accessible across the Fabric ecosystem. </span><span>We're</span><span> continuing to expand integration support to help you drive even more value from your data in Fabric.</span></span><span> </span><p><span></span><a rel=\"noopener noreferrer nofollow\" href=\"https://aka.ms/CosmosDBFabricPreviewAnnouncement\" target=\"_blank\"><span></span><span><span><span>Learn more</span></span></span></a><span><span>.</span></span><span> </span></p>",
+    "excerpt": "Take advantage of the innovations in Fabric to unify your operational data and analytics in OneLake using real-time intelligence, Copilot-powered Microsoft Power BI, and SQL queries—without having to stitch together separate services. At Microsoft Build 2025, we announced a limited preview for Cosmos DB in Microsoft…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://aka.ms/CosmosDBFabricPreviewAnnouncement"
+      }
+    ]
+  },
+  "contentHash": "31f06113481923ed8898326ad497c45911c3f2c7937304b00b9c0534877f2fcb",
+  "categories": [
+    "databases"
+  ],
+  "primaryCategory": "databases",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 66,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "In preview",
+    "products": "Azure Cosmos DB",
+    "tags": "Features",
+    "previewDate": "2025-07",
+    "modified": "2025-07-14T16:45:47.1380482Z"
+  }
+}

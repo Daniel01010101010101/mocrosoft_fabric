@@ -1,0 +1,23 @@
+{
+  "id": "rm-a3b61e19-5da0-ef11-8a6a-00224804e9b4",
+  "releaseItemId": "a3b61e19-5da0-ef11-8a6a-00224804e9b4",
+  "product": "Data Science",
+  "productId": "0522b590-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-science",
+  "name": "Real-Time Endpoints for Machine Learning Models [Public Preview]",
+  "description": "Alongside the existing functionality for batch scoring with PREDICT, Fabric will allow data scientists to serve real-time predictions from any registered ML Model using secure, scalable online endpoints that are automatically configured. These endpoints can be called from other Fabric engines or from external apps, allowing users to deploy their models for wide, reliable consumption.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=a3b61e19-5da0-ef11-8a6a-00224804e9b4",
+  "contentHash": "7a309db4bcc668858bf323d134d3c2a1c813a78c98aa389d64ea666c04668f8d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

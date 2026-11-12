@@ -1,0 +1,23 @@
+{
+  "id": "rm-b632b753-9a1f-f011-9989-000d3a329ecb",
+  "releaseItemId": "b632b753-9a1f-f011-9989-000d3a329ecb",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "OneLake security - ReadWrite permission",
+  "description": "Configure write permissions for folders in a lakehouse using OneLake security. With this feature, viewers can be given selective write access to certain folders in the lakehouse enabling teams to write data without having Contributor or higher roles in the workspace.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=b632b753-9a1f-f011-9989-000d3a329ecb",
+  "contentHash": "af337ed251c3dca13d04335f16e0ca3c78da90a110e068f8479e2d634539b8b1",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

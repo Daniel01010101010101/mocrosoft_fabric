@@ -1,0 +1,23 @@
+{
+  "id": "rm-7c9a04b4-0997-ef11-8a6a-6045bd062aa2",
+  "releaseItemId": "7c9a04b4-0997-ef11-8a6a-6045bd062aa2",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "KQL database as new data source in AI Skill",
+  "description": "This feature allows users to query their Kusto databases in Fabric using natural language, receiving both a concise answer and the corresponding KQL (Kusto Query Language) query. Users can ask questions like “What was the total number of logins last week?” and get not only the result but also the underlying KQL query for transparency and reuse. To enhance accuracy, users can provide few-shot examples—sample questions with expected answers. The system supports iterative queries, enabling users to refine their questions or update notes for more precise outputs, making data analysis more accessible while empowering advanced users with greater control.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=7c9a04b4-0997-ef11-8a6a-6045bd062aa2",
+  "contentHash": "4c81ae19314eb2901c415cef3be2acac31e1c78ce460786ab58a765460a0c14e",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

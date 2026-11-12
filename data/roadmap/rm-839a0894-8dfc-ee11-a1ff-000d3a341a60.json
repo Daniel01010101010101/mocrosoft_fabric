@@ -1,0 +1,23 @@
+{
+  "id": "rm-839a0894-8dfc-ee11-a1ff-000d3a341a60",
+  "releaseItemId": "839a0894-8dfc-ee11-a1ff-000d3a341a60",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Copilot in Power BI",
+  "description": "Copilot in Power BI brings advanced generative AI to experiences across Power BI report creation and consumption experiences. Copilot assists users to create new report pages by providing suggestions on how to analyze their data. It can also automatically create, format, and lay out visuals based on their natural language requests. Further, users can chat with Copilot in order to update and refine their report designs and to learn about the data presented in visuals. And most importantly, with Copilot the user is always in control. They decide what to keep, modify, or discard, and their data always remains their data.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=839a0894-8dfc-ee11-a1ff-000d3a341a60",
+  "contentHash": "14584d4662c66afe7354af9fcfeddab16e7697989e7333aec74b03d7e3e5f01e",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

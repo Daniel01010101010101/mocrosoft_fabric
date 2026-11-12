@@ -1,0 +1,57 @@
+{
+  "id": "wn-c5fd1424928282",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/VNET-Data-Gateway-Autoscaling-Preview/ba-p/5281553",
+  "title": "Autoscaling for Virtual Network Data Gateway (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Autoscaling for Virtual Network Data Gateway (Preview) automatically adjusts the number of active gateway nodes within admin-defined minimum and maximum limits based on workload demand, so the gateway absorbs spikes without manual intervention and scales down to reduce cost during idle periods.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/VNET-Data-Gateway-Autoscaling-Preview/ba-p/5281553\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Autoscaling for Virtual Network Data Gateway (Preview)</a> automatically adjusts the number of active gateway nodes within admin-defined minimum and maximum limits based on workload demand, so the gateway absorbs spikes without manual intervention and scales down to reduce cost during idle periods.",
+    "excerpt": "Autoscaling for Virtual Network Data Gateway (Preview) automatically adjusts the number of active gateway nodes within admin-defined minimum and maximum limits based on workload demand, so the gateway absorbs spikes without manual intervention and scales down to reduce cost during idle periods.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Autoscaling for Virtual Network Data Gateway (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/VNET-Data-Gateway-Autoscaling-Preview/ba-p/5281553"
+      }
+    ]
+  },
+  "contentHash": "2332f29056b521a863b221c1b7f838cb4bfef3cb3de30dab30ab1ab97022f4c7",
+  "categories": [
+    "data-factory",
+    "security"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/VNET-Data-Gateway-Autoscaling-Preview/ba-p/5281553",
+    "backfill": "true"
+  }
+}

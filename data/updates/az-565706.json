@@ -1,0 +1,58 @@
+{
+  "id": "az-565706",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=565706",
+  "title": "Public Preview: Azure Databricks natively storing data in Microsoft OneLake",
+  "originalLanguage": "en",
+  "languageConfidence": 0.95,
+  "publishedAt": "2026-06-17T18:00:18.767Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Azure Databricks can now natively write managed Delta tables to Microsoft OneLake. This capability enables customers to use OneLake as a unified storage layer for Azure Databricks workloads without managing separate storage accounts. By storing data directly in OneLake, organizations can maintain a single copy of data that can be accessed across Microsoft Fabric and Azure Databricks, reducing duplication and simplifying data management.\nLearn more.",
+    "html": "Azure Databricks can now natively write managed Delta tables to Microsoft OneLake. This capability enables customers to use OneLake as a unified storage layer for Azure Databricks workloads without managing separate storage accounts. <p>By storing data directly in OneLake, organizations can maintain a single copy of data that can be accessed across Microsoft Fabric and Azure Databricks, reducing duplication and simplifying data management.</p><p><a href=\"https://aka.ms/ADBOneLakeWrite\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Learn more</a>. </p>",
+    "excerpt": "Azure Databricks can now natively write managed Delta tables to Microsoft OneLake. This capability enables customers to use OneLake as a unified storage layer for Azure Databricks workloads without managing separate storage accounts. By storing data directly in OneLake, organizations can maintain a single copy of data…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://aka.ms/ADBOneLakeWrite"
+      }
+    ]
+  },
+  "contentHash": "7b04078cf922813775ca6179096124ba28c96abecf325790e58ec9a100892518",
+  "categories": [
+    "onelake",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "In preview",
+    "products": "Azure Databricks",
+    "tags": "Features",
+    "previewDate": "2026-06",
+    "modified": "2026-06-17T18:00:18.7677390Z"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-3ed3d63a-6eb8-f011-bbd3-00224808fcf0",
+  "releaseItemId": "3ed3d63a-6eb8-f011-bbd3-00224808fcf0",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Surge Protection V2 (Workspace-level)",
+  "description": "Fabric Platform will introduce a new granular surge protection capability that helps customers govern the resource consumption in their capacities. This is an essential capability that ensures that no single actor can consume an entire capacity unexpectedly.Granular Surge Protection consists of three new capabilities:1. Limits on total CUs consumption by a workspace in a period of time. New controls enable Capacity admins to set high-level maximum CUs consumption as a percentage of the SKU’s available CUs. The limits are enforced on “actors”, which initially will be Workspaces.  Capacities will compute the cumulative usage associated with each workspace assigned to the capacity. When the limit is exceeded, new jobs from the workspace are not allowed to start in the capacity until the overuse has burned down.2. Ability to exclude mission critical actors from these limits. Capacity Admins will be able to exclude specific workspaces from surge protection limits. This will exclude them from granular limits AND from background rejection surge protection limits. At a minimum they will add the actor to a list of exclusions. In the long term, Capacity Admins will be able to delegate exclusions to workspace and domain admins through a tagging system.3. Ability to block and unblock workspaces. Capacity admins will be able to block a workspace for a period of time (e.g. 24 hours). They will be able to unblock workspaces, including those that surge protection blocked.As Microsoft releases its update to Fabric Surge Protection Capabilities, the Capacity Metrics App will be updated to reflect these updates.  Specifically, this will include a Workspace-level drill-down detailing out key data points such as blocked workspaces, duration of blockage, users affected, the number of interactive and background rejected operations, and more.  This enables admins to get clear reporting visibility to workspace health as it relates to Surge Protection, allowing for investigation and adjustment of settings to ensure quality of service.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=3ed3d63a-6eb8-f011-bbd3-00224808fcf0",
+  "contentHash": "7da72df26c902513315989c2dafa7f8255e13fa114cefb81faa1109a07ba2f8b",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

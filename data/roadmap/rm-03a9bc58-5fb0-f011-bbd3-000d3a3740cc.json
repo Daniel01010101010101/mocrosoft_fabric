@@ -1,0 +1,23 @@
+{
+  "id": "rm-03a9bc58-5fb0-f011-bbd3-000d3a3740cc",
+  "releaseItemId": "03a9bc58-5fb0-f011-bbd3-000d3a3740cc",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Capacity Events in Real-Time Hub (RTH) - Overview Events",
+  "description": "**Capacity Events in Fabric Real-Time Hub (RTH)****Capacity Events in RTH ** provides near-real-time telemetry for Fabric capacities, enabling admins to monitor, troubleshoot, and automate capacity management with low latency.  This Preview includes Overview Events (e.g., 'Capacity Overview' event group) which encompasses the **Capacity Summary** and **Capacity State** events.  Capacity Summary shows capacity usage at a given moment, calculated using a 30-second smoothed utilization of the capacity.  Capacity State captures changes in capacity due to different actions, such as switching to a paused state or becoming overloaded due to throttling.  By utilizing Eventhouse, admins can perform deeper analysis - while Activator can enable real-time actions and alerts without writing any code.  Admins can also integrate with a system of their choice.  Ultimately, these events provide deeper understanding of a capacity, helping administrators monitor overall health and utilization and rapidly take action to keep their capacities healthy.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=03a9bc58-5fb0-f011-bbd3-000d3a3740cc",
+  "contentHash": "659bed5bd378641ffe3b158f2b84e8c62d3e7ad966926db3487ff453f46b54b0",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

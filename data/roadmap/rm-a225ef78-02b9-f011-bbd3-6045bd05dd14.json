@@ -1,0 +1,23 @@
+{
+  "id": "rm-a225ef78-02b9-f011-bbd3-6045bd05dd14",
+  "releaseItemId": "a225ef78-02b9-f011-bbd3-6045bd05dd14",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Customer Managed Keys for SQL DB",
+  "description": "Customer Managed Keys (CMK) feature allows customers to use keys that they own and manage to encrypt their data at rest in Fabric. With CMK support for SQL DB, customer can abide by their organization’s internal security, data governance and compliance efforts by enhancing security control over their SQL database.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=a225ef78-02b9-f011-bbd3-6045bd05dd14",
+  "contentHash": "b948eb1b51726e84fe408b7037f3f3cb425d755de3301cbb6f452dba8f975ea1",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

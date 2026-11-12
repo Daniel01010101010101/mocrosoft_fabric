@@ -1,0 +1,23 @@
+{
+  "id": "rm-2b2a6a86-7532-f011-8c4d-6045bd030c4d",
+  "releaseItemId": "2b2a6a86-7532-f011-8c4d-6045bd030c4d",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Copy Job - Connector parity with pipeline  (batch + incremental)",
+  "description": "Customers will use Copy job to copy data from/to the same number of data store type support by Copy activity in pipeline.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=2b2a6a86-7532-f011-8c4d-6045bd030c4d",
+  "contentHash": "a826255c9d3de51a11bf18f943628279e32d7ae92cc52efd5c35dc7db04e8fbe",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

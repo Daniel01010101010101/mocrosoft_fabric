@@ -1,0 +1,62 @@
+{
+  "id": "wn-71f44abea695af",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advancing-the-Microsoft-Fabric-SQL-Query-Editor/ba-p/5364033",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/set-alerts-warehouse-sql-query",
+  "title": "Fabric Activator integration with warehouse SQL queries (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric Activator integration with warehouse SQL queries (Preview) lets you define conditions on query results and trigger follow-up actions. For more information, see Set alerts on warehouse queries.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advancing-the-Microsoft-Fabric-SQL-Query-Editor/ba-p/5364033\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Activator integration with warehouse SQL queries (Preview)</a> lets you define conditions on query results and trigger follow-up actions. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/set-alerts-warehouse-sql-query\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Set alerts on warehouse queries</a>.",
+    "excerpt": "Fabric Activator integration with warehouse SQL queries (Preview) lets you define conditions on query results and trigger follow-up actions. For more information, see Set alerts on warehouse queries.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric Activator integration with warehouse SQL queries (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advancing-the-Microsoft-Fabric-SQL-Query-Editor/ba-p/5364033"
+      },
+      {
+        "label": "Set alerts on warehouse queries",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/set-alerts-warehouse-sql-query"
+      }
+    ]
+  },
+  "contentHash": "1986c4f7ed58db44add03e896bcc130574c9b2be460ae123128c16a49acadbf6",
+  "categories": [
+    "data-activator",
+    "data-warehouse",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "data-activator",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advancing-the-Microsoft-Fabric-SQL-Query-Editor/ba-p/5364033",
+    "backfill": "true"
+  }
+}

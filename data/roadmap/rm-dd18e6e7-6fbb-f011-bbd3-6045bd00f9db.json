@@ -1,0 +1,23 @@
+{
+  "id": "rm-dd18e6e7-6fbb-f011-bbd3-6045bd00f9db",
+  "releaseItemId": "dd18e6e7-6fbb-f011-bbd3-6045bd00f9db",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Fabric CI/CD in the CLI",
+  "description": "Key capabilities of fabric-cicd library are now integrated directly into the Fabric CLI. With the new deploy command, you can automate full workspace deployments — including item rebinding and configuration — from the command line. This unifies your deployment workflows and reduces the need for custom scripts or additional tools.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=dd18e6e7-6fbb-f011-bbd3-6045bd00f9db",
+  "contentHash": "6ae9947174d701606b8b520a1ffe1cad8ffe3e0da3fb9dd0480d1e6b981e0df0",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

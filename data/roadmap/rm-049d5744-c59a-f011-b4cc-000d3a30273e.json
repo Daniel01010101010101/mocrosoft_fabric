@@ -1,0 +1,23 @@
+{
+  "id": "rm-049d5744-c59a-f011-b4cc-000d3a30273e",
+  "releaseItemId": "049d5744-c59a-f011-b4cc-000d3a30273e",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Copy Job/Activity - Lakehouse connector support query mode in Copy Job and Pipeline activities",
+  "description": "Lakehouse connector now supports to read delta table through query mode in Copy job and Pipeline activities (copy activity, lookup activity)",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=049d5744-c59a-f011-b4cc-000d3a30273e",
+  "contentHash": "7e376df2e487645f53a63879fa8bd210d02cfb9fa6e74096e6e0fea7a6bf13ec",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

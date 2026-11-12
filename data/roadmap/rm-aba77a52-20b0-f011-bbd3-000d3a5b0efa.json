@@ -1,0 +1,23 @@
+{
+  "id": "rm-aba77a52-20b0-f011-bbd3-000d3a5b0efa",
+  "releaseItemId": "aba77a52-20b0-f011-bbd3-000d3a5b0efa",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Git Integration - Selective Branching",
+  "description": "When developers want to start working on specific feature within Fabric, the user will be able to perform the branch-out operation and select the specific items that require for the feature instead of having all the Fabric items in the target workspace (as today)This will enhance the developer experience and will reduce their time time-to-code.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=aba77a52-20b0-f011-bbd3-000d3a5b0efa",
+  "contentHash": "5d90d8d924c89e0bca2309e6858e60b866475e577128714aaf26cfe69e9b1655",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-ff58d457-f3b8-f011-bbd3-000d3a3740cc",
+  "releaseItemId": "ff58d457-f3b8-f011-bbd3-000d3a3740cc",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Variable Library - Connection reference variable type",
+  "description": "A new variable type is added to Variable library item, which keeps Cloud connection ID,  enforce permissions and brings better experience for parameterize connections in CI/CD as allowing customize connection based on deployment stage.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=ff58d457-f3b8-f011-bbd3-000d3a3740cc",
+  "contentHash": "c4662a6153ed566ef1380755b23b79d3ab807c0733e9ee29bcac6c2a544649e7",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

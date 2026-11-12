@@ -1,0 +1,61 @@
+{
+  "id": "wn-f0adb26ccf67f0",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_81",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/monitor-eventhouse",
+  "title": "Eventhouse workspace-monitoring logs (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Eventhouse workspace-monitoring logs (Preview) expose throttling, suboptimal-size, and scale-out events. For more information, see Monitor Eventhouse.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_81\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Eventhouse workspace-monitoring logs (Preview)</a> expose throttling, suboptimal-size, and scale-out events. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/monitor-eventhouse\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Monitor Eventhouse</a>.",
+    "excerpt": "Eventhouse workspace-monitoring logs (Preview) expose throttling, suboptimal-size, and scale-out events. For more information, see Monitor Eventhouse.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Eventhouse workspace-monitoring logs (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_81"
+      },
+      {
+        "label": "Monitor Eventhouse",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/monitor-eventhouse"
+      }
+    ]
+  },
+  "contentHash": "bc277b152db11f5403d3983dac9000d8f41a860ffb7980047c2297583be9c829",
+  "categories": [
+    "real-time-intelligence",
+    "admin-governance"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_81"
+  }
+}

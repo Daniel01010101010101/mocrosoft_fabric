@@ -1,0 +1,63 @@
+{
+  "id": "wn-20dda0feeb8f1b",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_83",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/set-up-tenant-workspace-private-links",
+  "title": "Eventhouse workspace Private Link (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Eventhouse workspace Private Link secures supported ingestion, querying, monitoring, and reuse within private-link-enabled workspaces. For more information, see Tenant and workspace Private Links.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_83\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Eventhouse workspace Private Link</a> secures supported ingestion, querying, monitoring, and reuse within private-link-enabled workspaces. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/set-up-tenant-workspace-private-links\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Tenant and workspace Private Links</a>.",
+    "excerpt": "Eventhouse workspace Private Link secures supported ingestion, querying, monitoring, and reuse within private-link-enabled workspaces. For more information, see Tenant and workspace Private Links.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Eventhouse workspace Private Link",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_83"
+      },
+      {
+        "label": "Tenant and workspace Private Links",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/set-up-tenant-workspace-private-links"
+      }
+    ]
+  },
+  "contentHash": "b4e01b402d28c6978c949f5f1c2db4b54c2c52ffdce3076212f566236bcc0a02",
+  "categories": [
+    "admin-governance",
+    "security",
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "admin-governance",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 72,
+    "level": "alto",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_83"
+  }
+}

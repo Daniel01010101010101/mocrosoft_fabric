@@ -1,0 +1,23 @@
+{
+  "id": "rm-dca3a694-cb9a-f011-b4cc-000d3a5b0efa",
+  "releaseItemId": "dca3a694-cb9a-f011-b4cc-000d3a5b0efa",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Copy job - CDC replication with full history tracking (SCD2)",
+  "description": "Copy Job supports CDC-based replication with SCD2 patterns. It captures incremental changes including  inserts, updates, and deletions from the source system using Change Data Capture (CDC) and applies them to the target table while preserving full historical records.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=dca3a694-cb9a-f011-b4cc-000d3a5b0efa",
+  "contentHash": "4655ea5355f2ca16e90e90eb15195010f956260d7115f192ae067269bba4c442",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

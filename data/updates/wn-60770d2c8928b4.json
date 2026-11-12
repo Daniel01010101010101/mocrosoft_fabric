@@ -1,0 +1,61 @@
+{
+  "id": "wn-60770d2c8928b4",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Fabric-Maps-into-Real-Time-Dashboards-Preview/ba-p/5360916",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-real-time-create#add-a-fabric-maps-tile-preview",
+  "title": "Fabric Maps in Real-Time Dashboards (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.64,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric Maps in Real-Time Dashboards (Preview) lets you add a published Fabric Map as a dashboard tile while keeping the map's layers, filters, and styling in the map item. For more information, see Add a Fabric Maps tile.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Fabric-Maps-into-Real-Time-Dashboards-Preview/ba-p/5360916\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Maps in Real-Time Dashboards (Preview)</a> lets you add a published Fabric Map as a dashboard tile while keeping the map's layers, filters, and styling in the map item. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-real-time-create#add-a-fabric-maps-tile-preview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Add a Fabric Maps tile</a>.",
+    "excerpt": "Fabric Maps in Real-Time Dashboards (Preview) lets you add a published Fabric Map as a dashboard tile while keeping the map's layers, filters, and styling in the map item. For more information, see Add a Fabric Maps tile.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric Maps in Real-Time Dashboards (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Fabric-Maps-into-Real-Time-Dashboards-Preview/ba-p/5360916"
+      },
+      {
+        "label": "Add a Fabric Maps tile",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-real-time-create#add-a-fabric-maps-tile-preview"
+      }
+    ]
+  },
+  "contentHash": "3735dc7ca3994df29ea1dcfa689d066a7cec97d7e27c3078b79c01037b396900",
+  "categories": [
+    "power-bi",
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Fabric-Maps-into-Real-Time-Dashboards-Preview/ba-p/5360916",
+    "backfill": "true"
+  }
+}

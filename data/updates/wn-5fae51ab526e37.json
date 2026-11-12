@@ -1,0 +1,56 @@
+{
+  "id": "wn-5fae51ab526e37",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/passing-parameter-values-to-refresh-a-dataflow-gen2-preview?ft=All",
+  "title": "Public parameter values to refresh a Dataflow Gen2 (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Learn more about the new public parameters capability for Dataflow Gen2 with CI/CD support, and the support for this new mode within the Dataflow refresh activity in Data Pipelines.",
+    "html": "Learn more about the new <a href=\"https://blog.fabric.microsoft.com/blog/passing-parameter-values-to-refresh-a-dataflow-gen2-preview?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">public parameters capability for Dataflow Gen2</a> with CI/CD support, and the support for this new mode within the Dataflow refresh activity in Data Pipelines.",
+    "excerpt": "Learn more about the new public parameters capability for Dataflow Gen2 with CI/CD support, and the support for this new mode within the Dataflow refresh activity in Data Pipelines.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "public parameters capability for Dataflow Gen2",
+        "url": "https://blog.fabric.microsoft.com/blog/passing-parameter-values-to-refresh-a-dataflow-gen2-preview?ft=All"
+      }
+    ]
+  },
+  "contentHash": "5cfac1cd29f53d55067990e33d0329988e83a4b92e546b25b1d6374fdd7aeaf3",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/passing-parameter-values-to-refresh-a-dataflow-gen2-preview?ft=All",
+    "backfill": "true"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-853c11fa-d11f-f111-8341-6045bd0a8ec1",
+  "releaseItemId": "853c11fa-d11f-f111-8341-6045bd0a8ec1",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Conditional formatting for lines and series/labels in Power BI visuals",
+  "description": "Conditional formatting to be available for series in Power BI visuals. This includes lines, markers, and legends.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=853c11fa-d11f-f111-8341-6045bd0a8ec1",
+  "contentHash": "f51a1991d7ac2f29a5540bc9db23f1da2eb11a8c8ec5f4e01a2b827dfd97977e",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

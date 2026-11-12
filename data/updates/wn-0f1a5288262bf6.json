@@ -1,0 +1,65 @@
+{
+  "id": "wn-0f1a5288262bf6",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Automate-recurring-business-logic-with-scheduled-User-Data/ba-p/5341912",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/user-data-functions/user-data-functions-overview",
+  "title": "Scheduled User Data Functions (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.78,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Scheduled User Data Functions (Preview) run parameterized business logic on a recurring cadence through the Fabric job scheduler, with execution history available in the monitoring hub. For more information, see User Data Functions overview and Schedule a User Data Function.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Automate-recurring-business-logic-with-scheduled-User-Data/ba-p/5341912\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Scheduled User Data Functions (Preview)</a> run parameterized business logic on a recurring cadence through the Fabric job scheduler, with execution history available in the monitoring hub. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/user-data-functions/user-data-functions-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">User Data Functions overview</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/user-data-functions/schedule-functions\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Schedule a User Data Function</a>.",
+    "excerpt": "Scheduled User Data Functions (Preview) run parameterized business logic on a recurring cadence through the Fabric job scheduler, with execution history available in the monitoring hub. For more information, see User Data Functions overview and Schedule a User Data Function.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Scheduled User Data Functions (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Automate-recurring-business-logic-with-scheduled-User-Data/ba-p/5341912"
+      },
+      {
+        "label": "User Data Functions overview",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/user-data-functions/user-data-functions-overview"
+      },
+      {
+        "label": "Schedule a User Data Function",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/user-data-functions/schedule-functions"
+      }
+    ]
+  },
+  "contentHash": "fa03d6d152d497391b59b4be80668f919169c6b55c64a4c67a6fbb3641d54808",
+  "categories": [
+    "data-engineering"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "administrators",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Automate-recurring-business-logic-with-scheduled-User-Data/ba-p/5341912",
+    "backfill": "true"
+  }
+}

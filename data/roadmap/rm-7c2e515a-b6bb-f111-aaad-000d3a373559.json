@@ -1,0 +1,23 @@
+{
+  "id": "rm-7c2e515a-b6bb-f111-aaad-000d3a373559",
+  "releaseItemId": "7c2e515a-b6bb-f111-aaad-000d3a373559",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Power BI Vega visual",
+  "description": "Customize the presentation of your data in a Power BI report with a Vega specification.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=7c2e515a-b6bb-f111-aaad-000d3a373559",
+  "contentHash": "8de61a84c2e1c96e27ad5e3376408e3a54d04563d5ca7a6b0859c6934dfb349f",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

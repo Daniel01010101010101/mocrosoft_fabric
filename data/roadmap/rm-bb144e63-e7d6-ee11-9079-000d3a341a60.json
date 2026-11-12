@@ -1,0 +1,23 @@
+{
+  "id": "rm-bb144e63-e7d6-ee11-9079-000d3a341a60",
+  "releaseItemId": "bb144e63-e7d6-ee11-9079-000d3a341a60",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Workspace monitoring",
+  "description": "Fabric workspace administrators and developers require access to detailed diagnostic logs and workload metrics to troubleshoot performance issues, capacity performance, and data downtime. As part of the Fabric Monitoring  feature we intend to provide a read-only database of workspace logs that users can query ad-hoc, analyze for patterns and anomalies, or save drafted queries to as query sets. This helps drive investigations on root-cause analysis for errors, long running queries, refresh failures, and other issues. We will continue to enhance this feature by adding in-context monitoring and diagnostics experiences.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=bb144e63-e7d6-ee11-9079-000d3a341a60",
+  "contentHash": "cb584a53aa28a3bb206f0a19089fc357eb9b3e40f383b0baa9dd6c7ead6d3695",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

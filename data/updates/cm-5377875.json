@@ -1,0 +1,61 @@
+{
+  "id": "cm-5377875",
+  "kind": "blog",
+  "source": "fabric-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Eventhouse-support-for-OneLake-security-Generally-Available/ba-p/5377875",
+  "docsUrl": "https://learn.microsoft.com/fabric/onelake/security/create-manage-roles",
+  "title": "Eventhouse support for OneLake security (Generally Available)",
+  "author": "aonelakeuser",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-04T22:00:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Security should be consistent wherever you query your data. With OneLake security, you can define access controls once, close to the data, and apply them across supported Microsoft Fabric engines without recreating your security rules for each experience.\nToday, we’re announcing the general availability of OneLake security support for Eventhouse external tables. When these external tables query data secured by OneLake security, they automatically enforce object-level, column-level, and row-level access controls. This extends the same centrally managed security model to KQL queries, helping you maintain consistent, end-to-end security and governance across analytics experiences.\nLakehouse data with Eventhouse power\nThe Eventhouse endpoint for Lakehouses provides a high-performance query layer over data stored in the Lakehouse, bringing the speed and scale of the Eventhouse engine to your existing data without requiring another copy. Because access remains governed by OneLake security, users get Eventhouse performance while your organization maintains a shared, centrally managed security model across Fabric.\nObject, column, and row level security\nEventhouse support covers three levels of access control, allowing you to tailor access to the data users need.\n• Object-level security: Control which underlying OneLake tables a user can access. Creating an external table in Eventhouse does not grant access to the secured data it references.\n• Column-level security: Limit access to sensitive columns. Users can analyze the data they’re permitted to access without gaining access to protected fields.\n• Row-level security: Filter table data using the rules defined in your OneLake security roles. Users querying an external table receive only the rows they’re authorized to read.\nThese controls are applied automatically based on the querying user’s effective OneLake permissions. The external table provides a way to query the data and not a separate path around its security.\nFigure: When the user queries the data through Eventhouse, only rows for “United States” are returned, based on the user’s OneLake security rules.\nGet started\nTo get started, use OneLake security roles to define access to your OneLake tables, and then query the secured data through the Eventhouse endpoint. Test the experience with a representative data consumer to confirm that table access, column restrictions, and row filters match your intended policies.\nFor more information about defining access controls, refer to Table, column, and row-level security in OneLake.\nWith Eventhouse support for OneLake security, teams can use KQL to analyze Lakehouse data with Eventhouse performance while preserving centrally managed access controls across Fabric.",
+    "html": "<p>Security should be consistent wherever you query your data. With OneLake security, you can define access controls once, close to the data, and apply them across supported Microsoft Fabric engines without recreating your security rules for each experience.</p>\n<p>Today, we’re announcing the general availability of OneLake security support for Eventhouse external tables. When these external tables query data secured by OneLake security, they automatically enforce object-level, column-level, and row-level access controls. This extends the same centrally managed security model to KQL queries, helping you maintain consistent, end-to-end security and governance across analytics experiences.</p>\n<h2>Lakehouse data with Eventhouse power</h2>\n<p>The Eventhouse endpoint for Lakehouses provides a high-performance query layer over data stored in the Lakehouse, bringing the speed and scale of the Eventhouse engine to your existing data without requiring another copy. Because access remains governed by OneLake security, users get Eventhouse performance while your organization maintains a shared, centrally managed security model across Fabric.</p>\n<h2>Object, column, and row level security</h2>\n<p>Eventhouse support covers three levels of access control, allowing you to tailor access to the data users need.</p>\n<ul>\n<li><strong>Object-level security:</strong> Control which underlying OneLake tables a user can access. Creating an external table in Eventhouse does not grant access to the secured data it references.</li>\n<li><strong>Column-level security:</strong> Limit access to sensitive columns. Users can analyze the data they’re permitted to access without gaining access to protected fields.</li>\n<li><strong>Row-level security:</strong> Filter table data using the rules defined in your OneLake security roles. Users querying an external table receive only the rows they’re authorized to read.</li>\n</ul>\n<p>These controls are applied automatically based on the querying user’s effective OneLake permissions. The external table provides a way to query the data and not a separate path around its security.</p>\n\n<p>Figure: When the user queries the data through Eventhouse, only rows for “United States” are returned, based on the user’s OneLake security rules.</p>\n\n<h2>Get started</h2>\n<p>To get started, use <a href=\"https://learn.microsoft.com/fabric/onelake/security/create-manage-roles\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">OneLake security roles</a> to define access to your OneLake tables, and then query the secured data through the Eventhouse endpoint. Test the experience with a representative data consumer to confirm that table access, column restrictions, and row filters match your intended policies.</p>\n<p>For more information about defining access controls, refer to <a href=\"https://learn.microsoft.com/fabric/onelake/security/table-column-row-security\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Table, column, and row-level security in OneLake</a>.</p>\n<p>With Eventhouse support for OneLake security, teams can use KQL to analyze Lakehouse data with Eventhouse performance while preserving centrally managed access controls across Fabric.</p>",
+    "excerpt": "Security should be consistent wherever you query your data. With OneLake security, you can define access controls once, close to the data, and apply them across supported Microsoft Fabric engines without recreating your security rules for each experience. Today, we’re announcing the general availability of OneLake…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "OneLake security roles",
+        "url": "https://learn.microsoft.com/fabric/onelake/security/create-manage-roles"
+      },
+      {
+        "label": "Table, column, and row-level security in OneLake",
+        "url": "https://learn.microsoft.com/fabric/onelake/security/table-column-row-security"
+      }
+    ]
+  },
+  "contentHash": "bad71bb897d378bb236105425b9cb4a4dfae0c2c842ec309f8387dab0f207403",
+  "categories": [
+    "security",
+    "onelake",
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "security",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 75,
+    "level": "alto",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-scientists",
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

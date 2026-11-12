@@ -1,0 +1,23 @@
+{
+  "id": "rm-34631b0a-c065-f111-a826-6045bd00fc61",
+  "releaseItemId": "34631b0a-c065-f111-a826-6045bd00fc61",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Relationship Context for SQL Sources",
+  "description": "Data Agent automatically follows the foreign key relationships in your SQL source to query the right tables — including ones you didn't explicitly select. When you scope an agent to a schema or just a couple of base tables, the agent expands along those foreign keys to bring in the other tables a question needs and generates SQL that joins them correctly, so you get accurate multi-table answers from a small starting selection. For relationships that aren't defined in the source or live only in how your business uses the data, creators and advanced users can define additional relationships through the SDK & Data Agent experience. These configurations are stored alongside the rest of the agent configuration in a consistent, source-controllable format — so they flow through your CI/CD pipeline",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=34631b0a-c065-f111-a826-6045bd00fc61",
+  "contentHash": "7211681d97daa9b6f5933e00e7a0760a3ec3bc24d2879f3dba5cff15aa21eaca",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

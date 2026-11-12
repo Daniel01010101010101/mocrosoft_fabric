@@ -1,0 +1,23 @@
+{
+  "id": "rm-bb7de14c-ebb8-f011-bbd3-6045bd05dd14",
+  "releaseItemId": "bb7de14c-ebb8-f011-bbd3-6045bd05dd14",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Browse and Connectivity in VS Code for Fabric Warehouse",
+  "description": "VS Code allows developers to explore Fabric Workspaces and connect directly to Fabric Warehouses, providing seamless access to data and objects. Key capabilities include:* Workspace exploration: Navigate Fabric Workspaces, including their warehouses, tables, views, and other artifacts.* Direct connectivity: Connect to one or multiple Fabric Warehouses from VS Code for querying or management.* Integrated workflow: Quickly access schemas and objects for development, debugging, or CI/CD without switching tools.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=bb7de14c-ebb8-f011-bbd3-6045bd05dd14",
+  "contentHash": "ed84b8ddd9f37e461cffa7ca2f8cdeafae4e9d9f411c9241c8f33223db85eda5",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

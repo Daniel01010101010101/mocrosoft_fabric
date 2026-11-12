@@ -1,0 +1,23 @@
+{
+  "id": "rm-81643458-b721-f011-9989-000d3a34671f",
+  "releaseItemId": "81643458-b721-f011-9989-000d3a34671f",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Fabric Materialized Lake Views - Optimal Refresh",
+  "description": "[Optimal Refresh](https://learn.microsoft.com/en-us/fabric/data-engineering/materialized-lake-views/overview-materialized-lake-view) – refreshes only changed data (supporting filter, innerjoin and projections) instead of entire datasets, delivering faster and more efficient data updates.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=81643458-b721-f011-9989-000d3a34671f",
+  "contentHash": "d3caaeaf5d98d0fcaeab6de9e1c525e4c2716542a345458eb438e2d9b153afb7",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

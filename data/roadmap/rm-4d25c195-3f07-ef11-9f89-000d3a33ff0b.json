@@ -1,0 +1,23 @@
+{
+  "id": "rm-4d25c195-3f07-ef11-9f89-000d3a33ff0b",
+  "releaseItemId": "4d25c195-3f07-ef11-9f89-000d3a33ff0b",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Copilot for measure descriptions",
+  "description": "Use Fabric Copilot for Power BI to create descriptions for your semantic model measures. The description property is important documentation for your measures, as only the measure name and description are available to those who are making reports from your semantic model. Fabric Copilot can make your semantic model documentation easier by generating measure descriptions for you. This is when you create the measure and when you update the DAX formula of a measure, at each stage Copilot can quickly generate or update the measure description, helping you maintain your documentation and maintaining your workflow.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=4d25c195-3f07-ef11-9f89-000d3a33ff0b",
+  "contentHash": "a3827661e45902412e0f28dbd270f670cc82a4e458e4887a2e6240eb48148e02",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

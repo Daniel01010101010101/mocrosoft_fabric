@@ -1,0 +1,23 @@
+{
+  "id": "rm-51053c51-3f07-ef11-9f89-000d3a33ff0b",
+  "releaseItemId": "51053c51-3f07-ef11-9f89-000d3a33ff0b",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Deliver subscriptions to a OneDrive and SharePoint location",
+  "description": "With the ability to deliver Power BI and paginated report subscriptions to a OneDrive or SharePoint location, users can now view reports that are too large to be delivered to their inboxes. Accessing these reports from OneDrive or SharePoint locations makes finding reports easy too. Users can also keep all the historical reports that they need.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2024",
+  "releaseQuarterStart": "2024-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=51053c51-3f07-ef11-9f89-000d3a33ff0b",
+  "contentHash": "1327da987bef26f6bf607e57c57059143e4d8a852fb43e8ea247caf66c12e87b",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

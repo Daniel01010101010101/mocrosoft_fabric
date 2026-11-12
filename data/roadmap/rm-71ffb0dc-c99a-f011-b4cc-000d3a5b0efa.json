@@ -1,0 +1,23 @@
+{
+  "id": "rm-71ffb0dc-c99a-f011-b4cc-000d3a5b0efa",
+  "releaseItemId": "71ffb0dc-c99a-f011-b4cc-000d3a5b0efa",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Copy job - CDC based replication to Oracle",
+  "description": "Customers can use Copy job to automatically capture inserts, updates, and deletions from any supported CDC source store, and replicate them to the new destination stores including Oracle without requiring a watermark column.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=71ffb0dc-c99a-f011-b4cc-000d3a5b0efa",
+  "contentHash": "b82e793d9dd03ba530d731020905fae8ef2fc1f36d209a91408cabad44ebd3c0",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

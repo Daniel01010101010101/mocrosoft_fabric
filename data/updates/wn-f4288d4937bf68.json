@@ -1,0 +1,59 @@
+{
+  "id": "wn-f4288d4937bf68",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_64",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/fabric-workspace-monitoring",
+  "title": "Eventstream processing logs (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Eventstream processing logs (Preview) send Azure Stream Analytics warnings, failures, and recovery events to workspace monitoring. For more information, see Eventstream workspace monitoring.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_64\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Eventstream processing logs (Preview)</a> send Azure Stream Analytics warnings, failures, and recovery events to workspace monitoring. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/fabric-workspace-monitoring\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Eventstream workspace monitoring</a>.",
+    "excerpt": "Eventstream processing logs (Preview) send Azure Stream Analytics warnings, failures, and recovery events to workspace monitoring. For more information, see Eventstream workspace monitoring.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Eventstream processing logs (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_64"
+      },
+      {
+        "label": "Eventstream workspace monitoring",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/fabric-workspace-monitoring"
+      }
+    ]
+  },
+  "contentHash": "303e2459815205a7826c6abb6a7e1b4cb0462a5f493e214f99620c0a1f1d8674",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_64"
+  }
+}

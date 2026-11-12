@@ -1,0 +1,23 @@
+{
+  "id": "rm-833e115d-8d82-ef11-ac21-002248098a98",
+  "releaseItemId": "833e115d-8d82-ef11-ac21-002248098a98",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Alter Table - Drop/sp_rename column",
+  "description": "Alter Table - Drop Column & sp_rename column will enable customers to alter their table definition by dropping and renaming columns. This is in addition to existing Alter Table functionality which supports adding new column and is in production today.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=833e115d-8d82-ef11-ac21-002248098a98",
+  "contentHash": "d9aa4ef3f30b173253d8aefda9e773ac53d37addbc5b09c9785ef334c7fa9190",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

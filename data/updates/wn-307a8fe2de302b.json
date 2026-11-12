@@ -1,0 +1,60 @@
+{
+  "id": "wn-307a8fe2de302b",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_79",
+  "title": "Update policies on accelerated shortcuts (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Update policies on accelerated shortcuts (Preview) apply ingestion-time transformations to query-accelerated OneLake shortcuts. For more information, see Update policies on accelerated shortcuts.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_79\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Update policies on accelerated shortcuts (Preview)</a> apply ingestion-time transformations to query-accelerated OneLake shortcuts. For more information, see <a href=\"https://aka.ms/qap-up-shortcuts\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Update policies on accelerated shortcuts</a>.",
+    "excerpt": "Update policies on accelerated shortcuts (Preview) apply ingestion-time transformations to query-accelerated OneLake shortcuts. For more information, see Update policies on accelerated shortcuts.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Update policies on accelerated shortcuts (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_79"
+      },
+      {
+        "label": "Update policies on accelerated shortcuts",
+        "url": "https://aka.ms/qap-up-shortcuts"
+      }
+    ]
+  },
+  "contentHash": "c5681f79132c487927e3a01b961831a5207f91577c1622744d1a1a785d7044bb",
+  "categories": [
+    "onelake"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "architects",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_79"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "wn-f5bb46be87f089",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/microsoft-fabric-december-2023-update/#post-6543-_Toc153457404",
+  "docsUrl": "https://learn.microsoft.com/en-us/rest/api/fabric/admin/items",
+  "title": "Fabric Admin APIs",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric Admin APIs are designed to streamline administrative tasks. The initial set of Fabric Admin APIs is tailored to simplify the discovery of workspaces, Fabric items, and user access details.",
+    "html": "<a href=\"https://blog.fabric.microsoft.com/blog/microsoft-fabric-december-2023-update/#post-6543-_Toc153457404\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Admin APIs</a> are designed to streamline administrative tasks. The <a href=\"https://learn.microsoft.com/en-us/rest/api/fabric/admin/items\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">initial set of Fabric Admin APIs</a> is tailored to simplify the discovery of workspaces, Fabric items, and user access details.",
+    "excerpt": "Fabric Admin APIs are designed to streamline administrative tasks. The initial set of Fabric Admin APIs is tailored to simplify the discovery of workspaces, Fabric items, and user access details.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric Admin APIs",
+        "url": "https://blog.fabric.microsoft.com/blog/microsoft-fabric-december-2023-update/#post-6543-_Toc153457404"
+      },
+      {
+        "label": "initial set of Fabric Admin APIs",
+        "url": "https://learn.microsoft.com/en-us/rest/api/fabric/admin/items"
+      }
+    ]
+  },
+  "contentHash": "29f6507cb8c28d825488dc91901049d9a9a0b6409a2c4f55b994dce0022dd999",
+  "categories": [
+    "admin-governance",
+    "developer-apis"
+  ],
+  "primaryCategory": "admin-governance",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/microsoft-fabric-december-2023-update/#post-6543-_Toc153457404",
+    "backfill": "true"
+  }
+}

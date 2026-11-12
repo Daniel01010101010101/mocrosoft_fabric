@@ -1,0 +1,23 @@
+{
+  "id": "rm-e1155791-5721-f011-9989-000d3a329ecb",
+  "releaseItemId": "e1155791-5721-f011-9989-000d3a329ecb",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Data Pipelines - \"Triggered By\" information for Data Pipeline activities",
+  "description": "A current limitation is that we do not present users with the name of the artifact that produced an artifact execution, for example, when a Data Pipeline triggers the execution of a Dataflow Gen2 artifact. We will provide a TriggeredBy field to capture the origin of each item invocation for monitoring purposes.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=e1155791-5721-f011-9989-000d3a329ecb",
+  "contentHash": "cdca8181b87710156a8f151edd4f73d18bd3abb9b71ae5e4c5304483d7dd6fc5",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

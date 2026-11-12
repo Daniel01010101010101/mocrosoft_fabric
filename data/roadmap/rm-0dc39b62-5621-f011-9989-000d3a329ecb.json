@@ -1,0 +1,23 @@
+{
+  "id": "rm-0dc39b62-5621-f011-9989-000d3a329ecb",
+  "releaseItemId": "0dc39b62-5621-f011-9989-000d3a329ecb",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Data Pipelines - Templates Gallery improvements",
+  "description": "Templates are crucial for customers to reduce their time-to-solution. We will simplify this with improvements to the pipeline template gallery including new templates for AI and Semantic Models and new template gallery categories.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=0dc39b62-5621-f011-9989-000d3a329ecb",
+  "contentHash": "2504efe1aaa1377616a45b0593e21a3846856976e969040a4edb850fa24d790e",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

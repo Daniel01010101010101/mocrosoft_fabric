@@ -1,0 +1,60 @@
+{
+  "id": "az-560293",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=560293",
+  "title": "Generally Available: Enhanced Mirroring Azure Database for PostgreSQL in Microsoft Fabric",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-04-22T17:30:14.118Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "New capabilities make it easier to mirror real-world Azure Database for PostgreSQL workloads at scale in Microsoft Fabric and operate them with confidence.\nYou can mirror native PostgreSQL data types such as JSON, JSONB and other commonly used types, so richer application schemas flow directly into Fabric without workarounds. Mirroring setup is simpler because the replication user no longer needs to own database tables, allowing you to enable mirroring on existing databases without changing ownership or security models.\nOperating mirroring is more transparent as well. Improved error messaging and dedicated PostgreSQL User-Defined Functions (UDFs) help you quickly determine whether tables can be mirrored, view mirroring status, and identify blocking conditions directly from PostgreSQL. In addition, mirroring now supports Azure Database for PostgreSQL flexible server with high availability (HA) enabled on PostgreSQL versions earlier than 17, letting you combine HA and analytics without waiting for an engine upgrade.\nThese improvements reduce friction and help you trust your PostgreSQL data as it powers analytics and AI experiences in Fabric.\nLearn more.",
+    "html": "<p><span>New capabilities make it easier to mirror real-world Azure Database for PostgreSQL workloads at scale in Microsoft Fabric and operate them with confidence.</span></p><p><span>You can mirror native PostgreSQL data types such as JSON, JSONB and other commonly used types, so richer application schemas flow directly into Fabric without workarounds. Mirroring setup is simpler because the replication user no longer needs to own database tables, allowing you to enable mirroring on existing databases without changing ownership or security models.</span></p><p><span>Operating mirroring is more transparent as well. Improved error messaging and dedicated PostgreSQL User-Defined Functions (UDFs) help you quickly determine whether tables can be mirrored, view mirroring status, and identify blocking conditions directly from PostgreSQL. In addition, mirroring now supports Azure Database for PostgreSQL flexible server with high availability (HA) enabled on PostgreSQL versions earlier than 17, letting you combine HA and analytics without waiting for an engine upgrade.</span></p><p><span>These improvements reduce friction and help you trust your PostgreSQL data as it powers analytics and AI experiences in Fabric. </span></p><p><a href=\"https://aka.ms/pgmirroringrefresh\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"><span>Learn more</span></a><span>. </span></p>",
+    "excerpt": "New capabilities make it easier to mirror real-world Azure Database for PostgreSQL workloads at scale in Microsoft Fabric and operate them with confidence. You can mirror native PostgreSQL data types such as JSON, JSONB and other commonly used types, so richer application schemas flow directly into Fabric without…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://aka.ms/pgmirroringrefresh"
+      }
+    ]
+  },
+  "contentHash": "ee7d226d5941d18dbab25161014b91d8b3beba954d27e57a17983d9304c81100",
+  "categories": [
+    "data-factory",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 67,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-scientists",
+      "architects",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "Launched",
+    "products": "Azure Database for PostgreSQL, Microsoft Fabric",
+    "tags": "Features",
+    "gaDate": "2026-04",
+    "modified": "2026-04-22T17:30:14.1183372Z"
+  }
+}

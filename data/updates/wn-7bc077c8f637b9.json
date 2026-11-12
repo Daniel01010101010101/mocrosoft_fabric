@@ -1,0 +1,60 @@
+{
+  "id": "wn-7bc077c8f637b9",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/A-new-analytics-frontier-GPU-accelerated-Fabric-Data-Warehouse/ba-p/5191598",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-warehouse/query-acceleration",
+  "title": "Fabric Data Warehouse GPU query acceleration (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "GPU-accelerated Fabric Data Warehouse (Early Access Preview) uses NVIDIA accelerated computing to run eligible T-SQL queries on GPUs with no query rewrites, delivering up to 7x faster performance at high concurrency across all SQL analytics endpoints and warehouses in a workspace once you enable it from workspace settings. For more information, see Query acceleration in Fabric Data Warehouse (preview).",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/A-new-analytics-frontier-GPU-accelerated-Fabric-Data-Warehouse/ba-p/5191598\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">GPU-accelerated Fabric Data Warehouse (Early Access Preview)</a> uses NVIDIA accelerated computing to run eligible T-SQL queries on GPUs with no query rewrites, delivering up to 7x faster performance at high concurrency across all SQL analytics endpoints and warehouses in a workspace once you enable it from workspace settings. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/query-acceleration\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Query acceleration in Fabric Data Warehouse (preview)</a>.",
+    "excerpt": "GPU-accelerated Fabric Data Warehouse (Early Access Preview) uses NVIDIA accelerated computing to run eligible T-SQL queries on GPUs with no query rewrites, delivering up to 7x faster performance at high concurrency across all SQL analytics endpoints and warehouses in a workspace once you enable it from workspace…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "GPU-accelerated Fabric Data Warehouse (Early Access Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/A-new-analytics-frontier-GPU-accelerated-Fabric-Data-Warehouse/ba-p/5191598"
+      },
+      {
+        "label": "Query acceleration in Fabric Data Warehouse (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/query-acceleration"
+      }
+    ]
+  },
+  "contentHash": "4d309de86c9a6fc25946f680e2da17b7be95a8fe508162ca73461b5842ee11f4",
+  "categories": [
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/A-new-analytics-frontier-GPU-accelerated-Fabric-Data-Warehouse/ba-p/5191598",
+    "backfill": "true"
+  }
+}

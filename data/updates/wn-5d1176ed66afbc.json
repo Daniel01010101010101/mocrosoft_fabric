@@ -1,0 +1,63 @@
+{
+  "id": "wn-5d1176ed66afbc",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-agentic-warehouse-development-to-Fabric-Data-Warehouse/ba-p/5360190",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-warehouse/data-warehouse-mcp-server",
+  "title": "Fabric Data Warehouse MCP server (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.94,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Agentic warehouse development with MCP and Agent Skills (Preview) introduces a remote Data Warehouse MCP server that lets AI coding agents work with Fabric warehouses through authenticated, governed tools. For more information, see Data Warehouse MCP server and Skills for Microsoft Fabric.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-agentic-warehouse-development-to-Fabric-Data-Warehouse/ba-p/5360190\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Agentic warehouse development with MCP and Agent Skills (Preview)</a> introduces a remote Data Warehouse MCP server that lets AI coding agents work with Fabric warehouses through authenticated, governed tools. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/data-warehouse-mcp-server\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Data Warehouse MCP server</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/fundamentals/skills-for-fabric-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Skills for Microsoft Fabric</a>.",
+    "excerpt": "Agentic warehouse development with MCP and Agent Skills (Preview) introduces a remote Data Warehouse MCP server that lets AI coding agents work with Fabric warehouses through authenticated, governed tools. For more information, see Data Warehouse MCP server and Skills for Microsoft Fabric.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Agentic warehouse development with MCP and Agent Skills (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-agentic-warehouse-development-to-Fabric-Data-Warehouse/ba-p/5360190"
+      },
+      {
+        "label": "Data Warehouse MCP server",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/data-warehouse-mcp-server"
+      },
+      {
+        "label": "Skills for Microsoft Fabric",
+        "url": "https://learn.microsoft.com/en-us/fabric/fundamentals/skills-for-fabric-overview"
+      }
+    ]
+  },
+  "contentHash": "1b87b32457745599a1545f4b1105a1db61c74c98588c96d09d5ae9ba7edd47f2",
+  "categories": [
+    "data-warehouse",
+    "copilot-ai"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-agentic-warehouse-development-to-Fabric-Data-Warehouse/ba-p/5360190",
+    "backfill": "true"
+  }
+}

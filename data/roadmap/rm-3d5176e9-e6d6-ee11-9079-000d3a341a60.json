@@ -1,0 +1,23 @@
+{
+  "id": "rm-3d5176e9-e6d6-ee11-9079-000d3a341a60",
+  "releaseItemId": "3d5176e9-e6d6-ee11-9079-000d3a341a60",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Workspace recovery",
+  "description": "In the event of unintentional workspace deletions, this feature allows tenant admins to recover workspaces, including Fabric items. Admins can set recovery policies and recover the deleted workspaces within a specified timeframe. Deleted workspaces are soft deleted and recoverable by the tenant admins. Tenant admins will be able to configure the retention period via a setting in the Fabric admin portal. This capability, is already supported for workspaces with Power BI items, and it will extend to include workspaces with Fabric items.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=3d5176e9-e6d6-ee11-9079-000d3a341a60",
+  "contentHash": "964b8201b2fffca3fae5272f15a8b64b3c4fc3bc05bf07c28b5e41af1c24c08c",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

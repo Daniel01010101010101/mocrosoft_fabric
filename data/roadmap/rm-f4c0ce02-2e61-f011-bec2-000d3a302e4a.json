@@ -1,0 +1,23 @@
+{
+  "id": "rm-f4c0ce02-2e61-f011-bec2-000d3a302e4a",
+  "releaseItemId": "f4c0ce02-2e61-f011-bec2-000d3a302e4a",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "VARCHAR(MAX) support in SQL analytics endpoint of Lakehouses (new metadata sync)",
+  "description": "SQL analytics endpoints for Lakehouses will support large string and binary data using VARCHAR(MAX) and VARBINARY(MAX) types, up to 16 MB, with the new Metadata Sync feature.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=f4c0ce02-2e61-f011-bec2-000d3a302e4a",
+  "contentHash": "9015250847b9c66ed7edb29448835d201bfee4380edef956161ffe7ba69aa95f",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-92e9ba56-9111-f111-8406-6045bd0a886d",
+  "releaseItemId": "92e9ba56-9111-f111-8406-6045bd0a886d",
+  "product": "SQL database",
+  "productId": "347da228-ea54-ef11-a317-0022480a694f",
+  "category": "databases",
+  "name": "Auditing for Fabric SQL DB",
+  "description": "**SQL Audit for Fabric SQL Database**Auditing is an essential enterprise-ready feature and a critical requirement for SQL Database in Fabric. Default Auditing:auditing for Fabric SQL Database is designed to deliver security by default. This default auditing mechanism audits all activities, aligning with the standards of Azure SQL Database. It enables customers to meet compliance requirements for the Fabric SQL Database and ensures that all audit logs are written to a single lake target.Custom Auditing:custom auditing, allowing customers to configure auditing based on specific scenarios such as auditing data reads and writes, schema changes, or all activities. Customers will have the flexibility to select custom action groups tailored to their compliance needs. Additionally, they can configure retention policies and predicate expressions to achieve precise filtering of audit logs.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=92e9ba56-9111-f111-8406-6045bd0a886d",
+  "contentHash": "06636eadf7966f027c7e600d5be6b174c038f62d89391ae521337cd3c157560f",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

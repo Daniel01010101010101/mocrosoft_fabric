@@ -1,0 +1,23 @@
+{
+  "id": "rm-a0e76d04-0b93-ef11-ac21-6045bd062aa2",
+  "releaseItemId": "a0e76d04-0b93-ef11-ac21-6045bd062aa2",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Spark Connector for Fabric Data Warehouse - General Availability",
+  "description": "The Spark connector for Microsoft Fabric Data Warehouse enables Spark developers and data scientists to access and work with data from a warehouse and the SQL analytics endpoint of a lakehouse. It offers a simplified Spark API, abstracts underlying complexity, and operates with just one line of code, while upholding security models like object-level security (OLS), row-level security (RLS), and column-level security (CLS).",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=a0e76d04-0b93-ef11-ac21-6045bd062aa2",
+  "contentHash": "07981177c95a5511029b42a8f991576c95471cf25361909034c9cda892944ca8",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

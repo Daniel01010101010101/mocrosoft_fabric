@@ -1,0 +1,23 @@
+{
+  "id": "rm-9bfc47ce-094d-f111-bec7-6045bd0a8ec1",
+  "releaseItemId": "9bfc47ce-094d-f111-bec7-6045bd0a8ec1",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "OneLake catalog Search API expansion to OneLake and Semantic model tables",
+  "description": "The OneLake Catalog Search API (POST /v1/catalog/search) — previously limited to Fabric items — now also returns OneLake tables (e.g. Lakehouse, Mirrored) and Semantic Model tables as first-class search results. Items and tables are ranked together in a single, unified relevance-scored result set — so the most relevant result surfaces first regardless of entity type.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=9bfc47ce-094d-f111-bec7-6045bd0a8ec1",
+  "contentHash": "a16dcf7c2201bc5f92b52bbbdc717715743e7d311e41f94a68ad71ba8c1e718c",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

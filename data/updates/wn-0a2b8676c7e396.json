@@ -1,0 +1,62 @@
+{
+  "id": "wn-0a2b8676c7e396",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/microsoft-fabric-november-2023-update/#post-5122-_Toc1381410242",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-git-deployment-pipelines",
+  "title": "Lakehouse support for git integration and deployment pipelines (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Lakehouse now integrates with the lifecycle management capabilities in Microsoft Fabric, providing a standardized collaboration between all development team members throughout the product's life. Lakehouse git integration and deployment pipelines facilitates an effective product versioning and release process by continuously delivering features and bug fixes into multiple environments.",
+    "html": "The <a href=\"https://blog.fabric.microsoft.com/blog/microsoft-fabric-november-2023-update/#post-5122-_Toc1381410242\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Lakehouse now integrates with the lifecycle management capabilities in Microsoft Fabric</a>, providing a standardized collaboration between all development team members throughout the product's life. <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-git-deployment-pipelines\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Lakehouse git integration and deployment pipelines</a> facilitates an effective product versioning and release process by continuously delivering features and bug fixes into multiple environments.",
+    "excerpt": "The Lakehouse now integrates with the lifecycle management capabilities in Microsoft Fabric, providing a standardized collaboration between all development team members throughout the product's life. Lakehouse git integration and deployment pipelines facilitates an effective product versioning and release process by…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Lakehouse now integrates with the lifecycle management capabilities in Microsoft Fabric",
+        "url": "https://blog.fabric.microsoft.com/blog/microsoft-fabric-november-2023-update/#post-5122-_Toc1381410242"
+      },
+      {
+        "label": "Lakehouse git integration and deployment pipelines",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-git-deployment-pipelines"
+      }
+    ]
+  },
+  "contentHash": "db3c30697496602991e160f12930f2dc2d87f4baf7b89a0882f553801ad544e5",
+  "categories": [
+    "developer-apis"
+  ],
+  "primaryCategory": "developer-apis",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/microsoft-fabric-november-2023-update/#post-5122-_Toc1381410242",
+    "backfill": "true"
+  }
+}

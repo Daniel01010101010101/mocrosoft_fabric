@@ -1,0 +1,23 @@
+{
+  "id": "rm-c897392a-504e-f111-bec7-6045bd0a886d",
+  "releaseItemId": "c897392a-504e-f111-bec7-6045bd0a886d",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Outbound access protection for Power BI (Reports)",
+  "description": "Workspace admins responsible for safeguarding organizational data will be able to leverage Outbound Access Control (OAP) in Fabric to ensure that Semantic Models and Power BI Reports are permitted to connect only to explicitly approved data sources. OAP helps to prevent data exfiltration by blocking data connections to unapproved or potentially risky endpoints, thereby enforcing organizational data governance and compliance requirements.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=c897392a-504e-f111-bec7-6045bd0a886d",
+  "contentHash": "0a6efb910a6915dfda727dbfa7a548f3b5348265604f5ce1d9df694c04836765",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

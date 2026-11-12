@@ -1,0 +1,23 @@
+{
+  "id": "rm-fc396a93-98fc-ee11-a1ff-000d3a341a60",
+  "releaseItemId": "fc396a93-98fc-ee11-a1ff-000d3a341a60",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Control visual formatting with improved capabilities",
+  "description": "Power BI will add new formatting capabilities that will provide users with more control over the appearance of their visuals. New format options will allow setting the padding and margins of visuals, and their default values will apply good design practices that will result in appealing visuals.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=fc396a93-98fc-ee11-a1ff-000d3a341a60",
+  "contentHash": "9ff95ae1d3478ae605cfd535054fb617aeccf808b67a8657cad38ba582ea6b5f",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

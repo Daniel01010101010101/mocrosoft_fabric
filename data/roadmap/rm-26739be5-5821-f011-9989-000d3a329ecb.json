@@ -1,0 +1,23 @@
+{
+  "id": "rm-26739be5-5821-f011-9989-000d3a329ecb",
+  "releaseItemId": "26739be5-5821-f011-9989-000d3a329ecb",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Data Pipelines - Pipeline-powered Semantic Model Refresh experience",
+  "description": "We will improve the Data Pipeline experiences within Semantic Model Refresh Settings by incorporating a shortcut from the semantic model management screens in Fabric to allow citizen users to utilize pipelines for advanced schedule of their refreshes.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=26739be5-5821-f011-9989-000d3a329ecb",
+  "contentHash": "aa6a96b7818625533c697be22bda4e85259270b69ae1525654e8a239c4247342",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

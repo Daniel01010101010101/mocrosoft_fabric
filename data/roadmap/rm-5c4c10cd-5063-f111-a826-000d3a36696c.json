@@ -1,0 +1,23 @@
+{
+  "id": "rm-5c4c10cd-5063-f111-a826-000d3a36696c",
+  "releaseItemId": "5c4c10cd-5063-f111-a826-000d3a36696c",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Mirroring - SharePoint List",
+  "description": "Mirroring for SharePoint List makes it easier for customers to use SharePoint list data in Fabric for reporting, analytics, and downstream data processing. With this capability, teams can bring operational list data into OneLake and combine it with other enterprise data sources, reducing the need for manual exports or custom data movement.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=5c4c10cd-5063-f111-a826-000d3a36696c",
+  "contentHash": "ea92219b0d0e758cc83f38c169cf97e95d92b6e8980540cbfb1cb0b954cbaa71",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

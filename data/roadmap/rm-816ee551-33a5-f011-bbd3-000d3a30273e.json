@@ -1,0 +1,23 @@
+{
+  "id": "rm-816ee551-33a5-f011-bbd3-000d3a30273e",
+  "releaseItemId": "816ee551-33a5-f011-bbd3-000d3a30273e",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Eventstream reference data join with one lake delta tables",
+  "description": "The Reference Data Join feature in Eventstream enables you to enrich streaming events by joining them with static or slowly changing delta tables in one lake.User can reference any one lake delta tables using lakehouse, and join it with streaming data in eventstream to enahace and add additional context to their events during processing.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=816ee551-33a5-f011-bbd3-000d3a30273e",
+  "contentHash": "6d102ec44af4767e42f73ec0ccfd751b1101b24e7135024600d26aeb5da6740c",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

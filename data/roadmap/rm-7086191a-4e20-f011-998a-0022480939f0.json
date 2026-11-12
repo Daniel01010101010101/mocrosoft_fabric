@@ -1,0 +1,23 @@
+{
+  "id": "rm-7086191a-4e20-f011-998a-0022480939f0",
+  "releaseItemId": "7086191a-4e20-f011-998a-0022480939f0",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Microsoft Purview data loss prevention policies for structured data in OneLake",
+  "description": "Security admins can create in Microsoft Purview Data Loss Prevention portal policies to detect the upload of sensitive data (such as social security number) to Fabric Lakehouse, Kustoand SQL databases, Mirrored databases,  and Semantic models. If such an upload is detected, the policies will trigger automatic audit activity and can be configured to show a custom policy tip to data owners and it can also trigger an alert for security admins. DLP policies can help automate the compliance processes to meet enterprise-scale compliance and regulatory requirements in an effective way.Note: Microsoft Purview data loss prevention policies for Fabric require Microsoft Purview license.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=7086191a-4e20-f011-998a-0022480939f0",
+  "contentHash": "cf78b37e3d77f5fd55cfcf66b9eccb39bcddad71a80fc530a77ff88104ccd5d0",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

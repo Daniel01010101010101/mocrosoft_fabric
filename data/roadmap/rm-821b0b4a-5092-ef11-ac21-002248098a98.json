@@ -1,0 +1,23 @@
+{
+  "id": "rm-821b0b4a-5092-ef11-ac21-002248098a98",
+  "releaseItemId": "821b0b4a-5092-ef11-ac21-002248098a98",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "OneLake encryption with customer-managed keys",
+  "description": "As part of our strategic roadmap to enhance data security and compliance, we are planning to introduce support for customer-managed keys (CMK) in OneLake. This feature provides organizations with greater control over their data encryption keys. With CMK, users will be able to manage their own encryption keys, ensuring that their data is protected in accordance with their specific security policies and regulatory requirements. If the customer's key is revoked, Microsoft will lose access to customer data in OneLake.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=821b0b4a-5092-ef11-ac21-002248098a98",
+  "contentHash": "cffea4e03b3085477dd87dfaf46e99e58282adf8129fdfa643f7119a2a5d5d97",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

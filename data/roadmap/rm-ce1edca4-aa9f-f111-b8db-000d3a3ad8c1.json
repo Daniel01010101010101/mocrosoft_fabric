@@ -1,0 +1,23 @@
+{
+  "id": "rm-ce1edca4-aa9f-f111-b8db-000d3a3ad8c1",
+  "releaseItemId": "ce1edca4-aa9f-f111-b8db-000d3a3ad8c1",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "T-SQL language improvements",
+  "description": "New capabilities focused on making T-SQL more powerful for analytics, simpler to write, and more intuitive for data exploration.<br/>* **Advanced Analytics** Expanded statistical capabilities with functions such as `MEDIAN`, `QUANTILE`, `PERCENTILE`, `APPROX_MEDIAN`, and `APPROX_QUANTILE` for distribution analysis and large-scale analytical workloads.* **Simplified Query Syntax** New language constructs including `QUALIFY`, `GROUP BY ALL`, and `ORDER BY ALL` help reduce query complexity and improve readability of analytical queries.* **More Intuitive Querying** Developer-friendly syntax enhancements designed to make common query patterns easier to express, improving productivity and reducing the amount of code required to answer business questions.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=ce1edca4-aa9f-f111-b8db-000d3a3ad8c1",
+  "contentHash": "7d8b9a8499c5c979a5c64c257b4896323ea6e3f61fb72268b013e654f2a32fa2",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

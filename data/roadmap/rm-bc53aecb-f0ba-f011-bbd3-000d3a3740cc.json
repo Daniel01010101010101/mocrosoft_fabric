@@ -1,0 +1,23 @@
+{
+  "id": "rm-bc53aecb-f0ba-f011-bbd3-000d3a3740cc",
+  "releaseItemId": "bc53aecb-f0ba-f011-bbd3-000d3a3740cc",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "Shortcut Transformations - Customize ingestion with user configurations",
+  "description": "With the upcoming enhancements to Shortcut Transformations, you’ll be able to fully customize how you bring in data from CSV, Parquet, JSON, and Excel files. You can set file encoding, choose custom quote or escape characters for your data in case of CSV files. For CSV, Parquet and JSON files, you’ll have options to decide refresh mode (Append Only or Mirror) and schema mode (Dynamic or Fixed).  All these controls will be available directly in the user interface, giving you more flexibility, reliability, and efficiency in managing your data ingestion and transformation workflows.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=bc53aecb-f0ba-f011-bbd3-000d3a3740cc",
+  "contentHash": "95c6fee837f45d4319ea7f9f5c41ae6592c514ce597245c98ed8415fdac39862",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

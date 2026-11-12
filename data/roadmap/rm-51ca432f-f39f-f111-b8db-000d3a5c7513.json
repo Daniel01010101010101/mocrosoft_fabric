@@ -1,0 +1,23 @@
+{
+  "id": "rm-51ca432f-f39f-f111-b8db-000d3a5c7513",
+  "releaseItemId": "51ca432f-f39f-f111-b8db-000d3a5c7513",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Data Agent A365 Identity and Observability",
+  "description": "Fabric data agents empower customers to unlock insights from their enterprise data that lives in Fabric OneLake across different consumption channels.Microsoft Agent 365 (A365) is the enterprise control plane that IT and security teams use to observe, secure, and govern AI agents across the tenant, independent of where each agent was built. Admins manage and observe agents from the Microsoft 365 admin center.The first phase of Data Agent integration with A365 has two goals:* Data agent shows up in A365 with an enterprise identity (registration).* Publish activity telemetry to A365 (observability).",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=51ca432f-f39f-f111-b8db-000d3a5c7513",
+  "contentHash": "a248b220e6208d9f363cdb89ed61dc7e8c591a719cd78dd0cb73317e44002363",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

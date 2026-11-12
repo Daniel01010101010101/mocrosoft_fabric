@@ -1,0 +1,53 @@
+{
+  "id": "wn-6710341296033a",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146",
+  "title": "Celonis Process Intelligence (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.3,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Celonis Process Intelligence brings process flows and root-cause analysis into Fabric.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Celonis Process Intelligence</a> brings process flows and root-cause analysis into Fabric.",
+    "excerpt": "Celonis Process Intelligence brings process flows and root-cause analysis into Fabric.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Celonis Process Intelligence",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146"
+      }
+    ]
+  },
+  "contentHash": "ace1c37200eb3c612f4ee968d9d76faa04db75cd35fd82078420f32a91bba0fa",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-aa260445-1d03-ef11-a1fe-000d3a32c2f2",
+  "releaseItemId": "aa260445-1d03-ef11-a1fe-000d3a32c2f2",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Get data from Real-Time Hub within Data Activator",
+  "description": "Bring new events into reflex items by using the embedded Real-Time Hub browser.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2024",
+  "releaseQuarterStart": "2024-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=aa260445-1d03-ef11-a1fe-000d3a32c2f2",
+  "contentHash": "5335da84d9f49e6bc93fc3fb6e7c49aa19d8eccc728ef6b8c293a29a665c814b",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

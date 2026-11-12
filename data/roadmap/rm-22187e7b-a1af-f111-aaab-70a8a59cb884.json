@@ -1,0 +1,23 @@
+{
+  "id": "rm-22187e7b-a1af-f111-aaab-70a8a59cb884",
+  "releaseItemId": "22187e7b-a1af-f111-aaab-70a8a59cb884",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Developer mode (PBIP) external changes reload",
+  "description": "External Changes Reload enables Power BI Desktop to automatically detect and apply changes made to PBIP project files by external tools such as Visual Studio Code, without requiring users to restart Power BI Desktop.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=22187e7b-a1af-f111-aaab-70a8a59cb884",
+  "contentHash": "cc78aa43f50378ecc2dbdbc09a8b1a11ad6df6b539288db95fc2f16ad3feeeb3",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

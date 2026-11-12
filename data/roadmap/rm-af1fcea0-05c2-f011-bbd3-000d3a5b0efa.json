@@ -1,0 +1,23 @@
+{
+  "id": "rm-af1fcea0-05c2-f011-bbd3-000d3a5b0efa",
+  "releaseItemId": "af1fcea0-05c2-f011-bbd3-000d3a5b0efa",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Input slicer visual (previously called Text slicer)",
+  "description": "The **input slicer** visual lets you type in values and search to filter a text data column, or type in values for a Fabric user data function with the new translytical task flow in Power BI reports.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=af1fcea0-05c2-f011-bbd3-000d3a5b0efa",
+  "contentHash": "0315210632ab43df82f8883fb4edbb1e7914b74b202a6ef6b2896d0d994f9bcc",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

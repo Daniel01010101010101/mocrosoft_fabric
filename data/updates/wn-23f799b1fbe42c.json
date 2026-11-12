@@ -1,0 +1,62 @@
+{
+  "id": "wn-23f799b1fbe42c",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/new-data-protection-capabilities-in-microsoft-fabric-native-security-for-the-modern-data-estate?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/purview/ai-copilot-fabric",
+  "title": "Data protection: DSPM for AI for Fabric Copilots and data agents (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Data Security Posture Management (DSPM) for AI for Fabric (Preview) monitors Copilot and data agent interactions to detect sensitive information in AI prompts and responses, investigate risky AI behavior, and apply governance through Purview Audit and eDiscovery. For more information, see DSPM for AI in Fabric.",
+    "html": "<a href=\"https://blog.fabric.microsoft.com/blog/new-data-protection-capabilities-in-microsoft-fabric-native-security-for-the-modern-data-estate?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Data Security Posture Management (DSPM) for AI for Fabric (Preview)</a> monitors Copilot and data agent interactions to detect sensitive information in AI prompts and responses, investigate risky AI behavior, and apply governance through Purview Audit and eDiscovery. For more information, see <a href=\"https://learn.microsoft.com/en-us/purview/ai-copilot-fabric\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">DSPM for AI in Fabric</a>.",
+    "excerpt": "Data Security Posture Management (DSPM) for AI for Fabric (Preview) monitors Copilot and data agent interactions to detect sensitive information in AI prompts and responses, investigate risky AI behavior, and apply governance through Purview Audit and eDiscovery. For more information, see DSPM for AI in Fabric.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Data Security Posture Management (DSPM) for AI for Fabric (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/new-data-protection-capabilities-in-microsoft-fabric-native-security-for-the-modern-data-estate?ft=All"
+      },
+      {
+        "label": "DSPM for AI in Fabric",
+        "url": "https://learn.microsoft.com/en-us/purview/ai-copilot-fabric"
+      }
+    ]
+  },
+  "contentHash": "580e410cad8e704fe3a8ba8d785d56c005a28b404c7fb871428a693da0e2ec66",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects",
+      "administrators",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/new-data-protection-capabilities-in-microsoft-fabric-native-security-for-the-modern-data-estate?ft=All",
+    "backfill": "true"
+  }
+}

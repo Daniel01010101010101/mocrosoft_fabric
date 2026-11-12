@@ -1,0 +1,58 @@
+{
+  "id": "wn-66f086104eb0e9",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/build-end-to-end-fabric-solutions-with-sql-database-skills-preview/5357234",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/database/sql/skills",
+  "title": "SQL database skills (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.97,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "SQL database skills (Preview) give AI coding agents workload-specific guidance for authoring schemas, querying data, and operating SQL databases as part of broader Fabric solutions. For more information, see Work with SQL database skills in Microsoft Fabric.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/build-end-to-end-fabric-solutions-with-sql-database-skills-preview/5357234\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">SQL database skills (Preview)</a> give AI coding agents workload-specific guidance for authoring schemas, querying data, and operating SQL databases as part of broader Fabric solutions. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/database/sql/skills\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Work with SQL database skills in Microsoft Fabric</a>.",
+    "excerpt": "SQL database skills (Preview) give AI coding agents workload-specific guidance for authoring schemas, querying data, and operating SQL databases as part of broader Fabric solutions. For more information, see Work with SQL database skills in Microsoft Fabric.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "SQL database skills (Preview)",
+        "url": "https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/build-end-to-end-fabric-solutions-with-sql-database-skills-preview/5357234"
+      },
+      {
+        "label": "Work with SQL database skills in Microsoft Fabric",
+        "url": "https://learn.microsoft.com/en-us/fabric/database/sql/skills"
+      }
+    ]
+  },
+  "contentHash": "ddea510640c7e84cd7fccb58bcee76a400f6bc2e3955122f3518e3a251b7767a",
+  "categories": [
+    "databases"
+  ],
+  "primaryCategory": "databases",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 60,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/build-end-to-end-fabric-solutions-with-sql-database-skills-preview/5357234",
+    "backfill": "true"
+  }
+}

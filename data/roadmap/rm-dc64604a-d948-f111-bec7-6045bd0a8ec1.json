@@ -1,0 +1,23 @@
+{
+  "id": "rm-dc64604a-d948-f111-bec7-6045bd0a8ec1",
+  "releaseItemId": "dc64604a-d948-f111-bec7-6045bd0a8ec1",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Large Instructions & Topic-Aware Context for Smarter NL2SQL",
+  "description": "You can now organize large instructions into topics, allowing the Data Agent to automatically select only the most relevant context for each question. This helps the NL2SQL tool focus on what matters, even when working with extensive guidance or complex scenarios. By enabling more targeted use of instructions, this improvement supports better query generation and gives you a scalable way to provide richer context without overwhelming the model.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=dc64604a-d948-f111-bec7-6045bd0a8ec1",
+  "contentHash": "53799966505e58ba55cfbfd1eac2711f172473fd9aa8f1f9452f5b9fdce4fff2",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

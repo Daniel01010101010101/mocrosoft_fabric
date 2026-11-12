@@ -1,0 +1,62 @@
+{
+  "id": "wn-5dbc2f77b5171f",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/execute-power-query-programmatically-in-microsoft-fabric?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/rest/api/fabric/dataflow/query-execution/execute-query",
+  "title": "Evaluate Power Query programmatically (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Evaluate Power Query Programmatically in Microsoft Fabric (Preview) introduces a public REST API to execute Power Query M scripts programmatically, enabling automation, integration with Spark and pipelines, and access to 100+ data sources with 90-second timeout for transformations. For more information, see Execute Query API Reference.",
+    "html": "<a href=\"https://blog.fabric.microsoft.com/blog/execute-power-query-programmatically-in-microsoft-fabric?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Evaluate Power Query Programmatically in Microsoft Fabric (Preview)</a> introduces a public REST API to execute Power Query M scripts programmatically, enabling automation, integration with Spark and pipelines, and access to 100+ data sources with 90-second timeout for transformations. For more information, see <a href=\"https://learn.microsoft.com/en-us/rest/api/fabric/dataflow/query-execution/execute-query\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Execute Query API Reference</a>.",
+    "excerpt": "Evaluate Power Query Programmatically in Microsoft Fabric (Preview) introduces a public REST API to execute Power Query M scripts programmatically, enabling automation, integration with Spark and pipelines, and access to 100+ data sources with 90-second timeout for transformations. For more information, see Execute…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Evaluate Power Query Programmatically in Microsoft Fabric (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/execute-power-query-programmatically-in-microsoft-fabric?ft=All"
+      },
+      {
+        "label": "Execute Query API Reference",
+        "url": "https://learn.microsoft.com/en-us/rest/api/fabric/dataflow/query-execution/execute-query"
+      }
+    ]
+  },
+  "contentHash": "21e8008f16ab74774035e4ab63f7c779b0fff14cb1fb303448bf2715f2bdaf85",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/execute-power-query-programmatically-in-microsoft-fabric?ft=All",
+    "backfill": "true"
+  }
+}

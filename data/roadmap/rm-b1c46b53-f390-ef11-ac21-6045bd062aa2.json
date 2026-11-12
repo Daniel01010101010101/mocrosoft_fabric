@@ -1,0 +1,23 @@
+{
+  "id": "rm-b1c46b53-f390-ef11-ac21-6045bd062aa2",
+  "releaseItemId": "b1c46b53-f390-ef11-ac21-6045bd062aa2",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Fabric data agent integration with Azure AI Foundry",
+  "description": "With the Fabric data agent integration in Azure AI Foundry, Fabric data agent will serve as a knowledge source for Agent Service in Microsoft Azure AI Foundry. This enables the agent to use Fabric as a data hub, tapping into the insights available within Fabric to answer user queries accurately and efficiently. By connecting to Fabric data agent, the agent can retrieve data insights directly from Fabric, allowing consumers to interact with and analyze their Fabric data seamlessly through the AI applications in Azure AI Foundry.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=b1c46b53-f390-ef11-ac21-6045bd062aa2",
+  "contentHash": "b181b48eb9b25559818ae37fbfba654987d04c755aee3d4c640dd2cca750bec3",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

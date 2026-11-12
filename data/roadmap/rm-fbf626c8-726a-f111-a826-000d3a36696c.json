@@ -1,0 +1,23 @@
+{
+  "id": "rm-fbf626c8-726a-f111-a826-000d3a36696c",
+  "releaseItemId": "fbf626c8-726a-f111-a826-000d3a36696c",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Connectors - Modernized Exchange connector for Power Query",
+  "description": "Microsoft Fabric will introduce a modernized replacement for the existing Exchange connector, improving the foundation for connecting to Exchange data through Power Query-based experiences.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=fbf626c8-726a-f111-a826-000d3a36696c",
+  "contentHash": "1954dfaa7087fe20b39fb3b865a3d3b4b89ed06604c28375d29efac3e9c618e4",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

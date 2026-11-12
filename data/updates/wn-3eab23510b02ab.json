@@ -1,0 +1,61 @@
+{
+  "id": "wn-3eab23510b02ab",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Trusted-AI-starts-with-Microsoft-Fabric-Real-Time-Intelligence/ba-p/5369528",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/fundamentals/workspace-monitoring-overview",
+  "title": "Fabric Observability Insights (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric Observability Insights (Preview) uses an operations agent and Fabric-native context to investigate pipeline failures. For more information, see Workspace monitoring overview.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Trusted-AI-starts-with-Microsoft-Fabric-Real-Time-Intelligence/ba-p/5369528\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Observability Insights (Preview)</a> uses an operations agent and Fabric-native context to investigate pipeline failures. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/fundamentals/workspace-monitoring-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace monitoring overview</a>.",
+    "excerpt": "Fabric Observability Insights (Preview) uses an operations agent and Fabric-native context to investigate pipeline failures. For more information, see Workspace monitoring overview.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric Observability Insights (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Trusted-AI-starts-with-Microsoft-Fabric-Real-Time-Intelligence/ba-p/5369528"
+      },
+      {
+        "label": "Workspace monitoring overview",
+        "url": "https://learn.microsoft.com/en-us/fabric/fundamentals/workspace-monitoring-overview"
+      }
+    ]
+  },
+  "contentHash": "a65f7501044f7bead126a6fa6fc7042e0f3163b4e2308f215096f2aa420ebc7d",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Trusted-AI-starts-with-Microsoft-Fabric-Real-Time-Intelligence/ba-p/5369528",
+    "backfill": "true"
+  }
+}

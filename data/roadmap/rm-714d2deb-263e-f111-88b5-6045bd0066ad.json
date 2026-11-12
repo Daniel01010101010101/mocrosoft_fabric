@@ -1,0 +1,23 @@
+{
+  "id": "rm-714d2deb-263e-f111-88b5-6045bd0066ad",
+  "releaseItemId": "714d2deb-263e-f111-88b5-6045bd0066ad",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Eventstream HTTP Connector GA",
+  "description": "The Eventstream HTTP connector is generally available in Microsoft Fabric, enabling you to ingest data from external HTTP APIs into Eventstream for real-time processing and analytics.With this capability, you can:- Connect to supported external HTTP APIs to ingest data.- Process incoming data using Eventstream transformations.- Route data to supported destinations for analysis and action.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=714d2deb-263e-f111-88b5-6045bd0066ad",
+  "contentHash": "8d0a05c780a2ce2f1c04fd93fb5f6bc26c72edbefd194c6c904ce0a901975137",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

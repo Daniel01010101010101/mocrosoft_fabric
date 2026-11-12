@@ -1,0 +1,23 @@
+{
+  "id": "rm-990f6c78-1308-ef11-9f89-000d3a34b75c",
+  "releaseItemId": "990f6c78-1308-ef11-9f89-000d3a34b75c",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Copy Job",
+  "description": "Copy Job simplifies the experience for customers who need to ingest data, without having to create a Dataflow or Data pipeline.Copy Job supports full and incremental copy from any data sources to any data destinations. [Sign-up for Private Preview now](https://aka.ms/copyjob/preview-signup-form).",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2024",
+  "releaseQuarterStart": "2024-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=990f6c78-1308-ef11-9f89-000d3a34b75c",
+  "contentHash": "d974d4149ed779aa75de8134ba9dd76903194c8e91b69a9d58bc7bc16e79f8e2",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

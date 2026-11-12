@@ -1,0 +1,23 @@
+{
+  "id": "rm-b80e7f80-a682-ef11-ac21-002248098a98",
+  "releaseItemId": "b80e7f80-a682-ef11-ac21-002248098a98",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Copilot for Data Warehouse: Sidecar Chat",
+  "description": "Copilot for Data Warehouse is the ultimate paired programmer, and productivity booster for any skill level developer – from data professionals to analysts. It is designed to accelerate warehouse development by leveraging generative AI to simplify and automate Data Warehouse creation, analysis, and management.This feature introduces the Copilot sidecar chat pane. Use the chat pane to ask questions about your warehouse to Copilot through natural language. Use cases include:* Natural Language to SQL: Ask Copilot a question about your warehouse data and receive a generated SQL query catered to your warehouse schema.* Q&A: Ask Copilot a question about your warehouse and receive a docs-based answer and pointers to official documentation.* Brainstorm: Use Copilot to help you brainstorm relevant trends or patterns to analyze within your data",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=b80e7f80-a682-ef11-ac21-002248098a98",
+  "contentHash": "f7de07673ca500bbf762e530fd43b8c32765cbfeb9ede923f457921c9f015eb5",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

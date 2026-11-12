@@ -1,0 +1,23 @@
+{
+  "id": "rm-fdb2922d-4b24-f011-8c4d-00224804b6c3",
+  "releaseItemId": "fdb2922d-4b24-f011-8c4d-00224804b6c3",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Data Agent to Support Mirrored Databases",
+  "description": "Supporting Mirrored SQL DBs in Data Agent will bridge the gap between technical and non-technical users, allowing them to collaborate more efficiently and make informed decisions based on accurate and timely data. This integration will also ensure that businesses can maximize the value of their existing SQL DB investments while benefiting from the advanced capabilities of Microsoft Fabric's Data Agent.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=fdb2922d-4b24-f011-8c4d-00224804b6c3",
+  "contentHash": "dc3ea6d2ca7c61a9b72b05c71abf45be9c656327e91d3ae0e43b4da7d242a505",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

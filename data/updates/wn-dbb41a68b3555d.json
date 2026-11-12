@@ -1,0 +1,57 @@
+{
+  "id": "wn-dbb41a68b3555d",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_94",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-science/data-agent-configurations",
+  "title": "Data agent topics (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Topics in Fabric data agents (Preview) provide large, subject-specific guidance for supported data sources. For more information, see Configure Fabric data agents.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_94\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Topics in Fabric data agents (Preview)</a> provide large, subject-specific guidance for supported data sources. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-science/data-agent-configurations\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Configure Fabric data agents</a>.",
+    "excerpt": "Topics in Fabric data agents (Preview) provide large, subject-specific guidance for supported data sources. For more information, see Configure Fabric data agents.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Topics in Fabric data agents (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_94"
+      },
+      {
+        "label": "Configure Fabric data agents",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-science/data-agent-configurations"
+      }
+    ]
+  },
+  "contentHash": "1079827ddb7319adcb8d6a8d5709562553bdafcfb241367da1724552a3db6966",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_94"
+  }
+}

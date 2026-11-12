@@ -1,0 +1,65 @@
+{
+  "id": "wn-d7a5ab1216a3a6",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Custom-authorization-for-API-for-GraphQL-in-Microsoft-Fabric/ba-p/5182352",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/api-graphql-overview",
+  "title": "Custom authorization for API for GraphQL (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.96,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Authorizer User Data Functions for API for GraphQL (Preview) let you attach a User Data Function that runs before each GraphQL operation and evaluates request context such as tenant ID, role, or token claims to allow, restrict, or deny access based on your own policy logic. For more information, see What is Microsoft Fabric API for GraphQL? and Create a Fabric User data functions item.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Custom-authorization-for-API-for-GraphQL-in-Microsoft-Fabric/ba-p/5182352\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Authorizer User Data Functions for API for GraphQL (Preview)</a> let you attach a User Data Function that runs before each GraphQL operation and evaluates request context such as tenant ID, role, or token claims to allow, restrict, or deny access based on your own policy logic. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/api-graphql-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">What is Microsoft Fabric API for GraphQL?</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/user-data-functions/create-user-data-functions-portal\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Create a Fabric User data functions item</a>.",
+    "excerpt": "Authorizer User Data Functions for API for GraphQL (Preview) let you attach a User Data Function that runs before each GraphQL operation and evaluates request context such as tenant ID, role, or token claims to allow, restrict, or deny access based on your own policy logic. For more information, see What is Microsoft…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Authorizer User Data Functions for API for GraphQL (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Custom-authorization-for-API-for-GraphQL-in-Microsoft-Fabric/ba-p/5182352"
+      },
+      {
+        "label": "What is Microsoft Fabric API for GraphQL?",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/api-graphql-overview"
+      },
+      {
+        "label": "Create a Fabric User data functions item",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/user-data-functions/create-user-data-functions-portal"
+      }
+    ]
+  },
+  "contentHash": "9fdce217f2ee40856ac5e7e99e1ca2cc6440d3054d70d0ead96f025999a54292",
+  "categories": [
+    "developer-apis"
+  ],
+  "primaryCategory": "developer-apis",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Custom-authorization-for-API-for-GraphQL-in-Microsoft-Fabric/ba-p/5182352",
+    "backfill": "true"
+  }
+}

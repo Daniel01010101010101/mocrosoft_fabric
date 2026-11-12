@@ -1,0 +1,23 @@
+{
+  "id": "rm-3e4859a0-9c20-f011-998a-0022480939f0",
+  "releaseItemId": "3e4859a0-9c20-f011-998a-0022480939f0",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - Dataflow Gen2 Parameterization",
+  "description": "Users are accustomed to running metadata-driven pipelines where they can inject variables or parameters into different activities of a pipeline and thus executing things in a more dynamic way: Create once, reuse multiple times.As part of this enhancement, we will make it such that dataflows executed via a Data Pipeline in Fabric can be provided with parameter values for their existing dataflow parameters.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=3e4859a0-9c20-f011-998a-0022480939f0",
+  "contentHash": "cd2a3830255944bb897c14e2e8b5914f2aaaf2b8653a171b882babbea55592f7",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

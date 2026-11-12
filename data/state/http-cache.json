@@ -1,0 +1,13 @@
+{
+  "https://blog.fabric.microsoft.com/en-us/blog/feed/": {
+    "fetchedAt": "2026-11-12T23:36:31.901Z"
+  },
+  "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new": {
+    "etag": "\"cVsQTy5wiCRsd6LRXhJwyyXXW9k=\"",
+    "lastModified": "Mon, 09 Nov 2026 18:02:20 GMT",
+    "fetchedAt": "2026-11-12T23:36:33.408Z"
+  },
+  "https://powerbi.microsoft.com/en-us/blog/feed/": {
+    "fetchedAt": "2026-11-12T23:36:32.893Z"
+  }
+}

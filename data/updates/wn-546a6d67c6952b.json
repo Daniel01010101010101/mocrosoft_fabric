@@ -1,0 +1,63 @@
+{
+  "id": "wn-546a6d67c6952b",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/azure-monitor-to-fabric-eventhouse-preview",
+  "docsUrl": "https://learn.microsoft.com/en-us/azure/azure-monitor/vm/send-fabric-destination",
+  "title": "Azure Monitor to Fabric Eventhouse (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Azure Monitor to Fabric Eventhouse (Preview) lets you route VM telemetry via Azure Monitor Agent and Data Collection Rules into Eventhouse for schema-managed ingestion, ad hoc queries, time-series analytics, and activation. For more information, see Send virtual machine client data to Fabric and Azure Data Explorer (Preview).",
+    "html": "<a href=\"https://blog.fabric.microsoft.com/blog/azure-monitor-to-fabric-eventhouse-preview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Azure Monitor to Fabric Eventhouse (Preview)</a> lets you route VM telemetry via Azure Monitor Agent and Data Collection Rules into Eventhouse for schema-managed ingestion, ad hoc queries, time-series analytics, and activation. For more information, see <a href=\"https://learn.microsoft.com/en-us/azure/azure-monitor/vm/send-fabric-destination\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Send virtual machine client data to Fabric and Azure Data Explorer (Preview)</a>.",
+    "excerpt": "Azure Monitor to Fabric Eventhouse (Preview) lets you route VM telemetry via Azure Monitor Agent and Data Collection Rules into Eventhouse for schema-managed ingestion, ad hoc queries, time-series analytics, and activation. For more information, see Send virtual machine client data to Fabric and Azure Data Explorer…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Azure Monitor to Fabric Eventhouse (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/azure-monitor-to-fabric-eventhouse-preview"
+      },
+      {
+        "label": "Send virtual machine client data to Fabric and Azure Data Explorer (Preview)",
+        "url": "https://learn.microsoft.com/en-us/azure/azure-monitor/vm/send-fabric-destination"
+      }
+    ]
+  },
+  "contentHash": "21a5ee19a7c7256fab841aca439ddf09976dfff2fb8e6617a741d9bdbed25e0c",
+  "categories": [
+    "real-time-intelligence",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 60,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/azure-monitor-to-fabric-eventhouse-preview",
+    "backfill": "true"
+  }
+}

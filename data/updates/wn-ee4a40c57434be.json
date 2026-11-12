@@ -1,0 +1,63 @@
+{
+  "id": "wn-ee4a40c57434be",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/fabric-notebooks-support-lakehouse-auto-binding-in-git-preview?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/notebook-source-control-deployment",
+  "title": "Lakehouse auto-binding in Git (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.92,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Lakehouse auto-binding in Git (Preview) resolves lakehouse references automatically as notebooks move across Git-connected workspaces, making notebooks portable across development, test, and production environments. For more information, see Notebook source control and deployment.",
+    "html": "<a href=\"https://blog.fabric.microsoft.com/blog/fabric-notebooks-support-lakehouse-auto-binding-in-git-preview?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Lakehouse auto-binding in Git (Preview)</a> resolves lakehouse references automatically as notebooks move across Git-connected workspaces, making notebooks portable across development, test, and production environments. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/notebook-source-control-deployment\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Notebook source control and deployment</a>.",
+    "excerpt": "Lakehouse auto-binding in Git (Preview) resolves lakehouse references automatically as notebooks move across Git-connected workspaces, making notebooks portable across development, test, and production environments. For more information, see Notebook source control and deployment.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Lakehouse auto-binding in Git (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/fabric-notebooks-support-lakehouse-auto-binding-in-git-preview?ft=All"
+      },
+      {
+        "label": "Notebook source control and deployment",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/notebook-source-control-deployment"
+      }
+    ]
+  },
+  "contentHash": "739330e844037e6a043af0aa0c516d7db2b5e3324fa14bebbf8e20c6bdf64972",
+  "categories": [
+    "data-engineering",
+    "developer-apis"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-scientists",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-notebooks-support-lakehouse-auto-binding-in-git-preview?ft=All",
+    "backfill": "true"
+  }
+}

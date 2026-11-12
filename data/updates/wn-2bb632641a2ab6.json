@@ -1,0 +1,57 @@
+{
+  "id": "wn-2bb632641a2ab6",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/easily-load-fabric-onelake-data-into-excel-onelake-catalog-and-modern-get-data-are-integrated-into-excel-for-windows-preview?ft=All",
+  "title": "Load Fabric OneLake Data in Excel",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Easily load Fabric OneLake data into Excel with integrated OneLake catalog and modern Get Data experience (preview). For more information and steps to get started, see OneLake catalog and Get Data are integrated into Excel for Windows.",
+    "html": "Easily load Fabric OneLake data into Excel with integrated OneLake catalog and modern Get Data experience (preview). For more information and steps to get started, see <a href=\"https://blog.fabric.microsoft.com/blog/easily-load-fabric-onelake-data-into-excel-onelake-catalog-and-modern-get-data-are-integrated-into-excel-for-windows-preview?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">OneLake catalog and Get Data are integrated into Excel for Windows</a>.",
+    "excerpt": "Easily load Fabric OneLake data into Excel with integrated OneLake catalog and modern Get Data experience (preview). For more information and steps to get started, see OneLake catalog and Get Data are integrated into Excel for Windows.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "OneLake catalog and Get Data are integrated into Excel for Windows",
+        "url": "https://blog.fabric.microsoft.com/blog/easily-load-fabric-onelake-data-into-excel-onelake-catalog-and-modern-get-data-are-integrated-into-excel-for-windows-preview?ft=All"
+      }
+    ]
+  },
+  "contentHash": "366741fc3cb755c66f09ae3689f9fb3c1021085e1413655734ba0dc989bea7d9",
+  "categories": [
+    "onelake",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/easily-load-fabric-onelake-data-into-excel-onelake-catalog-and-modern-get-data-are-integrated-into-excel-for-windows-preview?ft=All",
+    "backfill": "true"
+  }
+}

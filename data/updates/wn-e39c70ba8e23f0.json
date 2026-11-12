@@ -1,0 +1,62 @@
+{
+  "id": "wn-e39c70ba8e23f0",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Building-real-time-event-driven-applications-on-Mirrored/ba-p/5190893",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/mirroring/extended-capabilities",
+  "title": "Stream Mirrored Database change feeds into Eventstreams (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.91,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Mirrored Database change feed connector for Eventstreams (Preview) streams Delta Change Data Feed (CDF) row-level inserts, updates, and deletes from a mirrored database directly into a Fabric Eventstream for low-latency, event-driven processing, with full source schema and change metadata fidelity and support for Azure SQL, Cosmos DB, Oracle, PostgreSQL, Snowflake, and Open Mirroring partners. For more information, see Extended capabilities in mirroring for Fabric.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Building-real-time-event-driven-applications-on-Mirrored/ba-p/5190893\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Mirrored Database change feed connector for Eventstreams (Preview)</a> streams Delta Change Data Feed (CDF) row-level inserts, updates, and deletes from a mirrored database directly into a Fabric Eventstream for low-latency, event-driven processing, with full source schema and change metadata fidelity and support for Azure SQL, Cosmos DB, Oracle, PostgreSQL, Snowflake, and Open Mirroring partners. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/mirroring/extended-capabilities\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Extended capabilities in mirroring for Fabric</a>.",
+    "excerpt": "Mirrored Database change feed connector for Eventstreams (Preview) streams Delta Change Data Feed (CDF) row-level inserts, updates, and deletes from a mirrored database directly into a Fabric Eventstream for low-latency, event-driven processing, with full source schema and change metadata fidelity and support for…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Mirrored Database change feed connector for Eventstreams (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Building-real-time-event-driven-applications-on-Mirrored/ba-p/5190893"
+      },
+      {
+        "label": "Extended capabilities in mirroring for Fabric",
+        "url": "https://learn.microsoft.com/en-us/fabric/mirroring/extended-capabilities"
+      }
+    ]
+  },
+  "contentHash": "63b5769e11d17f30a5f76459c9c4bb1e6b9ced3f5078164569b26ca7de71cf22",
+  "categories": [
+    "data-factory",
+    "real-time-intelligence",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 63,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Building-real-time-event-driven-applications-on-Mirrored/ba-p/5190893",
+    "backfill": "true"
+  }
+}

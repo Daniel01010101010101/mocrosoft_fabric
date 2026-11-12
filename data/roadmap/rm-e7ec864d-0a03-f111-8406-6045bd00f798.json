@@ -1,0 +1,23 @@
+{
+  "id": "rm-e7ec864d-0a03-f111-8406-6045bd00f798",
+  "releaseItemId": "e7ec864d-0a03-f111-8406-6045bd00f798",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "[Ontology for Foundry IQ] - Ontology integration with Foundry IQ",
+  "description": "Fabric IQ Ontology integrates with Azure AI Foundry to provide data scientists and AI builders with rich semantic context for training, grounding, and fine-tuning models and agents. By connecting ontology-defined business concepts, entity relationships, and domain vocabulary to your AI workflows, Foundry IQ enables more reliable agent behavior, improved reasoning over business processes, and better alignment between AI outputs and the real-world structure of your enterprise.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=e7ec864d-0a03-f111-8406-6045bd00f798",
+  "contentHash": "936d03a885be21c8de6595d562f275019ddb5255d66985aeda2f8db35bda371a",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

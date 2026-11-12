@@ -1,0 +1,60 @@
+{
+  "id": "wn-7e1dd85f25f8d7",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_145",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-factory/copy-job-connectors",
+  "title": "SharePoint folders in Copy job (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.95,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "SharePoint folders in Copy job use SharePoint folders as sources or destinations. For more information, see Copy job connectors.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_145\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">SharePoint folders in Copy job</a> use SharePoint folders as sources or destinations. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/copy-job-connectors\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Copy job connectors</a>.",
+    "excerpt": "SharePoint folders in Copy job use SharePoint folders as sources or destinations. For more information, see Copy job connectors.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "SharePoint folders in Copy job",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_145"
+      },
+      {
+        "label": "Copy job connectors",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/copy-job-connectors"
+      }
+    ]
+  },
+  "contentHash": "fe3ea1e3827b47088cad9ba50d36b9b9d3c60bd9f94786b1847cfbc94e9be023",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_145"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-e64919b9-5163-f111-a826-000d3a36696c",
+  "releaseItemId": "e64919b9-5163-f111-a826-000d3a36696c",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Mirroring - Google BigQuery",
+  "description": "Mirroring for Google BigQuery enables customers to continuously replicate BigQuery data into Fabric OneLake, making it easier to use BigQuery data with Power BI, data engineering, data science, and AI experiences in Fabric. Customers can bring data from Google BigQuery into the Fabric analytics estate without maintaining separate ETL pipelines for common replication scenarios.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=e64919b9-5163-f111-a826-000d3a36696c",
+  "contentHash": "f788b0bc34ba4d22b2f2fb3d91987fe9ab1ec02612948e870ce5f501e5222c2c",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

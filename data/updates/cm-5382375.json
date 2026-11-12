@@ -1,0 +1,68 @@
+{
+  "id": "cm-5382375",
+  "kind": "blog",
+  "source": "fabric-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Regular-expression-functions-in-Microsoft-Fabric-Data-Warehouse/ba-p/5382375",
+  "docsUrl": "https://learn.microsoft.com/sql/relational-databases/regular-expressions/overview?view=fabric",
+  "title": "Regular expression functions in Microsoft Fabric Data Warehouse (Preview)",
+  "author": "jovanpop-msft",
+  "originalLanguage": "en",
+  "languageConfidence": 0.94,
+  "publishedAt": "2026-11-05T20:00:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Data warehouses routinely ingest valuable information embedded in free text, where inconsistent structure makes it difficult to query, connect, and analyze. Incoming values can also require quality checks before they reach curated tables.\nMicrosoft Fabric Data Warehouse and the SQL analytics endpoint now support scalar regular expression functions in preview, so you can extract useful values, validate formats, standardize text, and mask sensitive data directly in T-SQL instead of adding a separate processing step.\nWhat’s new in preview\nRegular expressions provide a concise way to recognize, extract, and transform complex text patterns that would otherwise require multiple string operations. The preview introduces the following scalar functions:\n• REGEXP_LIKE: checks whether text matches a pattern.\n• REGEXP_REPLACE: replaces matching text to clean, standardize, or mask values.\n• REGEXP_SUBSTR: extracts a substring that matches a pattern.\n• REGEXP_INSTR: returns the position of a matching substring.\n• REGEXP_COUNT: counts pattern occurrences in a string.\nUse these functions during refinement to turn identifiers embedded in free text into structured values and to flag malformed records before they reach downstream systems. The following scenarios demonstrate both uses.\nExtract useful values from raw text\nIn this fictional example, inbound customer emails land in bronze.EmailMessages. The Sender column contains a value such as “Avery Smith”, and an order reference such as “ORD-10293” may appear in the Subject column. REGEXP_SUBSTR extracts the sender’s name, email address, company identifier, and order number as structured values that can be related to curated customer, company, and order data.\nFigure: Extracting structured values from email message text.\nFor “Avery Smith ”, the query returns “Avery Smith” as the Name, “avery@contoso.com” as the Email, and “contoso” as the Company. It also extracts the order number from the Subject column.\nValidate contact data before it reaches downstream systems\nContact data in the silver.DimCustomer table can contain missing characters, extra spaces, or email addresses that do not follow the expected format. REGEXP_LIKE identifies records that fail the format check, so you can review, correct, or quarantine them before the dimension feeds reports, campaigns, and downstream applications.\nSELECT SourceCustomerId, EmailAddress\nFROM silver.DimCustomer\nWHERE NOT REGEXP_LIKE(EmailAddress,\n'^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}$');\nThe query isolates email addresses that do not match the expected format so they can be reviewed, corrected, or quarantined before the customer dimension is released to downstream consumers.\nConclusion\nRegular expression functions help turn hard-to-use text into structured, trustworthy warehouse data. You can extract sender, company, and order details from inbound emails and validate contact values during refinement, all with concise T-SQL close to the source. The result is information that is easier to connect, analyze, and trust.\nExplore the preview and learn how to use regular expression functions in Fabric Data Warehouse in the documentation. Share your scenarios and feedback with the Microsoft Fabric community on Reddit.",
+    "html": "<p>Data warehouses routinely ingest valuable information embedded in free text, where inconsistent structure makes it difficult to query, connect, and analyze. Incoming values can also require quality checks before they reach curated tables.</p>\n<p>Microsoft Fabric Data Warehouse and the SQL analytics endpoint now support <a href=\"https://learn.microsoft.com/sql/relational-databases/regular-expressions/overview?view=fabric\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">scalar regular expression functions</a> in preview, so you can extract useful values, validate formats, standardize text, and mask sensitive data directly in T-SQL instead of adding a separate processing step.</p>\n<h2>What’s new in preview</h2>\n<p>Regular expressions provide a concise way to recognize, extract, and transform complex text patterns that would otherwise require multiple string operations. The preview introduces the following scalar functions:</p>\n<ul>\n<li><strong>REGEXP_LIKE</strong>: checks whether text matches a pattern.</li>\n<li><strong>REGEXP_REPLACE</strong>: replaces matching text to clean, standardize, or mask values.</li>\n<li><strong>REGEXP_SUBSTR</strong>: extracts a substring that matches a pattern.</li>\n<li><strong>REGEXP_INSTR</strong>: returns the position of a matching substring.</li>\n<li><strong>REGEXP_COUNT</strong>: counts pattern occurrences in a string.</li>\n</ul>\n<p>Use these functions during refinement to turn identifiers embedded in free text into structured values and to flag malformed records before they reach downstream systems. The following scenarios demonstrate both uses.</p>\n<h2>Extract useful values from raw text</h2>\n<p>In this fictional example, inbound customer emails land in bronze.EmailMessages. The Sender column contains a value such as “Avery Smith”, and an order reference such as “ORD-10293” may appear in the Subject column. REGEXP_SUBSTR extracts the sender’s name, email address, company identifier, and order number as structured values that can be related to curated customer, company, and order data.</p>\n<em>Figure: Extracting structured values from email message text.</em>\n<p>For “Avery Smith ”, the query returns “Avery Smith” as the Name, “avery@contoso.com” as the Email, and “contoso” as the Company. It also extracts the order number from the Subject column.</p>\n<h2>Validate contact data before it reaches downstream systems</h2>\n<p>Contact data in the silver.DimCustomer table can contain missing characters, extra spaces, or email addresses that do not follow the expected format. REGEXP_LIKE identifies records that fail the format check, so you can review, correct, or quarantine them before the dimension feeds reports, campaigns, and downstream applications.</p>\n<pre class=\"language-\">SELECT SourceCustomerId, EmailAddress\nFROM silver.DimCustomer\nWHERE NOT REGEXP_LIKE(EmailAddress,\n               '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}$');</pre>\n<p>The query isolates email addresses that do not match the expected format so they can be reviewed, corrected, or quarantined before the customer dimension is released to downstream consumers.</p>\n<h2>Conclusion</h2>\n<p>Regular expression functions help turn hard-to-use text into structured, trustworthy warehouse data. You can extract sender, company, and order details from inbound emails and validate contact values during refinement, all with concise T-SQL close to the source. The result is information that is easier to connect, analyze, and trust.</p>\n<p>Explore the preview and learn how to <a href=\"https://learn.microsoft.com/fabric/data-warehouse/regular-expressions\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">use regular expression functions in Fabric Data Warehouse</a> in the documentation. Share your scenarios and feedback with the <a href=\"https://www.reddit.com/r/MicrosoftFabric/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Microsoft Fabric community on Reddit</a>.</p>",
+    "excerpt": "Data warehouses routinely ingest valuable information embedded in free text, where inconsistent structure makes it difficult to query, connect, and analyze. Incoming values can also require quality checks before they reach curated tables. Microsoft Fabric Data Warehouse and the SQL analytics endpoint now support…",
+    "images": [],
+    "codeBlocks": [
+      {
+        "language": "",
+        "code": "SELECT SourceCustomerId, EmailAddress\nFROM silver.DimCustomer\nWHERE NOT REGEXP_LIKE(EmailAddress,\n               '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,}$');"
+      }
+    ],
+    "links": [
+      {
+        "label": "scalar regular expression functions",
+        "url": "https://learn.microsoft.com/sql/relational-databases/regular-expressions/overview?view=fabric"
+      },
+      {
+        "label": "use regular expression functions in Fabric Data Warehouse",
+        "url": "https://learn.microsoft.com/fabric/data-warehouse/regular-expressions"
+      },
+      {
+        "label": "Microsoft Fabric community on Reddit",
+        "url": "https://www.reddit.com/r/MicrosoftFabric/"
+      }
+    ]
+  },
+  "contentHash": "193fd95e1ed0bdcfb5c9230755c5931f992df3f7410183369b0b3dee3dc1fbd9",
+  "categories": [
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-2a543dc3-74db-f011-8544-000d3a3740cc",
+  "releaseItemId": "2a543dc3-74db-f011-8544-000d3a3740cc",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "Ontology item GA",
+  "description": "General availability of the Microsoft Fabric IQ Ontology item enables teams to maintain a shared model of business entities, properties, and relationships in Fabric. Modelers can connect those definitions to supported data sources and provide business context to supported analytics and agent experiences. The release covers the ontology item and its supported capabilities; individual integrations, security features, and advanced modeling capabilities retain their own release milestones.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q2 2027",
+  "releaseQuarterStart": "2027-04-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=2a543dc3-74db-f011-8544-000d3a3740cc",
+  "contentHash": "aebe47e3f66e36e81c7572817226d0459d0e9a4de2d8992247782e5bfd639370",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

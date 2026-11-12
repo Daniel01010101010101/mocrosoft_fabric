@@ -1,0 +1,67 @@
+{
+  "id": "wn-7e3d0914a3df93",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Customer-Managed-Key-CMK-APIs-for-Microsoft-Fabric-Workspaces/ba-p/5360035",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/security/workspace-customer-managed-keys",
+  "title": "Workspace customer-managed key APIs (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-08-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Workspace customer-managed key APIs are generally available, so administrators can automate workspace encryption-key assignment and removal. For more information, see Customer-managed keys for Fabric workspaces and Assign workspace encryption.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Customer-Managed-Key-CMK-APIs-for-Microsoft-Fabric-Workspaces/ba-p/5360035\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace customer-managed key APIs are generally available</a>, so administrators can automate workspace encryption-key assignment and removal. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/security/workspace-customer-managed-keys\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Customer-managed keys for Fabric workspaces</a> and <a href=\"https://learn.microsoft.com/en-us/rest/api/fabric/core/workspaces/assign-workspace-encryption\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Assign workspace encryption</a>.",
+    "excerpt": "Workspace customer-managed key APIs are generally available, so administrators can automate workspace encryption-key assignment and removal. For more information, see Customer-managed keys for Fabric workspaces and Assign workspace encryption.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Workspace customer-managed key APIs are generally available",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Customer-Managed-Key-CMK-APIs-for-Microsoft-Fabric-Workspaces/ba-p/5360035"
+      },
+      {
+        "label": "Customer-managed keys for Fabric workspaces",
+        "url": "https://learn.microsoft.com/en-us/fabric/security/workspace-customer-managed-keys"
+      },
+      {
+        "label": "Assign workspace encryption",
+        "url": "https://learn.microsoft.com/en-us/rest/api/fabric/core/workspaces/assign-workspace-encryption"
+      }
+    ]
+  },
+  "contentHash": "29f861d084d450510398f03b15e64750c199e5d0413902cb1ab88923d2cba94e",
+  "categories": [
+    "admin-governance",
+    "security",
+    "developer-apis"
+  ],
+  "primaryCategory": "admin-governance",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "August 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Customer-Managed-Key-CMK-APIs-for-Microsoft-Fabric-Workspaces/ba-p/5360035"
+  }
+}

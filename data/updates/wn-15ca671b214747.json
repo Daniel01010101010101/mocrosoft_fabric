@@ -1,0 +1,57 @@
+{
+  "id": "wn-15ca671b214747",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_41",
+  "docsUrl": "https://learn.microsoft.com/en-us/sql/t-sql/functions/aggregate-functions-transact-sql?view=fabric&preserve-view=true",
+  "title": "Warehouse analytical functions (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Warehouse analytical functions (Preview) add built-in statistical calculations to Fabric Data Warehouse and the SQL analytics endpoint. For more information, see Aggregate functions.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_41\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Warehouse analytical functions (Preview)</a> add built-in statistical calculations to Fabric Data Warehouse and the SQL analytics endpoint. For more information, see <a href=\"https://learn.microsoft.com/en-us/sql/t-sql/functions/aggregate-functions-transact-sql?view=fabric&amp;preserve-view=true\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Aggregate functions</a>.",
+    "excerpt": "Warehouse analytical functions (Preview) add built-in statistical calculations to Fabric Data Warehouse and the SQL analytics endpoint. For more information, see Aggregate functions.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Warehouse analytical functions (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_41"
+      },
+      {
+        "label": "Aggregate functions",
+        "url": "https://learn.microsoft.com/en-us/sql/t-sql/functions/aggregate-functions-transact-sql?view=fabric&preserve-view=true"
+      }
+    ]
+  },
+  "contentHash": "0af26ef7c8e41413118317192036f1afd4f48d8092d19871c7605deafa1012ce",
+  "categories": [
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_41"
+  }
+}

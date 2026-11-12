@@ -1,0 +1,61 @@
+{
+  "id": "wn-e592b3cce11bdc",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/zero-copy-access-to-onelake-data-in-azure-databricks-preview?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/azure/databricks/query-federation/onelake",
+  "title": "Zero-copy access to OneLake data in Azure Databricks (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "OneLake catalog federation in Azure Databricks (Preview) enables Unity Catalog to query Fabric data stored in OneLake without copying, keeping OneLake as the source of truth while allowing Databricks compute to analyze tables through synchronized metadata and zero-copy data access. For more information, see Enable OneLake catalog federation.",
+    "html": "<a href=\"https://blog.fabric.microsoft.com/blog/zero-copy-access-to-onelake-data-in-azure-databricks-preview?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">OneLake catalog federation in Azure Databricks (Preview)</a> enables Unity Catalog to query Fabric data stored in OneLake without copying, keeping OneLake as the source of truth while allowing Databricks compute to analyze tables through synchronized metadata and zero-copy data access. For more information, see <a href=\"https://learn.microsoft.com/en-us/azure/databricks/query-federation/onelake\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Enable OneLake catalog federation</a>.",
+    "excerpt": "OneLake catalog federation in Azure Databricks (Preview) enables Unity Catalog to query Fabric data stored in OneLake without copying, keeping OneLake as the source of truth while allowing Databricks compute to analyze tables through synchronized metadata and zero-copy data access. For more information, see Enable…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "OneLake catalog federation in Azure Databricks (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/zero-copy-access-to-onelake-data-in-azure-databricks-preview?ft=All"
+      },
+      {
+        "label": "Enable OneLake catalog federation",
+        "url": "https://learn.microsoft.com/en-us/azure/databricks/query-federation/onelake"
+      }
+    ]
+  },
+  "contentHash": "1b271112ce4c73717542c07f7dec8ecf219ea55b85d6e3af19cdce6ca8b7d7ab",
+  "categories": [
+    "onelake",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/zero-copy-access-to-onelake-data-in-azure-databricks-preview?ft=All",
+    "backfill": "true"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "wn-ca5faa2b6cc9b4",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-April-2026-Feature-Summary/ba-p/5176490",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/environment-manage-library",
+  "title": "Maven support in Fabric Environment (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-04-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Maven support in Fabric Environment (Preview) lets Scala and Java developers add libraries from Maven repositories to a Fabric Environment by uploading and managing pom.xml files directly, so transitive dependencies are resolved without manually downloading and uploading JARs. For more information, see Manage libraries in Fabric environments.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-April-2026-Feature-Summary/ba-p/5176490\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Maven support in Fabric Environment (Preview)</a> lets Scala and Java developers add libraries from Maven repositories to a Fabric Environment by uploading and managing <code>pom.xml</code> files directly, so transitive dependencies are resolved without manually downloading and uploading JARs. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/environment-manage-library\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Manage libraries in Fabric environments</a>.",
+    "excerpt": "Maven support in Fabric Environment (Preview) lets Scala and Java developers add libraries from Maven repositories to a Fabric Environment by uploading and managing pom.xml files directly, so transitive dependencies are resolved without manually downloading and uploading JARs. For more information, see Manage…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Maven support in Fabric Environment (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-April-2026-Feature-Summary/ba-p/5176490"
+      },
+      {
+        "label": "Manage libraries in Fabric environments",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/environment-manage-library"
+      }
+    ]
+  },
+  "contentHash": "05e51f493fc8978e15749f46190ebda3f0816db6c706be7738b7ebc0d119e7b0",
+  "categories": [
+    "data-engineering"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-April-2026-Feature-Summary/ba-p/5176490"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "wn-825dd2f0b9c657",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_86",
+  "title": "Maps external feature services (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "External feature services in Fabric Maps (Preview) connect hosted GIS and standards-based geospatial services. For more information, see Create layers from external feature services.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_86\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">External feature services in Fabric Maps (Preview)</a> connect hosted GIS and standards-based geospatial services. For more information, see <a href=\"https://aka.ms/fabricmapsfeatureservicesupport\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Create layers from external feature services</a>.",
+    "excerpt": "External feature services in Fabric Maps (Preview) connect hosted GIS and standards-based geospatial services. For more information, see Create layers from external feature services.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "External feature services in Fabric Maps (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_86"
+      },
+      {
+        "label": "Create layers from external feature services",
+        "url": "https://aka.ms/fabricmapsfeatureservicesupport"
+      }
+    ]
+  },
+  "contentHash": "fb45d321f5bca522aabe5dddaa2a1e383bab7d32c6d227a38cb630cd4d04661b",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_86"
+  }
+}

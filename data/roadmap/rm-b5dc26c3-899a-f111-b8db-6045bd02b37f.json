@@ -1,0 +1,23 @@
+{
+  "id": "rm-b5dc26c3-899a-f111-b8db-6045bd02b37f",
+  "releaseItemId": "b5dc26c3-899a-f111-b8db-6045bd02b37f",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Business Events (GA)",
+  "description": "**Overview**Business Events is now generally available in Microsoft Fabric, providing a governed, end-to-end experience for defining, publishing, discovering, consuming, and monitoring meaningful business signals across Fabric.**Key Capabilities**• Unified Business Event Experience: Create, discover, publish, consume, and manage Business Events directly from Real-Time hub.• Multiple Native Publishers: Publish events from Eventstream, Activator, Notebook, and User Data Functions.• Flexible Event Consumption: Connect Business Events to Activator, Eventstream, Eventhouse, notebooks, and User Data Functions.• Governed Event Schemas: Define and manage reusable event contracts through Schema Registry, including schema versioning and validation.• Data Preview and Observability: Inspect recent events by publisher or consumer to validate payloads, monitor event flow, and troubleshoot delivery.• Role-Based Data Access: Control who can publish and consume events through data access roles.• Low-Code and Pro-Code Support: Build event-driven solutions through guided UI experiences or programmable APIs.• Integrated Lifecycle Management: Manage publishers, consumers, schemas, permissions, and operational insights from a unified experience.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=b5dc26c3-899a-f111-b8db-6045bd02b37f",
+  "contentHash": "626dfbab1048379275194a7392652205a5c006b676509aaecf16e153fae4f343",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

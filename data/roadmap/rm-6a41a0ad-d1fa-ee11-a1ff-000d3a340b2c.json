@@ -1,0 +1,23 @@
+{
+  "id": "rm-6a41a0ad-d1fa-ee11-a1ff-000d3a340b2c",
+  "releaseItemId": "6a41a0ad-d1fa-ee11-a1ff-000d3a340b2c",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "TRUNCATE",
+  "description": "The TRUNCATE command quickly removes all rows of data from a table.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2024",
+  "releaseQuarterStart": "2024-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=6a41a0ad-d1fa-ee11-a1ff-000d3a340b2c",
+  "contentHash": "9192fb99eb753def70a4fa276180db67a354c767b08b88ba271b2d023128266c",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

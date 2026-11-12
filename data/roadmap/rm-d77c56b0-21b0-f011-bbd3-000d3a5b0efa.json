@@ -1,0 +1,23 @@
+{
+  "id": "rm-d77c56b0-21b0-f011-bbd3-000d3a5b0efa",
+  "releaseItemId": "d77c56b0-21b0-f011-bbd3-000d3a5b0efa",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Git Integration - Branched Workspaces (Folder Relation)",
+  "description": "Introducing a new Branched workspace is a new developer experience for working with feature workspaces when performing a 'branch-out' operation.Developer will gain more insights with new visual cues understand better which workspaces are related and provide new functionalities which enhance the developer experience when using branch-out functionality.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=d77c56b0-21b0-f011-bbd3-000d3a5b0efa",
+  "contentHash": "f6688827c2e80bfd506e6d690469673995b889943e6058c65ec467dd413e18b7",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

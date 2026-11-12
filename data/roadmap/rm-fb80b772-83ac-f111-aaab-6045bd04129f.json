@@ -1,0 +1,23 @@
+{
+  "id": "rm-fb80b772-83ac-f111-aaab-6045bd04129f",
+  "releaseItemId": "fb80b772-83ac-f111-aaab-6045bd04129f",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "Full Ontology canvas experience",
+  "description": "The full Ontology canvas experience in Microsoft Fabric IQ brings the complete ontology into a single interactive view, showing entity types and the relationships between them. It makes the overall structure easier to understand while keeping connected parts of the ontology in context.With this experience, you can:• View all entity types and relationships together to understand how the ontology is organized and how its parts connect.• Navigate the canvas by panning, dragging, zooming in or out, and using zoom-to-fit to move between an overview and a closer look.• Highlight and interact with entity type nodes, interact with relationship edges, and switch between available layouts to suit the task.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=fb80b772-83ac-f111-aaab-6045bd04129f",
+  "contentHash": "876df6a328f7de22a72d598d1138e1db2db16bd4d690cc3a9ac1aeb5c98ff98b",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

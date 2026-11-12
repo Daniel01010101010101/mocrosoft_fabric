@@ -1,0 +1,56 @@
+{
+  "id": "wn-206a8e5c2f8e90",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_92",
+  "title": "Fabric IQ data-agent and ontology answers (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric IQ data-agent and ontology answers (Preview) extend business-question answering beyond reports and semantic models.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_92\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric IQ data-agent and ontology answers (Preview)</a> extend business-question answering beyond reports and semantic models.",
+    "excerpt": "Fabric IQ data-agent and ontology answers (Preview) extend business-question answering beyond reports and semantic models.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric IQ data-agent and ontology answers (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_92"
+      }
+    ]
+  },
+  "contentHash": "b888d24766c6a76fc5afd18671855d1dbc623be4cc95fadecb91437aa2de850b",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "data-scientists",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_92"
+  }
+}

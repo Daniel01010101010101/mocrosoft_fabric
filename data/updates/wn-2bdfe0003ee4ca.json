@@ -1,0 +1,56 @@
+{
+  "id": "wn-2bdfe0003ee4ca",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Trusted-AI-starts-with-Microsoft-Fabric-Real-Time-Intelligence/ba-p/5369528",
+  "title": "Operations Agent performance view (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Operations Agent performance view (Preview) shows monitoring, reasoning, and model-usage telemetry for an operations agent.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Trusted-AI-starts-with-Microsoft-Fabric-Real-Time-Intelligence/ba-p/5369528\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Operations Agent performance view (Preview)</a> shows monitoring, reasoning, and model-usage telemetry for an operations agent.",
+    "excerpt": "Operations Agent performance view (Preview) shows monitoring, reasoning, and model-usage telemetry for an operations agent.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Operations Agent performance view (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Trusted-AI-starts-with-Microsoft-Fabric-Real-Time-Intelligence/ba-p/5369528"
+      }
+    ]
+  },
+  "contentHash": "cc435226174b5916f6848279657ab3b4b614bdb2acef24882323af5314e39610",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 65,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-scientists",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Trusted-AI-starts-with-Microsoft-Fabric-Real-Time-Intelligence/ba-p/5369528",
+    "backfill": "true"
+  }
+}

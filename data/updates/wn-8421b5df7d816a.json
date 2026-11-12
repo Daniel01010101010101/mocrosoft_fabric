@@ -1,0 +1,60 @@
+{
+  "id": "wn-8421b5df7d816a",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Soft-delete-for-On-premises-data-gateways-in-Microsoft-Fabric/ba-p/5365712",
+  "docsUrl": "https://learn.microsoft.com/en-us/data-integration/gateway/gateway-soft-delete",
+  "title": "On-premises data gateway soft delete (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "On-premises data gateway soft delete (Preview) retains supported standard mode gateways for 30 days by default so tenant and gateway admins can recover accidental deletions. For more information, see Gateway soft delete.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Soft-delete-for-On-premises-data-gateways-in-Microsoft-Fabric/ba-p/5365712\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">On-premises data gateway soft delete (Preview)</a> retains supported standard mode gateways for 30 days by default so tenant and gateway admins can recover accidental deletions. For more information, see <a href=\"https://learn.microsoft.com/en-us/data-integration/gateway/gateway-soft-delete\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Gateway soft delete</a>.",
+    "excerpt": "On-premises data gateway soft delete (Preview) retains supported standard mode gateways for 30 days by default so tenant and gateway admins can recover accidental deletions. For more information, see Gateway soft delete.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "On-premises data gateway soft delete (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Soft-delete-for-On-premises-data-gateways-in-Microsoft-Fabric/ba-p/5365712"
+      },
+      {
+        "label": "Gateway soft delete",
+        "url": "https://learn.microsoft.com/en-us/data-integration/gateway/gateway-soft-delete"
+      }
+    ]
+  },
+  "contentHash": "3c0a666bdfcfe8b9e76551e8003bf3794624dbe1d49e2703e4a9e3e329762dc1",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Soft-delete-for-On-premises-data-gateways-in-Microsoft-Fabric/ba-p/5365712",
+    "backfill": "true"
+  }
+}

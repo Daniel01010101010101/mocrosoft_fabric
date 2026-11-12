@@ -1,0 +1,23 @@
+{
+  "id": "rm-e240d768-fc21-f011-998a-0022480939f0",
+  "releaseItemId": "e240d768-fc21-f011-998a-0022480939f0",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Warehouse Clones",
+  "description": "Ability to clone warehouse across workspaces",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=e240d768-fc21-f011-998a-0022480939f0",
+  "contentHash": "5ecb280aa606e37721c6a2a2dd5954f6f7cfea035e93518ad2fb9877647abddb",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

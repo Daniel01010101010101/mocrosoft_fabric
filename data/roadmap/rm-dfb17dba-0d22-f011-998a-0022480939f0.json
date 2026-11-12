@@ -1,0 +1,23 @@
+{
+  "id": "rm-dfb17dba-0d22-f011-998a-0022480939f0",
+  "releaseItemId": "dfb17dba-0d22-f011-998a-0022480939f0",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Configurable Retention between 1-120 days",
+  "description": "Ability to configure the data warehouse retention between 1 to 120 days;",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=dfb17dba-0d22-f011-998a-0022480939f0",
+  "contentHash": "38f603e7995a109f7265d80ec9109d754e28f1d7f715d3b5cb29bcbf7ffe206d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

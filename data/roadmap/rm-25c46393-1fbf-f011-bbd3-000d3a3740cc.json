@@ -1,0 +1,23 @@
+{
+  "id": "rm-25c46393-1fbf-f011-bbd3-000d3a3740cc",
+  "releaseItemId": "25c46393-1fbf-f011-bbd3-000d3a3740cc",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Fabric Materialized Lake Views - Multiple Schedule Support",
+  "description": "Multiple schedule in FMLV allows users to independently schedule refreshes for individual Materialized Lake Views or chains within a Lakehouse, rather than applying a single schedule to the entire LakeHouse. This enables targeted refreshes, optimizes compute usage, and aligns data freshness with specific business SLAs for different reporting",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=25c46393-1fbf-f011-bbd3-000d3a3740cc",
+  "contentHash": "fc2575cd20c4e48bf16ba835854c5da7c4ea63d6e4161be9847e5ca80a7a4373",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

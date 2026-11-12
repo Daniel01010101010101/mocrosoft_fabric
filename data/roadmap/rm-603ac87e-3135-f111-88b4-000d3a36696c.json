@@ -1,0 +1,23 @@
+{
+  "id": "rm-603ac87e-3135-f111-88b4-000d3a36696c",
+  "releaseItemId": "603ac87e-3135-f111-88b4-000d3a36696c",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - My Queries",
+  "description": "We plan to make My Queries in Dataflow Gen2 generally available, enabling users to save commonly used Power Query transformations to a personal library and reuse them across multiple dataflows.Moving My Queries to GA means it is ready for production usage, with the reliability, consistency, and support required for standardizing data preparation at scale.Key benefits and scenarios:* Reuse proven transformation logic—such as cleansing steps, business rules, or standard joins—without rebuilding queries from scratch* Promote consistency and reduce duplication when building multiple dataflows against similar source systems* Make shared logic easier to maintain and evolve over time while accelerating the creation of new Dataflow Gen2 artifactsBy taking My Queries to GA, Dataflow Gen2 makes reuse, standardization, and long‑term maintainability first‑class capabilities for production‑scale data preparation.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=603ac87e-3135-f111-88b4-000d3a36696c",
+  "contentHash": "6206ee39783d1c5a2de0d89591de7bd623616c4fb4ff5a7ad50cbffccd91aa3c",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

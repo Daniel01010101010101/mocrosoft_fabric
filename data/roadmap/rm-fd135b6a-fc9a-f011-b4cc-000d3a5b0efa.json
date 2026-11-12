@@ -1,0 +1,23 @@
+{
+  "id": "rm-fd135b6a-fc9a-f011-b4cc-000d3a5b0efa",
+  "releaseItemId": "fd135b6a-fc9a-f011-b4cc-000d3a5b0efa",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Pipelines - Tumbling Window Triggers",
+  "description": "In ADF & Synapse, tumbling window triggers are very popular mechanism by which you can automate your pipelines using non-overlapping time slices that you can manage and rerun. We are bringing this powerful scheduling technique to Fabric through \"interval-based schedules\" in the Fabric scheduler.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=fd135b6a-fc9a-f011-b4cc-000d3a5b0efa",
+  "contentHash": "57b4fbdbffc3316c190aea6debe1e460046e14238b2d3069ee1b85d1f8b90130",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

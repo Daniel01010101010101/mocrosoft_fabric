@@ -1,0 +1,58 @@
+{
+  "id": "wn-52014a3bb8a652",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_75",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-rules-overview",
+  "title": "Activator stateful conditions (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Activator stateful conditions evaluate changes over time instead of treating each event independently. For more information, see Activator rules overview.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_75\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Activator stateful conditions</a> evaluate changes over time instead of treating each event independently. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-rules-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Activator rules overview</a>.",
+    "excerpt": "Activator stateful conditions evaluate changes over time instead of treating each event independently. For more information, see Activator rules overview.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Activator stateful conditions",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_75"
+      },
+      {
+        "label": "Activator rules overview",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-rules-overview"
+      }
+    ]
+  },
+  "contentHash": "05872c761ac6e798bddc5148fdde81451225b96fcac4378139ac236d18594767",
+  "categories": [
+    "data-activator"
+  ],
+  "primaryCategory": "data-activator",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_75"
+  }
+}

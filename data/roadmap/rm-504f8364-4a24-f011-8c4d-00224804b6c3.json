@@ -1,0 +1,23 @@
+{
+  "id": "rm-504f8364-4a24-f011-8c4d-00224804b6c3",
+  "releaseItemId": "504f8364-4a24-f011-8c4d-00224804b6c3",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Data Agent: Support for SQL Views + Functions",
+  "description": "SQL Views and Functions support in Data Agent enables the system to work with richer, production‑grade SQL entities by incorporating views and reusable logic directly into query generation. This dramatically improves data accessibility, reduces complexity, and boosts NL2SQL accuracy by allowing Data Agent to rely on curated schemas, simplified naming, and pre‑defined joins rather than raw underlying tables. The result is more reliable, performant, and business‑friendly analytics experiences for creators and downstream users",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=504f8364-4a24-f011-8c4d-00224804b6c3",
+  "contentHash": "1a04f29b40441a95068828a1e52ecd9009309ee738cc23446fa32a19f9eb7ea2",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

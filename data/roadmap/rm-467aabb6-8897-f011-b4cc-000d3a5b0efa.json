@@ -1,0 +1,23 @@
+{
+  "id": "rm-467aabb6-8897-f011-b4cc-000d3a5b0efa",
+  "releaseItemId": "467aabb6-8897-f011-b4cc-000d3a5b0efa",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Hotkey support for quick navigation",
+  "description": "Enable hotkey functionality to support efficient management of open items. By reducing reliance on mouse interactions, it streamlines multitasking workflows, enhances productivity, and minimizes context-switching, making it easier for users to stay focused and manage complex tasks simultaneously.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=467aabb6-8897-f011-b4cc-000d3a5b0efa",
+  "contentHash": "8f4f4bb627b7f568eaff47e7aa6545d58dfff5ca14cfe513f057d4b524afcecb",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

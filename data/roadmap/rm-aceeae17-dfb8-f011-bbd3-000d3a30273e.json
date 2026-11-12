@@ -1,0 +1,23 @@
+{
+  "id": "rm-aceeae17-dfb8-f011-bbd3-000d3a30273e",
+  "releaseItemId": "aceeae17-dfb8-f011-bbd3-000d3a30273e",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Regular expressions",
+  "description": "Fabric Data Warehouse will introduce T-SQL functions for pattern matching, text extraction, and transformation using regular expressions. These capabilities will make it easier to validate, search, and manipulate text data directly within your queries.New functions include:* REGEXP_LIKE – Returns a Boolean indicating if the text matches the regex pattern.* REGEXP_REPLACE – Replaces occurrences of a regex pattern with a specified string.* REGEXP_SUBSTR – Extracts parts of a string based on a regex pattern, including Nth occurrence.* REGEXP_INSTR – Returns the position (start or end) of a matched substring.* REGEXP_COUNT – Counts how many times a regex pattern occurs in a string.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=aceeae17-dfb8-f011-bbd3-000d3a30273e",
+  "contentHash": "5e525c0bfd99e2dd8673b402559f9d6d7449e478a41953462a9637786077ec0d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-d81f42ec-ee09-ef11-9f89-000d3a36eea4",
+  "releaseItemId": "d81f42ec-ee09-ef11-9f89-000d3a36eea4",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": ".NET SDK for Fabric REST APIs",
+  "description": "The Fabric REST API provides developers with programmatic access to manage and interact with Microsoft Fabric resources. It enables developers to automate a wide array of tasks, including data integration, data warehousing, big data analytics, deployment process automation, new tenant provisioning, and more.The .NET SDK is a wrapper library that simplifies the communication with the Fabric REST API and handles the authentication, serialization, and error handling for you.The .NET SDK for Fabric REST API exposes the following endpoints:1. Capacities: List capacities2. Workspaces: Create, update, delete, or list Microsoft Fabric workspaces.3. Items: Create, update, delete, or list Microsoft Fabric items.4. Git: Commit to Git, Connect and Disconnect workspace to Git and update workspace from Git.5. Long running operations: get operation status and get operation result.6. OneLake shortcuts: Create, delete and get shortcut",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=d81f42ec-ee09-ef11-9f89-000d3a36eea4",
+  "contentHash": "693ae8b27b0f6c54e6a4ee8c1e5e3218d5e411b256334741760115491879ea56",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

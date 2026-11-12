@@ -1,0 +1,58 @@
+{
+  "id": "wn-03802d01b037fb",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/enhancing-data-transformation-flexibility-with-multiple-schema-inferencing-in-eventstream-preview?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/process-events-with-multiple-schemas",
+  "title": "Multiple-Schema Inferencing in Eventstream (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Multiple schema inferencing (preview) lets you work with multiple data sources that emit varying schemas by inferring and managing multiple schemas simultaneously. For more information, see Enhancing Data Transformation Flexibility with Multiple-Schema Inferencing in Eventstream (Preview).",
+    "html": "<a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/process-events-with-multiple-schemas\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Multiple schema inferencing (preview)</a> lets you work with multiple data sources that emit varying schemas by inferring and managing multiple schemas simultaneously. For more information, see <a href=\"https://blog.fabric.microsoft.com/blog/enhancing-data-transformation-flexibility-with-multiple-schema-inferencing-in-eventstream-preview?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Enhancing Data Transformation Flexibility with Multiple-Schema Inferencing in Eventstream (Preview)</a>.",
+    "excerpt": "Multiple schema inferencing (preview) lets you work with multiple data sources that emit varying schemas by inferring and managing multiple schemas simultaneously. For more information, see Enhancing Data Transformation Flexibility with Multiple-Schema Inferencing in Eventstream (Preview).",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Multiple schema inferencing (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/process-events-with-multiple-schemas"
+      },
+      {
+        "label": "Enhancing Data Transformation Flexibility with Multiple-Schema Inferencing in Eventstream (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/enhancing-data-transformation-flexibility-with-multiple-schema-inferencing-in-eventstream-preview?ft=All"
+      }
+    ]
+  },
+  "contentHash": "807e6fda817068bc28e4d8f46ebcd3d10e7736929d975faadaedb753b0597432",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/enhancing-data-transformation-flexibility-with-multiple-schema-inferencing-in-eventstream-preview?ft=All",
+    "backfill": "true"
+  }
+}

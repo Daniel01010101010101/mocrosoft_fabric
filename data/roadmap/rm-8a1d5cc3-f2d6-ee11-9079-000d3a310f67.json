@@ -1,0 +1,23 @@
+{
+  "id": "rm-8a1d5cc3-f2d6-ee11-9079-000d3a310f67",
+  "releaseItemId": "8a1d5cc3-f2d6-ee11-9079-000d3a310f67",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Notebooks in an app",
+  "description": "Org apps are available as a new item in Fabric and you can include Notebooks alongside Power BI reports and dashboards in Fabric apps and distribute them to business users. App consumers can interact with widgets and visuals in the notebook, as an alternative reporting and data exploration mechanism. This enable you to create and share rich and engaging stories with your data.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=8a1d5cc3-f2d6-ee11-9079-000d3a310f67",
+  "contentHash": "3ea35768c27cc6110dc46424db9a247c295a1fc731000e9bd362c90c0eb6bec7",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

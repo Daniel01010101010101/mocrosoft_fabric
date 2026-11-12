@@ -1,0 +1,23 @@
+{
+  "id": "rm-1670c585-c19a-f011-b4cc-000d3a5b0efa",
+  "releaseItemId": "1670c585-c19a-f011-b4cc-000d3a5b0efa",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Copy job - CDC based replication from SAP via Datasphere",
+  "description": "With the CDC mechanism, customers can automatically capture inserts, updates, and deletions from SAP via Datasphere and replicate them to the destination—without requiring a watermark column.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=1670c585-c19a-f011-b4cc-000d3a5b0efa",
+  "contentHash": "ec96e5245f67b670baaecb0423de516555ac65e239dd4f34fed5c336c68334c0",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

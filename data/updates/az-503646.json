@@ -1,0 +1,60 @@
+{
+  "id": "az-503646",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=503646",
+  "title": "Public Preview: MSSQL extension integration with Microsoft Fabric",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2025-10-01T17:30:57.922Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The MSSQL extension for Visual Studio Code (VS Code) now brings SQL database in Fabric directly into your development workflow. With the new Fabric connectivity option in the Connection Dialog, you can sign in using Microsoft Entra ID, browse your Fabric workspaces in a familiar tree view, search across them, and connect to SQL databases or endpoints—all without juggling connection strings. The experience is designed to feel native to Fabric users, with persistent sign-ins, tenant switching, and a seamless “Open in MSSQL” flow from the Fabric extension.\nWe’re also introducing SQL database in Fabric provisioning directly from VS Code. Instead of leaving your editor to navigate the Fabric UI, you can now create a new SQL database in Fabric in just a few steps—authenticate, select or create a workspace, name your database, and connect instantly. You can run queries within minutes, eliminating context switching and reducing onboarding friction for prototyping and modern app development.\nTogether, these updates give you a faster, simpler way to get started with Microsoft Fabric and make it easier than ever to build AI-ready, cloud-native solutions directly from VS Code.\nLearn more.",
+    "html": "<p><span><span>The MSSQL extension for Visual Studio Code<span> </span></span><span>(VS Code)<span> </span></span><span>now brings SQL database in Fabric directly into your development workflow. With the new Fabric connectivity<span> </span></span><span>option</span><span><span> </span>in the Connection<span> </span></span><span>D</span><span>ialog, you can sign in using Microsoft Entra ID, browse your Fabric workspaces in a familiar tree view, search across them, and connect to SQL databases or endpoints—all without juggling connection strings. The experience is designed to feel native to Fabric users, with persistent sign-ins, tenant switching, and a seamless “Open in MSSQL” flow from the Fabric extension.</span></span><span> </span></p><p><span><span></span></span><span> </span></p><p><span><span>We’re</span><span><span> </span>also introducing SQL database in Fabric provisioning directly from VS Code. Instead of leaving your editor to navigate the Fabric UI, you can now create a new SQL database in Fabric in just a few<span> </span></span><span>steps</span><span>—</span><span>a</span><span>uthent</span><span>icate,<span> </span></span><span>select</span><span><span> </span>or create a workspace, name your database, and connect instantly. You can run queries within minutes,<span> </span></span><span>eliminating</span><span><span> </span>context switching and reducing onboarding friction for prototyping and modern app development. </span></span><span> </span></p><p><span><span></span></span><span> </span></p><p><span><span>Together, these updates give you a faster, simpler way to get started with Microsoft Fabric and make it easier than ever to build AI-ready, cloud-native solutions directly from VS Code. </span></span><span> </span></p><p><span><span></span></span><span> </span></p><p><span></span><a rel=\"noopener noreferrer nofollow\" href=\"https://aka.ms/vscode-mssql-september2025\" target=\"_blank\"><span><span>Learn more.</span></span></a><span></span><span><span> </span><br /></span><span></span><span> </span></p>",
+    "excerpt": "The MSSQL extension for Visual Studio Code (VS Code) now brings SQL database in Fabric directly into your development workflow. With the new Fabric connectivity option in the Connection Dialog, you can sign in using Microsoft Entra ID, browse your Fabric workspaces in a familiar tree view, search across them, and…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more.",
+        "url": "https://aka.ms/vscode-mssql-september2025"
+      }
+    ]
+  },
+  "contentHash": "449228f2f91c0926bc5bdfea7a9019798ce79dac313bd4afb3952c342bef7c70",
+  "categories": [
+    "databases",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "databases",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 58,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "developers",
+      "architects",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "In preview",
+    "products": "Azure SQL Database, Microsoft Fabric",
+    "tags": "Features",
+    "previewDate": "2025-09",
+    "modified": "2025-10-01T17:30:57.9229944Z"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "wn-037ba77c997d0e",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_12",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/cicd/git-integration/granular-compare",
+  "title": "File-level Git commit (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.89,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "File-level Git commit (Preview) commits selected files from a supported Fabric item while unfinished files remain in the workspace. For more information, see Compare and commit Fabric items.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_12\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">File-level Git commit (Preview)</a> commits selected files from a supported Fabric item while unfinished files remain in the workspace. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/cicd/git-integration/granular-compare\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Compare and commit Fabric items</a>.",
+    "excerpt": "File-level Git commit (Preview) commits selected files from a supported Fabric item while unfinished files remain in the workspace. For more information, see Compare and commit Fabric items.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "File-level Git commit (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_12"
+      },
+      {
+        "label": "Compare and commit Fabric items",
+        "url": "https://learn.microsoft.com/en-us/fabric/cicd/git-integration/granular-compare"
+      }
+    ]
+  },
+  "contentHash": "dcf4725326fb3ab6f8c404a2b555f85dcc6e84409157adf08b86ca850017f029",
+  "categories": [
+    "developer-apis"
+  ],
+  "primaryCategory": "developer-apis",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_12"
+  }
+}

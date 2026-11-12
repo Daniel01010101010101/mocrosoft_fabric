@@ -1,0 +1,23 @@
+{
+  "id": "rm-c3e08972-3e07-ef11-9f89-000d3a33ff0b",
+  "releaseItemId": "c3e08972-3e07-ef11-9f89-000d3a33ff0b",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Create and run DAX queries with Query view in Power BI Desktop",
+  "description": "The DAX query view allows BI developers to create and run DAX queries in Power BI! Use the existing DAX query syntax to quickly query your data model.DAX expressions are used to define any measure, calculated column, calculated table, dynamic format string, calculation item, and row level security on your model. But that is not all you can do with DAX. With the DAX EVALUATE keyword, you can also use DAX to create a DAX query. This is much like a SQL query where you can specify columns and aggregations to return in a result table. You can learn more about DAX queries at DAX queries.This powerful way to interact with your data model will be available in the new DAX query view! We give you several ways to help you be as productive as possible with these DAX queries:* Quick queries in the context menu of the Data pane tables, columns, or measures gives you a head start by creating a DAX query to preview data or show summary statistics to help you understand the data without creating visuals and for DirectQuery you no longer must go back to Power Query to see some sample data. * Right-click in the Data pane to get the DAX expression of all measures or a specific measure in a DEFINE statement with an EVALUATE statement to run as a DAX query and add any additional columns. * If you modify that DEFINE measure from the model definition, a time saving option to update model can overwrite the current model definition with your changes – you don’t have to copy paste it back manually. * If you use DEFINE to create a measure not in the model already, a time saving option to add to model can be used to add this measure to your model! Again, saving you the step of going new measure and then copy pasting the DAX expression over. * If your measure references another measure, you can define the measure and all the references, meaning all the measures DAX expressions are visible on one screen! Now you can see the full context of how this measure is calculated from the source columns. * Performance Analyzer already lets you copy the visual DAX query. Now you no longer need to take that DAX query and use another tool to view and run it – simply run the visual DAX query in Power BI.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2024",
+  "releaseQuarterStart": "2024-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=c3e08972-3e07-ef11-9f89-000d3a33ff0b",
+  "contentHash": "c859738b4202375e9ab870c7195a75fd50f8b886558b733783b0736c60cc259a",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

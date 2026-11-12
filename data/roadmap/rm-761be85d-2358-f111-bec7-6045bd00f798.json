@@ -1,0 +1,23 @@
+{
+  "id": "rm-761be85d-2358-f111-bec7-6045bd00f798",
+  "releaseItemId": "761be85d-2358-f111-bec7-6045bd00f798",
+  "product": "Data Science",
+  "productId": "0522b590-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-science",
+  "name": "MLOps: model alias",
+  "description": "This feature is to offer a model alias that provides a stable, human‑readable name pointing to a specific model version. This lets them switch, promote, or roll back model versions safely without breaking downstream integrations.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q2 2027",
+  "releaseQuarterStart": "2027-04-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=761be85d-2358-f111-bec7-6045bd00f798",
+  "contentHash": "b11c24fb9b04832c59810580525b92aaac4c13d055063f8af8936a4247a32379",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

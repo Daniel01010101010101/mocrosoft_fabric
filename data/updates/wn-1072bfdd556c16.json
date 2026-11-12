@@ -1,0 +1,57 @@
+{
+  "id": "wn-1072bfdd556c16",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/data-clustering",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-warehouse/data-clustering",
+  "title": "Warehouse data clustering (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Data clustering is a technique used to organize and store data based on similarity. Data clustering improves query performance and reduces compute and storage access costs for queries by grouping similar records together. For more information and to get started, see Data clustering in Fabric Data Warehouse and Use data clustering in Fabric Data Warehouse (Preview).",
+    "html": "Data clustering is a technique used to organize and store data based on similarity. Data clustering improves query performance and reduces compute and storage access costs for queries by grouping similar records together. For more information and to get started, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/data-clustering\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Data clustering in Fabric Data Warehouse</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-data-clustering\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Use data clustering in Fabric Data Warehouse (Preview)</a>.",
+    "excerpt": "Data clustering is a technique used to organize and store data based on similarity. Data clustering improves query performance and reduces compute and storage access costs for queries by grouping similar records together. For more information and to get started, see Data clustering in Fabric Data Warehouse and Use…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Data clustering in Fabric Data Warehouse",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/data-clustering"
+      },
+      {
+        "label": "Use data clustering in Fabric Data Warehouse (Preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-data-clustering"
+      }
+    ]
+  },
+  "contentHash": "85455dcb455f954db07b77db80411c6e65109b92ad461364c188f1597ef81bf9",
+  "categories": [
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

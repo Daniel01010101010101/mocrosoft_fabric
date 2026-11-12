@@ -1,0 +1,23 @@
+{
+  "id": "rm-f4f6862a-e001-f111-8406-6045bd00f798",
+  "releaseItemId": "f4f6862a-e001-f111-8406-6045bd00f798",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "CI/CD: notebook resources in git and deployment pipeline and support for API",
+  "description": "Modules and files stored in the Notebook Resource folder can now be committed to Git and published through Deployment Pipelines.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=f4f6862a-e001-f111-8406-6045bd00f798",
+  "contentHash": "cb167eae0944598d70b78d1003b316c4fc584befa69f97e686f62bee03479a6b",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

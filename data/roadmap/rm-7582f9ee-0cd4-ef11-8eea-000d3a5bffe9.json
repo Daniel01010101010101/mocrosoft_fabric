@@ -1,0 +1,23 @@
+{
+  "id": "rm-7582f9ee-0cd4-ef11-8eea-000d3a5bffe9",
+  "releaseItemId": "7582f9ee-0cd4-ef11-8eea-000d3a5bffe9",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Eventhouse Monitoring Experiences - PuPr",
+  "description": "Eventhouse Monitoring Experiences - Public Preview",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=7582f9ee-0cd4-ef11-8eea-000d3a5bffe9",
+  "contentHash": "ea1520bfb61debb6047450fc6e5766948b4148f3794e80612b8f63a38e6522ad",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

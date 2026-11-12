@@ -1,0 +1,61 @@
+{
+  "id": "wn-9a866c1f9633b3",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/sql/sql-server/ai/vectors?view=fabric-sqldb&preserve-view=true",
+  "docsUrl": "https://learn.microsoft.com/en-us/sql/sql-server/ai/vectors?view=fabric-sqldb&preserve-view=true",
+  "title": "Vector indexes and vector search in SQL database in Fabric (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Vector indexes and vector search in SQL database in Fabric are now generally available. For more information, see CREATE VECTOR INDEX and Vector indexes and vector search general availability.",
+    "html": "<a href=\"https://learn.microsoft.com/en-us/sql/sql-server/ai/vectors?view=fabric-sqldb&amp;preserve-view=true\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Vector indexes and vector search in SQL database in Fabric</a> are now generally available. For more information, see <a href=\"https://learn.microsoft.com/en-us/sql/t-sql/statements/create-vector-index-transact-sql?view=fabric-sqldb&amp;preserve-view=true\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">CREATE VECTOR INDEX</a> and <a href=\"https://aka.ms/azuresql-vectorindex-ga\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Vector indexes and vector search general availability</a>.",
+    "excerpt": "Vector indexes and vector search in SQL database in Fabric are now generally available. For more information, see CREATE VECTOR INDEX and Vector indexes and vector search general availability.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Vector indexes and vector search in SQL database in Fabric",
+        "url": "https://learn.microsoft.com/en-us/sql/sql-server/ai/vectors?view=fabric-sqldb&preserve-view=true"
+      },
+      {
+        "label": "CREATE VECTOR INDEX",
+        "url": "https://learn.microsoft.com/en-us/sql/t-sql/statements/create-vector-index-transact-sql?view=fabric-sqldb&preserve-view=true"
+      },
+      {
+        "label": "Vector indexes and vector search general availability",
+        "url": "https://aka.ms/azuresql-vectorindex-ga"
+      }
+    ]
+  },
+  "contentHash": "ac1d6c6cf07c83a26fede2518a8e32f8d968ac03df8a6f209f12d90c058de828",
+  "categories": [
+    "databases"
+  ],
+  "primaryCategory": "databases",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features"
+  }
+}

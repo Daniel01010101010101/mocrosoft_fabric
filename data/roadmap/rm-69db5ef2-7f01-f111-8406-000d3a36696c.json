@@ -1,0 +1,23 @@
+{
+  "id": "rm-69db5ef2-7f01-f111-8406-000d3a36696c",
+  "releaseItemId": "69db5ef2-7f01-f111-8406-000d3a36696c",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "Fabric Planning",
+  "description": "Planning in Microsoft Fabric is a native enterprise planning capability that brings budgeting, forecasting, and scenario modeling directly into your data platform—eliminating silos between planning, analytics, and AI.Built into Microsoft Fabric, Planning enables business and data teams to collaboratively create, manage, and refine plans on top of governed, real-time data—powering faster, more informed decision-making across the organization.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=69db5ef2-7f01-f111-8406-000d3a36696c",
+  "contentHash": "e032d7b2b578f6c951aaace8a0e2ea8996a13d7b538f7883c9945c122b642ba3",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

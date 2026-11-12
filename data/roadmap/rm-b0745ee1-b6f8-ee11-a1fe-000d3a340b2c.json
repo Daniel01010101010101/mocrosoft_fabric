@@ -1,0 +1,23 @@
+{
+  "id": "rm-b0745ee1-b6f8-ee11-a1fe-000d3a340b2c",
+  "releaseItemId": "b0745ee1-b6f8-ee11-a1fe-000d3a340b2c",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Spark Connector for Fabric Data Warehouse - Public Preview",
+  "description": "Spark Connector for Fabric DW (Data Warehouse) empowers a Spark developer or a data scientist to access and work on data from Fabric Data Warehouse with a simplified Spark API, which literally works with just one line of code. It offers an ability to query the data, in parallel, from Fabric data warehouse so that it scales with increasing data volume and honors security model (OLS/RLS/CLS) defined at the data warehouse level while accessing the table or view. This first release will support reading data only and the support for writing data back will be coming soon.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2024",
+  "releaseQuarterStart": "2024-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=b0745ee1-b6f8-ee11-a1fe-000d3a340b2c",
+  "contentHash": "1e06988e389fae74caf1b7bfd7fd7997f39d3ff6943ab5ca8ddd1f3d494b07f9",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

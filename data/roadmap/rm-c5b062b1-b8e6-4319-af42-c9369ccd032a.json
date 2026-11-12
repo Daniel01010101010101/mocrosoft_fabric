@@ -1,0 +1,23 @@
+{
+  "id": "rm-c5b062b1-b8e6-4319-af42-c9369ccd032a",
+  "releaseItemId": "c5b062b1-b8e6-4319-af42-c9369ccd032a",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "Migration to the updated Ontology experience",
+  "description": "The Ontology migration experience helps existing Microsoft Fabric IQ Ontology users move from the earlier ontology version to the updated model and experience. Users receive onboarding and migration guidance so they can understand the transition and its effect on their ontology workflows. Supported guidance should be reviewed before migration; this release does not promise that every connected experience migrates without additional steps.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=c5b062b1-b8e6-4319-af42-c9369ccd032a",
+  "contentHash": "b47cb34542b4b723381410bcb9c08949267c93a0b24af7cdb24726a9d4773602",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

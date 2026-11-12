@@ -1,0 +1,23 @@
+{
+  "id": "rm-b693a00d-5eb0-f011-bbd3-000d3a3740cc",
+  "releaseItemId": "b693a00d-5eb0-f011-bbd3-000d3a3740cc",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Capacity Metrics App - Health",
+  "description": "**Fabric Capacity Metrics App - Health **The Health page in the Microsoft Fabric Capacity Metrics app is currently in Preview, and some minor updates/enhancements will be made to make it Generally Available.  The page offers a high-level overview of all capacities for which a user is admin, aggregating capacity metrics across a tenant in a way that greatly simplifies the ability to identify capacities that are in need of attention. The page is designed to help capacity administrators quickly identify capacities that are consuming the most compute resources or are experiencing issues such as throttling or query rejections. It also provides a clear view of the health status for key metrics, including data refresh history, error details, and connectivity checks. This helps admins quickly identify issues such as failed refreshes or stale data, understand their root causes, and take corrective actions. By ensuring metrics remain accurate and up-to-date, the Health page supports streamlined decision-making visibility to sustain smoother operations.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=b693a00d-5eb0-f011-bbd3-000d3a3740cc",
+  "contentHash": "b826531b5a14105c07bd6b5ffc72074ff32c40a8454145bf2a47949e89410286",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "wn-23e3385e260925",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146",
+  "title": "Telmai Data Reliability (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Telmai Data Reliability for Fabric monitors OneLake tables for volume, schema, freshness, and completeness changes.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Telmai Data Reliability for Fabric</a> monitors OneLake tables for volume, schema, freshness, and completeness changes.",
+    "excerpt": "Telmai Data Reliability for Fabric monitors OneLake tables for volume, schema, freshness, and completeness changes.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Telmai Data Reliability for Fabric",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146"
+      }
+    ]
+  },
+  "contentHash": "073e71aaa8e537851265958ef5dd5bf59b6c427eb3c72c53ab4c944ebaebc7fe",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146"
+  }
+}

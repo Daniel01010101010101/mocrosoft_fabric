@@ -1,0 +1,53 @@
+{
+  "id": "wn-fe5bc69d7b7b3e",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId--1837831120",
+  "title": "Usage-based resource estimations (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-07-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Usage-based resource estimations help the Fabric Data Warehouse query optimizer use prior execution cardinalities to correct under- and over-estimates for more efficient resource requests and concurrency.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId--1837831120\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Usage-based resource estimations</a> help the Fabric Data Warehouse query optimizer use prior execution cardinalities to correct under- and over-estimates for more efficient resource requests and concurrency.",
+    "excerpt": "Usage-based resource estimations help the Fabric Data Warehouse query optimizer use prior execution cardinalities to correct under- and over-estimates for more efficient resource requests and concurrency.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Usage-based resource estimations",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId--1837831120"
+      }
+    ]
+  },
+  "contentHash": "8b5a58775d6e825b5fdef0d7ff34d70643a77221e4547de3b9ba16f2e0dedf6c",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "July 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId--1837831120"
+  }
+}

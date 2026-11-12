@@ -1,0 +1,54 @@
+{
+  "id": "wn-2947ccae2fc459",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/september-2025-fabric-feature-summary?ft=All#post-28106-_Toc208595416",
+  "title": "Data replication from Lakehouse with Delta Change Feed (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2025-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Fabric Lakehouse Table connector provides changed data from a Fabric Lakehouse via Delta Change Data Feed (CDF), to supported destinations. For more information, see Data Replication from Fabric Lakehouse with Delta Change Data Feed (Preview).",
+    "html": "The Fabric Lakehouse Table connector provides changed data from a Fabric Lakehouse via Delta Change Data Feed (CDF), to supported destinations. For more information, see <a href=\"https://blog.fabric.microsoft.com/blog/september-2025-fabric-feature-summary?ft=All#post-28106-_Toc208595416\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Data Replication from Fabric Lakehouse with Delta Change Data Feed (Preview)</a>.",
+    "excerpt": "The Fabric Lakehouse Table connector provides changed data from a Fabric Lakehouse via Delta Change Data Feed (CDF), to supported destinations. For more information, see Data Replication from Fabric Lakehouse with Delta Change Data Feed (Preview).",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Data Replication from Fabric Lakehouse with Delta Change Data Feed (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/september-2025-fabric-feature-summary?ft=All#post-28106-_Toc208595416"
+      }
+    ]
+  },
+  "contentHash": "76315474e90cf2ce62fa0f8ce8eb8c0ab73c523c052393417ca4955c81309ea7",
+  "categories": [
+    "data-engineering"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/september-2025-fabric-feature-summary?ft=All#post-28106-_Toc208595416"
+  }
+}

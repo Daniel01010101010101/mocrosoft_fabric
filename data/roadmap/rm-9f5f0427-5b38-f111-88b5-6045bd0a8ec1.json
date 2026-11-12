@@ -1,0 +1,23 @@
+{
+  "id": "rm-9f5f0427-5b38-f111-88b5-6045bd0a8ec1",
+  "releaseItemId": "9f5f0427-5b38-f111-88b5-6045bd0a8ec1",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Power Query - Sort Rows transformation dialog",
+  "description": "Power Query will introduce a new Sort Rows transformation dialog, delivering a clearer and more powerful experience for defining row ordering as part of data preparation.The new dialog makes it easy to sort data by one or multiple columns with explicit control over precedence and sort direction, all through a guided, visual interface. By centralizing sort logic into a dedicated dialog, Power Query helps users express intent more clearly and reduces the need to manage sorting through repetitive or hard‑to‑interpret steps.Why this matters:* Clearer sort intent: Define multi‑column sorting and precedence in a single, easy‑to‑understand experience.* Improved usability: Reduce trial‑and‑error and make sorting more approachable for both self‑service and advanced users.* Better maintainability: Sorting logic is easier to review, edit, and understand when revisiting or sharing queries.This enhancement continues Power Query’s evolution toward a more modern, discoverable, and consistent transformation experience across Microsoft products, while supporting advanced scenarios that depend on well‑defined row ordering.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=9f5f0427-5b38-f111-88b5-6045bd0a8ec1",
+  "contentHash": "57b3f9ea91c0786c14321146805a98b2d224c4dd8227b05d626f3fe4b3e0b3d9",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

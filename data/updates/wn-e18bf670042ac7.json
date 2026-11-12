@@ -1,0 +1,59 @@
+{
+  "id": "wn-e18bf670042ac7",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/sql-analytics-endpoint-metadata-sync#new-metadata-sync-preview",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/sql-analytics-endpoint-metadata-sync#new-metadata-sync-preview",
+  "title": "SQL analytics endpoint metadata sync option (preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "You can now opt in to the new SQL analytics endpoint metadata sync option, a preview feature. The new option, which is currently opt-in only and currently applies only to new SQL analytics endpoints, is faster, provides a new manual metadata sync option, and provides time travel querying.",
+    "html": "You can now opt in to the <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/sql-analytics-endpoint-metadata-sync#new-metadata-sync-preview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">new SQL analytics endpoint metadata sync option</a>, a preview feature. The new option, which is currently opt-in only and currently applies only to new SQL analytics endpoints, is faster, provides a new manual metadata sync option, and provides <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/time-travel\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">time travel querying</a>.",
+    "excerpt": "You can now opt in to the new SQL analytics endpoint metadata sync option, a preview feature. The new option, which is currently opt-in only and currently applies only to new SQL analytics endpoints, is faster, provides a new manual metadata sync option, and provides time travel querying.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "new SQL analytics endpoint metadata sync option",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/sql-analytics-endpoint-metadata-sync#new-metadata-sync-preview"
+      },
+      {
+        "label": "time travel querying",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/time-travel"
+      }
+    ]
+  },
+  "contentHash": "8ee436d7ad782a915abb3a825b034e3ed659c1f909ca8b116cc28b73473aacb3",
+  "categories": [
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

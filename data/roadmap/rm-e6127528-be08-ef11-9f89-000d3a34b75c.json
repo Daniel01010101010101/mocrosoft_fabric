@@ -1,0 +1,23 @@
+{
+  "id": "rm-e6127528-be08-ef11-9f89-000d3a34b75c",
+  "releaseItemId": "e6127528-be08-ef11-9f89-000d3a34b75c",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Fabric OneLake catalog",
+  "description": "OneLake catalog is a complete solution to explore, manage and govern your entire Fabric data estate. The OneLake catalog is an evolution of the OneLake data hub experience with enhancements that will help all Fabric users discover and manage trusted data, as well as provide governance for data owners with valuable insights, recommended actions, and tooling. The OneLake catalog comes with two tabs: Explore and Govern. In the Explore tab, users can explore and manage all the Fabric items they have access to in one central location with filters for domains, item type, owner, endorsement, tags, and more. Users can double click on a Fabric item to take actions or explore description, data lineage, permissions, and activity. And in the Govern tab, data owners can see an overview of their data with insights on endorsements, data labeling, data type, and more, and get recommended actions to enhance their data for better quality and compliance. The Explore tab is now generally available and the Govern tab will be coming soon in preview.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=e6127528-be08-ef11-9f89-000d3a34b75c",
+  "contentHash": "390bb390bb7147ed67e4d6ef3c7810d84d8eaa7dce325799bdb84718b50172a7",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

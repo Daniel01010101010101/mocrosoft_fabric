@@ -1,0 +1,62 @@
+{
+  "id": "cm-5377928",
+  "kind": "blog",
+  "source": "fabric-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Announcing-support-for-Materialized-views-and-streaming-tables/ba-p/5377928",
+  "docsUrl": "https://learn.microsoft.com/fabric/mirroring/azure-databricks-tutorial",
+  "title": "Announcing support for Materialized views and streaming tables in Mirrored Azure Databricks catalog",
+  "author": "shilmenon",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-03T20:00:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Access more Unity Catalog objects through the existing mirrored catalog experience in Microsoft Fabric\nWe are expanding Mirrored Azure Databricks catalogs in Microsoft Fabric to support materialized views and streaming tables alongside tables.\nThese objects remain created and managed in Azure Databricks, while Fabric provides read-only access to the underlying data through shortcuts. This brings more of your Unity Catalog environment into Fabric without copying or replicating the data.\nWhat's new\nA Mirrored Azure Databricks catalog can now include support:\n• Tables\n• Materialized views\n• Streaming tables\nWhen configuring the mirrored catalog, select the Unity Catalog catalogs, schemas, and supported objects you want to make available in Fabric. Fabric mirrors the selected catalog structure and creates shortcuts to the underlying data.\nThis enhancement uses the existing Mirrored Azure Databricks catalog item and configuration workflow. There is no separate Fabric item type for materialized views or streaming tables.\nWhy this matters\nMaterialized views store precomputed results that can simplify recurring analytical queries. Streaming tables continuously process incoming data and maintain updated results for scenarios that require fresher information. Both object types can play an important role in the datasets that organizations publish for analytics and reporting.\nSupporting these objects in a mirrored catalog gives Fabric users access to more of the curated data already available in Azure Databricks. It also allows platform teams to preserve clear ownership: Azure Databricks remains responsible for creating and processing the source objects, while Fabric provides experiences for discovering and analyzing the available data.\nPrepare objects for external access\nBefore a materialized view or streaming table can appear in Fabric, configure it for external data access in Azure Databricks, complete the applicable prerequisites, and grant the required Unity Catalog permissions to the identity used by Fabric. Then refresh or synchronize the mirrored catalog.\nWork with data in Fabric\nThe mirrored catalog includes an automatically generated SQL analytics endpoint for exploring and querying the available data with T-SQL. You can also create a Power BI semantic model and use Direct Lake mode for reporting.\nKeep catalog changes in sync\nFor new mirrors, automatic synchronization of future catalog changes for the selected schema is enabled by default. Supported additions and deletions of schemas, tables, materialized views, and streaming tables can be reflected in Fabric when they meet the configured selection and external-access requirements.\nGet started\nFollow Tutorial: Configure Microsoft Fabric mirror from Azure Databricks Unity Catalog to create or configure your mirrored catalog. Review Microsoft Fabric Mirrored Catalog from Azure Databricks for prerequisites and external-access guidance.",
+    "html": "<p>Access more Unity Catalog objects through the existing mirrored catalog experience in Microsoft Fabric</p>\n<p>We are expanding Mirrored Azure Databricks catalogs in Microsoft Fabric to support materialized views and streaming tables alongside tables.</p>\n<p>These objects remain created and managed in Azure Databricks, while Fabric provides read-only access to the underlying data through shortcuts. This brings more of your Unity Catalog environment into Fabric without copying or replicating the data.</p>\n<h2>What's new</h2>\n<p>A Mirrored Azure Databricks catalog can now include support:</p>\n<ul>\n<li>Tables</li>\n<li>Materialized views</li>\n<li>Streaming tables</li>\n</ul>\n<p>When configuring the mirrored catalog, select the Unity Catalog catalogs, schemas, and supported objects you want to make available in Fabric. Fabric mirrors the selected catalog structure and creates shortcuts to the underlying data.</p>\n<p>This enhancement uses the existing Mirrored Azure Databricks catalog item and configuration workflow. There is no separate Fabric item type for materialized views or streaming tables.</p>\n<h2>Why this matters</h2>\n<p>Materialized views store precomputed results that can simplify recurring analytical queries. Streaming tables continuously process incoming data and maintain updated results for scenarios that require fresher information. Both object types can play an important role in the datasets that organizations publish for analytics and reporting.</p>\n<p>Supporting these objects in a mirrored catalog gives Fabric users access to more of the curated data already available in Azure Databricks. It also allows platform teams to preserve clear ownership: Azure Databricks remains responsible for creating and processing the source objects, while Fabric provides experiences for discovering and analyzing the available data.</p>\n<h2>Prepare objects for external access</h2>\n<p>Before a materialized view or streaming table can appear in Fabric, configure it for external data access in Azure Databricks, complete the applicable prerequisites, and grant the required Unity Catalog permissions to the identity used by Fabric. Then refresh or synchronize the mirrored catalog.</p>\n<h2>Work with data in Fabric</h2>\n<p>The mirrored catalog includes an automatically generated SQL analytics endpoint for exploring and querying the available data with T-SQL. You can also create a Power BI semantic model and use Direct Lake mode for reporting.</p>\n<h2>Keep catalog changes in sync</h2>\n<p>For new mirrors, automatic synchronization of future catalog changes for the selected schema is enabled by default. Supported additions and deletions of schemas, tables, materialized views, and streaming tables can be reflected in Fabric when they meet the configured selection and external-access requirements.</p>\n<h2>Get started</h2>\n<p>Follow <a href=\"https://learn.microsoft.com/fabric/mirroring/azure-databricks-tutorial\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Tutorial: Configure Microsoft Fabric mirror from Azure Databricks Unity Catalog</a> to create or configure your mirrored catalog. Review <a href=\"https://learn.microsoft.com/fabric/mirroring/azure-databricks\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Microsoft Fabric Mirrored Catalog from Azure Databricks</a> for prerequisites and external-access guidance.</p>",
+    "excerpt": "Access more Unity Catalog objects through the existing mirrored catalog experience in Microsoft Fabric We are expanding Mirrored Azure Databricks catalogs in Microsoft Fabric to support materialized views and streaming tables alongside tables. These objects remain created and managed in Azure Databricks, while Fabric…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Tutorial: Configure Microsoft Fabric mirror from Azure Databricks Unity Catalog",
+        "url": "https://learn.microsoft.com/fabric/mirroring/azure-databricks-tutorial"
+      },
+      {
+        "label": "Microsoft Fabric Mirrored Catalog from Azure Databricks",
+        "url": "https://learn.microsoft.com/fabric/mirroring/azure-databricks"
+      }
+    ]
+  },
+  "contentHash": "afc4d5191c897e09ed1c23996dfaf5db3fd64b1c5def2e8deb3eab020ea04d3d",
+  "categories": [
+    "integrations-connectors",
+    "onelake",
+    "data-factory",
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "integrations-connectors",
+  "type": "feature",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 53,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "data-scientists",
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

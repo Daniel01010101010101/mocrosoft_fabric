@@ -1,0 +1,23 @@
+{
+  "id": "rm-58bab3d6-4e01-f111-8406-000d3a376137",
+  "releaseItemId": "58bab3d6-4e01-f111-8406-000d3a376137",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Full Query Text in Query Insights",
+  "description": "Full query text support in the Query Insights captures enables precise troubleshooting and analysis without the previous 8,000‑character truncation limit.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=58bab3d6-4e01-f111-8406-000d3a376137",
+  "contentHash": "ef3a74ca855727a0263bbbd237eade42eacc7172602b5c8f7d8021db65d2cbef",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

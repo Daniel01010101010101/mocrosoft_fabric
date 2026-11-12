@@ -1,0 +1,23 @@
+{
+  "id": "rm-c0f2ed53-f2b8-f011-bbd3-000d3a3740cc",
+  "releaseItemId": "c0f2ed53-f2b8-f011-bbd3-000d3a3740cc",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Variable Library - Item reference variable type",
+  "description": "Offerring a new variable type in Variable library item, which keeps item ID and its workspace ID, and enforce role permissions and better experience. Is supported in Shortcut for lakehouse, Data pipeline, UDF and and Notebook's in-code.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=c0f2ed53-f2b8-f011-bbd3-000d3a3740cc",
+  "contentHash": "d958c49622df543c3cc7274da7eb139f93825cd7d9ea85f63d6624009a6f14fe",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

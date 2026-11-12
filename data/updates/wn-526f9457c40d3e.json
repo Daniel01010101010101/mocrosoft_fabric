@@ -1,0 +1,56 @@
+{
+  "id": "wn-526f9457c40d3e",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_96",
+  "title": "Ontology as data-agent context (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.63,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Ontology as data-agent context (Preview) grounds query generation in enterprise entities, relationships, definitions, and source bindings. For more information, see Ontology as context.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_96\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ontology as data-agent context (Preview)</a> grounds query generation in enterprise entities, relationships, definitions, and source bindings. For more information, see <a href=\"https://aka.ms/fabric/data-agent/ontology-as-context\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ontology as context</a>.",
+    "excerpt": "Ontology as data-agent context (Preview) grounds query generation in enterprise entities, relationships, definitions, and source bindings. For more information, see Ontology as context.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Ontology as data-agent context (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_96"
+      },
+      {
+        "label": "Ontology as context",
+        "url": "https://aka.ms/fabric/data-agent/ontology-as-context"
+      }
+    ]
+  },
+  "contentHash": "1223232d753aa97846112ffe46c06943095dcbcac20ca01a6c2106b19c3e0baf",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_96"
+  }
+}

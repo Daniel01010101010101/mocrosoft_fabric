@@ -1,0 +1,65 @@
+{
+  "id": "wn-5da101f0b5d0ee",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Job-concurrency-and-queue-monitoring-for-Spark-now-with-a/ba-p/5323779",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/job-concurrency-queue-monitoring",
+  "title": "Spark job monitoring (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-07-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Job concurrency and queue monitoring (Generally Available) adds a capacity-level view so you can compare Spark resource use across workspaces, identify contention, and tune limits. For more information, see Job concurrency and queue monitoring and Concurrency limits and queueing in Apache Spark for Fabric.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Job-concurrency-and-queue-monitoring-for-Spark-now-with-a/ba-p/5323779\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Job concurrency and queue monitoring (Generally Available)</a> adds a capacity-level view so you can compare Spark resource use across workspaces, identify contention, and tune limits. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/job-concurrency-queue-monitoring\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Job concurrency and queue monitoring</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/spark-job-concurrency-and-queueing\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Concurrency limits and queueing in Apache Spark for Fabric</a>.",
+    "excerpt": "Job concurrency and queue monitoring (Generally Available) adds a capacity-level view so you can compare Spark resource use across workspaces, identify contention, and tune limits. For more information, see Job concurrency and queue monitoring and Concurrency limits and queueing in Apache Spark for Fabric.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Job concurrency and queue monitoring (Generally Available)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Job-concurrency-and-queue-monitoring-for-Spark-now-with-a/ba-p/5323779"
+      },
+      {
+        "label": "Job concurrency and queue monitoring",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/job-concurrency-queue-monitoring"
+      },
+      {
+        "label": "Concurrency limits and queueing in Apache Spark for Fabric",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/spark-job-concurrency-and-queueing"
+      }
+    ]
+  },
+  "contentHash": "2004f9459dae5d182903a07ebb84d5e9d05e18f5265dac8e78a66cb3a7d2564a",
+  "categories": [
+    "data-engineering"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 59,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "July 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Job-concurrency-and-queue-monitoring-for-Spark-now-with-a/ba-p/5323779"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-ddd81a72-da3d-f111-88b5-6045bd0a8ec1",
+  "releaseItemId": "ddd81a72-da3d-f111-88b5-6045bd0a8ec1",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Add Data Source Connector for Business Events in Real-Time Hub",
+  "description": "**Add Data Source Connector for Business Events in Real-Time Hub****Overview**Enable seamless ingestion of Business Events into Real-Time hub Eventstream—making it easier to onboard event producers and unify event streams across systems.**Key Capabilities*** Native Data Source Connectivity: Connect external systems and Fabric workloads as event producers through a unified Real-Time hub experience.* Simplified Event Ingestion: Stream Business Events directly from connected data sources without requiring custom integration layers.* Schema-Aware Mapping: Map incoming data streams to standardized Business Event schemas to ensure consistency across producers and consumers.* Centralized Event Discovery: Surface all ingested Business Events in Real-Time hub for easy exploration, filtering, and subscription.* Seamless Integration with Downstream Consumers: Enable immediate consumption by Eventstream.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=ddd81a72-da3d-f111-88b5-6045bd0a8ec1",
+  "contentHash": "06eeaa98182f556b754e80a836914e17f60ba2a012e13aa838426f8d8e2a3f83",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "wn-794cd9195d1a5c",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/32822?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/fabric-connection-with-notebook",
+  "title": "Fabric Connection inside Notebook (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric Connection inside Notebook (Preview) enables you to create and manage cloud data source connections directly within notebooks. For more information, see What is Fabric Connection in notebooks?",
+    "html": "<a href=\"https://blog.fabric.microsoft.com/blog/32822?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Connection inside Notebook (Preview)</a> enables you to create and manage cloud data source connections directly within notebooks. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/fabric-connection-with-notebook\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">What is Fabric Connection in notebooks?</a>",
+    "excerpt": "Fabric Connection inside Notebook (Preview) enables you to create and manage cloud data source connections directly within notebooks. For more information, see What is Fabric Connection in notebooks?",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric Connection inside Notebook (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/32822?ft=All"
+      },
+      {
+        "label": "What is Fabric Connection in notebooks?",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/fabric-connection-with-notebook"
+      }
+    ]
+  },
+  "contentHash": "1903b1e4b0fb08bc2b90015c16623cafce3604d0278af921c6a0d9aea598d99f",
+  "categories": [
+    "data-engineering"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-scientists"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/32822?ft=All",
+    "backfill": "true"
+  }
+}

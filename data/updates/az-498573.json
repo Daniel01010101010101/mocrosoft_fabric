@@ -1,0 +1,60 @@
+{
+  "id": "az-498573",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=498573",
+  "title": "Generally Available: Mirroring Azure Databricks Unity Catalog to Microsoft OneLake in Fabric",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2025-07-15T18:15:05.614Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Announcing the general availability of Mirroring for Azure Databricks Unity Catalog in Microsoft Fabric—a secure, high-performance integration that\nprovides seamless access to Azure Databricks tables from Fabric. With Fabric and Azure Databricks, we are building the future of data platforms on a lakehouse foundation, powered by open data formats, full interoperability, and the flexibility to choose the right tools for any scenario. Now,\nwith expanded integration with Azure Databricks Unity Catalog, you can enjoy a unified, governed experience across both platforms, without data duplication.\nFrom the Fabric portal, you can configure a new item and, with just a few clicks, add an entire catalog, a schema, or individual tables to OneLake. Once connected, the data becomes available in OneLake in a read-only manner —you\ncan write SQL queries, use it across Fabric workloads, and drive interactive analytics in Power BI using Direct Lake mode. As data is updated, or as tables are added, removed, or renamed in Azure Databricks, Fabric stays automatically in sync, so you're always\nworking with the most current data—you can write SQL queries, use it across Fabric workloads, and drive interactive analytics in Power BI using Direct Lake mode. As data is updated, or as tables are added, removed, or renamed in Azure Databricks, Fabric stays\nautomatically in sync, so you're always working with the most current data.\nLearn more.",
+    "html": "Announcing the <span><span>general availability of Mirroring for Azure Databricks Unity Catalog in Microsoft Fabric—a secure, high-performance integration that\n provides seamless access to Azure Databricks tables from Fabric.  </span><p><span>With Fabric and Azure Databricks, we are building the future of data platforms on a lakehouse foundation, powered by open data formats, full interoperability, and the flexibility to choose the right tools for any scenario. Now,\n with expanded integration with Azure Databricks Unity Catalog, you can enjoy a unified, governed experience across both platforms, without data duplication. </span><br /><span> </span><br /><span>From the Fabric portal, you can configure a new item and, with just a few clicks, add an entire catalog, a schema, or individual tables to OneLake. Once connected, the data becomes available in OneLake in a read-only manner —you\n can write SQL queries, use it across Fabric workloads, and drive interactive analytics in Power BI using Direct Lake mode. As data is updated, or as tables are added, removed, or renamed in Azure Databricks, Fabric stays automatically in sync, so you're always\n working with the most current data—you can write SQL queries, use it across Fabric workloads, and drive interactive analytics in Power BI using Direct Lake mode. As data is updated, or as tables are added, removed, or renamed in Azure Databricks, Fabric stays\n automatically in sync, so you're always working with the most current data. </span></p><p><a title=\"https://aka.ms/mirrored-ucadb\" rel=\"noopener noreferrer nofollow\" href=\"https://aka.ms/Mirrored-UCADB\" target=\"_blank\"><span>Learn more</span></a><span>. </span></p></span>",
+    "excerpt": "Announcing the general availability of Mirroring for Azure Databricks Unity Catalog in Microsoft Fabric—a secure, high-performance integration that provides seamless access to Azure Databricks tables from Fabric. With Fabric and Azure Databricks, we are building the future of data platforms on a lakehouse foundation,…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://aka.ms/Mirrored-UCADB"
+      }
+    ]
+  },
+  "contentHash": "0f69ade356cd2e29c8dd1b89a0b1efa88256a22332cf2a056fbb08ba2ebcf760",
+  "categories": [
+    "onelake",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 70,
+    "level": "alto",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "Launched",
+    "products": "Azure Databricks",
+    "tags": "Features",
+    "gaDate": "2025-07",
+    "modified": "2025-07-15T18:15:05.6141334Z"
+  }
+}

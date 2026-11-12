@@ -1,0 +1,23 @@
+{
+  "id": "rm-26fa1ede-3e23-f011-8c4d-000d3a34671f",
+  "releaseItemId": "26fa1ede-3e23-f011-8c4d-000d3a34671f",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "REST API - Export and import multiple items in a single call",
+  "description": "Today, when Importing multiple item definitions, it required multiple API calls, but that requires very deep understanding of how Fabric works in order to make it a successful deployment:- Developer needs to know the order of deployment, based on how items are related to each other.- Developer needs to update the relations of each item, by familiarizing itself with its definition, and swapping the GUIDs of the dependent items.This requires a lot of coding and technical deep dive by developers and its hard to scale. That's why we are building the option to Import multiple items in a single API call. The be benefits of that will be:- a SIngle call to import an subset of items that should be uploaded to a workspace.- Sorting of the order of deployment for that list of items, so users don't need to worry about the order.- In case of LogicalIds are part of the definition of any of the items, the API call will also replace the LogicalId with the proper GUID in the relevant workspace.This should remove a lot of the overhead developers are handling today when trying to build their own custom deployment process in CI/CD.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=26fa1ede-3e23-f011-8c4d-000d3a34671f",
+  "contentHash": "b2ccf951deba93bb8784257854c8e7e71c5bf08fc37ba170cdb270e8f43ed748",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

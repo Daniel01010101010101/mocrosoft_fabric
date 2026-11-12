@@ -1,0 +1,23 @@
+{
+  "id": "rm-2f295c52-4221-f011-9989-6045bd030c4d",
+  "releaseItemId": "2f295c52-4221-f011-9989-6045bd030c4d",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - New Output Destination: CSV Files in Fabric Lakehouse",
+  "description": "We will support the ability to output dataflow query results into CSV Files stored in Fabric Lakehouses.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=2f295c52-4221-f011-9989-6045bd030c4d",
+  "contentHash": "3745fd0a1f1d2722a9bc92d8b9a4817a399097c257cb219820c95ab5b45c90ce",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

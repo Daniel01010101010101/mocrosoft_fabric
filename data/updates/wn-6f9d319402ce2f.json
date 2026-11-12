@@ -1,0 +1,63 @@
+{
+  "id": "wn-6f9d319402ce2f",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_28",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data-copy",
+  "title": "COPY INTO with workspace identity (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-08-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "COPY INTO with workspace identity lets Fabric Data Warehouse load approved data from OneLake or Azure Data Lake Storage Gen2 by using the workspace identity. For more information, see Ingest data into your warehouse using the COPY statement.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_28\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">COPY INTO with workspace identity</a> lets Fabric Data Warehouse load approved data from OneLake or Azure Data Lake Storage Gen2 by using the workspace identity. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data-copy\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ingest data into your warehouse using the COPY statement</a>.",
+    "excerpt": "COPY INTO with workspace identity lets Fabric Data Warehouse load approved data from OneLake or Azure Data Lake Storage Gen2 by using the workspace identity. For more information, see Ingest data into your warehouse using the COPY statement.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "COPY INTO with workspace identity",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_28"
+      },
+      {
+        "label": "Ingest data into your warehouse using the COPY statement",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data-copy"
+      }
+    ]
+  },
+  "contentHash": "152c4a9e7143670461dd593ce5299fa6d84a131412ec4ffcb57834d53840394a",
+  "categories": [
+    "admin-governance",
+    "security"
+  ],
+  "primaryCategory": "admin-governance",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "architects",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "August 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_28"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-83a34661-4e20-f011-998a-0022480939f0",
+  "releaseItemId": "83a34661-4e20-f011-998a-0022480939f0",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Restrict access to content by using Microsoft Purview sensitivity labels to apply protection",
+  "description": "In the Microsoft Purview Information Protection portal where security admins can create sensitivity labels and also restrict access to Fabric items that the label will be applied to, similar to how they can restrict access to Microsft 365 content (files ,emails, meetings, etc). For example you can protect content in the following ways: * Only users within your organization can access items with \"Confidential\" sensitivity label in Fabric.* Only users in the finance department can edit data items with \"Financial data\" sensitivity label, while other users in your organization can only read them.Limitation: This release will support restrict access to all Fabric item types except for Report, Paginated report, Scorecard, Dashboard, Dataflow, Datamart, Streaming dataset, Streaming dataflow, Mirrored items, Warehouse. Restrict access functionality for these items will made be available during next calendar year. Note: Information Protection sensitivity labels require Microsoft Purview license.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=83a34661-4e20-f011-998a-0022480939f0",
+  "contentHash": "d166cf6a1cdf55b8d757b337dbbd3b55bba7824d2a79f336e0fddcb25eb8981f",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "wn-81ba253ace0225",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Capacity-Overview-Events-in-Real-Time-Hub-Generally-Available/ba-p/5356729",
+  "title": "Capacity Overview Events in Real-Time Hub (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-08-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Capacity Overview Events in Real-Time Hub (Generally Available) stream capacity summary and state signals so you can monitor utilization and health, detect throttling or lifecycle changes, and trigger alerts or automated actions. For more information, see Introduction to Azure and Fabric events and Explore Fabric capacity overview events.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Capacity-Overview-Events-in-Real-Time-Hub-Generally-Available/ba-p/5356729\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Capacity Overview Events in Real-Time Hub (Generally Available)</a> stream capacity summary and state signals so you can monitor utilization and health, detect throttling or lifecycle changes, and trigger alerts or automated actions. For more information, see <a href=\"https://aka.ms/tutorial-capacity-overview-events\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Introduction to Azure and Fabric events</a> and <a href=\"https://aka.ms/explore-capacity-overview-events\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Explore Fabric capacity overview events</a>.",
+    "excerpt": "Capacity Overview Events in Real-Time Hub (Generally Available) stream capacity summary and state signals so you can monitor utilization and health, detect throttling or lifecycle changes, and trigger alerts or automated actions. For more information, see Introduction to Azure and Fabric events and Explore Fabric…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Capacity Overview Events in Real-Time Hub (Generally Available)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Capacity-Overview-Events-in-Real-Time-Hub-Generally-Available/ba-p/5356729"
+      },
+      {
+        "label": "Introduction to Azure and Fabric events",
+        "url": "https://aka.ms/tutorial-capacity-overview-events"
+      },
+      {
+        "label": "Explore Fabric capacity overview events",
+        "url": "https://aka.ms/explore-capacity-overview-events"
+      }
+    ]
+  },
+  "contentHash": "61b227098fd8b75f1257fa8cf45ffd67eceb2fb5909505d5b9986971d181f7d4",
+  "categories": [
+    "admin-governance",
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "admin-governance",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 72,
+    "level": "alto",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "August 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Capacity-Overview-Events-in-Real-Time-Hub-Generally-Available/ba-p/5356729"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-f6fa6e0b-ead6-ee11-9079-000d3a341a60",
+  "releaseItemId": "f6fa6e0b-ead6-ee11-9079-000d3a341a60",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Microsoft Fabric Git integration (ADO)",
+  "description": "Git integration is offered to users connecting to Azure DevOps repositories, enabling synchronization between Microsoft Fabric workspace and the selected Git repository (for commits and updates). Additional Microsoft Fabric items will support source control - Data pipeline, Warehouse, Spark Environment and Spark Job Definition. We'll also provide public REST APIs for automating key git operations, such as connecting a workspace to a git branch, committing items, and updating items from git.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=f6fa6e0b-ead6-ee11-9079-000d3a341a60",
+  "contentHash": "271f79545920d48e3790cb52c9e7fecd48b06b0541f2a7eebfb5fb6ad143f57d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

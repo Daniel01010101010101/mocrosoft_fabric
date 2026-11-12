@@ -1,0 +1,23 @@
+{
+  "id": "rm-06d40912-0c02-f111-8406-6045bd00fc61",
+  "releaseItemId": "06d40912-0c02-f111-8406-6045bd00fc61",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Map",
+  "description": "Maps in Fabric GA + new features such as WMS / WMST support for imagery, filters within a layer, support for Ontology API, data driven styling and other styling improvements.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=06d40912-0c02-f111-8406-6045bd00fc61",
+  "contentHash": "272a9f2fd6ff17ad96426cc7c791472a46c53b0e449aed1cec0a5da30ee4693d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

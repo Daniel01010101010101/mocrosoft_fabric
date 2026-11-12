@@ -1,0 +1,23 @@
+{
+  "id": "rm-7f6b48a3-e6d6-ee11-9079-000d3a341a60",
+  "releaseItemId": "7f6b48a3-e6d6-ee11-9079-000d3a341a60",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Admin API to query delegated tenant settings",
+  "description": "This API enables tenant administrators to track settings modifications made by other administrators at capacity, domain, or workspace levels. It scans and returns all the units of governance or a group of such units where the tenant admin settings have been overridden. In the initial release, we aim to include the ability to query tenant settings delegated to a capacity.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=7f6b48a3-e6d6-ee11-9079-000d3a341a60",
+  "contentHash": "e8913c4147ddf515a54ec608186042732417e1ec060e8f026d736f8ef9cf8918",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

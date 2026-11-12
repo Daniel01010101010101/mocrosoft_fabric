@@ -1,0 +1,23 @@
+{
+  "id": "rm-e3b77c88-c4bb-f011-bbd3-6045bd00f9db",
+  "releaseItemId": "e3b77c88-c4bb-f011-bbd3-6045bd00f9db",
+  "product": "Data Science",
+  "productId": "0522b590-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-science",
+  "name": "Outbound Access Protection for ML Model",
+  "description": "This feature enables Fabric enterprise customers to use ML models in Outbound Access Protection (OAP) enabled workspace and prevent sensitive data from getting exfiltrated.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=e3b77c88-c4bb-f011-bbd3-6045bd00f9db",
+  "contentHash": "ce5892f7d8128391ac5ce5793cf373ea6eb8bbdadaf70d8850ca46ad86507c0f",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

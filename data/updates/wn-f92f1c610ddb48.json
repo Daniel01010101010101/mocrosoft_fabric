@@ -1,0 +1,60 @@
+{
+  "id": "wn-f92f1c610ddb48",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_151",
+  "title": "Dataflow data visuals (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.91,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Data visuals in Dataflow Gen2 (Preview) profile and visualize transformed data while you author a query. For more information, see Create data visuals in Dataflow Gen2.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_151\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Data visuals in Dataflow Gen2 (Preview)</a> profile and visualize transformed data while you author a query. For more information, see <a href=\"https://aka.ms/DFGen2DataVisuals\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Create data visuals in Dataflow Gen2</a>.",
+    "excerpt": "Data visuals in Dataflow Gen2 (Preview) profile and visualize transformed data while you author a query. For more information, see Create data visuals in Dataflow Gen2.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Data visuals in Dataflow Gen2 (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_151"
+      },
+      {
+        "label": "Create data visuals in Dataflow Gen2",
+        "url": "https://aka.ms/DFGen2DataVisuals"
+      }
+    ]
+  },
+  "contentHash": "ae4c6eb6a4a337c4df19ba91b279d78efd41632948321857f911208283b351e8",
+  "categories": [
+    "power-bi",
+    "data-factory"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_151"
+  }
+}

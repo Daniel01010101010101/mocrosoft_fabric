@@ -1,0 +1,23 @@
+{
+  "id": "rm-533be634-4c25-f011-8c4d-000d3a302e4a",
+  "releaseItemId": "533be634-4c25-f011-8c4d-000d3a302e4a",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Data Pipelines - AI powered capabilities to efficiently maintain Data Pipelines",
+  "description": "Copilot empowers users to quickly update the general properties of multiple pipeline activities all at once, saving time compared to updating each property one by one. Users can also use Copilot's summary feature to easily add descriptions for pipelines and activities, making maintenance more efficient.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=533be634-4c25-f011-8c4d-000d3a302e4a",
+  "contentHash": "8794a80f8bb332460cd72fbf6c3c046869cfa394778e562c8f799f2376f67020",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

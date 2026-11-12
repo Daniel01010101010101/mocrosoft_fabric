@@ -1,0 +1,61 @@
+{
+  "id": "wn-5b684facf0b3c8",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Data-Agent-Now-Supports-Eventhouse-Functions-Materialized-Views/ba-p/5181801",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent",
+  "title": "Data Agent support for Eventhouse functions, materialized views, and shortcuts (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Data Agent now discovers and queries Eventhouse user-defined functions (UDFs), materialized views, and shortcut tables, so it calls validated KQL logic, uses pre-aggregated views for faster answers, and reaches data federated from sources outside the eventhouse. For more information, see Fabric data agent concepts.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Data-Agent-Now-Supports-Eventhouse-Functions-Materialized-Views/ba-p/5181801\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Data Agent</a> now discovers and queries Eventhouse user-defined functions (UDFs), materialized views, and shortcut tables, so it calls validated KQL logic, uses pre-aggregated views for faster answers, and reaches data federated from sources outside the eventhouse. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric data agent concepts</a>.",
+    "excerpt": "Data Agent now discovers and queries Eventhouse user-defined functions (UDFs), materialized views, and shortcut tables, so it calls validated KQL logic, uses pre-aggregated views for faster answers, and reaches data federated from sources outside the eventhouse. For more information, see Fabric data agent concepts.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Data Agent",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Data-Agent-Now-Supports-Eventhouse-Functions-Materialized-Views/ba-p/5181801"
+      },
+      {
+        "label": "Fabric data agent concepts",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent"
+      }
+    ]
+  },
+  "contentHash": "49455abd68fae35a40b9ad2679c2ffb4c965574c113646ee15f131144ff48429",
+  "categories": [
+    "copilot-ai",
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 68,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Data-Agent-Now-Supports-Eventhouse-Functions-Materialized-Views/ba-p/5181801",
+    "backfill": "true"
+  }
+}

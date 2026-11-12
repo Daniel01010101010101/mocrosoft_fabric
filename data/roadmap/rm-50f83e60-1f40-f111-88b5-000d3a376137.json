@@ -1,0 +1,23 @@
+{
+  "id": "rm-50f83e60-1f40-f111-88b5-000d3a376137",
+  "releaseItemId": "50f83e60-1f40-f111-88b5-000d3a376137",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "Customer Managed Keys (CMK) for Ontology",
+  "description": "Customer Managed Keys for Ontology gives organizations control over the encryption keys used to protect ontology data and metadata at rest. This is important for customers with strict compliance, security, or regulatory requirements that require direct control of encryption materials rather than relying only on platform-managed keys.With this capability, customers can:- Use their own managed encryption keys to protect ontology-related data at rest.- Rotate and govern encryption keys according to internal compliance policies.- Align ontology deployments with broader enterprise encryption standards used across data platforms.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q2 2027",
+  "releaseQuarterStart": "2027-04-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=50f83e60-1f40-f111-88b5-000d3a376137",
+  "contentHash": "24b1f9c0bebd6797020bb84baf5dc297dd7698c5b3e071a3ed43f6d496845f74",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

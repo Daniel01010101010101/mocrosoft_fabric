@@ -1,0 +1,61 @@
+{
+  "id": "wn-548f04916f4e41",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Capacity-Operation-Events-in-Real-Time-Hub-Preview/ba-p/5364092",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-hub/explore-fabric-capacity-operation-events",
+  "title": "Capacity Operation Events in Real-Time Hub (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Capacity Operation Events in Real-Time Hub (Preview) provide operation-level telemetry for capacity consumption, duration, throttling, workspaces, and items. For more information, see Explore Fabric capacity operation events.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Capacity-Operation-Events-in-Real-Time-Hub-Preview/ba-p/5364092\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Capacity Operation Events in Real-Time Hub (Preview)</a> provide operation-level telemetry for capacity consumption, duration, throttling, workspaces, and items. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-hub/explore-fabric-capacity-operation-events\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Explore Fabric capacity operation events</a>.",
+    "excerpt": "Capacity Operation Events in Real-Time Hub (Preview) provide operation-level telemetry for capacity consumption, duration, throttling, workspaces, and items. For more information, see Explore Fabric capacity operation events.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Capacity Operation Events in Real-Time Hub (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Capacity-Operation-Events-in-Real-Time-Hub-Preview/ba-p/5364092"
+      },
+      {
+        "label": "Explore Fabric capacity operation events",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-hub/explore-fabric-capacity-operation-events"
+      }
+    ]
+  },
+  "contentHash": "4382878f6dd127f92540d3c9f9895cc9fdf3db31063d05c78689ddb118ee5550",
+  "categories": [
+    "admin-governance",
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "admin-governance",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 65,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Capacity-Operation-Events-in-Real-Time-Hub-Preview/ba-p/5364092",
+    "backfill": "true"
+  }
+}

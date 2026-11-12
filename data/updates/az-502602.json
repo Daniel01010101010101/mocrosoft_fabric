@@ -1,0 +1,60 @@
+{
+  "id": "az-502602",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=502602",
+  "docsUrl": "https://learn.microsoft.com/python/api/semantic-link/overview-semantic-link?view=semantic-link-python",
+  "title": "Retirement: Spark Native Connector for Semantic Link",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2025-09-30T13:45:49.107Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Starting October 1, 2025, the Spark native connector will be officially retired. This decision is based on internal analysis indicating low usage, high maintenance costs, and potential security vulnerabilities. To ensure continued support and improved security, we recommend transitioning to the Semantic Python SDK, which offers comparable functionality and enhanced support.\nAfter October 1, 2025, no major versions of the Spark native connector for Semantic Link will be released. Full retirement of the service is scheduled for October 1, 2028. The connector is compatible with Spark runtime versions up to 3.5. Support will not be available for Spark runtime version 4.0 or later.\nRecommended action\n• Plan your migration to the Semantic Python SDK.\n• Review your current usage of the Spark native connector across your Microsoft Fabric tenants.\n• Contact us with any questions or for migration assistance.\nHelp and support\nIf you have any concerns or require support, please contact us at synapsemlpm@microsoft.com.",
+    "html": "<span><span>Starting </span></span><span><span>October</span><span> 1, </span><span>2025</span></span><span><span>, the Spark native connector will be officially retired. This decision is based on </span><span>internal analysis </span><span>indicating</span><span> </span><span>low usage, high maintenance costs, and potential security vulnerabilities. </span><span>To ensure continued support and improved security, </span><span>w</span><span>e recommend transitioning to the </span></span><a rel=\"noopener noreferrer nofollow\" href=\"https://learn.microsoft.com/python/api/semantic-link/overview-semantic-link?view=semantic-link-python\" target=\"_blank\"><span><span>Semantic Python SDK</span></span></a><span><span>, which offers comparable functionality </span><span>and enhanced </span><span>support.</span></span><span> </span><p><span><span>Af</span><span>ter </span></span><span><span>October 1, 2025</span></span><span><span>, no major versions of the Spark native connector</span><span> for Semantic Link</span><span> will be released. Full retirement of the service is scheduled for </span></span><span><span>October 1, 2028</span></span><span><span>. The connector is compatible with Spark runtime versions up to 3.5. Support will not be available for Spark runtime version 4.0 or later.</span></span><span> </span></p><p><b><span><span>Recommended action</span></span><span> </span></b></p><ul><li><p><span><span>P</span><span>lan your migration to the </span></span><a rel=\"noopener noreferrer nofollow\" href=\"https://learn.microsoft.com/python/api/semantic-link/overview-semantic-link?view=semantic-link-python\" target=\"_blank\"><span><span><span>Semantic Python SDK</span></span></span></a><span><span>.</span></span><span> </span></p></li><li><p><span><span>Review your current usage of the Spark native connector across your Microsoft Fabric tenants.</span></span><span> </span></p></li><li><p><span><span>Contact</span><span> us with any questions or for migration </span><span>assistance</span><span>.</span></span><span> </span></p></li></ul><p><b><span><span>Help and support</span></span><span> </span></b></p><p><span><span>If you have any concerns or require support, please contact us at synapseml</span><span>pm</span><span>@microsoft.com.</span></span><span>  </span></p>",
+    "excerpt": "Starting October 1, 2025, the Spark native connector will be officially retired. This decision is based on internal analysis indicating low usage, high maintenance costs, and potential security vulnerabilities. To ensure continued support and improved security, we recommend transitioning to the Semantic Python SDK,…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Semantic Python SDK",
+        "url": "https://learn.microsoft.com/python/api/semantic-link/overview-semantic-link?view=semantic-link-python"
+      }
+    ]
+  },
+  "contentHash": "01cf8b1981a7086e4fac8c428d2ec863fd6f76848941307dff1e937084b9039c",
+  "categories": [
+    "integrations-connectors",
+    "data-engineering",
+    "data-science"
+  ],
+  "primaryCategory": "integrations-connectors",
+  "type": "deprecation",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers",
+      "architects",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "products": "Microsoft Fabric",
+    "tags": "Retirements",
+    "modified": "2025-09-30T13:45:49.1071221Z"
+  }
+}

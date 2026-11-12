@@ -1,0 +1,23 @@
+{
+  "id": "rm-a55e652b-91b3-f011-bbd3-000d3a5b0efa",
+  "releaseItemId": "a55e652b-91b3-f011-bbd3-000d3a5b0efa",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Tenant Admin API support for Outbound access protection",
+  "description": "To better understand the compliance with OAP and WSPL, Tenant Admins need a consolidated way to retrieve network communication policies (inbound and outbound access restrictions) across all workspaces in their tenant.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=a55e652b-91b3-f011-bbd3-000d3a5b0efa",
+  "contentHash": "09165cad2d8452b82fc0754b88f7b47b8c478223a30d6371926bdcf90820904b",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

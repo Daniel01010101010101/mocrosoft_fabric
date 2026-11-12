@@ -1,0 +1,23 @@
+{
+  "id": "rm-435d0880-f2d6-ee11-9079-000d3a310f67",
+  "releaseItemId": "435d0880-f2d6-ee11-9079-000d3a310f67",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Create and attach environments",
+  "description": "To customize your Spark experiences at a more granular level, you can create and attach environments to your notebooks and Spark jobs. In an environment, you can install libraries, configure a new pool, set Spark properties, and upload scripts to a file system. This gives you more flexibility and control over your Spark workloads, without affecting the default settings of the workspace. As part of GA, we're making various improvements to environments including API support and CI/CD integration.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2024",
+  "releaseQuarterStart": "2024-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=435d0880-f2d6-ee11-9079-000d3a310f67",
+  "contentHash": "49604dd122978f8c45a590b1c0b8b5eccf241a57bd812d226b877fb500534157",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

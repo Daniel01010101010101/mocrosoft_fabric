@@ -1,0 +1,23 @@
+{
+  "id": "rm-0fe8ec31-4c20-f011-998a-0022480939f0",
+  "releaseItemId": "0fe8ec31-4c20-f011-998a-0022480939f0",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Python notebook",
+  "description": "Fabric notebooks support pure Python experience. This new solution is targeting BI developers and Data Scientists working with smaller datasets (up to a few GB) and using Pandas, and Python as their primary language. Through this new experience, they'll be able to benefit from native Python language and its native features and libraries out of the box, will be able to switch from a Python version to another (initially two versions will be supported) and finally will benefit with a better resource utilization by using a smaller 2VCore machine.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=0fe8ec31-4c20-f011-998a-0022480939f0",
+  "contentHash": "5a551ac7dccbb8e39f31d5f86a3dda4bcbce6b756417f97266919f9e2fa2409f",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

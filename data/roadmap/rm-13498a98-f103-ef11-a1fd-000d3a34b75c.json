@@ -1,0 +1,23 @@
+{
+  "id": "rm-13498a98-f103-ef11-a1fd-000d3a34b75c",
+  "releaseItemId": "13498a98-f103-ef11-a1fd-000d3a34b75c",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "OneLake shortcuts to on-premises data",
+  "description": "Microsoft OneLake shortcuts is expanding to include on-premises and network-restricted data sources. With this capability, you can unify your on-prem and cloud data in OneLake.During creation of shortcuts to AWS S3, Google Cloud Storage, or S3 compatible buckets, you will be able to optionally select an on-premises data gateway (OPDG) to establish connectivity.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2024",
+  "releaseQuarterStart": "2024-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=13498a98-f103-ef11-a1fd-000d3a34b75c",
+  "contentHash": "7066a7619df5d13a97f47d1032277ec9842e7d526f4e5fa40d644c2eac13914f",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "az-470309",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=470309",
+  "docsUrl": "https://learn.microsoft.com/kusto/query/graph-shortest-paths-operator?view=microsoft-fabric",
+  "title": "Public Preview: New graph operators in Kusto",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2024-11-22T20:00:49.782Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "We are excited to announce the release of two powerful new graph operators in Kusto: graph-shortest-path and graph-mark-components.\nThe graph-shortest-paths operator is designed to streamline the process of finding the shortest paths between nodes in a graph. This operator efficiently identifies the shortest routes between a set of source nodes and a set of target nodes, returning a table with the.\nIn addition, the graph-mark-components operator is designed to mark all connected components of a graph and assign each node with a unique component identifier.\nBoth operators are now available in public preview, offering users the opportunity to explore and utilize these powerful tools in their graph analysis tasks. We invite you to try out these new features and experience the enhanced capabilities they bring.\nLearn more:\n• Visit the documentation of graph-shortest-paths.\n• Visit the documentation of graph-mark-components.",
+    "html": "<br /><p><span><span>We are excited to announce the release of two powerful new </span><span>graph operators in Kusto</span><span>: </span></span><span><span>graph-shortest-path</span></span><span><span> and </span></span><span><span>graph-mark-components</span></span><span><span>.</span></span><span> </span></p><p><span><br /></span></p><p><span><span>The </span></span><span><span>graph-shortest-path</span><span>s</span></span><span><span> operator is designed to streamline the process of finding the shortest paths between nodes in a graph. This operator efficiently identifies the shortest routes between a set of source nodes and a set of target nodes, returning a table with the</span><span>.</span></span><span> </span></p><p><span><br /></span></p><p><span><span>In addition, the graph-mark-components operator is designed to </span><span>mark</span><span> all connected components of a graph and </span><span>assign</span><span> each node with a unique component identifier. </span></span><span> </span></p><p><span><br /></span></p><p><span><span>Both </span><span>operators</span><span> are now available in public preview, offering users the opportunity to explore and utilize these powerful tools in their graph analysis tasks. We invite you to try out these new features and experience the enhanced capabilities they bring.</span></span><span> </span></p><p><br /></p><p><span><span>Learn more</span><span>:</span></span><span> </span></p><ul><li><p><span><span>V</span><span>isit the documentation of </span></span><a rel=\"noopener noreferrer nofollow\" href=\"https://learn.microsoft.com/kusto/query/graph-shortest-paths-operator?view=microsoft-fabric\" target=\"_blank\"><span><span>graph-shortest-paths</span><span>.</span></span></a><span><span> </span></span><span> </span></p></li><li><p><span><span>Visit the documentation of</span><span> </span></span><a rel=\"noopener noreferrer nofollow\" href=\"https://learn.microsoft.com/kusto/query/graph-mark-components-operator?view=microsoft-fabric\" target=\"_blank\"><span><span>graph-mark-components.</span></span></a><span></span><span> </span></p></li></ul><br /><blockquote></blockquote>",
+    "excerpt": "We are excited to announce the release of two powerful new graph operators in Kusto: graph-shortest-path and graph-mark-components. The graph-shortest-paths operator is designed to streamline the process of finding the shortest paths between nodes in a graph. This operator efficiently identifies the shortest routes…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "graph-shortest-paths.",
+        "url": "https://learn.microsoft.com/kusto/query/graph-shortest-paths-operator?view=microsoft-fabric"
+      },
+      {
+        "label": "graph-mark-components.",
+        "url": "https://learn.microsoft.com/kusto/query/graph-mark-components-operator?view=microsoft-fabric"
+      }
+    ]
+  },
+  "contentHash": "2b0e4f9cefa9bd9976c461733050b3b616d9bf375ce45ce7ab499928a3469476",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "In preview",
+    "products": "Azure Data Explorer, Microsoft Fabric",
+    "tags": "Features",
+    "previewDate": "2024-11",
+    "modified": "2024-11-22T20:00:49.7826157Z"
+  }
+}

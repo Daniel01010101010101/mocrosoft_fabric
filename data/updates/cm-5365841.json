@@ -1,0 +1,99 @@
+{
+  "id": "cm-5365841",
+  "kind": "blog",
+  "source": "powerbi-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-Q-A-retirement-reminder-February-2027-timeline-update/ba-p/5365841",
+  "docsUrl": "https://learn.microsoft.com/power-bi/consumer/end-user-q-and-a",
+  "title": "Power BI Q&A retirement reminder: February 2027 timeline update",
+  "author": "mohammadali",
+  "originalLanguage": "en",
+  "languageConfidence": 0.82,
+  "publishedAt": "2026-09-10T16:00:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "In December, we announced the retirement of Power BI Q&A, our legacy natural-language querying experience, with retirement planned for December 2026. To give current Q&A user's additional time to assess their dependencies and transition to newer Copilot-powered solutions, we’re extending the retirement date to February 2027. This post recaps the affected experiences and provides updates on Copilot capacity availability, embedded scenarios, and sovereign clouds.\nRecap of the January announcement\nWhat is being deprecated?\nThe retirement applies to both the end-user Q&A experiences, and the associated Q&A configuration tools.\nRetiring experience\nRecommended alternative\nQ&A in reports\nCopilot with Power BI reports\nQ&A on a dashboard\nCopilot standalone experience\nQ&A virtual analyst in mobile app\nCopilot in Power BI Mobile\nQ&A in Power BI embedded analytics\nCopilot for SaaS scenarios. For embedded PaaS scenarios, refer to the updates later in this post.\nQ&A Setup\nPrep Data for AI\nWhat happens at retirement?\nBeginning in February 2027, Q&A will no longer work in Power BI. The Q&A visual will be removed, and existing reports that contain Q&A visuals will display an error in place of the visual.\nUpdates since December\nCopilot availability across capacities\nOne of the most common questions following the December announcement was how customers relying primarily on Power BI Pro licenses could adopt Copilot capabilities after the retirement of Q&A.\nCopilot is now available across all Fabric capacities starting at F2.\nIn addition, Fabric Copilot Capacity (FCC), which was initially limited to P1/F64 and above, can now be created on F2 and higher capacities.\nFCC is an optional way to centralize Copilot usage for assigned users, including Pro and PPU workspaces, on one capacity. Review the current Copilot requirements.\nThis change makes Copilot available on smaller Fabric capacities, giving organizations that previously relied on Power BI Pro licenses another path to evaluate Copilot without moving immediately to a larger Premium or Fabric capacity.\nEmbedded (PaaS) Q&A scenarios\nAnother common question following the December announcement was whether Copilot would provide a direct replacement for Q&A in embedded (PaaS) scenarios.\nThere are currently no plans to provide a Copilot replacement for embedded Q&A PaaS scenarios.\nOrganizations using embedded Q&A should begin evaluating migration paths and alternative analytical experiences well before the February 2027 retirement date. Although these options are not direct replacements for embedded Q&A, customers can consider:\n• Copilot for SaaS scenarios, for organizations that can transition from an embedded PaaS architecture to a supported SaaS experience.\n• Narrative visual and smart narrative summaries\n• Fabric IQ MCP Server\nCustomers with embedded analytics solutions should review their current Q&A integrations and plan migration paths before retirement.\nCopilot in sovereign clouds\nCustomers operating in sovereign cloud environments have also asked about Copilot availability following the retirement of Q&A.\nCopilot does not yet support sovereign clouds due to GPU availability. Organizations using Q&A in sovereign clouds should review their dependencies and contact their Microsoft account representative or support team to discuss migration options.\nRecommended next steps\nTo prepare for the retirement of Q&A:\n• Inventory existing Q&A dependencies, including reports, dashboards, mobile experiences, embedded solutions, and Q&A Setup artifacts.\n• Identify the appropriate migration path for each dependency, using Copilot-powered experiences where they are available and meet your requirements.\n• Review embedded Q&A implementations and evaluate supported SaaS patterns or other analytical experiences.\n• Confirm Copilot availability in your region, particularly for sovereign cloud deployments, before selecting an alternative.\n• Plan, test, and communicate changes before Q&A reaches full retirement in February 2027.\n• Starting these activities early will help ensure a smooth transition before Q&A reaches full retirement in February 2027.\nThe extension to February 2027 provides additional time to assess existing Q&A dependencies and evaluate replacement experiences. We encourage customers to begin planning their transition now, review Copilot availability and requirements, and test alternative experiences well before retirement. Taking these steps early can help ensure a smooth transition when Q&A reaches end of support in February 2027.",
+    "html": "<p>In December, we <a href=\"https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/deprecating-power-bi-qa/5173970\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">announced the retirement of Power BI Q&amp;A</a>, our legacy natural-language querying experience, with retirement planned for December 2026. To give current Q&amp;A user's additional time to assess their dependencies and transition to newer Copilot-powered solutions, we’re extending the retirement date to February 2027. This post recaps the affected experiences and provides updates on Copilot capacity availability, embedded scenarios, and sovereign clouds.</p>\n<h2>Recap of the January announcement</h2>\n<h3>What is being deprecated?</h3>\n<p>The retirement applies to both the end-user Q&amp;A experiences, and the associated Q&amp;A configuration tools.</p>\n<table><tbody><tr><td>\n<p><strong>Retiring experience</strong></p>\n</td><td>\n<p><strong>Recommended alternative</strong></p>\n</td></tr><tr><td>\n<p><a href=\"https://learn.microsoft.com/power-bi/consumer/end-user-q-and-a\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Q&amp;A in reports</a></p>\n</td><td>\n<p><a href=\"https://learn.microsoft.com/power-bi/create-reports/copilot-reports-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Copilot with Power BI reports</a></p>\n</td></tr><tr><td>\n<p><a href=\"https://learn.microsoft.com/power-bi/consumer/end-user-q-and-a\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Q&amp;A on a dashboard</a></p>\n</td><td>\n<p><a href=\"https://learn.microsoft.com/power-bi/create-reports/copilot-chat-with-data-standalone\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Copilot standalone experience</a></p>\n</td></tr><tr><td>\n<p><a href=\"https://learn.microsoft.com/power-bi/consumer/mobile/tutorial-mobile-apps-ios-qna\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Q&amp;A virtual analyst in mobile app</a></p>\n</td><td>\n<p><a href=\"https://learn.microsoft.com/power-bi/consumer/mobile/mobile-apps-copilot\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Copilot in Power BI Mobile</a></p>\n</td></tr><tr><td>\n<p><a href=\"https://learn.microsoft.com/power-bi/developer/embedded/qanda\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Q&amp;A in Power BI embedded analytics</a></p>\n</td><td>\n<p><a href=\"https://powerbi.microsoft.com/blog/now-available-two-new-copilot-experiences/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Copilot for SaaS scenarios</a>. For embedded PaaS scenarios, refer to the updates later in this post.</p>\n</td></tr><tr><td>\n<p><a href=\"https://learn.microsoft.com/power-bi/natural-language/q-and-a-tooling-intro\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Q&amp;A Setup</a></p>\n</td><td>\n<p><a href=\"https://learn.microsoft.com/power-bi/create-reports/copilot-prepare-data-ai\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Prep Data for AI</a></p>\n</td></tr></tbody></table>\n<h3>What happens at retirement?</h3>\n<p>Beginning in February 2027, Q&amp;A will no longer work in Power BI. The Q&amp;A visual will be removed, and existing reports that contain Q&amp;A visuals will display an error in place of the visual.</p>\n<h2>Updates since December</h2>\n<h3>Copilot availability across capacities</h3>\n<p>One of the most common questions following the December announcement was how customers relying primarily on Power BI Pro licenses could adopt Copilot capabilities after the retirement of Q&amp;A.</p>\n<p>Copilot is now available across all Fabric capacities starting at <strong>F2</strong>.</p>\n<p>In addition, <a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Updates-to-Fabric-Copilot-Capacity/ba-p/5172772\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Copilot Capacity (FCC)</a>, which was initially limited to <strong>P1/F64 and above</strong>, can now be created on <strong>F2 and higher capacities</strong>.</p>\n<p>FCC is an optional way to centralize Copilot usage for assigned users, including Pro and PPU workspaces, on one capacity. <a href=\"https://learn.microsoft.com/power-bi/create-reports/copilot-introduction\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Review the current Copilot requirements.</a></p>\n<p>This change makes Copilot available on smaller Fabric capacities, giving organizations that previously relied on Power BI Pro licenses another path to evaluate Copilot without moving immediately to a larger Premium or Fabric capacity.</p>\n<h3>Embedded (PaaS) Q&amp;A scenarios</h3>\n<p>Another common question following the December announcement was whether Copilot would provide a direct replacement for Q&amp;A in embedded (PaaS) scenarios.</p>\n<p>There are currently no plans to provide a Copilot replacement for embedded Q&amp;A PaaS scenarios.</p>\n<p>Organizations using embedded Q&amp;A should begin evaluating migration paths and alternative analytical experiences well before the February 2027 retirement date. Although these options are not direct replacements for embedded Q&amp;A, customers can consider:</p>\n<ul>\n<li><a href=\"https://powerbi.microsoft.com/blog/now-available-two-new-copilot-experiences/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Copilot for SaaS scenarios</a>, for organizations that can transition from an embedded PaaS architecture to a supported SaaS experience.</li>\n<li>Narrative visual and smart narrative summaries</li>\n<li>Fabric IQ MCP Server</li>\n</ul>\n<p>Customers with embedded analytics solutions should review their current Q&amp;A integrations and plan migration paths before retirement.</p>\n<h3>Copilot in sovereign clouds</h3>\n<p>Customers operating in sovereign cloud environments have also asked about Copilot availability following the retirement of Q&amp;A.</p>\n<p>Copilot does not yet support sovereign clouds due to GPU availability. Organizations using Q&amp;A in sovereign clouds should review their dependencies and contact their Microsoft account representative or support team to discuss migration options.</p>\n<h2>Recommended next steps</h2>\n<p><strong>To prepare for the retirement of Q&amp;A:</strong></p>\n<ol>\n<li>Inventory existing Q&amp;A dependencies, including reports, dashboards, mobile experiences, embedded solutions, and Q&amp;A Setup artifacts.</li>\n<li>Identify the appropriate migration path for each dependency, using Copilot-powered experiences where they are available and meet your requirements.</li>\n<li>Review embedded Q&amp;A implementations and evaluate supported SaaS patterns or other analytical experiences.</li>\n<li>Confirm Copilot availability in your region, particularly for sovereign cloud deployments, before selecting an alternative.</li>\n<li>Plan, test, and communicate changes before Q&amp;A reaches full retirement in February 2027.</li>\n<li>Starting these activities early will help ensure a smooth transition before Q&amp;A reaches full retirement in February 2027.</li>\n</ol>\n<p>The extension to February 2027 provides additional time to assess existing Q&amp;A dependencies and evaluate replacement experiences. We encourage customers to begin planning their transition now, <a href=\"https://learn.microsoft.com/power-bi/create-reports/copilot-introduction\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">review Copilot availability and requirements</a>, and test alternative experiences well before retirement. Taking these steps early can help ensure a smooth transition when Q&amp;A reaches end of support in February 2027.</p>",
+    "excerpt": "In December, we announced the retirement of Power BI Q&A, our legacy natural-language querying experience, with retirement planned for December 2026. To give current Q&A user's additional time to assess their dependencies and transition to newer Copilot-powered solutions, we’re extending the retirement date to…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "announced the retirement of Power BI Q&A",
+        "url": "https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/deprecating-power-bi-qa/5173970"
+      },
+      {
+        "label": "Q&A in reports",
+        "url": "https://learn.microsoft.com/power-bi/consumer/end-user-q-and-a"
+      },
+      {
+        "label": "Copilot with Power BI reports",
+        "url": "https://learn.microsoft.com/power-bi/create-reports/copilot-reports-overview"
+      },
+      {
+        "label": "Copilot standalone experience",
+        "url": "https://learn.microsoft.com/power-bi/create-reports/copilot-chat-with-data-standalone"
+      },
+      {
+        "label": "Q&A virtual analyst in mobile app",
+        "url": "https://learn.microsoft.com/power-bi/consumer/mobile/tutorial-mobile-apps-ios-qna"
+      },
+      {
+        "label": "Copilot in Power BI Mobile",
+        "url": "https://learn.microsoft.com/power-bi/consumer/mobile/mobile-apps-copilot"
+      },
+      {
+        "label": "Q&A in Power BI embedded analytics",
+        "url": "https://learn.microsoft.com/power-bi/developer/embedded/qanda"
+      },
+      {
+        "label": "Copilot for SaaS scenarios",
+        "url": "https://powerbi.microsoft.com/blog/now-available-two-new-copilot-experiences/"
+      },
+      {
+        "label": "Q&A Setup",
+        "url": "https://learn.microsoft.com/power-bi/natural-language/q-and-a-tooling-intro"
+      },
+      {
+        "label": "Prep Data for AI",
+        "url": "https://learn.microsoft.com/power-bi/create-reports/copilot-prepare-data-ai"
+      },
+      {
+        "label": "Fabric Copilot Capacity (FCC)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Updates-to-Fabric-Copilot-Capacity/ba-p/5172772"
+      },
+      {
+        "label": "Review the current Copilot requirements.",
+        "url": "https://learn.microsoft.com/power-bi/create-reports/copilot-introduction"
+      }
+    ]
+  },
+  "contentHash": "010ac090f16cb1a238270710ee50b3b3aa0a13d2f3e3bb17f1557532f199211c",
+  "categories": [
+    "power-bi"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "deprecation",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 62,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "architects",
+      "administrators",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

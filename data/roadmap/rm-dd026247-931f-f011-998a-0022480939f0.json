@@ -1,0 +1,23 @@
+{
+  "id": "rm-dd026247-931f-f011-998a-0022480939f0",
+  "releaseItemId": "dd026247-931f-f011-998a-0022480939f0",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "OneLake security - dynamic and multi-table RLS",
+  "description": "OneLake security is adding support for dynamic and multi-table row level security. With dynamic RLS, users can create roles in OneLake that secure data differently for each user that queries the data. In addition, multi-table RLS allows data to be secured by querying values in a lookup table. Combined, these features empower users to complex RLS rules for securing enterprise data. The initial launch will support SQL endpoint, Power BI, and Fabric Spark.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=dd026247-931f-f011-998a-0022480939f0",
+  "contentHash": "88d700224942d7d5d306ce47f522b49c6e0e6e67e5fcfe51b52c390688d77035",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-52d118fc-14f3-ef11-be21-00224806b5e1",
+  "releaseItemId": "52d118fc-14f3-ef11-be21-00224806b5e1",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Proactive Statistics Refresh",
+  "description": "With this feature enabled, column statistics that are automatically created during SELECT queries are now also proactively refreshed as their data changes. This reduces the likelihood of a user query having to wait for statistic updates before being able to run, and thus reduces user query time.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=52d118fc-14f3-ef11-be21-00224806b5e1",
+  "contentHash": "54685931aa23e876353a79ea94672a93d2d990620d12d8935e9fc1ecaff800ac",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-be5a72e9-3c53-f111-bec7-6045bd00fc61",
+  "releaseItemId": "be5a72e9-3c53-f111-bec7-6045bd00fc61",
+  "product": "Data Science",
+  "productId": "0522b590-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-science",
+  "name": "GA foundry tools in Fabric",
+  "description": "Formerly named Azure Cognitive Services, Foundry Tools on Fabric brings in Azure Language, Azure Translator, and Azure Content Understanding as native endpoints for both Fabric workload teams and end users. With these endpoints, Fabric workload teams and end users can build intelligent solutions without having AI or data science expertise.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=be5a72e9-3c53-f111-bec7-6045bd00fc61",
+  "contentHash": "cf6434c7b595d94fd7c1c56668e31f3acfc981503edfd05f7bebc814fa7736e8",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

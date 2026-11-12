@@ -1,0 +1,23 @@
+{
+  "id": "rm-84cab79e-89ba-f011-bbd3-6045bd05dd14",
+  "releaseItemId": "84cab79e-89ba-f011-bbd3-6045bd05dd14",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Fabric Extensibility Toolkit - Workload Management Admin API",
+  "description": "Workload Management Admin API - Public PreviewTenant administrators can now manage extensibility workloads using the new Workload Management Admin API.Key CapabilitiesList workloads - List all available extensibility workloads for assignmentList assignments - View current workload assignments in the tenant across scopesAdd workload assignment - Assign workloads at tenant, capacity, or workspace scopeDelete workload assignment - Remove workload assignments",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=84cab79e-89ba-f011-bbd3-6045bd05dd14",
+  "contentHash": "6f5db75891f62881ddc853e1ef5da125e26d170a5422c782f33af3487d99e070",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

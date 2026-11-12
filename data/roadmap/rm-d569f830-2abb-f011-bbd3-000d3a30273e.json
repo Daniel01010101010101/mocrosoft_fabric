@@ -1,0 +1,23 @@
+{
+  "id": "rm-d569f830-2abb-f011-bbd3-000d3a30273e",
+  "releaseItemId": "d569f830-2abb-f011-bbd3-000d3a30273e",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Fabric Remote MCP (Public Preview)",
+  "description": "We’re launching the public preview of Fabric Remote MCP — a secure, cloud-hosted execution engine that lets AI agents and automation tools perform authenticated actions in Fabric using a standardized protocol. This eliminates the need for custom integrations and enables seamless automation of tasks like workspace provisioning and item deployment. It’s a major step toward an AI-native Fabric experience.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=d569f830-2abb-f011-bbd3-000d3a30273e",
+  "contentHash": "32788bae4cfa27bb7ee3c8200ad11e482dabc914694bde7898b1104d457db452",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

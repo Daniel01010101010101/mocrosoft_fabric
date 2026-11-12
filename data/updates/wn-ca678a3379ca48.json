@@ -1,0 +1,56 @@
+{
+  "id": "wn-ca678a3379ca48",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/iq/overview",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/iq/overview",
+  "title": "Fabric IQ (Preview) workload",
+  "originalLanguage": "en",
+  "languageConfidence": 0.83,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric IQ (preview) is a new workload for unifying business semantics across data, models, and systems to power intelligent agents and decisions grounded in a live, holistic view of the business.",
+    "html": "<a href=\"https://learn.microsoft.com/en-us/fabric/iq/overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric IQ (preview)</a> is a new workload for unifying business semantics across data, models, and systems to power intelligent agents and decisions grounded in a live, holistic view of the business.",
+    "excerpt": "Fabric IQ (preview) is a new workload for unifying business semantics across data, models, and systems to power intelligent agents and decisions grounded in a live, holistic view of the business.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric IQ (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/iq/overview"
+      }
+    ]
+  },
+  "contentHash": "d39fd330c95cf1a16ac048d8fdd280172c582d2283752b2a7d912e7d81c5f427",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-scientists",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-d069ec35-02a1-f111-b8db-000d3a3ad657",
+  "releaseItemId": "d069ec35-02a1-f111-b8db-000d3a3ad657",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Design ribbon in Power BI Desktop",
+  "description": "Design ribbon for quick access to build-in themes, page size, page background, wallpaper, and links to the theme gallery and how to create a custom theme for your Power BI reports.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=d069ec35-02a1-f111-b8db-000d3a3ad657",
+  "contentHash": "711da955dc0d1fb71621a28f8460dda557fcf727b43204c705fab0686dc59946",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

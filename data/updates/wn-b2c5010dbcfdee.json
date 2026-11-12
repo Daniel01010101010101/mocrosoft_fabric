@@ -1,0 +1,62 @@
+{
+  "id": "wn-b2c5010dbcfdee",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/mssql-extension-for-vs-code-fabric-integration-public-preview",
+  "title": "MSSQL extension for VS Code Fabric integration (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.96,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "MSSQL extension for VS Code Fabric integration (Preview) adds support for connecting, running queries, and managing objects in SQL databases in Fabric directly from Visual Studio Code. Download the extension at MSSQL extension at marketplace.visualstudio.com.",
+    "html": "<a href=\"https://blog.fabric.microsoft.com/blog/mssql-extension-for-vs-code-fabric-integration-public-preview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">MSSQL extension for VS Code Fabric integration (Preview)</a> adds support for connecting, running queries, and managing objects in SQL databases in Fabric directly from Visual Studio Code. Download the extension at <a href=\"https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">MSSQL extension at marketplace.visualstudio.com</a>.",
+    "excerpt": "MSSQL extension for VS Code Fabric integration (Preview) adds support for connecting, running queries, and managing objects in SQL databases in Fabric directly from Visual Studio Code. Download the extension at MSSQL extension at marketplace.visualstudio.com.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "MSSQL extension for VS Code Fabric integration (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/mssql-extension-for-vs-code-fabric-integration-public-preview"
+      },
+      {
+        "label": "MSSQL extension at marketplace.visualstudio.com",
+        "url": "https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql"
+      }
+    ]
+  },
+  "contentHash": "40814e7256608432df0b80a4279fa57ed6e4f9c209ba6d6f6819e3d742f8e7ae",
+  "categories": [
+    "developer-apis",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "developer-apis",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/mssql-extension-for-vs-code-fabric-integration-public-preview",
+    "backfill": "true"
+  }
+}

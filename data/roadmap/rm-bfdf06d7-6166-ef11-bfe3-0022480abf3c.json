@@ -1,0 +1,23 @@
+{
+  "id": "rm-bfdf06d7-6166-ef11-bfe3-0022480abf3c",
+  "releaseItemId": "bfdf06d7-6166-ef11-bfe3-0022480abf3c",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Custom SQL Pools",
+  "description": "Custom SQL Pools will provide user managed workload isolation boundaries as well as the ability to control the burstable capacity limit.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=bfdf06d7-6166-ef11-bfe3-0022480abf3c",
+  "contentHash": "b23f275b4c295be50c0a945e4dd724196e233f1c3cd5338d37c290f2b9d073a0",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

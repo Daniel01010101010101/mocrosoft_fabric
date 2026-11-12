@@ -1,0 +1,23 @@
+{
+  "id": "rm-a037d13b-a84d-f111-bec6-000d3a376c0f",
+  "releaseItemId": "a037d13b-a84d-f111-bec6-000d3a376c0f",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Reliable Warehouse Connectivity via Direct Mode",
+  "description": "TDS Redirect introduces an opt-in connectivity mode for Fabric Data Warehouse that improves connection reliability by allowing supported SQL clients to establish a direct connection to the Warehouse after the initial handshake. By reducing intermediate proxy hops, this approach delivers more stable and resilient connections, particularly for long-running and stateful workloads such as ETL pipelines and reporting scenarios.TDS Redirect will be first available for workspaces configured with private link service, followed by rest of the workspaces.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=a037d13b-a84d-f111-bec6-000d3a376c0f",
+  "contentHash": "3114c2b69045dcbd3d3d359c2f6ebbeccbda25a4b4518f9217e6566df6f4739c",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

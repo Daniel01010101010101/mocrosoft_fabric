@@ -1,0 +1,23 @@
+{
+  "id": "rm-d178dc35-7a74-f011-bec3-0022480939f0",
+  "releaseItemId": "d178dc35-7a74-f011-bec3-0022480939f0",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "SPN and Workspace Identity support for Dataverse shortcuts",
+  "description": "Dataverse shortcuts now honor service-principal and workspace-identity authentication, letting automated jobs and shared workspaces create and use shortcuts without personal tokens or manual consent.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=d178dc35-7a74-f011-bec3-0022480939f0",
+  "contentHash": "0004083c1529131740bf44a62a38ef417bb10887a1ba946c8ee0aff3c4d68c49",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

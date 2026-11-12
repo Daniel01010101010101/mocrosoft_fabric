@@ -1,0 +1,63 @@
+{
+  "id": "wn-13253e214f4c60",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-your-Google-Lakehouse-Runtime-Catalog-data-to-OneLake/ba-p/5360492",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/mirroring/catalog-mirroring/google-lakehouse-runtime",
+  "title": "Google Lakehouse Runtime Catalog mirroring (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Google Lakehouse Runtime Catalog mirroring (Preview) brings Google-managed Iceberg catalog metadata into OneLake without copying data, so you can use the tables across Fabric workloads. For more information, see Google Lakehouse Runtime Catalog mirroring.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-your-Google-Lakehouse-Runtime-Catalog-data-to-OneLake/ba-p/5360492\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Google Lakehouse Runtime Catalog mirroring (Preview)</a> brings Google-managed Iceberg catalog metadata into OneLake without copying data, so you can use the tables across Fabric workloads. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/mirroring/catalog-mirroring/google-lakehouse-runtime\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Google Lakehouse Runtime Catalog mirroring</a>.",
+    "excerpt": "Google Lakehouse Runtime Catalog mirroring (Preview) brings Google-managed Iceberg catalog metadata into OneLake without copying data, so you can use the tables across Fabric workloads. For more information, see Google Lakehouse Runtime Catalog mirroring.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Google Lakehouse Runtime Catalog mirroring (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-your-Google-Lakehouse-Runtime-Catalog-data-to-OneLake/ba-p/5360492"
+      },
+      {
+        "label": "Google Lakehouse Runtime Catalog mirroring",
+        "url": "https://learn.microsoft.com/en-us/fabric/mirroring/catalog-mirroring/google-lakehouse-runtime"
+      }
+    ]
+  },
+  "contentHash": "9f6b1457f580b972213509c75d777c044070e293d4fb063fa5f7eef3ce776fb8",
+  "categories": [
+    "data-engineering",
+    "integrations-connectors",
+    "data-factory"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-your-Google-Lakehouse-Runtime-Catalog-data-to-OneLake/ba-p/5360492",
+    "backfill": "true"
+  }
+}

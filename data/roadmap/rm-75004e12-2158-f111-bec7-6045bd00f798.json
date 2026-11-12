@@ -1,0 +1,23 @@
+{
+  "id": "rm-75004e12-2158-f111-bec7-6045bd00f798",
+  "releaseItemId": "75004e12-2158-f111-bec7-6045bd00f798",
+  "product": "Data Science",
+  "productId": "0522b590-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-science",
+  "name": "Feature Store",
+  "description": "Fabric feature store is a centralized system that manages the data inputs, called features, that power machine learning models. It bridges raw data and ML models, giving teams one place to define, store, serve, and discover features instead of each team building its own pipelines.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=75004e12-2158-f111-bec7-6045bd00f798",
+  "contentHash": "a84fb4c1ad88560ba828093539ef7cb989123e9bff3a847a8cd5923ab11d8be8",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

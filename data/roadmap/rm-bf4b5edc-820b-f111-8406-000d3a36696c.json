@@ -1,0 +1,23 @@
+{
+  "id": "rm-bf4b5edc-820b-f111-8406-000d3a36696c",
+  "releaseItemId": "bf4b5edc-820b-f111-8406-000d3a36696c",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "Fabric Graph – Generally Available",
+  "description": "Fabric Graph is now Generally Available, delivering a secure, scalable, and enterprise-ready graph analytics capability powering Fabric IQ and natively integrated with Microsoft Fabric.Fabric Graph is engineered to operate at billion-scale, providing predictable performance, improved ingestion throughput, resilient query execution, and enhanced diagnostic visibility to support production-grade graph workloads. It expands GQL feature coverage to support advanced relationship modeling scenarios, including nested data, OPTIONAL MATCH, extended FOR semantics, result shaping functions, quantified edge patterns, and shortest-path queries.Fabric Graph lowers the barrier to graph adoption with no-code and low-code experiences for modeling, querying, and exploration, while still enabling full GQL control for advanced users. It also integrates in public preveiw with Fabric Data Agent and supports natural language to GQL (NL2GQL), allowing users to query connected data through conversational experiences while maintaining transparency through executable query inspection.From a governance and security standpoint, Fabric Graph will shortly enforce OneLake security policies end-to-end, including row-, column-, and object-level controls, ensuring consistent data governance without introducing alternate access paths. The service supports private network connectivity via Fabric private endpoints and private links, complies with Workspace Outbound Access Protection (OAP) to prevent unauthorized data exfiltration, and supports Realms for regional isolation in regulated and Microsoft first-party environments.With GA, Fabric Graph provides a fully integrated, secure, and scalable foundation for connected data analytics, operational workloads, and AI-driven agent scenarios within Microsoft Fabric.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=bf4b5edc-820b-f111-8406-000d3a36696c",
+  "contentHash": "6753e1f70c574c9a6c47230e508e9dbeb38709636c10229b81c5dc593e152ec2",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

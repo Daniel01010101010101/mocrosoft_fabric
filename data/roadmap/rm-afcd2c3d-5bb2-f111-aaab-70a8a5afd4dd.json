@@ -1,0 +1,23 @@
+{
+  "id": "rm-afcd2c3d-5bb2-f111-aaab-70a8a5afd4dd",
+  "releaseItemId": "afcd2c3d-5bb2-f111-aaab-70a8a5afd4dd",
+  "product": "SQL database",
+  "productId": "347da228-ea54-ef11-a317-0022480a694f",
+  "category": "databases",
+  "name": "Fuzzy string match is available across Microsoft SQL offerings",
+  "description": "Fuzzy string match is now generally available across Microsoft SQL offerings, including Azure SQL Database, Azure SQL Managed Instanced, SQL database in Microsoft Fabric, and SQL Server 2025. You can compare strings based on how similar or different they are, rather than relying only on exact matches. It can measure the distance between two strings, including how many changes are required to make them identical, or evaluate their similarity using different fuzzy matching algorithms.  This feature makes it easier to work with imperfect or inconsistent real-world data. You can use fuzzy string match to help simplify data matching, cleansing, deduplication, fuzzy search, and other scenarios where traditional exact string comparisons may not be sufficient. [Learn more.](https://aka.ms/fuzzy-string-match)",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "FY27 Q2 (Oct-Dec 2026)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=afcd2c3d-5bb2-f111-aaab-70a8a5afd4dd",
+  "contentHash": "0dae38c4707757cfa879a699ede983f9d3c89042817f88ca3b622eae353a6815",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

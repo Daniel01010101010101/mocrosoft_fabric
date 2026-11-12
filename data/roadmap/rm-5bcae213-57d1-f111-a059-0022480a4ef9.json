@@ -1,0 +1,23 @@
+{
+  "id": "rm-5bcae213-57d1-f111-a059-0022480a4ef9",
+  "releaseItemId": "5bcae213-57d1-f111-a059-0022480a4ef9",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "Dataverse Shortcut - performance enhancements",
+  "description": "Dataverse Shortcuts are now significantly faster for first-time sync, reducing end-to-end latency to approximately 15 minutes from 1 hour.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=5bcae213-57d1-f111-a059-0022480a4ef9",
+  "contentHash": "93d0e06db931f07b248b1f7ef7beca431975043b6664bda32975cdf2c6256f29",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

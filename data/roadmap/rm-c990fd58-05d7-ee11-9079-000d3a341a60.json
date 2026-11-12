@@ -1,0 +1,23 @@
+{
+  "id": "rm-c990fd58-05d7-ee11-9079-000d3a341a60",
+  "releaseItemId": "c990fd58-05d7-ee11-9079-000d3a341a60",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Customizable left navigation bar",
+  "description": "We learned from you that the frequently used capabilities vary for everyone based on their roles and job to be done during a certain period time. To better improve productivity, we plan to make the left navigation bar customizable. You can pin or unpin an entry point on the left navigation bar according to your own preferences.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=c990fd58-05d7-ee11-9079-000d3a341a60",
+  "contentHash": "efad24d306cbbfe9528af33bba7df3e5921dc93f1d1b6c8fd8717606eb28d34d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

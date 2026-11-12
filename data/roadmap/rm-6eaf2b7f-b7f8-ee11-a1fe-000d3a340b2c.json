@@ -1,0 +1,23 @@
+{
+  "id": "rm-6eaf2b7f-b7f8-ee11-a1fe-000d3a340b2c",
+  "releaseItemId": "6eaf2b7f-b7f8-ee11-a1fe-000d3a340b2c",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Delta Lake improvements in Spark experiences",
+  "description": "Having proper defaults and aligning with the latest standards are of the utmost importance to Delta Lake standards in Microsoft Fabric. INT64 will be the new default encoding type for all timestamp values. This moves away from INT96 encodings, which the Apache Parquet deprecated years ago. The changes don't affect any reading capabilities, it's transparent and compatible by default, but ensures that all new parquet files in your Delta Lake table are written in a more efficient and future proof way.  We're also releasing a faster implementation of the OPTIMIZE command, making it skip already V-Ordered files.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=6eaf2b7f-b7f8-ee11-a1fe-000d3a340b2c",
+  "contentHash": "65e810a392be215cefbb7fb6d643c370abd7985a925c1bcab4a8024286c27b3b",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

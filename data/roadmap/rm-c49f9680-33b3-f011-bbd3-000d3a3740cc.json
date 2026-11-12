@@ -1,0 +1,23 @@
+{
+  "id": "rm-c49f9680-33b3-f011-bbd3-000d3a3740cc",
+  "releaseItemId": "c49f9680-33b3-f011-bbd3-000d3a3740cc",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Workspace tagging",
+  "description": "Tagging capabilities are expanding to include entire workspaces. This enhancement delivers powerful management and governance at scale, enabling organizations to classify, organize, and discover workspaces alongside their associated items more efficiently. New User and Admin APIs also allow for the automation of workspace operations based on tags - streamlining tasks such as resource cleanup, usage tracking, and compliance validation.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=c49f9680-33b3-f011-bbd3-000d3a3740cc",
+  "contentHash": "5e4e75538cba6bb516a399bb569ab3f83509842d1f08b23e65e018e3105d1733",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

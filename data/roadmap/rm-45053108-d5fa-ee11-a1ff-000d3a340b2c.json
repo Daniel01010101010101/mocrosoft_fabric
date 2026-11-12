@@ -1,0 +1,23 @@
+{
+  "id": "rm-45053108-d5fa-ee11-a1ff-000d3a340b2c",
+  "releaseItemId": "45053108-d5fa-ee11-a1ff-000d3a340b2c",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "String performance improvements",
+  "description": "Operations on strings (VARCHAR(N)) are common in T-SQL queries. Performance improvements on string functions and operators that are working with strings boosts the performance of the queries that use LIKE predicates, [string functions](/sql/t-sql/functions/string-functions-transact-sql?view=sql-server-ver16&preserve-view=true) and comparison operators in WHERE predicates, and operators like GROUP BY, ORDER BY, JOIN that are working with string types.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=45053108-d5fa-ee11-a1ff-000d3a340b2c",
+  "contentHash": "b383b9bec98f780cc25213b3ef98181e4c440c70f415f452f45e909ae5ae2555",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

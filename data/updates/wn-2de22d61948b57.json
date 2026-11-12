@@ -1,0 +1,58 @@
+{
+  "id": "wn-2de22d61948b57",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId-1526253588#toc-hId-1526253588",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/materialized-lake-views/insights",
+  "title": "Materialized lake views analytics and insights (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-07-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Materialized lake views analytics and insights show refresh trends, failure patterns, and prioritized recommendations so you can improve materialized lake view performance and cost. For more information, see View insights for materialized lake view runs.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId-1526253588#toc-hId-1526253588\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Materialized lake views analytics and insights</a> show refresh trends, failure patterns, and prioritized recommendations so you can improve materialized lake view performance and cost. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/materialized-lake-views/insights\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">View insights for materialized lake view runs</a>.",
+    "excerpt": "Materialized lake views analytics and insights show refresh trends, failure patterns, and prioritized recommendations so you can improve materialized lake view performance and cost. For more information, see View insights for materialized lake view runs.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Materialized lake views analytics and insights",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId-1526253588#toc-hId-1526253588"
+      },
+      {
+        "label": "View insights for materialized lake view runs",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/materialized-lake-views/insights"
+      }
+    ]
+  },
+  "contentHash": "b74885f440c344562cdcdf203ff8f1482796913db32aa2dcf2ef01dba5cb5e4a",
+  "categories": [
+    "data-engineering"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 59,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "July 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId-1526253588#toc-hId-1526253588"
+  }
+}

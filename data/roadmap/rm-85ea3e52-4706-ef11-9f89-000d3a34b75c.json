@@ -1,0 +1,23 @@
+{
+  "id": "rm-85ea3e52-4706-ef11-9f89-000d3a34b75c",
+  "releaseItemId": "85ea3e52-4706-ef11-9f89-000d3a34b75c",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Add job capacity information in Monitor Hub",
+  "description": "We’re introducing a new “Capacity” column for all item types in the Monitor Hub to help users gain a clearer understanding of how capacity is being utilized. When you experience a “capacity throttle” in the future, you’ll be able to refer to the Monitor Hub for insights and clues that may help in diagnosing the issue.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=85ea3e52-4706-ef11-9f89-000d3a34b75c",
+  "contentHash": "1528a391b008251e6cfdf48b0f322213ebcc991d405ccb273a655766e68c5fd0",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

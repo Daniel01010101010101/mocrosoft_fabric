@@ -1,0 +1,56 @@
+{
+  "id": "wn-331f96aa2b9ae8",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/time-travel",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-warehouse/time-travel",
+  "title": "Time Travel using SQL analytics endpoint (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.96,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Time Travel using SQL analytics endpoint (Preview) extends the Fabric Data Warehouse time travel experience to the SQL analytics endpoint so you can query Lakehouse data exactly as it looked at any prior point in time by adding OPTION (FOR TIMESTAMP AS OF '...') once at the T-SQL statement level.",
+    "html": "<a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/time-travel\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Time Travel using SQL analytics endpoint (Preview)</a> extends the Fabric Data Warehouse time travel experience to the SQL analytics endpoint so you can query Lakehouse data exactly as it looked at any prior point in time by adding <code>OPTION (FOR TIMESTAMP AS OF '...')</code> once at the T-SQL statement level.",
+    "excerpt": "Time Travel using SQL analytics endpoint (Preview) extends the Fabric Data Warehouse time travel experience to the SQL analytics endpoint so you can query Lakehouse data exactly as it looked at any prior point in time by adding OPTION (FOR TIMESTAMP AS OF '...') once at the T-SQL statement level.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Time Travel using SQL analytics endpoint (Preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/time-travel"
+      }
+    ]
+  },
+  "contentHash": "8c748117f873229373a05b9e96514d6d80fd2f80c70a19c68e6bd8cf3149bf36",
+  "categories": [
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

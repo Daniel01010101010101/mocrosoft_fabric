@@ -1,0 +1,23 @@
+{
+  "id": "rm-bd35ecc1-4880-ef11-ac21-6045bd062aa2",
+  "releaseItemId": "bd35ecc1-4880-ef11-ac21-6045bd062aa2",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "MERGE (T-SQL)",
+  "description": "The MERGE T-SQL command for Fabric Data Warehouse brings the power of comparison logic and DML into a single step by allowing you to INSERT, UPDATE, and DELETE a Target table based on matching conditions between your Source & Target table. Standardize your SQL transformations in one easy-to-read statement with MERGE.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=bd35ecc1-4880-ef11-ac21-6045bd062aa2",
+  "contentHash": "90bc42ccbba809a672422b9d9278c91ad37ff555f256c8105ec37519a3899782",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

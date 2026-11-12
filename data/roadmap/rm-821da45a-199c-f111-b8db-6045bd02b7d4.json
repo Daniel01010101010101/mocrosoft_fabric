@@ -1,0 +1,23 @@
+{
+  "id": "rm-821da45a-199c-f111-b8db-6045bd02b7d4",
+  "releaseItemId": "821da45a-199c-f111-b8db-6045bd02b7d4",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Data Agent Visualizations",
+  "description": "Fabric Data Agent’s visualization support turns natural-language questions into clear and interactive visuals, such as line charts, bar charts, area charts, and more. By choosing visualizations that fit the data and intent, the agent helps users quickly spot trends and validate insights, making analytics faster, clearer, and more accessible.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=821da45a-199c-f111-b8db-6045bd02b7d4",
+  "contentHash": "d611a9ffb05cf15147c1307c627077fbe4b7ad1a361d139b3c952e0ff6182fdf",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

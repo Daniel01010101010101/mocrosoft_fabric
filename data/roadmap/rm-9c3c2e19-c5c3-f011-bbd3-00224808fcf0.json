@@ -1,0 +1,23 @@
+{
+  "id": "rm-9c3c2e19-c5c3-f011-bbd3-00224808fcf0",
+  "releaseItemId": "9c3c2e19-c5c3-f011-bbd3-00224808fcf0",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Environment - Lightweight Library management",
+  "description": "This new lightweight capability, available in the environment, provides an agile option to install libraries and packages using a quick mode, ideal for workloads that require frequent iteration. The quick mode can be switched to full mode later if needed.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=9c3c2e19-c5c3-f011-bbd3-00224808fcf0",
+  "contentHash": "ec35b9ec303f79929b455caa5b47f86e6cc59f28b8e6a465fe7bc0c16f5cfa83",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

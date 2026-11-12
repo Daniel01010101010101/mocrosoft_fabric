@@ -1,0 +1,23 @@
+{
+  "id": "rm-34d3c0cd-ca90-ef11-ac21-002248098a98",
+  "releaseItemId": "34d3c0cd-ca90-ef11-ac21-002248098a98",
+  "product": "SQL database",
+  "productId": "347da228-ea54-ef11-a317-0022480a694f",
+  "category": "security",
+  "name": "Customer-managed keys (CMK) for encryption at rest",
+  "description": "Encryption at rest using customer-managed keys, configured at the workspace-level.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=34d3c0cd-ca90-ef11-ac21-002248098a98",
+  "contentHash": "1bf5e96cfb9cbffebc483a690e3550c4d95c2cc6a810b2c2b8f289be8ff9a17f",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

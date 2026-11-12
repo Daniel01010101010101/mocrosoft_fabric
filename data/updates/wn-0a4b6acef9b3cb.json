@@ -1,0 +1,55 @@
+{
+  "id": "wn-0a4b6acef9b3cb",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Eventstream-can-now-publish-Business-Events-Preview/ba-p/5180050",
+  "title": "Eventstream Business Events publisher (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.84,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Eventstream now publishes Business Events as a built-in destination, so you filter, aggregate, threshold, and emit governed, discoverable business signals from the Eventstream canvas with no code.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Eventstream-can-now-publish-Business-Events-Preview/ba-p/5180050\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Eventstream now publishes Business Events</a> as a built-in destination, so you filter, aggregate, threshold, and emit governed, discoverable business signals from the Eventstream canvas with no code.",
+    "excerpt": "Eventstream now publishes Business Events as a built-in destination, so you filter, aggregate, threshold, and emit governed, discoverable business signals from the Eventstream canvas with no code.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Eventstream now publishes Business Events",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Eventstream-can-now-publish-Business-Events-Preview/ba-p/5180050"
+      }
+    ]
+  },
+  "contentHash": "d205a3ad4fcebf690c2d69b77772cdc51afb4b9cc7cb731a770aa880d66b0504",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Eventstream-can-now-publish-Business-Events-Preview/ba-p/5180050",
+    "backfill": "true"
+  }
+}

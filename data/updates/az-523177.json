@@ -1,0 +1,60 @@
+{
+  "id": "az-523177",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=523177",
+  "title": "Generally Available: Mirroring in Fabric for PostgreSQL Flexible Server",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2025-11-18T17:01:02.716Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "You can now bring data together and simplify analytics using Microsoft Fabric mirroring for Azure Database for PostgreSQL flexible server, now generally available. Mirroring in Fabric unifies your organizational data in OneLake and supports network-isolated servers (using virtual networks or private endpoints) and highly available configurations. To enhance app integration with rich business insights, you can join data across various sources and enjoy one-click integration with Microsoft Power BI. For swift, efficient access, you can optimize your data using the Delta Lake table features.\nLearn more.",
+    "html": "<span><span>You can now bring data together</span><span> and simplify analytics using </span><span>Microsoft Fabric </span><span>mirroring</span><span> for Azure Database for PostgreSQL flexible server, now generally available. </span><span>Mirroring in Fabric unifies </span><span>your organizational data in </span><span>OneLake</span><span> </span><span>and </span><span>support</span><span>s</span><span> network</span><span>-</span><span>isolated servers (using </span><span>virtual network</span><span>s</span><span> </span><span>or </span><span>p</span><span>rivate </span><span>e</span><span>ndpoint</span><span>s</span><span>) and </span><span>highly available</span><span> configurations. </span><span>To e</span><span>nhance app integration with rich business insights</span><span>, you can join</span><span> data across various sources and enjoy one-click integration with Microsoft Power BI. </span><span>For swift, efficient access, you can </span><span>o</span><span>ptimize</span><span> your data </span><span>using the </span><span>Delta </span><span>Lake </span><span>table features.</span></span><span> </span><p><span></span><a rel=\"noopener noreferrer nofollow\" href=\"https://aka.ms/pgmirroring-ga\" target=\"_blank\"><span><span>Learn more</span></span></a><span><span>.</span></span><span> </span></p>",
+    "excerpt": "You can now bring data together and simplify analytics using Microsoft Fabric mirroring for Azure Database for PostgreSQL flexible server, now generally available. Mirroring in Fabric unifies your organizational data in OneLake and supports network-isolated servers (using virtual networks or private endpoints) and…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://aka.ms/pgmirroring-ga"
+      }
+    ]
+  },
+  "contentHash": "0b03ca042b96e9530fab2b1efd2001edef4e17fb4b51e346afbbb24a8f53eecc",
+  "categories": [
+    "integrations-connectors",
+    "data-factory"
+  ],
+  "primaryCategory": "integrations-connectors",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "Launched",
+    "products": "Azure Database for PostgreSQL",
+    "tags": "Features, Microsoft Ignite",
+    "gaDate": "2025-11",
+    "modified": "2025-11-18T17:01:02.7161876Z"
+  }
+}

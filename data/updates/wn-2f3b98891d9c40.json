@@ -1,0 +1,58 @@
+{
+  "id": "wn-2f3b98891d9c40",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Stream-Oracle-database-changes-into-Microsoft-Fabric-Eventstream/ba-p/5277839",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-oracle-database-change-data-capture",
+  "title": "Oracle Database CDC source connector for Fabric Eventstream (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Oracle Database CDC source connector for Eventstream (Preview) streams changes from an Oracle database into Fabric as a structured change event with before and after values, using Oracle LogMiner for on-premises or cloud databases running Oracle 12c and later. For more information, see Add Oracle Database CDC source to an eventstream (preview).",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Stream-Oracle-database-changes-into-Microsoft-Fabric-Eventstream/ba-p/5277839\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The Oracle Database CDC source connector for Eventstream (Preview)</a> streams changes from an Oracle database into Fabric as a structured change event with before and after values, using Oracle LogMiner for on-premises or cloud databases running Oracle 12c and later. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-oracle-database-change-data-capture\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Add Oracle Database CDC source to an eventstream (preview)</a>.",
+    "excerpt": "The Oracle Database CDC source connector for Eventstream (Preview) streams changes from an Oracle database into Fabric as a structured change event with before and after values, using Oracle LogMiner for on-premises or cloud databases running Oracle 12c and later. For more information, see Add Oracle Database CDC…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "The Oracle Database CDC source connector for Eventstream (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Stream-Oracle-database-changes-into-Microsoft-Fabric-Eventstream/ba-p/5277839"
+      },
+      {
+        "label": "Add Oracle Database CDC source to an eventstream (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-oracle-database-change-data-capture"
+      }
+    ]
+  },
+  "contentHash": "2ed42514b2fa0f0a836a1011a231a60062a76e9dfae1f3959152d84dab004073",
+  "categories": [
+    "integrations-connectors"
+  ],
+  "primaryCategory": "integrations-connectors",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Stream-Oracle-database-changes-into-Microsoft-Fabric-Eventstream/ba-p/5277839",
+    "backfill": "true"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-49ca9d78-7cd1-f111-a059-0022480a4051",
+  "releaseItemId": "49ca9d78-7cd1-f111-a059-0022480a4051",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Vnode utilization in Query Insights SQL pool insights",
+  "description": "See how much compute your SQL pools use, directly in T-SQL. The queryinsights.sql_pool_insights view now includes vnode utilization for all pools: vnodes_used shows how many vnodes a pool used, max_vnodes_available shows the most it can use, and includes_cache_vnodes shows when vnodes kept warm for read caching are counted. Compare usage to the limit to spot pools that are close to full, check whether slow queries ran during busy periods by joining with queryinsights.exec_requests_history, and decide whether to scale capacity, adjust pool resource settings, or tune queries. Available in Fabric Data Warehouse and SQL analytics endpoints with 30 days of history.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=49ca9d78-7cd1-f111-a059-0022480a4051",
+  "contentHash": "42f99f4762bc71baa06b5256e751af8ffe465142c725d91df91ca95d1be74b2b",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

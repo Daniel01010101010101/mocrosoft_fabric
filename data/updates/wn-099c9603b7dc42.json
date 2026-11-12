@@ -1,0 +1,61 @@
+{
+  "id": "wn-099c9603b7dc42",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/data-science/data-agent-microsoft-copilot-studio",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-science/data-agent-microsoft-copilot-studio",
+  "title": "Fabric Data Agent integration with Azure AI Agent Service (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "We're excited to launch the integration of data agents in Fabric with Azure AI Agent Service from Microsoft Foundry. To get started, see Consume a Fabric Data Agent in Microsoft Copilot Studio (preview). The Fabric data agent SDK is also available in preview.",
+    "html": "We're excited to launch the integration of data agents in Fabric with Azure AI Agent Service from Microsoft Foundry. To get started, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-science/data-agent-microsoft-copilot-studio\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Consume a Fabric Data Agent in Microsoft Copilot Studio (preview)</a>. The <a href=\"https://pypi.org/project/fabric-data-agent-sdk/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric data agent SDK</a> is also available in preview.",
+    "excerpt": "We're excited to launch the integration of data agents in Fabric with Azure AI Agent Service from Microsoft Foundry. To get started, see Consume a Fabric Data Agent in Microsoft Copilot Studio (preview). The Fabric data agent SDK is also available in preview.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Consume a Fabric Data Agent in Microsoft Copilot Studio (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-science/data-agent-microsoft-copilot-studio"
+      },
+      {
+        "label": "Fabric data agent SDK",
+        "url": "https://pypi.org/project/fabric-data-agent-sdk/"
+      }
+    ]
+  },
+  "contentHash": "c2df3ec19a683ff1b219a6680d2f46a692a801c2548cba10326623a6a893d540",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "architects",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

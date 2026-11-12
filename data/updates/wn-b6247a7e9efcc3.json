@@ -1,0 +1,63 @@
+{
+  "id": "wn-b6247a7e9efcc3",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/empowering-businesses-with-smart-capacity-planning-introducing-the-microsoft-fabric-sku-estimator?ft=All",
+  "title": "Fabric SKU estimator (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Microsoft Fabric SKU estimator, now available in preview, is an enhanced version of the previously introduced Microsoft Fabric Capacity Calculator. For more information, see Introducing the Microsoft Fabric SKU estimator (preview) and Mastering SKU Estimations with the Microsoft Fabric SKU Estimator.",
+    "html": "The <a href=\"https://www.microsoft.com/microsoft-fabric/capacity-estimator\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Microsoft Fabric SKU estimator</a>, now available in preview, is an enhanced version of the previously introduced Microsoft Fabric Capacity Calculator. For more information, see <a href=\"https://blog.fabric.microsoft.com/blog/empowering-businesses-with-smart-capacity-planning-introducing-the-microsoft-fabric-sku-estimator?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Introducing the Microsoft Fabric SKU estimator (preview)</a> and <a href=\"https://blog.fabric.microsoft.com/blog/mastering-sku-estimations-with-the-microsoft-fabric-sku-estimator?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Mastering SKU Estimations with the Microsoft Fabric SKU Estimator</a>.",
+    "excerpt": "The Microsoft Fabric SKU estimator, now available in preview, is an enhanced version of the previously introduced Microsoft Fabric Capacity Calculator. For more information, see Introducing the Microsoft Fabric SKU estimator (preview) and Mastering SKU Estimations with the Microsoft Fabric SKU Estimator.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Microsoft Fabric SKU estimator",
+        "url": "https://www.microsoft.com/microsoft-fabric/capacity-estimator"
+      },
+      {
+        "label": "Introducing the Microsoft Fabric SKU estimator (preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/empowering-businesses-with-smart-capacity-planning-introducing-the-microsoft-fabric-sku-estimator?ft=All"
+      },
+      {
+        "label": "Mastering SKU Estimations with the Microsoft Fabric SKU Estimator",
+        "url": "https://blog.fabric.microsoft.com/blog/mastering-sku-estimations-with-the-microsoft-fabric-sku-estimator?ft=All"
+      }
+    ]
+  },
+  "contentHash": "0e439c6548fd4ef405427030f37dce0e9b277138cae992ce9fac373eaf23c3c6",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/empowering-businesses-with-smart-capacity-planning-introducing-the-microsoft-fabric-sku-estimator?ft=All",
+    "backfill": "true"
+  }
+}

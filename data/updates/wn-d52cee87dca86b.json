@@ -1,0 +1,60 @@
+{
+  "id": "wn-d52cee87dca86b",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Using-Custom-SQL-Pools-to-balance-performance-and-cost-in-Fabric/ba-p/5359735",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-warehouse/configure-custom-sql-pools-portal",
+  "title": "Warehouse custom SQL pools (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Using custom SQL pools to balance performance and cost explains how workload routing and pool allocation affect performance, concurrency, and capacity consumption. For more information, see Configure custom SQL pools.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Using-Custom-SQL-Pools-to-balance-performance-and-cost-in-Fabric/ba-p/5359735\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Using custom SQL pools to balance performance and cost</a> explains how workload routing and pool allocation affect performance, concurrency, and capacity consumption. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/configure-custom-sql-pools-portal\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Configure custom SQL pools</a>.",
+    "excerpt": "Using custom SQL pools to balance performance and cost explains how workload routing and pool allocation affect performance, concurrency, and capacity consumption. For more information, see Configure custom SQL pools.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Using custom SQL pools to balance performance and cost",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Using-Custom-SQL-Pools-to-balance-performance-and-cost-in-Fabric/ba-p/5359735"
+      },
+      {
+        "label": "Configure custom SQL pools",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/configure-custom-sql-pools-portal"
+      }
+    ]
+  },
+  "contentHash": "77fe789cd2cd93cd803c38d2558e5a2124d95167aaa368a9b0b725366004d73f",
+  "categories": [
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 55,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Using-Custom-SQL-Pools-to-balance-performance-and-cost-in-Fabric/ba-p/5359735",
+    "backfill": "true"
+  }
+}

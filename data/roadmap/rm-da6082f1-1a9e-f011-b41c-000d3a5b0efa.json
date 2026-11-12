@@ -1,0 +1,23 @@
+{
+  "id": "rm-da6082f1-1a9e-f011-b41c-000d3a5b0efa",
+  "releaseItemId": "da6082f1-1a9e-f011-b41c-000d3a5b0efa",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Pipelines - Support added for schedule parameters",
+  "description": "Hyper-parametrization in Data Factory pipelines enables powerful reusable generic patterns and is very popular in Data Factory. Now with parameter support in schedules you can create schedules that have specific parameter values to create complex execution patterns.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=da6082f1-1a9e-f011-b41c-000d3a5b0efa",
+  "contentHash": "4afebe13fb99ccb981147dae4b71431b4a3c873ae252e901d39aa9cad03e943c",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

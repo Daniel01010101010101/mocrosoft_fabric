@@ -1,0 +1,62 @@
+{
+  "id": "wn-4186649d240c7f",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_29",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/spark-jdbc-driver",
+  "title": "JDBC driver high concurrency (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "JDBC driver high concurrency runs concurrent Spark SQL workloads from Java applications. For more information, see JDBC driver for Fabric Data Engineering.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_29\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">JDBC driver high concurrency</a> runs concurrent Spark SQL workloads from Java applications. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/spark-jdbc-driver\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">JDBC driver for Fabric Data Engineering</a>.",
+    "excerpt": "JDBC driver high concurrency runs concurrent Spark SQL workloads from Java applications. For more information, see JDBC driver for Fabric Data Engineering.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "JDBC driver high concurrency",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_29"
+      },
+      {
+        "label": "JDBC driver for Fabric Data Engineering",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/spark-jdbc-driver"
+      }
+    ]
+  },
+  "contentHash": "6f7406809640cd7e601e825a087221ee4c8006ce88ae053c76136ad5c1698423",
+  "categories": [
+    "data-engineering",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_29"
+  }
+}

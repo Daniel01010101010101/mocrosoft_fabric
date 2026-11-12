@@ -1,0 +1,23 @@
+{
+  "id": "rm-478cfce8-9633-f111-88b4-6045bd0a886d",
+  "releaseItemId": "478cfce8-9633-f111-88b4-6045bd0a886d",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - New destination: Snowflake",
+  "description": "We plan to make the Snowflake Data Destination in Dataflow Gen2 generally available, enabling customers to publish curated, transformed data directly into Snowflake using Fabric’s low‑code data preparation experience.Moving this feature to GA means it is ready for production usage, with the reliability, consistency, and support expectations required for business‑critical workloads.Key benefits and scenarios:* Publish standardized outputs from Dataflow Gen2 directly to Snowflake as part of governed Fabric workflows* Support hybrid and multi‑cloud data architectures while keeping transformation logic centralized in Fabric* Enable teams to use Dataflow Gen2 as a production‑grade ingestion and transformation layer for Snowflake‑based analyticsBy taking the Snowflake Data Destination to GA, we’re making it easier to operationalize end‑to‑end, production‑scale data pipelines across Fabric and Snowflake with confidence.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=478cfce8-9633-f111-88b4-6045bd0a886d",
+  "contentHash": "752e0288bd75fe9e62bb871bb550d22028452fb4edb689c53907b812503c2bb9",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

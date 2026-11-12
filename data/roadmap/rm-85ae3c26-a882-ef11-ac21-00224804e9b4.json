@@ -1,0 +1,23 @@
+{
+  "id": "rm-85ae3c26-a882-ef11-ac21-00224804e9b4",
+  "releaseItemId": "85ae3c26-a882-ef11-ac21-00224804e9b4",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Refresh SQL Analytics Endpoint REST API",
+  "description": "Programmatically trigger a refresh of your SQL analytics endpoint to keep tables in sync with any changes made in the parent item.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=85ae3c26-a882-ef11-ac21-00224804e9b4",
+  "contentHash": "da92487b9f14d91391ed4a96962522dc13203a519f5298d2618d8ea7f5d01c1e",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

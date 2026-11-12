@@ -1,0 +1,61 @@
+{
+  "id": "wn-c493dd1671fd00",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Planning-in-Microsoft-Fabric-From-insight-to-action/ba-p/5369552",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/iq/plan/overview",
+  "title": "Native Planning Engine (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Native Planning Engine (Preview) scales planning models to tens of millions of cells and recalculates dependent values as inputs change. For more information, see Planning in Fabric.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Planning-in-Microsoft-Fabric-From-insight-to-action/ba-p/5369552\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Native Planning Engine (Preview)</a> scales planning models to tens of millions of cells and recalculates dependent values as inputs change. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/iq/plan/overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Planning in Fabric</a>.",
+    "excerpt": "Native Planning Engine (Preview) scales planning models to tens of millions of cells and recalculates dependent values as inputs change. For more information, see Planning in Fabric.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Native Planning Engine (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Planning-in-Microsoft-Fabric-From-insight-to-action/ba-p/5369552"
+      },
+      {
+        "label": "Planning in Fabric",
+        "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/overview"
+      }
+    ]
+  },
+  "contentHash": "0ed6d3763f272aa526f7e638ebdc2ea10728713518b5b74c95ceab0ea3bf477b",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-scientists",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Planning-in-Microsoft-Fabric-From-insight-to-action/ba-p/5369552",
+    "backfill": "true"
+  }
+}

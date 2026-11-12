@@ -1,0 +1,58 @@
+{
+  "id": "az-495145",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=495145",
+  "title": "Generally Available: Upsert and Script activity in data factory in Microsoft Fabric for Azure Database for PostgreSQL",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2025-06-04T16:00:30.984Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "We’re excited to announce the general availability of Upsert method and Script activity support in Microsoft Fabric when using Azure Database for PostgreSQL. This enhancement enables you to perform efficient, scalable, and declarative data transformations directly within your pipelines.\nWith the Upsert method, you can now merge incoming data into existing tables without writing complex logic, reducing overhead and improving performance. The Script activity allows you to execute custom SQL scripts as part of your data workflows, enabling advanced transformations, procedural logic, and fine-grained control over data operations.\nThese capabilities streamline extract, transform, load (ETL) and extract, load, transform (ELT) processes and unlock new flexibility for building robust data integration solutions using Azure Database for PostgreSQL as a source or sink.\nLearn more.",
+    "html": "<p><span><span>We’re</span><span> excited to announce the general availability of </span><span>Upsert</span><span> method and Script activity support in Microsoft Fabric when using Azure Database for PostgreSQL. This enhancement enables </span><span>you </span><span>to perform efficient, scalable, and declarative data transformations directly within </span><span>your </span><span>pipelines.</span></span></p><p><br /></p><p><span><span>With the </span><span>Upsert</span><span> method, you can now merge incoming data into existing tables without writing complex logic, reducing overhead and improving performance. The Script activity allows you to execute custom SQL scripts as part of your data workflows, enabling advanced transformations, procedural logic, and fine-grained control over data operations.</span></span></p><p><br /></p><p><span><span>These capabilities streamline </span><span>e</span><span>xtract</span><span>,</span><span> </span><span>t</span><span>ransform, </span><span>l</span><span>oad </span><span>(</span><span>ETL</span><span>) and e</span><span>xtract, </span><span>l</span><span>oad, </span><span>t</span><span>ransform</span><span> </span><span>(</span><span>ELT</span><span>)</span><span> processes and unlock new flexibility for building robust data integration solutions using Azure Database for PostgreSQL as a source or sink.</span></span></p><p><a rel=\"noopener noreferrer nofollow\" href=\"https://aka.ms/fabric_postgres_upsert_script\" target=\"_blank\"><span><span>Learn more</span></span></a><span><span>.</span></span></p><br />",
+    "excerpt": "We’re excited to announce the general availability of Upsert method and Script activity support in Microsoft Fabric when using Azure Database for PostgreSQL. This enhancement enables you to perform efficient, scalable, and declarative data transformations directly within your pipelines. With the Upsert method, you can…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://aka.ms/fabric_postgres_upsert_script"
+      }
+    ]
+  },
+  "contentHash": "d91b3f86040ede123d938a35e2dc557e6e308e5f4ab6fdc274b8dfeeeecd2286",
+  "categories": [
+    "integrations-connectors",
+    "data-factory"
+  ],
+  "primaryCategory": "integrations-connectors",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 59,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "Launched",
+    "products": "Azure Database for PostgreSQL",
+    "tags": "Features",
+    "gaDate": "2025-06",
+    "modified": "2025-06-04T16:00:30.9848090Z"
+  }
+}

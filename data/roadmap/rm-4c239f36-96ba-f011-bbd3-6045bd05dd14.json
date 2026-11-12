@@ -1,0 +1,23 @@
+{
+  "id": "rm-4c239f36-96ba-f011-bbd3-6045bd05dd14",
+  "releaseItemId": "4c239f36-96ba-f011-bbd3-6045bd05dd14",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Fabric Extensibility Toolkit - Admin Portal Workload Managment",
+  "description": "Introducing Workload Management in the Fabric Admin PortalTenant administrators can now discover and manage Extensibility workloads from a single, centralized experience in the Admin Portal.What's NewManage tab with searchable, filterable workloads tableEach workload has a detail panel for inspection and action, which includes:Consent - Pre-consent the entire tenantManage workload availability in the tenant by capacities and workspaces",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=4c239f36-96ba-f011-bbd3-6045bd05dd14",
+  "contentHash": "2eddef64de23107d88b1fd3c9f4a9a26f30a697005e51337bbd815b7d11f2b61",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

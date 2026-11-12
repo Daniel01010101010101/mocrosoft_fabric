@@ -1,0 +1,56 @@
+{
+  "id": "wn-496edd5824f5cc",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_141",
+  "title": "Oracle CDC initial-load improvements (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.3,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Oracle CDC initial-load improvements improve onboarding performance and scale across multiple source tables.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_141\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Oracle CDC initial-load improvements</a> improve onboarding performance and scale across multiple source tables.",
+    "excerpt": "Oracle CDC initial-load improvements improve onboarding performance and scale across multiple source tables.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Oracle CDC initial-load improvements",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_141"
+      }
+    ]
+  },
+  "contentHash": "88e89d1271dca35e8df7f8004cfe260a9d1b82d98fca6635fa8d5d5366907d70",
+  "categories": [
+    "data-factory",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 59,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_141"
+  }
+}

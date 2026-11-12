@@ -1,0 +1,23 @@
+{
+  "id": "rm-74045e2c-30ba-f011-bbd3-000d3a30273e",
+  "releaseItemId": "74045e2c-30ba-f011-bbd3-000d3a30273e",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Open the multitasking tab in new browser tab",
+  "description": "Allow users toright click on a multitasking tab and open it in a new browser tab, similar to the web browser experience.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=74045e2c-30ba-f011-bbd3-000d3a30273e",
+  "contentHash": "eb94f0d200d6a0b6bed719811354ee264b42cf01ee797733038724cc2d674d6d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

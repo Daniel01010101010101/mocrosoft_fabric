@@ -1,0 +1,73 @@
+{
+  "id": "az-470314",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=470314",
+  "docsUrl": "https://learn.microsoft.com/kusto/query/make-graph-operator?view=microsoft-fabric",
+  "title": "Generally Available: Star pattern and default node identifier in Kusto",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2024-11-22T20:00:49.782Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "We are announcing the general availability of two powerful new features in Kusto Graph Semantics.\nThe star pattern allows users to express nonlinear patterns using comma-delimited sequences, making it particularly useful for describing connections where different sequences share one or more variable names of a node.\nAdditionally, the new approach for defining the default node identifier simplifies the process of creating a graph from a tabular expression of edges. By setting a default node identifier in make-graph, it is readily available for the constraints section of the subsequent graph-match operator. These features are now generally available.\nLearn more:\n• About star pattern in our documentation.\n• About default node identifier in our documentation.\n• Read Azure Data Explorer blog.",
+    "html": "<br /><p><span><span>We are announc</span><span>ing</span><span> the general availability of two powerful new features in</span><span> Kusto Graph Semantics</span><span>. </span></span><span> </span></p><p><span><br /></span></p><p><span><span>The </span></span><span><span>star pattern</span></span><span><span> allows users to express nonlinear patterns using comma-delimited sequences, making it particularly useful for describing connections where different sequences share one or more variable names of a node.</span></span><span> </span></p><p><span><br /></span></p><p><span><span>Additionally, the new approach for defining the </span></span><span><span>default node </span><span>identifier</span></span><span><span> simplifies the process of creating a graph from a tabular expression of edges. By setting a default node </span><span>identifier in </span></span><a rel=\"noopener noreferrer nofollow\" href=\"https://learn.microsoft.com/kusto/query/make-graph-operator?view=microsoft-fabric\" target=\"_blank\"><span><span>make-graph</span></span></a><span><span>, </span><span>it is </span><span>readily available for the constraints section of the subsequent </span></span><a rel=\"noopener noreferrer nofollow\" href=\"https://learn.microsoft.com/kusto/query/graph-match-operator?view=microsoft-fabric\" target=\"_blank\"><span><span>graph-match</span></span></a><span><span> operator</span><span>.</span></span><span> <span>These features are now generally available</span><span>.</span></span></p><p><span><br /></span></p><p><span>Learn more:</span></p><p><span></span></p><ul><li><p><span><span>A</span><span>bout </span></span><a rel=\"noopener noreferrer nofollow\" href=\"https://learn.microsoft.com/kusto/query/graph-match-operator?view=microsoft-fabric#star-pattern\" target=\"_blank\"><span><span>star pattern</span></span></a><span><span> </span><span>in our documentation.</span></span><span> </span></p></li><li><p><span><span>A</span><span>bout </span></span><a rel=\"noopener noreferrer nofollow\" href=\"https://learn.microsoft.com/kusto/query/make-graph-operator?view=microsoft-fabric#default-node-identifier\" target=\"_blank\"><span><span>default node identifier</span></span></a><span><span> in our documentation.</span></span><span> </span></p></li><li><p><span><span>Read </span></span><a rel=\"noopener noreferrer nofollow\" href=\"https://techcommunity.microsoft.com/blog/azuredataexplorer/exploring-the-new-kraph-features-unlocking-powerful-patterns-and-operations/4291651\" target=\"_blank\"><span><span>Azure Data Explorer</span></span></a><span><span> blog.</span></span><span> </span></p></li></ul><br /><p></p>",
+    "excerpt": "We are announcing the general availability of two powerful new features in Kusto Graph Semantics. The star pattern allows users to express nonlinear patterns using comma-delimited sequences, making it particularly useful for describing connections where different sequences share one or more variable names of a node.…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "make-graph",
+        "url": "https://learn.microsoft.com/kusto/query/make-graph-operator?view=microsoft-fabric"
+      },
+      {
+        "label": "graph-match",
+        "url": "https://learn.microsoft.com/kusto/query/graph-match-operator?view=microsoft-fabric"
+      },
+      {
+        "label": "star pattern",
+        "url": "https://learn.microsoft.com/kusto/query/graph-match-operator?view=microsoft-fabric#star-pattern"
+      },
+      {
+        "label": "default node identifier",
+        "url": "https://learn.microsoft.com/kusto/query/make-graph-operator?view=microsoft-fabric#default-node-identifier"
+      },
+      {
+        "label": "Azure Data Explorer",
+        "url": "https://techcommunity.microsoft.com/blog/azuredataexplorer/exploring-the-new-kraph-features-unlocking-powerful-patterns-and-operations/4291651"
+      }
+    ]
+  },
+  "contentHash": "f756ced2acc7177005584593153047b3d9f469765788ab63a2bfc24ae4e6c6ba",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "Launched",
+    "products": "Azure Data Explorer, Microsoft Fabric",
+    "tags": "Features",
+    "gaDate": "2024-11",
+    "modified": "2024-11-22T20:00:49.7826157Z"
+  }
+}

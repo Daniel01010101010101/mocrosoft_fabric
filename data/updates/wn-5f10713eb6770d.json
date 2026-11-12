@@ -1,0 +1,62 @@
+{
+  "id": "wn-5f10713eb6770d",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-governed-analytics-into-the-flow-of-work-Fabric/ba-p/5368918",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/iq/connectors/microsoft-365-copilot-overview",
+  "title": "Fabric IQ in Microsoft 365 Copilot (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric IQ in Microsoft 365 Copilot Chat and Copilot Cowork answers business questions with governed Power BI reports and semantic models. For more information, see Fabric IQ in Microsoft 365 Copilot.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-governed-analytics-into-the-flow-of-work-Fabric/ba-p/5368918\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric IQ in Microsoft 365 Copilot Chat and Copilot Cowork</a> answers business questions with governed Power BI reports and semantic models. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/iq/connectors/microsoft-365-copilot-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric IQ in Microsoft 365 Copilot</a>.",
+    "excerpt": "Fabric IQ in Microsoft 365 Copilot Chat and Copilot Cowork answers business questions with governed Power BI reports and semantic models. For more information, see Fabric IQ in Microsoft 365 Copilot.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric IQ in Microsoft 365 Copilot Chat and Copilot Cowork",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-governed-analytics-into-the-flow-of-work-Fabric/ba-p/5368918"
+      },
+      {
+        "label": "Fabric IQ in Microsoft 365 Copilot",
+        "url": "https://learn.microsoft.com/en-us/fabric/iq/connectors/microsoft-365-copilot-overview"
+      }
+    ]
+  },
+  "contentHash": "c9f48e3497757c28ee4c2cc2fc6513bd55ed5e5215e7b998722ab7471736f706",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "data-scientists",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-governed-analytics-into-the-flow-of-work-Fabric/ba-p/5368918"
+  }
+}

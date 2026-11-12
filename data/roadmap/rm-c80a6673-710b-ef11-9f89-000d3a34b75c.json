@@ -1,0 +1,23 @@
+{
+  "id": "rm-c80a6673-710b-ef11-9f89-000d3a34b75c",
+  "releaseItemId": "c80a6673-710b-ef11-9f89-000d3a34b75c",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "GitHub and GitHub Enterprise support",
+  "description": "Fabric Git integration is broadening its compatibility by adding support for GitHub as a provider. Given GitHub's widespread adoption as a leading source control tool, this expansion will grant organizations relying on GitHub the opportunity to harness Fabric Git integration, ensuring synchronization between their fabric workspaces and Git repositories. GitHub will come in the addition to the existing Azure DevOps support, offering all of the same familiar tools and capabilities. Developers will have the ability to connect to GiHub using their personal access tokens, ensuring a precise connection for each developer. GitHub Enterprise Cloud will also be supported, excluding the use of specific allowed IP adresses and private links.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2024",
+  "releaseQuarterStart": "2024-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=c80a6673-710b-ef11-9f89-000d3a34b75c",
+  "contentHash": "173b4163016c6c93a289c30706865ffb1d3119e8be2c2c3537ddb6ed1576c84a",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

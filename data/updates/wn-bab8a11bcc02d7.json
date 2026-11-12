@@ -1,0 +1,60 @@
+{
+  "id": "wn-bab8a11bcc02d7",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Secure-Azure-Event-Hubs-Connections-in-Eventstream-with/ba-p/5359945",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-azure-event-hubs?pivots=extended-features",
+  "title": "Azure Event Hubs source workspace identity authentication (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Azure Event Hubs source workspace identity authentication lets an Eventstream Azure Event Hubs source use workspace identity instead of shared access keys for Microsoft Entra ID-based access. For more information, see Add an Azure Event Hubs source to an eventstream.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Secure-Azure-Event-Hubs-Connections-in-Eventstream-with/ba-p/5359945\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Azure Event Hubs source workspace identity authentication</a> lets an Eventstream Azure Event Hubs source use workspace identity instead of shared access keys for Microsoft Entra ID-based access. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-azure-event-hubs?pivots=extended-features\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Add an Azure Event Hubs source to an eventstream</a>.",
+    "excerpt": "Azure Event Hubs source workspace identity authentication lets an Eventstream Azure Event Hubs source use workspace identity instead of shared access keys for Microsoft Entra ID-based access. For more information, see Add an Azure Event Hubs source to an eventstream.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Azure Event Hubs source workspace identity authentication",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Secure-Azure-Event-Hubs-Connections-in-Eventstream-with/ba-p/5359945"
+      },
+      {
+        "label": "Add an Azure Event Hubs source to an eventstream",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-azure-event-hubs?pivots=extended-features"
+      }
+    ]
+  },
+  "contentHash": "005883dc06f5433c640dcf7d981f7cc8f37fd7baccae30ec747dfcd16523e104",
+  "categories": [
+    "real-time-intelligence",
+    "security",
+    "admin-governance"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Secure-Azure-Event-Hubs-Connections-in-Eventstream-with/ba-p/5359945",
+    "backfill": "true"
+  }
+}

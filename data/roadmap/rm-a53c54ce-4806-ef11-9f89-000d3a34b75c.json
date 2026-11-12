@@ -1,0 +1,23 @@
+{
+  "id": "rm-a53c54ce-4806-ef11-9f89-000d3a34b75c",
+  "releaseItemId": "a53c54ce-4806-ef11-9f89-000d3a34b75c",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Recommended task flow for Power BI workspaces",
+  "description": "With a single click, you can create the recommended task flows for your Power BI workspaces, which only contain Power BI items in it. Creating task flow automatically assigns each item in your workspace to the relevant tasks. This allows you to view the relationships between tasks, filter the list of item types, and more easily locate, organize, and manage the items you created.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=a53c54ce-4806-ef11-9f89-000d3a34b75c",
+  "contentHash": "4f2f919e59e5afec8e7f10d468106a2f7a32da70d123f3daa14f824e9b640870",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

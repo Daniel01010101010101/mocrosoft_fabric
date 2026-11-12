@@ -1,0 +1,23 @@
+{
+  "id": "rm-21a906cd-8603-ef11-a1fd-000d3a34b75c",
+  "releaseItemId": "21a906cd-8603-ef11-a1fd-000d3a34b75c",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "VSCode Satellite Extension for User Data Functions in Fabric",
+  "description": "The VSCode Satellite extensionn for User Data Functions will provide developer support (editing, building, debugging, publishing) for User Data Functions in Fabric.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=21a906cd-8603-ef11-a1fd-000d3a34b75c",
+  "contentHash": "f75843a37ca796ccd7d862cb483be32e6e6df54cb71c755cc869b3fdfe6152e2",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

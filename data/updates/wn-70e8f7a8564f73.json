@@ -1,0 +1,61 @@
+{
+  "id": "wn-70e8f7a8564f73",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/result-set-caching-preview-for-microsoft-fabric?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-warehouse/result-set-caching",
+  "title": "Result set caching",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Result set caching works by persisting the final result sets for applicable SELECT T-SQL queries, bypassing complex compilation and data processing of the original query to return queries faster. To learn more, review the preview announcement at Result Set Caching for Microsoft Fabric Data Warehouse. Result set caching is enabled by default.",
+    "html": "<a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/result-set-caching\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Result set caching</a> works by persisting the final result sets for applicable <code>SELECT</code> T-SQL queries, bypassing complex compilation and data processing of the original query to return queries faster. To learn more, review the preview announcement at <a href=\"https://blog.fabric.microsoft.com/blog/result-set-caching-preview-for-microsoft-fabric?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Result Set Caching for Microsoft Fabric Data Warehouse</a>. Result set caching is enabled by default.",
+    "excerpt": "Result set caching works by persisting the final result sets for applicable SELECT T-SQL queries, bypassing complex compilation and data processing of the original query to return queries faster. To learn more, review the preview announcement at Result Set Caching for Microsoft Fabric Data Warehouse. Result set…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Result set caching",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/result-set-caching"
+      },
+      {
+        "label": "Result Set Caching for Microsoft Fabric Data Warehouse",
+        "url": "https://blog.fabric.microsoft.com/blog/result-set-caching-preview-for-microsoft-fabric?ft=All"
+      }
+    ]
+  },
+  "contentHash": "c816af7ebbb5c9277b24983cddd8f19c9c161118b9cf5d981f70cd845047735d",
+  "categories": [
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 59,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/result-set-caching-preview-for-microsoft-fabric?ft=All"
+  }
+}

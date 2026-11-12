@@ -1,0 +1,61 @@
+{
+  "id": "wn-91245855e1a422",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_157",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-factory/dataflows-gen2-monitor",
+  "title": "Dataflow diagnostics download (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Dataflow diagnostics download provides structured run logs for troubleshooting and support. For more information, see Monitor Dataflow Gen2.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_157\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Dataflow diagnostics download</a> provides structured run logs for troubleshooting and support. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/dataflows-gen2-monitor\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Monitor Dataflow Gen2</a>.",
+    "excerpt": "Dataflow diagnostics download provides structured run logs for troubleshooting and support. For more information, see Monitor Dataflow Gen2.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Dataflow diagnostics download",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_157"
+      },
+      {
+        "label": "Monitor Dataflow Gen2",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/dataflows-gen2-monitor"
+      }
+    ]
+  },
+  "contentHash": "ce24bea70c8900e7c88a5c931739efbe8caf05d7507e9400ac6597e6d3e5a81a",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_157"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "wn-d073ac3a5831d1",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_61",
+  "title": "Eventstream custom connector (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Eventstream custom connector (Preview) adds proprietary or unsupported streaming sources through an extensible connector framework. For more information, see Custom stream connector.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_61\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Eventstream custom connector (Preview)</a> adds proprietary or unsupported streaming sources through an extensible connector framework. For more information, see <a href=\"https://aka.ms/eventstream/customConnector\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Custom stream connector</a>.",
+    "excerpt": "Eventstream custom connector (Preview) adds proprietary or unsupported streaming sources through an extensible connector framework. For more information, see Custom stream connector.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Eventstream custom connector (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_61"
+      },
+      {
+        "label": "Custom stream connector",
+        "url": "https://aka.ms/eventstream/customConnector"
+      }
+    ]
+  },
+  "contentHash": "674d0208cb92d92b57440c3ebc170eca5ec742c95029ae9e1dfc23506a82de88",
+  "categories": [
+    "integrations-connectors",
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "integrations-connectors",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_61"
+  }
+}

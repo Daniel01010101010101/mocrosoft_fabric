@@ -1,0 +1,23 @@
+{
+  "id": "rm-776373e0-87fb-ef11-be20-6045bd09ddd1",
+  "releaseItemId": "776373e0-87fb-ef11-be20-6045bd09ddd1",
+  "product": "SQL database",
+  "productId": "347da228-ea54-ef11-a317-0022480a694f",
+  "category": "databases",
+  "name": "SQL Backup billing",
+  "description": "This release is for backup billing for SQL database in Fabric. We intend to start charging for this starting April 1st 2025.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=776373e0-87fb-ef11-be20-6045bd09ddd1",
+  "contentHash": "1d446ae6f984de563d3da4885f9a11cfb891664d028148ff79f32f2ca2cf7ae1",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

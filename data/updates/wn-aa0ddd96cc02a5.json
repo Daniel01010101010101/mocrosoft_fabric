@@ -1,0 +1,60 @@
+{
+  "id": "wn-aa0ddd96cc02a5",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_161",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-data-destinations-and-managed-settings",
+  "title": "Dataflow dynamic warehouse schema (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Dynamic warehouse destination schemas (Preview) evolve destination tables when Dataflow Gen2 query output changes. For more information, see Data destination schema options.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_161\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Dynamic warehouse destination schemas (Preview)</a> evolve destination tables when Dataflow Gen2 query output changes. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-data-destinations-and-managed-settings\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Data destination schema options</a>.",
+    "excerpt": "Dynamic warehouse destination schemas (Preview) evolve destination tables when Dataflow Gen2 query output changes. For more information, see Data destination schema options.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Dynamic warehouse destination schemas (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_161"
+      },
+      {
+        "label": "Data destination schema options",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-data-destinations-and-managed-settings"
+      }
+    ]
+  },
+  "contentHash": "cba8f4122f61657dda9d7d821355aa3aeb31c0c78397174069e3b7745446af34",
+  "categories": [
+    "data-factory",
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_161"
+  }
+}

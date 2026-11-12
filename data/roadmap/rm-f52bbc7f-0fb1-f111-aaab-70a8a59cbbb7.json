@@ -1,0 +1,23 @@
+{
+  "id": "rm-f52bbc7f-0fb1-f111-aaab-70a8a59cbbb7",
+  "releaseItemId": "f52bbc7f-0fb1-f111-aaab-70a8a59cbbb7",
+  "product": "SQL database",
+  "productId": "347da228-ea54-ef11-a317-0022480a694f",
+  "category": "databases",
+  "name": "Vector Index & Search",
+  "description": "# Generally Available: Vector Search and Vector Indexes in Azure SQL Vector Search and Vector Indexes are now generally available in Azure SQL Database. Using the [CREATE VECTOR INDEX](https://learn.microsoft.com/sql/t-sql/statements/create-vector-index-transact-sql?view=sql-server-ver17) and [VECTOR_SEARCH](https://learn.microsoft.com/sql/t-sql/functions/vector-search-transact-sql?view=sql-server-ver17) T-SQL capabilities, you can perform efficient approximate nearest neighbor (ANN) searches for AI scenarios such as semantic search, retrieval-augmented generation (RAG), recommendation systems, and image search. Built on the DiskANN algorithm, Vector Indexes enable efficient vector similarity search over large datasets while allowing you to combine vector search with relational queries and filtering directly in Azure SQL Database.By bringing AI retrieval directly into Azure SQL Database, you can build AI-powered applications on your enterprise data without requiring a separate vector database, simplifying application architecture while leveraging the reliability, security, and governance capabilities of Azure SQL Database.**Learn more:** [Vector Search & Vector Indexes documentation](https://learn.microsoft.com/sql/sql-server/ai/vectors?view=sql-server-ver17)",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=f52bbc7f-0fb1-f111-aaab-70a8a59cbbb7",
+  "contentHash": "f609273eb887b7d12ccd78e0294df2af129d3e727f06f4387abac2ed23d54951",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

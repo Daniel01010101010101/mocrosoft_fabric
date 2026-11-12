@@ -1,0 +1,23 @@
+{
+  "id": "rm-6754378c-e14a-f111-bec7-6045bd0a8ec1",
+  "releaseItemId": "6754378c-e14a-f111-bec7-6045bd0a8ec1",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Find Fabric items and tables from Copilot CLI with OneLake Catalog",
+  "description": "As part of Skills for Fabric, AI coding assistants like GitHub Copilot can discover Fabric items and tables. Developers can find existing, governed data before writing code, enabling a \"find before you build\" workflow that bridges AI tools and Fabric's enterprise data platform.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=6754378c-e14a-f111-bec7-6045bd0a8ec1",
+  "contentHash": "55667399fb598e6472180e3a008e2e3257d0f957518eab260ecdce4c7d84409a",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

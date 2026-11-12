@@ -1,0 +1,23 @@
+{
+  "id": "rm-511823c2-744d-f111-bec7-002248085b3f",
+  "releaseItemId": "511823c2-744d-f111-bec7-002248085b3f",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "SQL Analytics Endpoint - New Metadata sync",
+  "description": "New version of the metadata sync for SQL analytics endpoint built on a new architecture. This delivers,- Data refresh in seconds, not minutes- Ability to turn on this feature for a workspace- Support for v2 checkpoints (at GA)- Multiple performance improvements- Upgrade existing SQL Analytics Endpoints to new metadata sync (at GA)",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=511823c2-744d-f111-bec7-002248085b3f",
+  "contentHash": "a44e7f906ab222c6c0141dabb6670272519eee0aaa6cfa12bb151f36ebd10012",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

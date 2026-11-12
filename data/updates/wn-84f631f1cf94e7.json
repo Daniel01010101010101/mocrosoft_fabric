@@ -1,0 +1,63 @@
+{
+  "id": "wn-84f631f1cf94e7",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Get-tenant-wide-visibility-into-workspace-networking-policies/ba-p/5361690",
+  "docsUrl": "https://learn.microsoft.com/en-us/rest/api/fabric/admin/workspaces/list-networking-communication-policies",
+  "title": "Fabric networking communication policies Admin API (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.81,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The List Networking Communication Policies Admin API provides a tenant-wide, paginated view of workspace inbound and outbound networking policies. For more information, see List Networking Communication Policies.",
+    "html": "The <a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Get-tenant-wide-visibility-into-workspace-networking-policies/ba-p/5361690\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">List Networking Communication Policies Admin API</a> provides a tenant-wide, paginated view of workspace inbound and outbound networking policies. For more information, see <a href=\"https://learn.microsoft.com/en-us/rest/api/fabric/admin/workspaces/list-networking-communication-policies\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">List Networking Communication Policies</a>.",
+    "excerpt": "The List Networking Communication Policies Admin API provides a tenant-wide, paginated view of workspace inbound and outbound networking policies. For more information, see List Networking Communication Policies.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "List Networking Communication Policies Admin API",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Get-tenant-wide-visibility-into-workspace-networking-policies/ba-p/5361690"
+      },
+      {
+        "label": "List Networking Communication Policies",
+        "url": "https://learn.microsoft.com/en-us/rest/api/fabric/admin/workspaces/list-networking-communication-policies"
+      }
+    ]
+  },
+  "contentHash": "394dee2a7af0c57da029eca3bba2817d2a2203fb5eef99cd8426289db74dbefe",
+  "categories": [
+    "security",
+    "admin-governance",
+    "developer-apis"
+  ],
+  "primaryCategory": "security",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Get-tenant-wide-visibility-into-workspace-networking-policies/ba-p/5361690"
+  }
+}

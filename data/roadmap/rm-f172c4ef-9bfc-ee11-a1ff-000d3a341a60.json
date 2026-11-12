@@ -1,0 +1,23 @@
+{
+  "id": "rm-f172c4ef-9bfc-ee11-a1ff-000d3a341a60",
+  "releaseItemId": "f172c4ef-9bfc-ee11-a1ff-000d3a341a60",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Balance user queries with query scale-out GA",
+  "description": "Query scale-out is a Power BI Premium feature that load balances user queries across multiple dataset read replicas in a pool of Power BI Premium nodes. Essentially, it speeds up query response times for high user-concurrency workloads. Additionally, dataset refresh operations benefit from increased isolation from the read replicas that protect user queries and improve performance.The management of query scale-out in Power BI is highly automated compared to other platforms, such as Azure Analysis Services. Also, adding and removing read replicas is performed dynamically based on live usage.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2023",
+  "releaseQuarterStart": "2023-10-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=f172c4ef-9bfc-ee11-a1ff-000d3a341a60",
+  "contentHash": "1a48ac8b10e9886c0174a0280e8486d58a74afc9ada5e4e81ddce37b098a1abe",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

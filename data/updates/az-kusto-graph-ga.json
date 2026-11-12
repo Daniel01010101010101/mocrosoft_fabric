@@ -1,0 +1,62 @@
+{
+  "id": "az-kusto-graph-ga",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=kusto-graph-ga",
+  "title": "Announcing General Availability of Graph Semantics in Kusto",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2024-05-27T16:00:02.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "We are thrilled to announce that the Graph Semantics extension to Kusto, the powerful database engine behind Fabric Real-Time Intelligence, Azure Data Explorer (ADX) and more, is now generally available! Based on the valuable user feedback, we made it ready for production use.\nNow that the graph semantics extension is generally available, we encourage all users to integrate this powerful tool into their data analysis workflows. Whether you're looking to enhance your understanding of complex datasets or uncover hidden patterns in your data, the graph semantics extension offers a robust framework for achieving these goals.\nLearn more in our docs and play the Kusto Detective Agency Season 2 (powered by AMD). Please provide feedback.",
+    "html": "<p>We are thrilled to announce that the Graph Semantics extension to Kusto, the powerful database engine behind Fabric Real-Time Intelligence, Azure Data Explorer (ADX) and more, is now generally available! Based on the valuable user feedback, we made it ready for production use.</p>\n\n<p>Now that the graph semantics extension is generally available, we encourage all users to integrate this powerful tool into their data analysis workflows. Whether you're looking to enhance your understanding of complex datasets or uncover hidden patterns in your data, the graph semantics extension offers a robust framework for achieving these goals.</p>\n\n<p><a href=\"https://aka.ms/kusto/graph-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Learn more</a> in our docs and play the <a href=\"https://detective.kusto.io/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Kusto Detective Agency Season 2</a> (powered by AMD). Please provide <a href=\"https://aka.ms/kusto/graph-feedback\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">feedback</a>.</p>\n",
+    "excerpt": "We are thrilled to announce that the Graph Semantics extension to Kusto, the powerful database engine behind Fabric Real-Time Intelligence, Azure Data Explorer (ADX) and more, is now generally available! Based on the valuable user feedback, we made it ready for production use. Now that the graph semantics extension is…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://aka.ms/kusto/graph-overview"
+      },
+      {
+        "label": "Kusto Detective Agency Season 2",
+        "url": "https://detective.kusto.io/"
+      },
+      {
+        "label": "feedback",
+        "url": "https://aka.ms/kusto/graph-feedback"
+      }
+    ]
+  },
+  "contentHash": "4829cb1740d58e1400c1309c9db056bda7c1ec7f81d0542f4025ff8a33a491cd",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 59,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "Launched",
+    "products": "Azure Data Explorer, Azure Synapse Analytics, Microsoft Fabric",
+    "tags": "Features",
+    "gaDate": "2024-05",
+    "modified": "2024-05-27T16:00:02.0000000Z"
+  }
+}

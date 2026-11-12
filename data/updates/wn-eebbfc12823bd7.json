@@ -1,0 +1,61 @@
+{
+  "id": "wn-eebbfc12823bd7",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/associated-identities-for-items-preview?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/rest/api/fabric/articles/item-management/associate-item-identity",
+  "title": "Associate an identity for items (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Associated identities for items (Preview) let you associate a user, service principal, or managed identity with Fabric Lakehouses and Eventstreams via REST API, removing the dependency on the item owner. For more information, see Manage identities associated with Fabric items.",
+    "html": "<a href=\"https://blog.fabric.microsoft.com/blog/associated-identities-for-items-preview?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Associated identities for items (Preview)</a> let you associate a user, service principal, or managed identity with Fabric Lakehouses and Eventstreams via REST API, removing the dependency on the item owner. For more information, see <a href=\"https://learn.microsoft.com/en-us/rest/api/fabric/articles/item-management/associate-item-identity\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Manage identities associated with Fabric items</a>.",
+    "excerpt": "Associated identities for items (Preview) let you associate a user, service principal, or managed identity with Fabric Lakehouses and Eventstreams via REST API, removing the dependency on the item owner. For more information, see Manage identities associated with Fabric items.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Associated identities for items (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/associated-identities-for-items-preview?ft=All"
+      },
+      {
+        "label": "Manage identities associated with Fabric items",
+        "url": "https://learn.microsoft.com/en-us/rest/api/fabric/articles/item-management/associate-item-identity"
+      }
+    ]
+  },
+  "contentHash": "ce0b0052fa4f593f0625d34e8dd036886e7be62325c3b7a135ed45bf2b9419de",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/associated-identities-for-items-preview?ft=All",
+    "backfill": "true"
+  }
+}

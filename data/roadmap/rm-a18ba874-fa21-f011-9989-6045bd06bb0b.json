@@ -1,0 +1,23 @@
+{
+  "id": "rm-a18ba874-fa21-f011-9989-6045bd06bb0b",
+  "releaseItemId": "a18ba874-fa21-f011-9989-6045bd06bb0b",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Copy Job - VNET Gateway Support",
+  "description": "Customers can use VNet Gateway in production for Copy Job artifacts. We shipped public preview of this capability at FabCon US (March 2025) and will deliver GA by end of September.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=a18ba874-fa21-f011-9989-6045bd06bb0b",
+  "contentHash": "41fc434bbba4dcad850c34f6e249f6dd8f80aae3511f389252e1e90511b69016",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

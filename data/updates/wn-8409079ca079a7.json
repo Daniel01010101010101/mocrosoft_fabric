@@ -1,0 +1,59 @@
+{
+  "id": "wn-8409079ca079a7",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_77",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/overview",
+  "title": "Large Eventstream and Eventhouse messages (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Large message support (Preview) ingests richer event payloads through Eventstream and Eventhouse. For more information, see Eventstream overview.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_77\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Large message support (Preview)</a> ingests richer event payloads through Eventstream and Eventhouse. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Eventstream overview</a>.",
+    "excerpt": "Large message support (Preview) ingests richer event payloads through Eventstream and Eventhouse. For more information, see Eventstream overview.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Large message support (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_77"
+      },
+      {
+        "label": "Eventstream overview",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/overview"
+      }
+    ]
+  },
+  "contentHash": "2aa263b7b52864b85c6472ed12abdb77e0b7db30c197fa5c562a7b0d42b3852b",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_77"
+  }
+}

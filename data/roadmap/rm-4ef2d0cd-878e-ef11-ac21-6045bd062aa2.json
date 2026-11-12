@@ -1,0 +1,23 @@
+{
+  "id": "rm-4ef2d0cd-878e-ef11-ac21-6045bd062aa2",
+  "releaseItemId": "4ef2d0cd-878e-ef11-ac21-6045bd062aa2",
+  "product": "SQL database",
+  "productId": "347da228-ea54-ef11-a317-0022480a694f",
+  "category": "databases",
+  "name": "Git integration",
+  "description": "A SQL Database in Microsoft Fabric has source control integration, or \"git integration\", allowing SQL users to can track the definitions of their database objects over time and across a team:* The team can commit the database to source control, which automatically converts the live database into code in the configured source control repository (Azure DevOps).* The team can update database objects from the contents of source control, which validates the code in Azure DevOps before applying a differential change to the database.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=4ef2d0cd-878e-ef11-ac21-6045bd062aa2",
+  "contentHash": "b0adeadc3db43900ed64cc6d6e5a477c3f3d7fe4ef052ef21607bd0f7a891c02",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-f0bba2db-2fc7-ee11-9079-000d3a3419a8",
+  "releaseItemId": "f0bba2db-2fc7-ee11-9079-000d3a3419a8",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Private Link support at a tenant Level",
+  "description": "Organizations can enhance security by using private links, allowing users in their tenant to access Microsoft Fabric securely. This setup uses Azure Private Link and Azure Networking private endpoints to ensure data traffic travels privately via Microsoft's backbone network, instead if using public endpoints. The Private Link capability at the tenant level will expand from Power BI to other workloads in phases. Once Azure Private Link is configured and public internet access is restricted, all the supported scenarios for that Fabric tenant will be routed through private links.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=f0bba2db-2fc7-ee11-9079-000d3a3419a8",
+  "contentHash": "311ec2662010da7236dcec992bc748f45a36f25aed7c1213f225a3823c1e2ea2",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-d573bd24-ee7e-f111-ab0f-6045bd08179b",
+  "releaseItemId": "d573bd24-ee7e-f111-ab0f-6045bd08179b",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Gateways - Soft delete for gateways",
+  "description": "We are introducing user-facing soft delete for on-premises data gateways, giving administrators a safety net when gateways are removed.Accidental or premature deletion of a gateway can disrupt data refreshes and reports. With this update, administrators can:- Recover recently deleted gateways within a retention window.- Restore gateway configurations without recreating them from scratch.- Reduce the impact of accidental deletions on business-critical connectivity.This helps organizations protect against accidental loss of gateway configurations and maintain continuity.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=d573bd24-ee7e-f111-ab0f-6045bd08179b",
+  "contentHash": "195d8a0bb4bf507bed7e230546e09e96c08b2ae34f2805c3d5c49c464e58eff1",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

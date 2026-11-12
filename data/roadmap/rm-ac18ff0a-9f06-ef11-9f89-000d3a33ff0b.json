@@ -1,0 +1,23 @@
+{
+  "id": "rm-ac18ff0a-9f06-ef11-9f89-000d3a33ff0b",
+  "releaseItemId": "ac18ff0a-9f06-ef11-9f89-000d3a33ff0b",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "dbt job - New dbt job support in Fabric",
+  "description": "dbt job introduces native authoring and operationalization of dbt workflows within Microsoft Fabric, eliminating the need for external orchestration tools. This feature enables customers to build, schedule, and manage dbt SQL transformations in Fabric Data Warehouse and external data wareshouses, streamlining data transformation processes and improving productivity.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=ac18ff0a-9f06-ef11-9f89-000d3a33ff0b",
+  "contentHash": "f8b5bac65f5904b12820b7f86ea7f8fea0251786dc5a1c4ec43fc6897d113b86",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

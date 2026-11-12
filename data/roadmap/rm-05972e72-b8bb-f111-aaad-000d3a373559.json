@@ -1,0 +1,23 @@
+{
+  "id": "rm-05972e72-b8bb-f111-aaad-000d3a373559",
+  "releaseItemId": "05972e72-b8bb-f111-aaad-000d3a373559",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Azure Maps geocoding auditor",
+  "description": "Show information about how Azure Maps converted your location to the map, called geocoding, when you are editing your Power BI report.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=05972e72-b8bb-f111-aaad-000d3a373559",
+  "contentHash": "bb6ffdbafdb0005730d0e1771d892c3bdd489ce2be1d132dddcd78cb0ddb64f2",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "cm-5391262",
+  "kind": "blog",
+  "source": "fabric-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/OneLake-table-APIs-Now-with-Iceberg-writes-plus-richer-table/ba-p/5391262",
+  "docsUrl": "https://learn.microsoft.com/fabric/onelake/table-apis/table-apis-overview",
+  "title": "OneLake table APIs: Now with Iceberg writes, plus richer table metadata (Preview)",
+  "author": "MattH_OneLake",
+  "originalLanguage": "en",
+  "languageConfidence": 0.97,
+  "publishedAt": "2026-11-04T20:00:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "OneLake table APIs already let Iceberg-compatible engines discover and read tables in Microsoft Fabric. Today we're taking the next step with two additions: Iceberg REST Catalog (IRC) writes through the OneLake table endpoint, now available, and a new additional table metadata API, in preview, for adding descriptions and tags to tables and columns. Together, they make OneLake a place where any engine can not only read data, but also publish it, with the business context people and AI agents need to use it well.\nWrite native Iceberg tables from the engines you already use\nUntil now, the OneLake Iceberg endpoint supported read-only metadata operations. Now, IRC-compatible clients can create native Iceberg tables, commit new snapshots, and request short-lived storage credentials through the same endpoint they already use for reads. That means engines such as PyIceberg, Snowflake, and DuckDB can land results directly in OneLake using standard Iceberg tooling, with no custom connectors or copy jobs.\nSome of the supported Iceberg REST Catalog operations at the OneLake table endpoint include:\nOperation\nWhat it does\nStatus\nList/get/check namespaces\nDiscovers the schemas in a data item\nAvailable\nList/get/check tables\nDiscovers tables and returns their Iceberg metadata\nAvailable\nCreate table\nCreates a native Iceberg table in a schema\nNew!\nCommit table updates\nCommits new snapshots and metadata changes to a native Iceberg table\nNew!\nDrop table\nRemoves a table and its data from OneLake\nNew!\nLoad table credentials\nReturns short-lived storage credentials for a table (credential vending)\nNew!\nWrites are built for multi-engine environments. Commits use optimistic concurrency checks, so a conflicting update fails instead of silently overwriting a newer table state. Credential vending lets clients write data files without managing separate storage access. And because the tables live in OneLake, they're immediately discoverable by every tool connected to the catalog.\nMany industry partners are already building on this feature. Snowflake supports the OneLake table APIs through the catalog-linked database feature, which automatically discovers schemas and tables in a Fabric data item, so Snowflake users can read, create, and write Iceberg tables in OneLake. ClickHouse also announced that it now writes Iceberg tables directly to OneLake using these APIs.\nAdd business context to tables and columns\nData is only as useful as people's understanding of it. The new additional table metadata API (preview) lets you read and write descriptions and key-value tags for a table and its columns, for example to explain a table's business purpose, record its owning team, or describe how to interpret a column. It uses one common REST route, so you don't need a format-specific catalog API to do it.\nIt also works through internal OneLake shortcuts: updates apply to the target table, so everyone sees the same context whether they read through the shortcut or the source.\nExplore more in the OneLake documentation\nCheck out our documentation for more information. This includes end-to-end samples, from configuring PyIceberg, Snowflake, and DuckDB for writes and credential vending to a Python sample that updates table metadata safely. Start with the following resources:\n• OneLake table APIs overview\n• OneLake Iceberg metadata API\n• Iceberg table API samples\n• Read and write additional table metadata (preview)\nWe want your feedback!\nStart writing Iceberg tables to OneLake and try the additional table metadata preview today and share your experience with us.\nHave feedback? Share your ideas and vote at the Fabric Ideas site and join the conversation in the Microsoft Fabric Community.",
+    "html": "<p>OneLake table APIs already let Iceberg-compatible engines discover and read tables in Microsoft Fabric. Today we're taking the next step with two additions: Iceberg REST Catalog (IRC) writes through the OneLake table endpoint, now available, and a new additional table metadata API, in preview, for adding descriptions and tags to tables and columns. Together, they make OneLake a place where any engine can not only read data, but also publish it, with the business context people and AI agents need to use it well. </p>\n<h3>Write native Iceberg tables from the engines you already use</h3>\n<p>Until now, the OneLake Iceberg endpoint supported read-only metadata operations. Now, IRC-compatible clients can create native Iceberg tables, commit new snapshots, and request short-lived storage credentials through the same endpoint they already use for reads. That means engines such as PyIceberg, Snowflake, and DuckDB can land results directly in OneLake using standard Iceberg tooling, with no custom connectors or copy jobs.</p>\n<p>Some of the supported Iceberg REST Catalog operations at the OneLake table endpoint include: </p>\n<table><tbody><tr><td>\n<p><strong>Operation </strong></p>\n</td><td>\n<p><strong>What it does </strong></p>\n</td><td>\n<p><strong>Status </strong></p>\n</td></tr><tr><td>\n<p>List/get/check namespaces </p>\n</td><td>\n<p>Discovers the schemas in a data item </p>\n</td><td>\n<p><strong>Available </strong></p>\n</td></tr><tr><td>\n<p>List/get/check tables </p>\n</td><td>\n<p>Discovers tables and returns their Iceberg metadata </p>\n</td><td>\n<p><strong>Available </strong></p>\n</td></tr><tr><td>\n<p>Create table </p>\n</td><td>\n<p>Creates a native Iceberg table in a schema </p>\n</td><td>\n<p><strong>New! </strong></p>\n</td></tr><tr><td>\n<p>Commit table updates </p>\n</td><td>\n<p>Commits new snapshots and metadata changes to a native Iceberg table </p>\n</td><td>\n<p><strong>New! </strong></p>\n</td></tr><tr><td>\n<p>Drop table </p>\n</td><td>\n<p>Removes a table and its data from OneLake </p>\n</td><td>\n<p><strong>New! </strong></p>\n</td></tr><tr><td>\n<p>Load table credentials </p>\n</td><td>\n<p>Returns short-lived storage credentials for a table (credential vending) </p>\n</td><td>\n<p><strong>New! </strong></p>\n</td></tr></tbody></table>\n<p>Writes are built for multi-engine environments. Commits use optimistic concurrency checks, so a conflicting update fails instead of silently overwriting a newer table state. Credential vending lets clients write data files without managing separate storage access. And because the tables live in OneLake, they're immediately discoverable by every tool connected to the catalog.  </p>\n<p>Many industry partners are already building on this feature. Snowflake supports the OneLake table APIs through the <a href=\"https://docs.snowflake.com/en/user-guide/tables-iceberg-configure-catalog-integration-rest-onelake\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">catalog-linked database</a> feature, which automatically discovers schemas and tables in a Fabric data item, so Snowflake users can read, create, and write Iceberg tables in OneLake. ClickHouse also <a href=\"https://clickhouse.com/blog/clickhouse-expands-collaboration-with-microsoft\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">announced</a> that it now writes Iceberg tables directly to OneLake using these APIs. </p>\n<h3>Add business context to tables and columns </h3>\n<p>Data is only as useful as people's understanding of it. The new additional table metadata API (preview) lets you read and write descriptions and key-value tags for a table and its columns, for example to explain a table's business purpose, record its owning team, or describe how to interpret a column. It uses one common REST route, so you don't need a format-specific catalog API to do it. </p>\n<p>It also works through internal OneLake shortcuts: updates apply to the target table, so everyone sees the same context whether they read through the shortcut or the source. </p>\n<h3>Explore more in the OneLake documentation </h3>\n<p>Check out our documentation for more information. This includes end-to-end samples, from configuring PyIceberg, Snowflake, and DuckDB for writes and credential vending to a Python sample that updates table metadata safely. Start with the following resources: </p>\n<ul>\n<li><a href=\"https://learn.microsoft.com/fabric/onelake/table-apis/table-apis-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">OneLake table APIs overview</a></li>\n<li><a href=\"https://learn.microsoft.com/fabric/onelake/table-apis/iceberg-table-apis-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">OneLake Iceberg metadata API</a></li>\n<li><a href=\"https://learn.microsoft.com/fabric/onelake/table-apis/iceberg-table-apis-get-started\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Iceberg table API samples</a><span> </span></li>\n<li><a href=\"https://learn.microsoft.com/fabric/onelake/table-apis/additional-table-metadata\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Read and write additional table metadata (preview)</a><span> </span></li>\n</ul>\n<h3>We want your feedback! </h3>\n<p>Start writing Iceberg tables to OneLake and try the additional table metadata preview today and share your experience with us. </p>\n<p>Have feedback? Share your ideas and vote at <a href=\"https://community.fabric.microsoft.com/category/fbc_ideas/ideas/fbc_ideas\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">the Fabric Ideas </a>site and join the conversation in the Microsoft Fabric Community. </p>",
+    "excerpt": "OneLake table APIs already let Iceberg-compatible engines discover and read tables in Microsoft Fabric. Today we're taking the next step with two additions: Iceberg REST Catalog (IRC) writes through the OneLake table endpoint, now available, and a new additional table metadata API, in preview, for adding descriptions…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "catalog-linked database",
+        "url": "https://docs.snowflake.com/en/user-guide/tables-iceberg-configure-catalog-integration-rest-onelake"
+      },
+      {
+        "label": "announced",
+        "url": "https://clickhouse.com/blog/clickhouse-expands-collaboration-with-microsoft"
+      },
+      {
+        "label": "OneLake table APIs overview",
+        "url": "https://learn.microsoft.com/fabric/onelake/table-apis/table-apis-overview"
+      },
+      {
+        "label": "OneLake Iceberg metadata API",
+        "url": "https://learn.microsoft.com/fabric/onelake/table-apis/iceberg-table-apis-overview"
+      },
+      {
+        "label": "Iceberg table API samples",
+        "url": "https://learn.microsoft.com/fabric/onelake/table-apis/iceberg-table-apis-get-started"
+      },
+      {
+        "label": "Read and write additional table metadata (preview)",
+        "url": "https://learn.microsoft.com/fabric/onelake/table-apis/additional-table-metadata"
+      },
+      {
+        "label": "the Fabric Ideas",
+        "url": "https://community.fabric.microsoft.com/category/fbc_ideas/ideas/fbc_ideas"
+      }
+    ]
+  },
+  "contentHash": "376ffb00d1917a01e12ce2e88d2a878b0638edf0f3a389d8a8c772628a3bfdd4",
+  "categories": [
+    "onelake",
+    "data-engineering",
+    "developer-apis"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers",
+      "architects",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

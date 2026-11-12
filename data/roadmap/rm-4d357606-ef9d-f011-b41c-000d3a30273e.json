@@ -1,0 +1,23 @@
+{
+  "id": "rm-4d357606-ef9d-f011-b41c-000d3a30273e",
+  "releaseItemId": "4d357606-ef9d-f011-b41c-000d3a30273e",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Connectors - Oracle connector with built-in driver",
+  "description": "Oracle connector in Data Factory now allow users to connector with built-in driver. Customer now can connect to Oracle system without installing driver through on-premise gateway.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=4d357606-ef9d-f011-b41c-000d3a30273e",
+  "contentHash": "5bd8ba9a271d4b60f40155a49517c834d8bd5f11a0a0df4fb2f8bce4967032c1",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-ccbc18bb-0b03-f111-8406-6045bd00f798",
+  "releaseItemId": "ccbc18bb-0b03-f111-8406-6045bd00f798",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "[Ontology for Data Agent] - Ontology integration with Data Agent",
+  "description": "Fabric IQ Ontology empowers the Data Agent to query and reason over your business data using natural language, grounded in a well-defined semantic model. Users can ask complex analytical questions and receive trustworthy, explainable answers with citations that trace back to the underlying ontology and data sources — giving teams confidence that insights are accurate, verifiable, and rooted in the true structure of their enterprise data.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=ccbc18bb-0b03-f111-8406-6045bd00f798",
+  "contentHash": "e29aa882db9bc8e6a09fa3558cb088444a47153ac18f36a68f0c7c36d349462f",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

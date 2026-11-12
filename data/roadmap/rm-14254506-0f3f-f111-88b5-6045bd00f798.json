@@ -1,0 +1,23 @@
+{
+  "id": "rm-14254506-0f3f-f111-88b5-6045bd00f798",
+  "releaseItemId": "14254506-0f3f-f111-88b5-6045bd00f798",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Declarative file data ingestion experience in Fabric Materialized Lake Views",
+  "description": "Fabric data engineers today write 80-100+ lines of boilerplate PySpark to ingest CSV and Parquet files into Delta tables - handling file discovery, schema inference, incremental refresh, schema drift, and error recovery manually. This feature introduces a simple Spark SQL DDL surface (CREATE MATERIALIZED LAKE VIEW ... FROM OneLake_Files OPTIONS (...)) that declaratively handles all of this. It includes automatic schema evolution (or strict fixed-schema mode), three refresh modes (append_only, mirror, full), built-in error handling, structured user telemetry on files and lakehouse-level DAG lineage.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=14254506-0f3f-f111-88b5-6045bd00f798",
+  "contentHash": "768757e1ee9091b7887b9f90311ae5a701baccbcd583046bc45866fe5c3d854c",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

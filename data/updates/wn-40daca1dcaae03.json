@@ -1,0 +1,65 @@
+{
+  "id": "wn-40daca1dcaae03",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/ci-cd-with-warehouses-in-microsoft-fabric/",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-warehouse/development-deployment",
+  "title": "Warehouse source control (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Using Source control with Warehouse (preview), you can manage development and deployment of versioned warehouse objects. You can use SQL Database Projects extension available inside of Visual Studio Code. For more information on warehouse source control, see CI/CD with Warehouses in Microsoft Fabric.",
+    "html": "Using <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/development-deployment\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Source control with Warehouse (preview)</a>, you can manage development and deployment of versioned warehouse objects. You can use <a href=\"https://learn.microsoft.com/en-us/sql/tools/visual-studio-code-extensions/sql-database-projects/sql-database-projects-extension\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">SQL Database Projects extension</a> available inside of Visual Studio Code. For more information on warehouse source control, see <a href=\"https://blog.fabric.microsoft.com/blog/ci-cd-with-warehouses-in-microsoft-fabric/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">CI/CD with Warehouses in Microsoft Fabric</a>.",
+    "excerpt": "Using Source control with Warehouse (preview), you can manage development and deployment of versioned warehouse objects. You can use SQL Database Projects extension available inside of Visual Studio Code. For more information on warehouse source control, see CI/CD with Warehouses in Microsoft Fabric.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Source control with Warehouse (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/development-deployment"
+      },
+      {
+        "label": "SQL Database Projects extension",
+        "url": "https://learn.microsoft.com/en-us/sql/tools/visual-studio-code-extensions/sql-database-projects/sql-database-projects-extension"
+      },
+      {
+        "label": "CI/CD with Warehouses in Microsoft Fabric",
+        "url": "https://blog.fabric.microsoft.com/blog/ci-cd-with-warehouses-in-microsoft-fabric/"
+      }
+    ]
+  },
+  "contentHash": "7f8b1fa2d1a67d2ced26c5e012da8a80a6cdb42e5c25f1465f54db391307efe3",
+  "categories": [
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 55,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/ci-cd-with-warehouses-in-microsoft-fabric/",
+    "backfill": "true"
+  }
+}

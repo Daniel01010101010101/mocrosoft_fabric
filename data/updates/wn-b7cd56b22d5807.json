@@ -1,0 +1,60 @@
+{
+  "id": "wn-b7cd56b22d5807",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Lineage-aware-AI-with-the-Fabric-item-relations-API-Preview/ba-p/5366064",
+  "docsUrl": "https://learn.microsoft.com/en-us/rest/api/fabric/",
+  "title": "Fabric item relations API (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric item relations API (Preview) returns upstream and downstream item dependencies, typed relation edges, and related workspaces for impact analysis, catalogs, CI/CD checks, and AI agents. For more information, see Fabric REST API reference.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Lineage-aware-AI-with-the-Fabric-item-relations-API-Preview/ba-p/5366064\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric item relations API (Preview)</a> returns upstream and downstream item dependencies, typed relation edges, and related workspaces for impact analysis, catalogs, CI/CD checks, and AI agents. For more information, see <a href=\"https://learn.microsoft.com/en-us/rest/api/fabric/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric REST API reference</a>.",
+    "excerpt": "Fabric item relations API (Preview) returns upstream and downstream item dependencies, typed relation edges, and related workspaces for impact analysis, catalogs, CI/CD checks, and AI agents. For more information, see Fabric REST API reference.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric item relations API (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Lineage-aware-AI-with-the-Fabric-item-relations-API-Preview/ba-p/5366064"
+      },
+      {
+        "label": "Fabric REST API reference",
+        "url": "https://learn.microsoft.com/en-us/rest/api/fabric/"
+      }
+    ]
+  },
+  "contentHash": "d980188434860b9c2fa2f62e5b5da412c707e786bd8005394678745b9519b6fd",
+  "categories": [
+    "developer-apis"
+  ],
+  "primaryCategory": "developer-apis",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 55,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Lineage-aware-AI-with-the-Fabric-item-relations-API-Preview/ba-p/5366064",
+    "backfill": "true"
+  }
+}

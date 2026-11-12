@@ -1,0 +1,23 @@
+{
+  "id": "rm-60638d9d-68d1-f011-bbd3-00224808fcf0",
+  "releaseItemId": "60638d9d-68d1-f011-bbd3-00224808fcf0",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "OneLake security APIs for external engines",
+  "description": "OneLake security allows seamless integration with 3rd party query engines through APIs for synchronizing security.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=60638d9d-68d1-f011-bbd3-00224808fcf0",
+  "contentHash": "dc46fbf4c0cf2b97e7fe05771d151359cc7bcbb7b4e480553763bad6f7ae1db8",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

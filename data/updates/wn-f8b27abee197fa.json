@@ -1,0 +1,63 @@
+{
+  "id": "wn-f8b27abee197fa",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/bring-your-dremio-data-into-onelake-preview/",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/mirroring/catalog-mirroring/dremio",
+  "title": "Mirrored Dremio catalog in OneLake (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric can mirror Dremio Iceberg REST Catalog metadata to enable zero-copy access to Dremio-managed Iceberg tables in OneLake via shortcuts. Tables appear in OneLake within seconds after selection, with optional auto-include of newly added tables and SQL analytics endpoint querying across Fabric workloads. For more information, see Bring your Dremio data into OneLake (Preview) and Mirrored Dremio catalog.",
+    "html": "Fabric can mirror Dremio Iceberg REST Catalog metadata to enable zero-copy access to Dremio-managed Iceberg tables in OneLake via shortcuts. Tables appear in OneLake within seconds after selection, with optional auto-include of newly added tables and SQL analytics endpoint querying across Fabric workloads. For more information, see <a href=\"https://blog.fabric.microsoft.com/blog/bring-your-dremio-data-into-onelake-preview/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Bring your Dremio data into OneLake (Preview)</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/mirroring/catalog-mirroring/dremio\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Mirrored Dremio catalog</a>.",
+    "excerpt": "Fabric can mirror Dremio Iceberg REST Catalog metadata to enable zero-copy access to Dremio-managed Iceberg tables in OneLake via shortcuts. Tables appear in OneLake within seconds after selection, with optional auto-include of newly added tables and SQL analytics endpoint querying across Fabric workloads. For more…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Bring your Dremio data into OneLake (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/bring-your-dremio-data-into-onelake-preview/"
+      },
+      {
+        "label": "Mirrored Dremio catalog",
+        "url": "https://learn.microsoft.com/en-us/fabric/mirroring/catalog-mirroring/dremio"
+      }
+    ]
+  },
+  "contentHash": "74d0298da130b266c147187a2613507811466419254298a38f52fd302026badf",
+  "categories": [
+    "onelake",
+    "data-factory"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "architects",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/bring-your-dremio-data-into-onelake-preview/",
+    "backfill": "true"
+  }
+}

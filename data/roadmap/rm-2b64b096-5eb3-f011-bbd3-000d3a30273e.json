@@ -1,0 +1,23 @@
+{
+  "id": "rm-2b64b096-5eb3-f011-bbd3-000d3a30273e",
+  "releaseItemId": "2b64b096-5eb3-f011-bbd3-000d3a30273e",
+  "product": "Data Science",
+  "productId": "0522b590-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-science",
+  "name": "GA AutoML in Fabric",
+  "description": "Automated Machine Learning (AutoML) enables users to build and deploy machine learning models by automating the most time-consuming and complex parts of the model development process. The General Availability will enable users to simplofy the ML development cycle by using AutoML to automatically select the best algorithms, tune hyperparameters, and generate optimized models based on the input data and desired outcomes.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=2b64b096-5eb3-f011-bbd3-000d3a30273e",
+  "contentHash": "b6bbd6ef1bc6955f108267f6cf004da637097787068040dc9b24bcd0dc45d434",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

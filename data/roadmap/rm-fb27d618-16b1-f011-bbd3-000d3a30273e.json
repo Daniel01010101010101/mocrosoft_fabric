@@ -1,0 +1,23 @@
+{
+  "id": "rm-fb27d618-16b1-f011-bbd3-000d3a30273e",
+  "releaseItemId": "fb27d618-16b1-f011-bbd3-000d3a30273e",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Pipelines - Refresh Materialized Lake View Activity",
+  "description": "Fabric Materialized Lake Views are a revolutionary way to declaratively define views, built on data stored in your lakehouse that automatically materializes the results of the data transformation as a physical Delta table. Now we have a pipeline activity that you can automate and schedule to regularly refresh your MLV or add it to the end of your ETL pipeline.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=fb27d618-16b1-f011-bbd3-000d3a30273e",
+  "contentHash": "21c7dc1f8758701a3af03b61a3e2dabbf82aa8d917f2917f4d9ea83de8493a1a",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

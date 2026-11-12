@@ -1,0 +1,64 @@
+{
+  "id": "wn-7ab29aac85abe5",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/introducing-new-openai-plugins-for-eventhouse-preview?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/kusto/query/ai-embed-text-plugin",
+  "title": "OpenAI plugins for Eventhouse (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "You can now use two powerful AI plugins for Eventhouse: AI Embed Text Plugin and AI Chat Completion Prompt Plugin. Connect Eventhouse data to OpenAI-powered applications for advanced analytics and AI scenarios. For more information, see ai_embed_text (preview) and ai_chat_completion (preview).",
+    "html": "You can now use <a href=\"https://blog.fabric.microsoft.com/blog/introducing-new-openai-plugins-for-eventhouse-preview?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">two powerful AI plugins for Eventhouse: AI Embed Text Plugin and AI Chat Completion Prompt Plugin</a>. Connect Eventhouse data to OpenAI-powered applications for advanced analytics and AI scenarios. For more information, see <a href=\"https://learn.microsoft.com/en-us/kusto/query/ai-embed-text-plugin\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ai_embed_text (preview)</a> and <a href=\"https://learn.microsoft.com/en-us/kusto/query/ai-chat-completion-plugin\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ai_chat_completion (preview)</a>.",
+    "excerpt": "You can now use two powerful AI plugins for Eventhouse: AI Embed Text Plugin and AI Chat Completion Prompt Plugin. Connect Eventhouse data to OpenAI-powered applications for advanced analytics and AI scenarios. For more information, see ai_embed_text (preview) and ai_chat_completion (preview).",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "two powerful AI plugins for Eventhouse: AI Embed Text Plugin and AI Chat Completion Prompt Plugin",
+        "url": "https://blog.fabric.microsoft.com/blog/introducing-new-openai-plugins-for-eventhouse-preview?ft=All"
+      },
+      {
+        "label": "ai_embed_text (preview)",
+        "url": "https://learn.microsoft.com/en-us/kusto/query/ai-embed-text-plugin"
+      },
+      {
+        "label": "ai_chat_completion (preview)",
+        "url": "https://learn.microsoft.com/en-us/kusto/query/ai-chat-completion-plugin"
+      }
+    ]
+  },
+  "contentHash": "e1dbb280e9d78b08c21e532f985e886ffead2a8297e41b7813fc69e6d8b00204",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 60,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/introducing-new-openai-plugins-for-eventhouse-preview?ft=All",
+    "backfill": "true"
+  }
+}

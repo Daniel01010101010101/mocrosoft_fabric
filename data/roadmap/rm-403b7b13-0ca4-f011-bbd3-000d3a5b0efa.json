@@ -1,0 +1,23 @@
+{
+  "id": "rm-403b7b13-0ca4-f011-bbd3-000d3a5b0efa",
+  "releaseItemId": "403b7b13-0ca4-f011-bbd3-000d3a5b0efa",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Unify batch & streaming data platforms with CopyJob & Real-Time Intelligence",
+  "description": "The integration of Real-Time Intelligence with CopyJob in Microsoft Fabric empowers organizations to stream incremental updates from traditionally “batch” data sources directly into Eventstreams. Simultaneously, users can ingest data from streaming sources into any CopyJob destination that supports incremental updates. This unified experience makes it easy to build hybrid data platforms that combine batch and streaming assets. As a result, creating event-driven and AI-powered applications—like dashboards, alerts, and compliance solutions—no longer requires manual data movement or complex integrations.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=403b7b13-0ca4-f011-bbd3-000d3a5b0efa",
+  "contentHash": "d09a5f63e4eca3ff396a75633382c581923ab3f053846c492d2bfa822f052cf2",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "wn-b417c1e7101f58",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-Outbound-Access-Protection-OAP-for-Operations-Agent/ba-p/5363817",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/security/workspace-outbound-access-protection-operations-agent",
+  "title": "Workspace outbound access protection for Operations Agent (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.97,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Workspace outbound access protection for Operations Agent applies workspace policies to outbound actions such as Teams notifications, workflow triggers, and cross-workspace operations. For more information, see Workspace outbound access protection for Operations Agent.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-Outbound-Access-Protection-OAP-for-Operations-Agent/ba-p/5363817\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace outbound access protection for Operations Agent</a> applies workspace policies to outbound actions such as Teams notifications, workflow triggers, and cross-workspace operations. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/security/workspace-outbound-access-protection-operations-agent\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace outbound access protection for Operations Agent</a>.",
+    "excerpt": "Workspace outbound access protection for Operations Agent applies workspace policies to outbound actions such as Teams notifications, workflow triggers, and cross-workspace operations. For more information, see Workspace outbound access protection for Operations Agent.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Workspace outbound access protection for Operations Agent",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-Outbound-Access-Protection-OAP-for-Operations-Agent/ba-p/5363817"
+      },
+      {
+        "label": "Workspace outbound access protection for Operations Agent",
+        "url": "https://learn.microsoft.com/en-us/fabric/security/workspace-outbound-access-protection-operations-agent"
+      }
+    ]
+  },
+  "contentHash": "a005189b0bfece43b53dab624e69e0fc64e8e0f966156cda84d797551f41cb7d",
+  "categories": [
+    "admin-governance",
+    "copilot-ai",
+    "security"
+  ],
+  "primaryCategory": "admin-governance",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-Outbound-Access-Protection-OAP-for-Operations-Agent/ba-p/5363817",
+    "backfill": "true"
+  }
+}

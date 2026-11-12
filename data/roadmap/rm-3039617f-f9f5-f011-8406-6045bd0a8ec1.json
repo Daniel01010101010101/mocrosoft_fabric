@@ -1,0 +1,23 @@
+{
+  "id": "rm-3039617f-f9f5-f011-8406-6045bd0a8ec1",
+  "releaseItemId": "3039617f-f9f5-f011-8406-6045bd0a8ec1",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Multiple task flows in a workspace",
+  "description": "The multiple task flows in a workspace feature enables users to create, manage, and navigate multiple independent task flows within the same workspace. Each task flow has its own isolated canvas, clear identity, and lifecycle, allowing teams to organize work by project or process without impacting others.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=3039617f-f9f5-f011-8406-6045bd0a8ec1",
+  "contentHash": "db0e2fc1cd13b9192e8e1b6509a7fe5c1f1f0cd2beca9ba9ebde9a5846ef890a",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

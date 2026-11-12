@@ -1,0 +1,23 @@
+{
+  "id": "rm-5f63b925-ca16-ef11-9f89-000d3a33ff0b",
+  "releaseItemId": "5f63b925-ca16-ef11-9f89-000d3a33ff0b",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "XMLA endpoint support for service principal profiles",
+  "description": "Service principal profiles (SPPs) allow ISVs to build scalable applications that enable better customer data isolation and establish tighter security boundaries between customers. We have heard from customers that lack of XMLA support for SPPs limit the ability of ISVs to meet the requirements of their customers for more advanced BI solutions. With XMLA-based support for SPPs, ISVs can enable their customers to work with 3rd-party tools, automation scripts, and other solutions that rely on XMLA.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2024",
+  "releaseQuarterStart": "2024-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=5f63b925-ca16-ef11-9f89-000d3a33ff0b",
+  "contentHash": "cecc42b96b5b25a6f939344bb953a69b8830cbbd5893f3a89387f3e8b584ecd3",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

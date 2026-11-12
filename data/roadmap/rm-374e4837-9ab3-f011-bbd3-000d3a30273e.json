@@ -1,0 +1,23 @@
+{
+  "id": "rm-374e4837-9ab3-f011-bbd3-000d3a30273e",
+  "releaseItemId": "374e4837-9ab3-f011-bbd3-000d3a30273e",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - New Data Destination: ADLS Gen2",
+  "description": "As part of this planned release item, we will make the existing Azure Data Lake Storage Gen2 data destination in Dataflow Gen2 generally available.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=374e4837-9ab3-f011-bbd3-000d3a30273e",
+  "contentHash": "f34c8572c25157c262fbe683dea0b5e9611825ba6df447bffcdb397eae7cf144",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

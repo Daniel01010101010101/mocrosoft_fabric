@@ -1,0 +1,59 @@
+{
+  "id": "wn-e8c18aab66a7ef",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_42",
+  "docsUrl": "https://learn.microsoft.com/en-us/sql/t-sql/queries/select-qualify-clause-transact-sql?view=fabric&preserve-view=true",
+  "title": "Warehouse T-SQL enhancements (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.77,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Warehouse T-SQL enhancements (Preview) add constructs such as QUALIFY and expanded grouping syntax. For more information, see QUALIFY.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_42\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Warehouse T-SQL enhancements (Preview)</a> add constructs such as <code>QUALIFY</code> and expanded grouping syntax. For more information, see <a href=\"https://learn.microsoft.com/en-us/sql/t-sql/queries/select-qualify-clause-transact-sql?view=fabric&amp;preserve-view=true\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">QUALIFY</a>.",
+    "excerpt": "Warehouse T-SQL enhancements (Preview) add constructs such as QUALIFY and expanded grouping syntax. For more information, see QUALIFY.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Warehouse T-SQL enhancements (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_42"
+      },
+      {
+        "label": "QUALIFY",
+        "url": "https://learn.microsoft.com/en-us/sql/t-sql/queries/select-qualify-clause-transact-sql?view=fabric&preserve-view=true"
+      }
+    ]
+  },
+  "contentHash": "30d2f5d75585b16e0db105939fc54b5ebed4a36c86785b6aa8eb3c0ea1b834c8",
+  "categories": [
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_42"
+  }
+}

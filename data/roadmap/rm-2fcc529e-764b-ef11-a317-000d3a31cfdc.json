@@ -1,0 +1,23 @@
+{
+  "id": "rm-2fcc529e-764b-ef11-a317-000d3a31cfdc",
+  "releaseItemId": "2fcc529e-764b-ef11-a317-000d3a31cfdc",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Azure Data Factory in Fabric",
+  "description": "Bring your existing Azure Data Factory (ADF) to your Fabric workspace! This is a new preview capability that allows you to connect to your existing ADF factories from your Fabric workspace.You will now be able to fully manage your ADF factories directly from the Fabric workspace UI! Once your ADF is linked to your Fabric workspace, you’ll be able to trigger, execute, and monitor your pipelines as you do in ADF but directly inside of Fabric.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2024",
+  "releaseQuarterStart": "2024-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=2fcc529e-764b-ef11-a317-000d3a31cfdc",
+  "contentHash": "3adfdad0245f409e68bad3a3bdbdcd8aa2f644152dcdec1d865d751b921a0c69",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

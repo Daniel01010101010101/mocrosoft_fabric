@@ -1,0 +1,23 @@
+{
+  "id": "rm-e52b1f9e-3e40-f111-88b4-000d3a308b7b",
+  "releaseItemId": "e52b1f9e-3e40-f111-88b4-000d3a308b7b",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "Ontology Versioning",
+  "description": "Change your Ontology with confidence. Every saved version is listed newest-first with its timestamp, author, and description, so teams building an Ontology together can always see what changed, who changed it, and roll back to any earlier state.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=e52b1f9e-3e40-f111-88b4-000d3a308b7b",
+  "contentHash": "8b955649111a47577cf0dd7465a304cadc8bcf4837f7b9fe90949b718bc70e34",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

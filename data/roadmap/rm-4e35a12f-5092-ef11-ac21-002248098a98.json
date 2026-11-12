@@ -1,0 +1,23 @@
+{
+  "id": "rm-4e35a12f-5092-ef11-ac21-002248098a98",
+  "releaseItemId": "4e35a12f-5092-ef11-ac21-002248098a98",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "OneLake data plane diagnostic events",
+  "description": "This feature logs OneLake data plane operations, such as reading or writing files, and stores them in a lakehouse of your choice. It captures detailed diagnostic logs for operations originating outside of Fabric (e.g. OneLake file explorer, Azure services).  For operations inside Fabric (e.g. Fabric Spark, Fabric DW), the logs will enable you to connect to detailed information in the corresponding workload logs.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=4e35a12f-5092-ef11-ac21-002248098a98",
+  "contentHash": "3617b222d168a35c8b7297683add18c8879133af19c293ccdcca2776f4274b55",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

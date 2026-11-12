@@ -1,0 +1,23 @@
+{
+  "id": "rm-d7c986cd-1322-f011-998a-0022480939f0",
+  "releaseItemId": "d7c986cd-1322-f011-998a-0022480939f0",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Identity columns",
+  "description": "Identity columns are numeric columns that automatically increment with each new row value that is inserted into a table with an Identity column defined.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=d7c986cd-1322-f011-998a-0022480939f0",
+  "contentHash": "3348230abd55d7db70f012dcd112ab71eea154a5dac1381baa923da075d2032b",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-69c1aa9f-d3fa-ee11-a1ff-000d3a340b2c",
+  "releaseItemId": "69c1aa9f-d3fa-ee11-a1ff-000d3a340b2c",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "In-place restore within warehouse editor",
+  "description": "You can now easily create restore points and restore the warehouse to a known good state in the event of accidental corruption, using the Warehouse editor experience.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2024",
+  "releaseQuarterStart": "2024-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=69c1aa9f-d3fa-ee11-a1ff-000d3a340b2c",
+  "contentHash": "68b92c979816bb4756545a6b22a03347f36fa2c80d4cb840f5b5ebeeea0c26b3",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

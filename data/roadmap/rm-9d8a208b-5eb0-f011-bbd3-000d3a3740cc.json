@@ -1,0 +1,23 @@
+{
+  "id": "rm-9d8a208b-5eb0-f011-bbd3-000d3a3740cc",
+  "releaseItemId": "9d8a208b-5eb0-f011-bbd3-000d3a3740cc",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Capacity Metrics App - Timepoint Summary & Detail",
+  "description": "**Fabric Capacity Metrics Metrics App -  Timepoint Summary & Item Detail **The **Timepoint Summary** and **Item Detail** pages in the Fabric Capacity Metrics app work together to give you a complete view of your metrics at any specific point in time.The **Timepoint Summary** page provides a 30-second snapshot of interactive and background operations ranked by compute impact, measured in Capacity Units (CUs). Visuals like the heartbeat chart show CU activity over a 60-minute window, making it easy to spot peaks and troughs.  Ultimately, admins can use this page to identify which interactive and background operation types had the highest impact on a capacity, and to then take any appropriate actions to ensure capacity health such as avoiding throttling.Drilling deeper, the **Item Detail** page provides a detailed analysis of the operation type within a specific item.  It lists records contributing to CU usage, with filters like Operation ID, User, and CU threshold to improve accuracy when sampling occurs (e.g., when records exceed 100,000 entries). This level of detail is valuable as, for example, scheduled refresh workflows often trigger multiple internal operations which all contribute to capacity consumption and can be drilled down into through this view.Together, these views help you quickly identify capacity hotspots, optimize workloads, and maintain performance.* **Timepoint Summary Page**  provides a summary view of operation types in items that contribute to capacity usage in the 30-seconds time window, ranked by their compute impact measured in Capacity Units (CUs). Admins can use  it to identify which interactive and background operation types had the highest impact on your capacity.* **Timepoint Item Detail Page** drills deeper into individual metrics at that timepoint, showing detailed values, status, and related context. It allows you to investigate specific metrics, understand their behavior, and confirm accuracy for reporting or decision-making.Together, these pages enable organizations to maintain data consistency, monitor progress, and make informed decisions with confidence by offering both high-level summaries and granular insights.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=9d8a208b-5eb0-f011-bbd3-000d3a3740cc",
+  "contentHash": "08b844e2d73cb210d0b2b043c259b2db262d5d377c99d047f26a5df19431bea3",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

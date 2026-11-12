@@ -1,0 +1,62 @@
+{
+  "id": "wn-44ec4e1465deed",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advancing-the-Microsoft-Fabric-SQL-Query-Editor/ba-p/5364033",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-warehouse/sql-query-editor",
+  "title": "SQL query editor enhancements (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.91,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "SQL query editor enhancements add a faster results grid, scalable object explorer and IntelliSense, autosave controls, bulk query management, .sql file import and export, and integrations with OneLake analytics and semantic models. For more information, see SQL query editor.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advancing-the-Microsoft-Fabric-SQL-Query-Editor/ba-p/5364033\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">SQL query editor enhancements</a> add a faster results grid, scalable object explorer and IntelliSense, autosave controls, bulk query management, <code>.sql</code> file import and export, and integrations with OneLake analytics and semantic models. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/sql-query-editor\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">SQL query editor</a>.",
+    "excerpt": "SQL query editor enhancements add a faster results grid, scalable object explorer and IntelliSense, autosave controls, bulk query management, .sql file import and export, and integrations with OneLake analytics and semantic models. For more information, see SQL query editor.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "SQL query editor enhancements",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advancing-the-Microsoft-Fabric-SQL-Query-Editor/ba-p/5364033"
+      },
+      {
+        "label": "SQL query editor",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/sql-query-editor"
+      }
+    ]
+  },
+  "contentHash": "ec929ec5d439bd3fc79bdd21a49817f6dda0923f4756aafc20231800195e5928",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 59,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "data-scientists",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advancing-the-Microsoft-Fabric-SQL-Query-Editor/ba-p/5364033"
+  }
+}

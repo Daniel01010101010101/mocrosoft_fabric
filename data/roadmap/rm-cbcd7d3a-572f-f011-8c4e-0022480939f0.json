@@ -1,0 +1,23 @@
+{
+  "id": "rm-cbcd7d3a-572f-f011-8c4e-0022480939f0",
+  "releaseItemId": "cbcd7d3a-572f-f011-8c4e-0022480939f0",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Fabric Graph",
+  "description": "**Fabric Graph (preview)** is scalable native graph service built directly into Microsoft Fabric.  • **Model connected data natively on OneLake** – represent interconnected data points as labeled property graphs without managing ETL or data replication pipelines.• **Explore visually** – uncover hidden connections in seconds through low-/no-code user interfaces tailored for developers as well as business users.• **Query with open standards** – run pattern analysis using GQL-compliant syntax and REST endpoints.• **Enterprise-grade governance** – unified security, lineage, and scale-out compute inherited from Fabric ensure reliable, real-time analytics at petabyte scale.  Fabric Graph accelerates decision-making by transforming disconnected data into AI-driven insights—unlocking interconnected analytics within Microsoft Fabric.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=cbcd7d3a-572f-f011-8c4e-0022480939f0",
+  "contentHash": "f5ff2e49a1e855b220cd313df9ee489bc6360c1882d7a6d2e254896f2940f340",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

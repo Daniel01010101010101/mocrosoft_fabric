@@ -1,0 +1,59 @@
+{
+  "id": "wn-d58467454485bb",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_36",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/enrich-events-with-reference-data",
+  "title": "Reference data enrichment in Eventstream (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-08-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Reference data enrichment in Eventstream joins streaming events with Delta reference tables from a lakehouse by using no-code or SQL-based enrichment. For more information, see Reference data join in Eventstream using Lakehouse.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_36\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Reference data enrichment in Eventstream</a> joins streaming events with Delta reference tables from a lakehouse by using no-code or SQL-based enrichment. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/enrich-events-with-reference-data\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Reference data join in Eventstream using Lakehouse</a>.",
+    "excerpt": "Reference data enrichment in Eventstream joins streaming events with Delta reference tables from a lakehouse by using no-code or SQL-based enrichment. For more information, see Reference data join in Eventstream using Lakehouse.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Reference data enrichment in Eventstream",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_36"
+      },
+      {
+        "label": "Reference data join in Eventstream using Lakehouse",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/enrich-events-with-reference-data"
+      }
+    ]
+  },
+  "contentHash": "e9fca559567d526ed9446b9f585c373a2386561065cca3dae39f17222fe59b39",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_36"
+  }
+}

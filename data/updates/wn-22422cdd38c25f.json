@@ -1,0 +1,60 @@
+{
+  "id": "wn-22422cdd38c25f",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Trusted-AI-starts-with-Microsoft-Fabric-Real-Time-Intelligence/ba-p/5369528",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/operations-agent-actions",
+  "title": "Investigator insights in Operations Agent (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Investigator insights in Operations Agent analyze related data after an operations agent alert and surface scope, observations, patterns, and recommended next steps in Teams. For more information, see Operations Agent actions.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Trusted-AI-starts-with-Microsoft-Fabric-Real-Time-Intelligence/ba-p/5369528\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Investigator insights in Operations Agent</a> analyze related data after an operations agent alert and surface scope, observations, patterns, and recommended next steps in Teams. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/operations-agent-actions\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Operations Agent actions</a>.",
+    "excerpt": "Investigator insights in Operations Agent analyze related data after an operations agent alert and surface scope, observations, patterns, and recommended next steps in Teams. For more information, see Operations Agent actions.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Investigator insights in Operations Agent",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Trusted-AI-starts-with-Microsoft-Fabric-Real-Time-Intelligence/ba-p/5369528"
+      },
+      {
+        "label": "Operations Agent actions",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/operations-agent-actions"
+      }
+    ]
+  },
+  "contentHash": "376304301d28143d855439350432db663c9407867b32e280cc1d0a3d4ec9661a",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Trusted-AI-starts-with-Microsoft-Fabric-Real-Time-Intelligence/ba-p/5369528",
+    "backfill": "true"
+  }
+}

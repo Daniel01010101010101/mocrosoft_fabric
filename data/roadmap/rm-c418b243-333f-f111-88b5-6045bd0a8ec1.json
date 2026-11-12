@@ -1,0 +1,23 @@
+{
+  "id": "rm-c418b243-333f-f111-88b5-6045bd0a8ec1",
+  "releaseItemId": "c418b243-333f-f111-88b5-6045bd0a8ec1",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Scalar User-defined functions (UDFs) - Procedural SQL",
+  "description": "SQL native, computation-based scalar UDFs now support WHILE loops, multiple RETURN statements and deeply nested IF-THEN-ELSE blocks in the function body. They can also be used in queries that include Common Table Expressions (CTEs), and within GROUP BY, HAVING, and ORDER BY clauses.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=c418b243-333f-f111-88b5-6045bd0a8ec1",
+  "contentHash": "b03bdbe4bdc01e926579ae5a83759c875ab92ef59ace02211945b74d92077645",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

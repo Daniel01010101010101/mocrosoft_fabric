@@ -1,0 +1,58 @@
+{
+  "id": "wn-de2917fbb4c628",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/connection-recency-for-improved-audit-and-management-preview?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-factory/data-source-management#connection-recency-preview",
+  "title": "Data Factory in Fabric connection recency (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Connection recency (Preview) adds last-linked-to-items and last-credentials-used properties to connections for audit and lifecycle management. For more information, see Data source management.",
+    "html": "<a href=\"https://blog.fabric.microsoft.com/blog/connection-recency-for-improved-audit-and-management-preview?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Connection recency (Preview)</a> adds last-linked-to-items and last-credentials-used properties to connections for audit and lifecycle management. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/data-source-management#connection-recency-preview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Data source management</a>.",
+    "excerpt": "Connection recency (Preview) adds last-linked-to-items and last-credentials-used properties to connections for audit and lifecycle management. For more information, see Data source management.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Connection recency (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/connection-recency-for-improved-audit-and-management-preview?ft=All"
+      },
+      {
+        "label": "Data source management",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/data-source-management#connection-recency-preview"
+      }
+    ]
+  },
+  "contentHash": "d6471ea2d05a1fb2adca53b7391bf021e790e746d5d1a8a98abb53ca2591e434",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/connection-recency-for-improved-audit-and-management-preview?ft=All",
+    "backfill": "true"
+  }
+}

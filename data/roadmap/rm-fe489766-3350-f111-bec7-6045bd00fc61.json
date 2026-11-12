@@ -1,0 +1,23 @@
+{
+  "id": "rm-fe489766-3350-f111-bec7-6045bd00fc61",
+  "releaseItemId": "fe489766-3350-f111-bec7-6045bd00fc61",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "[Monitoring] Integrate and Expose Spark Application CPU/Memory Usage",
+  "description": "This feature is designed to visualize real-time metrics for Spark applications through a dashboard that allows users to monitor CPU and memory utilization at the application level for both executors and drivers, across running and completed applications. It aligns with the Fabric SaaS offering and extends Spark vCore allocation and utilization analysis. Additional details about user scenarios are available in the discussion.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=fe489766-3350-f111-bec7-6045bd00fc61",
+  "contentHash": "06f761b0d88dc43e79622bcd6362c1b467d34881cdf6825d7f5244cd63cc2571",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

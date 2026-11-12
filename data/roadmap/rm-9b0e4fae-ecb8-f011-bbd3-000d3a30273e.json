@@ -1,0 +1,23 @@
+{
+  "id": "rm-9b0e4fae-ecb8-f011-bbd3-000d3a30273e",
+  "releaseItemId": "9b0e4fae-ecb8-f011-bbd3-000d3a30273e",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Fuzzy string matching",
+  "description": "Fabric Data Warehouse will introduce string similarity and comparison functions based on Levenshtein and Jaro-Winkler algorithms. These functions make it easier to find strings that are similar, even when they have small changes or spelling errors.New functions that will be added are:* EDIT_DISTANCE - Returns the number of edits (insertions, deletions, substitutions) needed to transform one string into another.* EDIT_DISTANCE_SIMILARITY - Calculates a similarity score (0–1) based on Levenshtein distance, where 1 means identical strings.* JARO_WINKLER_DISTANCE - Measures the distance between two strings using the Jaro-Winkler algorithm, considering transpositions and common prefixes.* JARO_WINKLER_SIMILARITY - Returns a similarity score (0–1) using Jaro-Winkler, optimized for short strings and minor typos.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=9b0e4fae-ecb8-f011-bbd3-000d3a30273e",
+  "contentHash": "e59967e71e2b20f02a9dbb33852f1add746fda725e82cf34c42fce9a79af7a37",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

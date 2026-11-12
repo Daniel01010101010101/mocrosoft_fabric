@@ -1,0 +1,23 @@
+{
+  "id": "rm-d33a4d87-58b6-f011-bbd3-000d3a5b0efa",
+  "releaseItemId": "d33a4d87-58b6-f011-bbd3-000d3a5b0efa",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "DATE_BUCKET() - simplify analytics on datetime values",
+  "description": "The `DATE_BUCKET()` function groups dates into buckets of arbitrary length and returns the starting date of each bucket. This function is particularly useful for performing analytics on datetime columns when you need to aggregate or group values by time intervals.The following example shows how to group the values into 2-week buckets and count the number of records in each bucket:<br/>\n```SELECT          date_period = DATE_BUCKET(WEEK, 2, updated),        count = COUNT(*) FROM dbo.bing_covid19_data  GROUP BY DATE_BUCKET(WEEK, 2, updated)```",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=d33a4d87-58b6-f011-bbd3-000d3a5b0efa",
+  "contentHash": "01c9079f83ceb5038133401442138c670b6ad881c500c3853fc4f92aa83d0c45",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

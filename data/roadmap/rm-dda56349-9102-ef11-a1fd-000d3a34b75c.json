@@ -1,0 +1,23 @@
+{
+  "id": "rm-dda56349-9102-ef11-a1fd-000d3a34b75c",
+  "releaseItemId": "dda56349-9102-ef11-a1fd-000d3a34b75c",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Ability to sort and filter tables and folders in Lakehouse",
+  "description": "This feature allows customers to sort and filter their tables and folders in the Lakehouse by several different methods, including alphabetically, created date, and more.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=dda56349-9102-ef11-a1fd-000d3a34b75c",
+  "contentHash": "f3fe5dedf6e59ec4ee6c454bc1c9ee2d0aa8ef774c823995df76a32ec4f3f4c4",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

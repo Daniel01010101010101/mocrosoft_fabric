@@ -1,0 +1,23 @@
+{
+  "id": "rm-b5227d15-874d-f111-bec7-002248085b3f",
+  "releaseItemId": "b5227d15-874d-f111-bec7-002248085b3f",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Deployment Configurations Support - Fabric Warehouse",
+  "description": "* *support of deployment configurations — giving teams granular control over what gets deployed, what gets skipped, and how data is handled at deployment time. Configurations are stored in Git alongside your warehouse schema, making them version controlled and consistent across every deployment.*",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=b5227d15-874d-f111-bec7-002248085b3f",
+  "contentHash": "d56b7aadec2dcb952503451285c63f74876cf1f196879788d379947b04610c06",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

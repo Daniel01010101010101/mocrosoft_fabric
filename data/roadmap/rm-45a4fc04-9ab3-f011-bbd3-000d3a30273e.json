@@ -1,0 +1,23 @@
+{
+  "id": "rm-45a4fc04-9ab3-f011-bbd3-000d3a30273e",
+  "releaseItemId": "45a4fc04-9ab3-f011-bbd3-000d3a30273e",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - New Destination: Google Cloud Storage",
+  "description": "We are introducing Google Cloud Storage (GCS) as a new data destination for Dataflow Gen2 in Preview, enabling customers to land transformed data from Microsoft Fabric directly into Google Cloud Storage using Dataflow Gen2’s low‑code Power Query experience.This preview expands Dataflow Gen2’s destination ecosystem to better support multi‑cloud data architectures, giving customers with existing investments in Google Cloud a simple way to integrate Fabric‑based transformations into their broader data estate.Key benefits and scenarios:* Publish curated outputs from Dataflow Gen2 directly to Google Cloud Storage buckets* Support multi‑cloud ingestion and data sharing scenarios while centralizing transformation logic in Fabric* Enable teams to prepare and standardize data in Fabric before making it available to GCP‑based analytics, processing, or downstream pipelinesDuring Preview, the Google Cloud Storage data destination is intended for evaluation and feedback, allowing customers to validate connectivity patterns, performance characteristics, and integration workflows ahead of broader production use.This release is part of our broader effort to make Dataflow Gen2 a flexible, low‑code transformation layer across clouds, with ongoing investments planned to further mature and expand multi‑cloud destination support in Fabric.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=45a4fc04-9ab3-f011-bbd3-000d3a30273e",
+  "contentHash": "316d4ac0f8265ed42f962e8b0d7042d36e7150c171613712239f3c70c47e6f16",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-deda5fc6-99fc-ee11-a1ff-000d3a341a60",
+  "releaseItemId": "deda5fc6-99fc-ee11-a1ff-000d3a341a60",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Author calculation groups",
+  "description": "Calculation groups are a simple way to reduce the number of measures in a model by grouping common measure expressions. Calculation groups work with existing explicit DAX measures by automating repetitive patterns. For example, a sales analyst might want to view sales and order quantities by month-to-date (MTD), quarter-to-date (QTD), year-to-date (YTD), orders year-to-date for the previous year (PY), and so on.Calculation groups are supported by Power BI models, however they’re an engine-only feature. With this enhancement, data modelers will be able to create calculation groups by using Power BI Desktop.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=deda5fc6-99fc-ee11-a1ff-000d3a341a60",
+  "contentHash": "c90f69a20539d2d629e796fd8f54179e56d4a7f42ee6dc83a3d541ea9993df00",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

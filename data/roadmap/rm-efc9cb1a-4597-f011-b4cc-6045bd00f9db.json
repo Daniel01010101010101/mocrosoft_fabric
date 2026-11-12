@@ -1,0 +1,23 @@
+{
+  "id": "rm-efc9cb1a-4597-f011-b4cc-6045bd00f9db",
+  "releaseItemId": "efc9cb1a-4597-f011-b4cc-6045bd00f9db",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "ALTER TABLE support inside transactions (Generally Available)",
+  "description": "Treating schema changes as transactional aligns with atomicity and isolation guarantees. If any part of the transaction fails, everything is rolled back, preserving data integrity. This capability is especially useful for automated pipelines and CI/CD workflows, where schema changes must be applied safely and predictably.With this release, Fabric Data Warehouse supports executing the following inside an explicit transaction:ALTER TABLE Add nullable columnsALTER TABLE Drop columnsALTER TABLE Add or drop NOT ENFORCED PRIMARY KEY, UNIQUE, and FOREIGN KEY constraintsExecute multiple ALTER TABLE statements atomicallyALTER distributed temporary tablesIf any operation fails, the entire transaction is rolled back automatically.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=efc9cb1a-4597-f011-b4cc-6045bd00f9db",
+  "contentHash": "bba97b46093eb17c82ce5b9f905002c839b54a70bcfe2f78fac825a488b1ae51",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

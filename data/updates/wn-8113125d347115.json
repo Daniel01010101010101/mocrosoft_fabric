@@ -1,0 +1,60 @@
+{
+  "id": "wn-8113125d347115",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_28",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/spark-adonet-driver",
+  "title": "ADO.NET driver high concurrency (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "ADO.NET driver high concurrency runs concurrent Spark SQL queries through shared sessions. For more information, see ADO.NET driver high concurrency.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_28\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ADO.NET driver high concurrency</a> runs concurrent Spark SQL queries through shared sessions. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/spark-adonet-driver\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ADO.NET driver high concurrency</a>.",
+    "excerpt": "ADO.NET driver high concurrency runs concurrent Spark SQL queries through shared sessions. For more information, see ADO.NET driver high concurrency.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "ADO.NET driver high concurrency",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_28"
+      },
+      {
+        "label": "ADO.NET driver high concurrency",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/spark-adonet-driver"
+      }
+    ]
+  },
+  "contentHash": "dac03f783cbecd71926415a1412f3d540e95ef9ca8b3ec1668d78fc96a593c0e",
+  "categories": [
+    "data-engineering"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_28"
+  }
+}

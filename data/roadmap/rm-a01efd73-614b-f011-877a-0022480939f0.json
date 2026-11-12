@@ -1,0 +1,23 @@
+{
+  "id": "rm-a01efd73-614b-f011-877a-0022480939f0",
+  "releaseItemId": "a01efd73-614b-f011-877a-0022480939f0",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Support horizontal tabs for open items and provide the ability to open multiple workspaces",
+  "description": "* Horizontal tabs in Fabric developer experience* Multi-workspace support to allow having multiple workspaces open side-by-side",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=a01efd73-614b-f011-877a-0022480939f0",
+  "contentHash": "35a9c98837fadf769b175845abca9a149a50d4d27e5f52d73f247376987d57f3",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

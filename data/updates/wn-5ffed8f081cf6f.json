@@ -1,0 +1,57 @@
+{
+  "id": "wn-5ffed8f081cf6f",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/ai-functions",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-warehouse/ai-functions",
+  "title": "Warehouse AI functions (preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric Data Warehouse now brings AI directly into T-SQL, enabling you to categorize and classify text, analyze sentiment, extract structured information, translate text across languages, and even correct grammar - all using built-in AI functions. To get started, see Use AI functions in Fabric Data Warehouse (preview).",
+    "html": "Fabric Data Warehouse now brings AI directly into T-SQL, enabling you to categorize and classify text, analyze sentiment, extract structured information, translate text across languages, and even correct grammar - all using built-in AI functions. To get started, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/ai-functions\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Use AI functions in Fabric Data Warehouse (preview)</a>.",
+    "excerpt": "Fabric Data Warehouse now brings AI directly into T-SQL, enabling you to categorize and classify text, analyze sentiment, extract structured information, translate text across languages, and even correct grammar - all using built-in AI functions. To get started, see Use AI functions in Fabric Data Warehouse (preview).",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Use AI functions in Fabric Data Warehouse (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/ai-functions"
+      }
+    ]
+  },
+  "contentHash": "25a7802cc39f3724098a130d8d329c9cbf8bbb7b014b3ef702986a695e161947",
+  "categories": [
+    "copilot-ai",
+    "data-warehouse"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-scientists",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

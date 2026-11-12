@@ -1,0 +1,60 @@
+{
+  "id": "wn-9f539765d6c9cf",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_11",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/cicd/git-integration/granular-compare",
+  "title": "Compare and commit Git changes (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Compare and commit Git changes provides scoped diffs, conflict resolution, and item commits. For more information, see Compare and commit Fabric items.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_11\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Compare and commit Git changes</a> provides scoped diffs, conflict resolution, and item commits. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/cicd/git-integration/granular-compare\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Compare and commit Fabric items</a>.",
+    "excerpt": "Compare and commit Git changes provides scoped diffs, conflict resolution, and item commits. For more information, see Compare and commit Fabric items.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Compare and commit Git changes",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_11"
+      },
+      {
+        "label": "Compare and commit Fabric items",
+        "url": "https://learn.microsoft.com/en-us/fabric/cicd/git-integration/granular-compare"
+      }
+    ]
+  },
+  "contentHash": "7807b040e609563bc3a69e908859cb386ea6bdb52f694fba689b004ecb115e82",
+  "categories": [
+    "developer-apis"
+  ],
+  "primaryCategory": "developer-apis",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_11"
+  }
+}

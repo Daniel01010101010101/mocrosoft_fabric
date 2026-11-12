@@ -1,0 +1,59 @@
+{
+  "id": "wn-e5aed331851152",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/enterprise/capacity-overage-overview",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/enterprise/capacity-overage-overview",
+  "title": "Capacity overage (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Capacity overage is now generally available for Fabric F SKUs and is enabled by default when you create a capacity. It pays for eligible excess capacity usage to help prevent throttling, up to a configurable rolling 24-hour threshold. For more information, see Capacity overage in Microsoft Fabric and Enable capacity overage in Microsoft Fabric.",
+    "html": "Capacity overage is now generally available for Fabric F SKUs and is enabled by default when you create a capacity. It pays for eligible excess capacity usage to help prevent throttling, up to a configurable rolling 24-hour threshold. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/enterprise/capacity-overage-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Capacity overage in Microsoft Fabric</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/enterprise/enable-capacity-overage\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Enable capacity overage in Microsoft Fabric</a>.",
+    "excerpt": "Capacity overage is now generally available for Fabric F SKUs and is enabled by default when you create a capacity. It pays for eligible excess capacity usage to help prevent throttling, up to a configurable rolling 24-hour threshold. For more information, see Capacity overage in Microsoft Fabric and Enable capacity…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Capacity overage in Microsoft Fabric",
+        "url": "https://learn.microsoft.com/en-us/fabric/enterprise/capacity-overage-overview"
+      },
+      {
+        "label": "Enable capacity overage in Microsoft Fabric",
+        "url": "https://learn.microsoft.com/en-us/fabric/enterprise/enable-capacity-overage"
+      }
+    ]
+  },
+  "contentHash": "bf08191253964dadbf51f98657166f7354e19bd9bf2f71b96f3f83f39316a191",
+  "categories": [
+    "admin-governance"
+  ],
+  "primaryCategory": "admin-governance",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-dc534013-ab2b-f011-8c4d-0022480939f0",
+  "releaseItemId": "dc534013-ab2b-f011-8c4d-0022480939f0",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Real-Time hub is more task oriented",
+  "description": "The Real-Time hub will provide intuitive, easy-to-use task-oriented experiences to facilitate exploration and immediate value delivery.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=dc534013-ab2b-f011-8c4d-0022480939f0",
+  "contentHash": "9961bff85a29f0f3d56864f750d5efe057d244bbdb88ac559256e6ea02ed1331",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

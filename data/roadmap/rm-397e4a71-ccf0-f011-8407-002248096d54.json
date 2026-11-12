@@ -1,0 +1,23 @@
+{
+  "id": "rm-397e4a71-ccf0-f011-8407-002248096d54",
+  "releaseItemId": "397e4a71-ccf0-f011-8407-002248096d54",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "[PuPr] DataAgent - Graph As a DataSource",
+  "description": "The Fabric Graph is introduced as a new structured data source in the Fabric Data Agent, enabling the agent to reason over entities and relationships using a native graph model rather than flat tables. By leveraging Graph schemas and NL2GQL, the Data Agent can answer complex questions that require relationship traversal, multi‑hop reasoning, and entity‑centric insights more naturally and accurately. Fabric Graph integrates seamlessly alongside existing Fabric sources (such as Lakehouse and Eventhouse), allowing the agent orchestrator to select graphs when relational context is critical. This unlocks more intuitive analytical experiences, including plain‑English answers with the ability to pivot into visual or interactive graph exploration. Overall, Fabric Graph expands the Data Agent’s reasoning depth and makes relationship‑driven insights first‑class in conversational analytics.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=397e4a71-ccf0-f011-8407-002248096d54",
+  "contentHash": "95a58a1e5296aeca7ffbb64f966fe1dba8e0b29531ecc434e775059e4aa74345",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

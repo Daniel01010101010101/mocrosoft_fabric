@@ -1,0 +1,23 @@
+{
+  "id": "rm-8ed33294-5a38-f111-88b5-6045bd00fc61",
+  "releaseItemId": "8ed33294-5a38-f111-88b5-6045bd00fc61",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - Dynamic Schema Support for Fabric Data Warehouse Destination",
+  "description": "Dataflows Gen2 will expand support for Dynamic Schema mode when writing to Fabric Data Warehouse destinations, making it easier to handle evolving data without manual rework.With Dynamic Schema, Dataflow Gen2 can automatically adapt to changes in your query schema—such as added or modified columns—when publishing data to a warehouse. This removes the need to pre‑define and rigidly maintain table schemas as your data evolves.Why this matters:* Faster iteration: Update transformations without blocking on schema alignment.* Schema‑flexible pipelines: Land evolving datasets into a warehouse with less friction.* Simpler migrations: Common Gen1 and self‑service scenarios that rely on schema evolution become easier to move to Gen2.This capability is especially valuable for transformation‑heavy pipelines and self‑service data preparation, where schemas naturally change over time, and aligns Dataflow Gen2 more closely with the flexible, modern data engineering patterns supported across Microsoft Fabric.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=8ed33294-5a38-f111-88b5-6045bd00fc61",
+  "contentHash": "1b157e8c3e8be090460ca54c10669f81e50a0d36b713d14ce11261af7e7a0a30",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

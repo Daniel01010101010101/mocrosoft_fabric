@@ -1,0 +1,23 @@
+{
+  "id": "rm-df9398eb-fb68-f111-a826-6045bd0066ad",
+  "releaseItemId": "df9398eb-fb68-f111-a826-6045bd0066ad",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Build Agent with AI Mode: Support Semantic Models",
+  "description": "Build Agent with AI mode is expanding support for Semantic Models in Data Agent, helping users generate semantic-model specific instructions and example queries more easily. The feature can explore Semantic Model tables, measures, columns, and recent query patterns to produce more relevant configurations while preserving transparency through visible run steps and explored queries. Users remain in control by reviewing, refining, and committing generated configurations before they update their Data Agent setup.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=df9398eb-fb68-f111-a826-6045bd0066ad",
+  "contentHash": "c2098726f204b65690fe832d185e163f29a9623112c4a7efc331242797090c0d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

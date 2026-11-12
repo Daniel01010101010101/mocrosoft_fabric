@@ -1,0 +1,23 @@
+{
+  "id": "rm-136ee5c3-d63d-f111-88b5-6045bd0a8ec1",
+  "releaseItemId": "136ee5c3-d63d-f111-88b5-6045bd0a8ec1",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "User Data Function as a Business Events Publisher from Real-Time Hub",
+  "description": "**User Data Function as a Business Events Publisher from Real-Time Hub****Overview**Enable users to create and configure User Data Functions (UDFs) as Business Events publishers directly from Real-Time hub—bringing custom logic, programmability, and real-time event emission into a unified experience.**Key Capabilities*** UDF Publisher Creation from Real-Time Hub: Launch and configure User Data Functions directly from Real-Time hub to publish Business Events without leaving the experience.* Code-First Event Publishing: Use Python-based UDFs to define custom logic for event generation and publishing, enabling advanced scenarios beyond out-of-the-box publishers.* Built-in Event Publishing Integration: Leverage integrated Business Events client libraries within UDFs to emit events aligned with defined schemas.* Schema-Aligned Payload Generation: Ensure event payloads conform to standardized Business Event schemas, improving consistency across publishers and consumers.* Flexible Trigger & Execution Model: Invoke UDFs from Notebooks, pipelines, or scheduled workflows to publish Business Events based on custom logic and conditions.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=136ee5c3-d63d-f111-88b5-6045bd0a8ec1",
+  "contentHash": "22d1f4aa984eeed66f6ec792cddfea81e949355d03a1e5df02e91a74d58aa8c2",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

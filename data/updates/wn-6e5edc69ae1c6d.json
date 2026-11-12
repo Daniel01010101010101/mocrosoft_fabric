@@ -1,0 +1,58 @@
+{
+  "id": "wn-6e5edc69ae1c6d",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-public-apis",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-public-apis",
+  "title": "Public API capabilities for Dataflow Gen2 dataflows in Fabric Data Factory (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "This preview of the Dataflows Gen 2 public APIs enables users to create, update, and monitor their data workflows programmatically. The APIs support a wide range of operations including dataflows CRUD (Create, Read, Update, and Delete), scheduling, and monitoring, making it easier for users to manage their data integration processes.",
+    "html": "This <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-public-apis\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">preview of the Dataflows Gen 2 public APIs</a> enables users to create, update, and monitor their data workflows programmatically. The APIs support a wide range of operations including dataflows CRUD (Create, Read, Update, and Delete), scheduling, and monitoring, making it easier for users to manage their data integration processes.",
+    "excerpt": "This preview of the Dataflows Gen 2 public APIs enables users to create, update, and monitor their data workflows programmatically. The APIs support a wide range of operations including dataflows CRUD (Create, Read, Update, and Delete), scheduling, and monitoring, making it easier for users to manage their data…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "preview of the Dataflows Gen 2 public APIs",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-public-apis"
+      }
+    ]
+  },
+  "contentHash": "fbcc4c2bf9a4316f0cdd7f81b9800acf00c25ee14e5a0713b660b46f151a2760",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers",
+      "architects",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

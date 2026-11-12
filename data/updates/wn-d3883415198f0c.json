@@ -1,0 +1,57 @@
+{
+  "id": "wn-d3883415198f0c",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_68",
+  "title": "Ontology as Real-Time Dashboard source (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.13,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Ontology as a Real-Time Dashboard source (Preview) brings business entities and relationships into live visualizations.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_68\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ontology as a Real-Time Dashboard source (Preview)</a> brings business entities and relationships into live visualizations.",
+    "excerpt": "Ontology as a Real-Time Dashboard source (Preview) brings business entities and relationships into live visualizations.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Ontology as a Real-Time Dashboard source (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_68"
+      }
+    ]
+  },
+  "contentHash": "937850434cb0bd1e76a844a122d8bda036815b599eb87b5a04a1b0e5e7ef2a30",
+  "categories": [
+    "power-bi",
+    "real-time-intelligence",
+    "copilot-ai"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 65,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_68"
+  }
+}

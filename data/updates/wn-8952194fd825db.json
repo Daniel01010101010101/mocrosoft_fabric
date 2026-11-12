@@ -1,0 +1,63 @@
+{
+  "id": "wn-8952194fd825db",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/26307?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/enterprise/metrics-app-item-history-page",
+  "title": "Item History in Fabric Capacity Metrics App (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Item History page in the Fabric Capacity Metrics App (Preview) provides a 30-day view of compute capacity consumption with interactive visuals and slicers for workspace and item-level analysis. For more information, see Understand the metrics app item history page (preview).",
+    "html": "The <a href=\"https://blog.fabric.microsoft.com/blog/26307?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Item History page in the Fabric Capacity Metrics App (Preview)</a> provides a 30-day view of compute capacity consumption with interactive visuals and slicers for workspace and item-level analysis. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/enterprise/metrics-app-item-history-page\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Understand the metrics app item history page (preview)</a>.",
+    "excerpt": "The Item History page in the Fabric Capacity Metrics App (Preview) provides a 30-day view of compute capacity consumption with interactive visuals and slicers for workspace and item-level analysis. For more information, see Understand the metrics app item history page (preview).",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Item History page in the Fabric Capacity Metrics App (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/26307?ft=All"
+      },
+      {
+        "label": "Understand the metrics app item history page (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/enterprise/metrics-app-item-history-page"
+      }
+    ]
+  },
+  "contentHash": "10e3175e1c38147ad46ca51f304bb86f5d852de14f03837b1639dc7278a8345c",
+  "categories": [
+    "admin-governance",
+    "power-bi"
+  ],
+  "primaryCategory": "admin-governance",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "administrators",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/26307?ft=All",
+    "backfill": "true"
+  }
+}

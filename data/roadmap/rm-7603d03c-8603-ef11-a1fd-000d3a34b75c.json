@@ -1,0 +1,23 @@
+{
+  "id": "rm-7603d03c-8603-ef11-a1fd-000d3a34b75c",
+  "releaseItemId": "7603d03c-8603-ef11-a1fd-000d3a34b75c",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "VSCode Core Extension for Fabric",
+  "description": "Core VSCode Extension for Fabric will provide common developer support for Fabric services.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=7603d03c-8603-ef11-a1fd-000d3a34b75c",
+  "contentHash": "695b1b30f7df7c993c1df938ec6be64cba2f5d9710ec0f0ee313f626cc582271",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

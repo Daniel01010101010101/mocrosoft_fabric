@@ -1,0 +1,23 @@
+{
+  "id": "rm-f0c20973-f412-f011-9989-000d3a34671f",
+  "releaseItemId": "f0c20973-f412-f011-9989-000d3a34671f",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Deployment pipelines new UI",
+  "description": "As Deployment pipelines evolve into a platform tool (fabric’s), it necessitates modifications in its current design to accommodate Fabric from various angles such as UX alignments, scalability, and advanced features, among others. The new UI of Deployment pipelines introduce a fresh user interface for the creation process and the pipeline’s main page, along with some UX improvements. There’s also a shift in the deployment operation where instead of deploying to the next stage, you’re now deploying to your current stage. Other than that, all functionalities have stayed the same so anything you can do in the original UI you can do with the new UI.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=f0c20973-f412-f011-9989-000d3a34671f",
+  "contentHash": "423e48aa159ae57e08a77f4ad6127e93be15d840bc60aa1da3b35249a1e8e07d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

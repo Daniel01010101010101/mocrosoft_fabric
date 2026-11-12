@@ -1,0 +1,23 @@
+{
+  "id": "rm-e9e7c616-d289-f111-ab0f-6045bd03e6d8",
+  "releaseItemId": "e9e7c616-d289-f111-ab0f-6045bd03e6d8",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Data Agent Migration to Responses API",
+  "description": "The OpenAI Assistants API that powers the orchestration layer for the Microsoft Fabric data agent is currently scheduled to be shut down by OpenAI on August 26, 2026. After that date, direct calls to the Assistants API will stop working. We are migrating the Data Agent UX and Programmatic experiences to the Responses API",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=e9e7c616-d289-f111-ab0f-6045bd03e6d8",
+  "contentHash": "40072a2b30b22831e7435a9d03759c4ba366a04b646e603ac1116e96a9e10f6d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

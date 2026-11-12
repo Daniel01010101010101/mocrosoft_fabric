@@ -1,0 +1,23 @@
+{
+  "id": "rm-1a98d2aa-7bba-f011-bbd2-0022480a2ecf",
+  "releaseItemId": "1a98d2aa-7bba-f011-bbd2-0022480a2ecf",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Display the job concurrency and queueing limits to users as part of workspace settings",
+  "description": "Visibility into Job Concurrency & QueueingWorkspace users and admins can see all active jobs and their states (running, queued, throttled)Diagnose job delays by identifying concurrency limits or queueing bottlenecksCapacity admins can now monitor job activity across all workspaces based on CU load.Understand overall load and capacity pressure",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=1a98d2aa-7bba-f011-bbd2-0022480a2ecf",
+  "contentHash": "212b9958875fb0c34d28a84cba485a302eb83398d17706a32e52876b1b76fbb4",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "wn-d2043ec6736cda",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advanced-DAX-generation-for-semantic-models-in-Fabric-data/ba-p/5363136",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-science/data-agent-runtime",
+  "title": "Advanced DAX generation for semantic models (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.74,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Advanced DAX generation for Fabric data agents (Preview) lets a data agent plan its approach, inspect semantic model values and intermediate results, refine its reasoning, and execute a final DAX query before answering. For more information, see Fabric data agent runtime and Semantic model best practices for data agent.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advanced-DAX-generation-for-semantic-models-in-Fabric-data/ba-p/5363136\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Advanced DAX generation for Fabric data agents (Preview)</a> lets a data agent plan its approach, inspect semantic model values and intermediate results, refine its reasoning, and execute a final DAX query before answering. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-science/data-agent-runtime\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric data agent runtime</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/data-science/semantic-model-best-practices\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Semantic model best practices for data agent</a>.",
+    "excerpt": "Advanced DAX generation for Fabric data agents (Preview) lets a data agent plan its approach, inspect semantic model values and intermediate results, refine its reasoning, and execute a final DAX query before answering. For more information, see Fabric data agent runtime and Semantic model best practices for data…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Advanced DAX generation for Fabric data agents (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advanced-DAX-generation-for-semantic-models-in-Fabric-data/ba-p/5363136"
+      },
+      {
+        "label": "Fabric data agent runtime",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-science/data-agent-runtime"
+      },
+      {
+        "label": "Semantic model best practices for data agent",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-science/semantic-model-best-practices"
+      }
+    ]
+  },
+  "contentHash": "122cdefadfacadf374276cc70a141bb18bd103f2c4c9147a129f396fbd45ed1a",
+  "categories": [
+    "power-bi",
+    "copilot-ai"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "data-scientists",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advanced-DAX-generation-for-semantic-models-in-Fabric-data/ba-p/5363136",
+    "backfill": "true"
+  }
+}

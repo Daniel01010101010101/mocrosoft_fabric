@@ -1,0 +1,23 @@
+{
+  "id": "rm-9209ff64-9633-f111-88b4-6045bd0a886d",
+  "releaseItemId": "9209ff64-9633-f111-88b4-6045bd0a886d",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - Recent Tables",
+  "description": "We plan to make Recent Tables in Dataflow Gen2 generally available, helping users quickly reconnect to tables they’ve used before and accelerate the Modern Get Data experience.Going GA means Recent Tables is ready for production usage, with the reliability, consistency, and support required for everyday and business‑critical data preparation workflows.Key benefits and scenarios:* Quickly re‑access previously used tables without re‑browsing or re‑discovering sources* Faster iteration when building or updating multiple dataflows that reuse familiar data* A more efficient, streamlined Modern Get Data experience—especially in complex or shared environmentsBy bringing Recent Tables to GA, we’re reducing friction in day‑to‑day authoring and making Dataflow Gen2 faster and more productive for repeat, production‑scale data preparation.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=9209ff64-9633-f111-88b4-6045bd0a886d",
+  "contentHash": "3adcd6f13991483d3492e7caf220500668a4f0965b3e60c5a3e7a88ba7c611f9",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

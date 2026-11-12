@@ -1,0 +1,23 @@
+{
+  "id": "rm-26b7e462-542e-f011-8c4e-0022480939f0",
+  "releaseItemId": "26b7e462-542e-f011-8c4e-0022480939f0",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Digital Twin Builder",
+  "description": "Digital twin builder (preview) is a new item within the Real-Time Intelligence workload in Microsoft Fabric. It creates digital representations of real-world environments to optimize physical operations using data.Digital twin builder equips users with low code/no code experiences to build and model their business concepts, such as assets and processes, through an ontology. It allows data mapping from various source systems to the ontology, and defines system or site-wide semantic relationships. The item also includes out-of-the-box exploration experiences to explore your modeled data. Ontologies can be connected to Real-Time Dashboards or Power BI, enabling the creation of customized views and dashboards for customers, clients, and different internal audiences. The low code/no code experience for building and analyzing the ontology makes digital twin builder accessible to operational decision-makers for improving operations at scale, all within Microsoft Fabric's all-in-one data analytics platform.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=26b7e462-542e-f011-8c4e-0022480939f0",
+  "contentHash": "f045bf1643c312746801af74864a2614d9433247a7375fc38a83e86f1d8109d4",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

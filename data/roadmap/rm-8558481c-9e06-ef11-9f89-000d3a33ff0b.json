@@ -1,0 +1,23 @@
+{
+  "id": "rm-8558481c-9e06-ef11-9f89-000d3a33ff0b",
+  "releaseItemId": "8558481c-9e06-ef11-9f89-000d3a33ff0b",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Support for invoking cross-workspace data pipelines",
+  "description": "Invoke Pipelines activity update: We are enabling some new and exciting updates to the Invoke Pipeline activity. In response to overwhelming customer and community requests, we are enabling running data pipelines across workspaces. You will now be able to invoke pipelines from other workspaces that you have access to execute. This will enable very exciting data workflow patterns that can utilize collaboration from your data engineering and integration teams across workspaces and across functional teams.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2024",
+  "releaseQuarterStart": "2024-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=8558481c-9e06-ef11-9f89-000d3a33ff0b",
+  "contentHash": "26254169e0abdf5a12f33b17cea38e60869705ba902c51efd13ab83493134f5a",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

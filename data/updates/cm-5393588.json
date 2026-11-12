@@ -1,0 +1,75 @@
+{
+  "id": "cm-5393588",
+  "kind": "blog",
+  "source": "fabric-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Find-expensive-queries-from-Capacity-Metrics-Generally-Available/ba-p/5393588",
+  "docsUrl": "https://learn.microsoft.com/fabric/enterprise/metrics-app-timepoint-page#monitor-in-warehouse",
+  "title": "Find expensive queries from Capacity Metrics (Generally Available)",
+  "author": "Mariyaali",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-04T20:03:23.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "When warehouse capacity usage spikes, you need to quickly understand what ran, which warehouse drove the usage, and which queries require investigation.\nThe Monitor in warehouse action in the Microsoft Fabric Capacity Metrics app connects the capacity-level view directly to Warehouse Monitor. It opens the selected warehouse with the relevant time window already applied, eliminating manual correlation across monitoring experiences.\nFigure: Animated GIF - demonstrating how to navigate from a Capacity Metrics timepoint to Warehouse Monitor in four steps.\nFollow the activity into your warehouse\n• Open Capacity Metrics: From the Compute page, select your capacity and review CU % over time. Capacity Units, or CUs, represent the compute consumption tracked for the capacity.\n• Choose a timepoint: Select the usage increase you want to investigate, and then select Explore and open TimePoint Detail.\n• Choose an operation window: Under Background operations for time range, select a supported warehouse query operation whose Start and End times cover the interval. Then select Monitor in warehouse.\n• Explore Warehouse Monitor: Open Query history to review statements that ran during the selected interval.\nAccess required: Access to the Capacity Metrics app and the Admin role in the workspace containing the warehouse. For supported operations and navigation, refer to the Monitor in warehouse documentation.\nFind the queries worth investigating\nStart with CPU time. Add the column through Column options and sort from highest to lowest. CPU time is the processor time allocated to an execution. It is not elapsed duration or the Capacity Units billed for an individual query.\nNo single metric explains the complete workload. Review these columns together:\n• Data scanned: Identify statements that read large volumes of data. Compare OneLake reads with local disk, and memory reads to understand caching behavior.\n• Result cache hit: A value of 2 means the query reused a cached result, 1 means the execution created a result set cache, and 0 means result caching did not apply.\n• Query text: Review joins, predicates, and filters for unnecessary scans or processing.\n• Label: Connect statements to a workload, business process, or test variation.\n• Is distributed: Separate distributed executions, represented by 1, from nondistributed requests, represented by 0.\nFor queries with high CPU time or data scanned, select View similar runs to determine whether the behavior is recurring or isolated. Add Query Insights fields such as application, SQL pool, status, and error code to identify the originating workload and distinguish expensive successful executions from failed or interrupted ones.\nFor field definitions, refer to the query execution history column reference documentation.\nMake the same correlation with AI\nThe Data Warehouse operations skill in Skills for Fabric can correlate Capacity Metrics data with Query Insights activity for the same warehouse and time window, using your existing permissions.\nExample prompt:\nInvestigate the capacity spike for my warehouse from 14:00 to 15:00 UTC on November 3, 2026. Identify queries with high CPU time or data scanned, explain why each query stands out, and suggest the next investigation step.\nReview the supporting metrics and query details before making tuning or workload-management decisions.\nNext steps\nTry Monitor in warehouse the next time you see a capacity usage increase. Start with CPU time and data scanned, compare similar runs, and use workload metadata to determine what drove the activity.\nFor more guidance, refer to the Warehouse performance guidelines, query blocking troubleshooting, and Monitor T-SQL queries documentation.",
+    "html": "<p>When warehouse capacity usage spikes, you need to quickly understand what ran, which warehouse drove the usage, and which queries require investigation. </p>\n<p>The Monitor in warehouse action in the Microsoft Fabric Capacity Metrics app connects the capacity-level view directly to Warehouse Monitor. It opens the selected warehouse with the relevant time window already applied, eliminating manual correlation across monitoring experiences. </p>\n<em>Figure: Animated GIF - demonstrating how to navigate from a Capacity Metrics timepoint to Warehouse Monitor in four steps.</em>\n<h3>Follow the activity into your warehouse </h3>\n<ol>\n<li><strong>Open Capacity Metrics:</strong> From the Compute page, select your capacity and review CU % over time. Capacity Units, or CUs, represent the compute consumption tracked for the capacity.</li>\n<li><strong>Choose a timepoint</strong>: Select the usage increase you want to investigate, and then select Explore and open TimePoint Detail.</li>\n<li><strong>Choose an operation window:</strong> Under Background operations for time range, select a supported warehouse query operation whose Start and End times cover the interval. Then select Monitor in warehouse.</li>\n<li><strong>Explore Warehouse Monitor: </strong>Open Query history to review statements that ran during the selected interval. </li>\n</ol>\n<p>Access required: Access to the Capacity Metrics app and the Admin role in the workspace containing the warehouse. For supported operations and navigation, refer to the <a href=\"https://learn.microsoft.com/fabric/enterprise/metrics-app-timepoint-page#monitor-in-warehouse\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Monitor in warehouse </a>documentation.</p>\n<h3>Find the queries worth investigating </h3>\n<p>Start with CPU time. Add the column through Column options and sort from highest to lowest. CPU time is the processor time allocated to an execution. It is not elapsed duration or the Capacity Units billed for an individual query. </p>\n<p>No single metric explains the complete workload. Review these columns together: </p>\n<ul>\n<li><strong>Data scanned:</strong> Identify statements that read large volumes of data. Compare OneLake reads with local disk, and memory reads to understand caching behavior. </li>\n<li><strong>Result cache hit:</strong> A value of 2 means the query reused a cached result, 1 means the execution created a result set cache, and 0 means result caching did not apply. </li>\n<li><strong>Query text: </strong>Review joins, predicates, and filters for unnecessary scans or processing. </li>\n<li><strong>Label: </strong>Connect statements to a workload, business process, or test variation. </li>\n<li><strong>Is distributed:</strong> Separate distributed executions, represented by 1, from nondistributed requests, represented by 0. </li>\n</ul>\n<p>For queries with high CPU time or data scanned, select View similar runs to determine whether the behavior is recurring or isolated. Add Query Insights fields such as application, SQL pool, status, and error code to identify the originating workload and distinguish expensive successful executions from failed or interrupted ones. </p>\n<p>For field definitions, refer to the <a href=\"https://learn.microsoft.com/sql/relational-databases/system-views/queryinsights-exec-requests-history-transact-sql?view=fabric&amp;preserve-view=true\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">query execution history column reference </a>documentation.</p>\n<h3>Make the same correlation with AI </h3>\n<p>The <a href=\"https://learn.microsoft.com/fabric/data-warehouse/skills-for-data-warehouse-operations\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Data Warehouse operations skill in Skills for Fabric</a> can correlate Capacity Metrics data with Query Insights activity for the same warehouse and time window, using your existing permissions. </p>\n<p>Example prompt: </p>\n<blockquote>\n<p>Investigate the capacity spike for my warehouse from 14:00 to 15:00 UTC on November 3, 2026. Identify queries with high CPU time or data scanned, explain why each query stands out, and suggest the next investigation step. </p>\n</blockquote>\n<p>Review the supporting metrics and query details before making tuning or workload-management decisions. </p>\n<h3>Next steps </h3>\n<p>Try Monitor in warehouse the next time you see a capacity usage increase. Start with CPU time and data scanned, compare similar runs, and use workload metadata to determine what drove the activity. </p>\n<p>For more guidance, refer to the <a href=\"https://learn.microsoft.com/fabric/data-warehouse/guidelines-warehouse-performance\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Warehouse performance guidelines</a>, <a href=\"https://learn.microsoft.com/fabric/data-warehouse/troubleshoot-query-blocking\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">query blocking troubleshooting</a>, and <a href=\"https://learn.microsoft.com/fabric/data-warehouse/monitor\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Monitor T-SQL queries</a> documentation.</p>",
+    "excerpt": "When warehouse capacity usage spikes, you need to quickly understand what ran, which warehouse drove the usage, and which queries require investigation. The Monitor in warehouse action in the Microsoft Fabric Capacity Metrics app connects the capacity-level view directly to Warehouse Monitor. It opens the selected…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Monitor in warehouse",
+        "url": "https://learn.microsoft.com/fabric/enterprise/metrics-app-timepoint-page#monitor-in-warehouse"
+      },
+      {
+        "label": "query execution history column reference",
+        "url": "https://learn.microsoft.com/sql/relational-databases/system-views/queryinsights-exec-requests-history-transact-sql?view=fabric&preserve-view=true"
+      },
+      {
+        "label": "Data Warehouse operations skill in Skills for Fabric",
+        "url": "https://learn.microsoft.com/fabric/data-warehouse/skills-for-data-warehouse-operations"
+      },
+      {
+        "label": "Warehouse performance guidelines",
+        "url": "https://learn.microsoft.com/fabric/data-warehouse/guidelines-warehouse-performance"
+      },
+      {
+        "label": "query blocking troubleshooting",
+        "url": "https://learn.microsoft.com/fabric/data-warehouse/troubleshoot-query-blocking"
+      },
+      {
+        "label": "Monitor T-SQL queries",
+        "url": "https://learn.microsoft.com/fabric/data-warehouse/monitor"
+      }
+    ]
+  },
+  "contentHash": "05e1432ddc7e3630f2d2a7c2feb5b706ef5ed719ce41d264236ec76a63ddb9f9",
+  "categories": [
+    "admin-governance",
+    "power-bi"
+  ],
+  "primaryCategory": "admin-governance",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 67,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects",
+      "administrators",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

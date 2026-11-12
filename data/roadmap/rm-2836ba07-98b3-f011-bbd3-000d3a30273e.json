@@ -1,0 +1,23 @@
+{
+  "id": "rm-2836ba07-98b3-f011-bbd3-000d3a30273e",
+  "releaseItemId": "2836ba07-98b3-f011-bbd3-000d3a30273e",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - Preview only steps",
+  "description": "Preview only steps are transformation steps in Dataflow Gen2 that are executed only during the authoring phase for the data preview. They're excluded from run operations, ensuring they don't affect runtime behavior or production logic.They're designed to accelerate the authoring experience by reducing evaluation time in the data preview pane. They allow you to iterate and validate transformations more quickly without impacting the final execution of the dataflow.You can learn more about Preview only steps in this article: [https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-preview-only-step](http://)As part of the planned enhancements, we will make this feature generally available.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=2836ba07-98b3-f011-bbd3-000d3a30273e",
+  "contentHash": "935b306d60c6421fd1c18866d8f54fb7968325a171e4bcf3c2a5553178df89eb",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

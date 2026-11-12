@@ -1,0 +1,23 @@
+{
+  "id": "rm-5706d64b-9721-f011-9989-6045bd096807",
+  "releaseItemId": "5706d64b-9721-f011-9989-6045bd096807",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Customer Managed Keys in Fabric",
+  "description": "Microsoft Fabric encrypts all data-at-rest by default using Microsoft Managed Keys. However, many indistry standards require customers to maintain full control over their encryption keys. The Customer Managed Keys (CMK) feature allows customers to use keys that they own and manage to encrypt their data at rest in Fabric. This ensures compliance with regulatory standards and enhances data security, giving customers greater control over their data assets. CMK can be enabled at a workspace level, providing customers with the flexibility and granularity needed to manage their encryption keys effectively. This feature is crucial for organizations that need to meet stringent compliance requirements and maintain robust data security practices.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=5706d64b-9721-f011-9989-6045bd096807",
+  "contentHash": "d1562df715ea2c0e253336c3fed741f11fcb91654ed8b31d74f606088c109afa",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

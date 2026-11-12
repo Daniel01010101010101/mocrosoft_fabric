@@ -1,0 +1,23 @@
+{
+  "id": "rm-35473b7a-e33c-f111-88b5-6045bd00fc61",
+  "releaseItemId": "35473b7a-e33c-f111-88b5-6045bd00fc61",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - Send Email Action",
+  "description": "The Send Email action in Dataflow Gen2 enables data‑driven email notifications directly within a dataflow, allowing teams to send emails that reference and include query results produced during dataflow execution.Emails can dynamically incorporate snapshots of query evaluation results into the email body, as well as use query outputs as inputs to email parameters such as recipients, subject, importance, and message content. This makes it easy to deliver contextual, data‑backed notifications without post‑processing or custom scripting.The Send Email action can be triggered conditionally based on dataflow results, for example when a query returns rows, exceeds a threshold, or contains specific values. This enables common operational and analytical patterns such as exception alerts, data quality notifications, threshold‑based reporting, and scheduled result sharing.By embedding this capability directly into Dataflow Gen2, customers can dramatically simplify end‑to‑end workflows that previously required stitching together multiple components—such as writing results to a destination, orchestrating execution with pipelines, and adding a separate email or automation step. With Send Email built in, Dataflow Gen2 can act as a self‑contained, low‑code data preparation and notification solution, supporting familiar scenarios previously achieved with dedicated workflow and analytics tools, while benefiting from native Fabric integration, governance, and scale.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=35473b7a-e33c-f111-88b5-6045bd00fc61",
+  "contentHash": "e71554f28ddf9c419c10056d2d7bf7847460a92495cd2d445691159ee7e2379a",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

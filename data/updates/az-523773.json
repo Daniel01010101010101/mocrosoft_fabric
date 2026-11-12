@@ -1,0 +1,59 @@
+{
+  "id": "az-523773",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=523773",
+  "title": "Generally Available: Azure Cosmos DB Mirroring in Microsoft Fabric",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2025-11-18T17:01:02.716Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Now generally available, Azure Cosmos DB Mirroring in Fabric enables you to seamlessly integrate your existing operational workloads with the analytical capabilities of Microsoft Fabric. You can take advantage of the innovations in Fabric, running SQL queries over JSON data and building real-time intelligence over your existing transactional data. You can integrate your data with the Microsoft Fabric ecosystem of services and work with Copilot-assisted Microsoft Power BI—all without having to stitch together separate services.\nWith Azure Cosmos DB Mirroring in Fabric, you can select the containers to mirror into Fabric, giving you complete control over the data used for analytics. You get the best of both worlds—the latency and availability of Azure Cosmos DB and the array of analytical capabilities in Microsoft Fabric. This release makes it even easier to make your existing operational data accessible across the Fabric ecosystem.\nLearn more.",
+    "html": "<p><span><span>Now generally available, Azure Cosmos DB Mirroring in Fabric</span><span> </span><span>enables</span><span><span> </span></span><span>you to seamlessly integrate your existing operational workloads with the analytical capabilities of Microsoft Fabric.</span><span><span> </span></span><span>You can</span><span><span> </span></span><span>t</span><span>ake advantage of the innovations in Fabric</span><span>,</span><span><span> </span></span><span>running</span><span><span> </span></span><span>SQL queries over JSON</span><span><span> </span></span><span>data</span><span><span> </span></span><span>and build</span><span>ing</span><span><span> </span></span><span>real-time intelligence over your existing transactional data.</span><span><span> </span></span><span>You can</span><span><span> </span></span><span>i</span><span>ntegrate</span><span><span> </span></span><span>your data</span><span><span> </span></span><span>with the Microsoft Fabric ecosystem of services</span><span><span> </span></span><span>and work with</span><span><span> </span></span><span>Copilot-</span><span>assisted</span><span><span> </span></span><span>Microsoft Power BI</span><span>—</span><span>all without having to stitch together separate services. </span></span><span> </span></p><p><span><span></span></span><span> </span></p><p><span><span>With</span><span><span> </span></span><span>Azure Cosmos DB Mirroring in Fabric</span><span>,</span><span><span> </span></span><span>you</span><span><span> </span></span><span>can</span><span><span> </span></span><span>select</span><span><span> </span></span><span>the</span><span><span> </span></span><span>containers to mirror into Fabric, giving you complete control over</span><span><span> </span></span><span>the</span><span><span> </span></span><span>data</span><span><span> </span></span><span>used for</span><span><span> </span></span><span>analytics</span><span>.</span><span><span> </span></span><span>You get</span><span><span> </span></span><span>the best of both worlds</span><span>—</span><span>the</span><span><span> </span></span><span>latency and availability</span><span><span> </span></span><span>of</span><span><span> </span></span><span>Azure Cosmos DB</span><span><span> </span></span><span>and the array of analytical capabilities in</span><span><span> </span></span><span>Microsoft Fabric</span><span>.</span><span><span> </span></span><span>This release makes it</span><span><span> </span></span><span>even easier</span><span><span> </span></span><span>to</span><span><span> </span></span><span>make</span><span><span> </span></span><span>your existing operational data</span><span><span> </span></span><span>accessible across the Fabric ecosystem.</span></span><span> </span></p><p><a rel=\"noopener noreferrer nofollow\" href=\"https://aka.ms/cosmos-fabric-ga-blog\" target=\"_blank\"><span><span>Learn more</span></span></a><span><span>.</span></span><span> </span></p><br />",
+    "excerpt": "Now generally available, Azure Cosmos DB Mirroring in Fabric enables you to seamlessly integrate your existing operational workloads with the analytical capabilities of Microsoft Fabric. You can take advantage of the innovations in Fabric, running SQL queries over JSON data and building real-time intelligence over…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://aka.ms/cosmos-fabric-ga-blog"
+      }
+    ]
+  },
+  "contentHash": "f3ff0cc4b0eca5b4b3d31dce0e20a5adb0310bdfef26faca2667c62af591ea3f",
+  "categories": [
+    "databases",
+    "data-factory"
+  ],
+  "primaryCategory": "databases",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 75,
+    "level": "alto",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "Launched",
+    "products": "Azure Cosmos DB",
+    "tags": "Microsoft Ignite, Features",
+    "gaDate": "2025-11",
+    "modified": "2025-11-18T17:01:02.7161876Z"
+  }
+}

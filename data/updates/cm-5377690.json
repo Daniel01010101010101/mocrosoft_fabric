@@ -1,0 +1,59 @@
+{
+  "id": "cm-5377690",
+  "kind": "blog",
+  "source": "fabric-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-insights-and-action-together-with-Fabric-Apps-in-Org-apps/ba-p/5377690",
+  "docsUrl": "https://learn.microsoft.com/fabric/apps/overview",
+  "title": "Bring insights and action together with Fabric Apps in Org apps",
+  "author": "mk_sunitha",
+  "originalLanguage": "en",
+  "languageConfidence": 0.9,
+  "publishedAt": "2026-11-09T19:54:16.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Business users move from understanding what happened, to investigating why, to acting. Microsoft Fabric can bring that journey together. Fabric Apps provide purpose-built, data-driven experiences when users need more than a report. Org apps distribute them alongside Power BI reports and other supported Fabric content in a curated destination.\nMove from insight to action in one destination\nPower BI reports help users monitor performance, explore trends, and understand what’s happening in the business. Many insights, however, lead to a next step: submitting a request, updating a plan, investigating an exception, assigning an owner, or tracking a resolution.\nA Fabric App provides the custom interface and workflow for that next step. Including it in an org app places action beside the reports and operational content that provide context. Users enter one destination organized around their role, review the insight, open the Fabric App, and act.\nUnderstanding apps in Fabric\nExperience\nPurpose\nValue\nFabric Apps\nBuild for a specific task\nCreate purpose-built applications connected to Fabric data, with managed APIs, authentication, hosting, and service integration.\nOrg apps\nDistribute in business context\nPackage Fabric Apps with Power BI reports, paginated reports, notebooks, maps, and real-time dashboards, with tailored navigation, branding, and audiences.\nWorkspace apps\nDistribute Power BI content\nPackage and publish reports and dashboards from a workspace. Does not support notebooks and real-time dashboards, automatically granting and revoking access to underlying items and support for Fabric Git integration\nWhat the combined experience looks like\nConsider a retailer that wants regional managers to identify store issues and coordinate a response. The Store Performance page displays a Power BI report, with other business experiences available through the org app navigation.\nStart with the insight\nA regional manager opens the Retail Operations Hub, an app designed around the work of running stores. The landing experience surfaces a Power BI report with revenue, margin, inventory, and customer-service trends. A real-time dashboard highlights emerging operational issues.\nFigure: The Store Action Planner opens as a dedicated Fabric App page within the Retail Operations Hub.\nContinue into a Fabric App\nThe report shows that a store is missing its sales target while carrying excess inventory. The manager opens the Store Action Planner, a Fabric App included in the same org app. The application brings the relevant context into a focused workflow where the manager can review the exception, choose a response, assign owners, and track the plan.\nFigure: Shows a Power BI report with revenue, margin, inventory, and customer-service trends\nKeep reporting and actions connected\nThe org app keeps the solution together while tailoring content for regional and store managers. Business owners can update navigation and included items without rebuilding the Fabric App. Each team retains clear ownership: BI authors evolve reports, developers improve the Fabric App, and business owners curate the org app.\nBenefits\n• One place to work: Move from Power BI insight to action without finding another tool.\n• Role-based distribution: Give each audience the right mix of reports, applications, and operational content.\n• Clear ownership: Let BI authors, developers, and business owners evolve their parts independently within one consistent destination.\n• Business context: Organize navigation and branding around the process, not the underlying technology or workspace.\nGet started\nBuild the tailored experience with Fabric Apps, then use the org app guidance to package it with Power BI reports and other supported Fabric content. Build the experience users need with Fabric Apps. Distribute it in the context of their work with org apps.",
+    "html": "<p> </p>\n<p>Business users move from understanding what happened, to investigating why, to acting. Microsoft Fabric can bring that journey together. <strong> </strong><a href=\"https://learn.microsoft.com/fabric/apps/overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Apps</a> provide purpose-built, data-driven experiences when users need more than a report. <a href=\"https://learn.microsoft.com/power-bi/explore-reports/org-app-items\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Org apps</a> distribute them alongside Power BI reports and other supported Fabric content in a curated destination.</p>\n<h2>Move from insight to action in one destination</h2>\n<p>Power BI reports help users monitor performance, explore trends, and understand what’s happening in the business. Many insights, however, lead to a next step: submitting a request, updating a plan, investigating an exception, assigning an owner, or tracking a resolution.</p>\n<p>A Fabric App provides the custom interface and workflow for that next step. Including it in an org app places action beside the reports and operational content that provide context. Users enter one destination organized around their role, review the insight, open the Fabric App, and act.</p>\n<h2>Understanding apps in Fabric</h2>\n<table><thead><tr><td>\n<p><strong>Experience</strong></p>\n</td><td>\n<p><strong>Purpose</strong></p>\n</td><td>\n<p><strong>Value</strong></p>\n</td></tr></thead><tbody><tr><td>\n<p><strong>Fabric Apps</strong></p>\n</td><td>\n<p>Build for a specific task</p>\n</td><td>\n<p>Create purpose-built applications connected to Fabric data, with managed APIs, authentication, hosting, and service integration.</p>\n</td></tr><tr><td>\n<p><strong>Org apps</strong></p>\n</td><td>\n<p>Distribute in business context</p>\n</td><td>\n<p>Package Fabric Apps with Power BI reports, paginated reports, notebooks, maps, and real-time dashboards, with tailored navigation, branding, and audiences.</p>\n</td></tr><tr><td>\n<p><strong>Workspace apps</strong></p>\n</td><td>\n<p>Distribute Power BI content</p>\n</td><td>\n<p>Package and publish reports and dashboards from a workspace. Does not support notebooks and real-time dashboards, automatically granting and revoking access to underlying items and support for Fabric Git integration</p>\n</td></tr></tbody></table>\n<h2>What the combined experience looks like</h2>\n<p>Consider a retailer that wants regional managers to identify store issues and coordinate a response.  The Store Performance page displays a Power BI report, with other business experiences available through the org app navigation.</p>\n<h3>Start with the insight</h3>\n<p>A regional manager opens the <strong>Retail Operations Hub</strong>, an app designed around the work of running stores. The landing experience surfaces a Power BI report with revenue, margin, inventory, and customer-service trends. A real-time dashboard highlights emerging operational issues.</p>\nFigure: The Store Action Planner opens as a dedicated Fabric App page within the Retail Operations Hub.\n<h3>Continue into a Fabric App</h3>\n<p>The report shows that a store is missing its sales target while carrying excess inventory. The manager opens the <strong>Store Action Planner</strong>, a Fabric App included in the same org app. The application brings the relevant context into a focused workflow where the manager can review the exception, choose a response, assign owners, and track the plan.</p>\nFigure: Shows a Power BI report with revenue, margin, inventory, and customer-service trends\n<h3>Keep reporting and actions connected</h3>\n<p>The org app keeps the solution together while tailoring content for regional and store managers. Business owners can update navigation and included items without rebuilding the Fabric App. Each team retains clear ownership: BI authors evolve reports, developers improve the Fabric App, and business owners curate the org app.</p>\n<h2>Benefits</h2>\n<ul>\n<li><strong>One place to work:</strong> Move from Power BI insight to action without finding another tool.</li>\n<li><strong>Role-based distribution:</strong> Give each audience the right mix of reports, applications, and operational content.</li>\n<li><strong>Clear ownership:</strong> Let BI authors, developers, and business owners evolve their parts independently within one consistent destination.</li>\n<li><strong>Business context:</strong> Organize navigation and branding around the process, not the underlying technology or workspace.</li>\n</ul>\n<h2>Get started</h2>\n<p>Build the tailored experience with <a href=\"https://learn.microsoft.com/fabric/apps/overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Apps</a>, then use the <a href=\"https://learn.microsoft.com/power-bi/explore-reports/org-app-items\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">org app guidance</a> to package it with Power BI reports and other supported Fabric content. Build the experience users need with Fabric Apps. Distribute it in the context of their work with org apps.</p>",
+    "excerpt": "Business users move from understanding what happened, to investigating why, to acting. Microsoft Fabric can bring that journey together. Fabric Apps provide purpose-built, data-driven experiences when users need more than a report. Org apps distribute them alongside Power BI reports and other supported Fabric content…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric Apps",
+        "url": "https://learn.microsoft.com/fabric/apps/overview"
+      },
+      {
+        "label": "Org apps",
+        "url": "https://learn.microsoft.com/power-bi/explore-reports/org-app-items"
+      }
+    ]
+  },
+  "contentHash": "a37a0e3ea76f2a827a25b3cac93737b3dc3c732f7f94d745fd0733bf5733a1ba",
+  "categories": [
+    "power-bi"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "announcement",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 39,
+    "level": "bajo",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "data-scientists",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

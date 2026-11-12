@@ -1,0 +1,23 @@
+{
+  "id": "rm-39d793d1-b79c-ef11-8a6a-002248098a98",
+  "releaseItemId": "39d793d1-b79c-ef11-8a6a-002248098a98",
+  "product": "Data Science",
+  "productId": "0522b590-dcd6-ee11-9079-000d3a310f67",
+  "category": "copilot-ai",
+  "name": "AI Functions for LLM-Powered Text Enrichment and Transformation [Public Preview]",
+  "description": "AI functions in Fabric will allow notebook users to seamlessly perform tasks like text summarization, translation, classification, sentiment analysis, grammar correction, and more, providing a simplified API for common enrichments and making it easier for users to apply them with fewer lines of code. The functions will be initially available on top of pandas DataFrames and ultimately available via Spark, SQL, and other programming surfaces across Fabric.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=39d793d1-b79c-ef11-8a6a-002248098a98",
+  "contentHash": "3301de35c7c61fb3185f53915bf1064627e9d92983fec42144109644d2b52ebf",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

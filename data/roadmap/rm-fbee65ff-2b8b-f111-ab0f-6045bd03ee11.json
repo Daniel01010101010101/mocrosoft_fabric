@@ -1,0 +1,23 @@
+{
+  "id": "rm-fbee65ff-2b8b-f111-ab0f-6045bd03ee11",
+  "releaseItemId": "fbee65ff-2b8b-f111-ab0f-6045bd03ee11",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Deployment Plan",
+  "description": "**Release:** Public Preview | **Product area:** Fabric CI/CD**Deployment plan** is a Fabric workspace item that lets you define the order in which items deploy and run automated actions before or after deployment.Use the visual canvas to:- Group the items you want to deploy and define dependencies between deployment groups- Add pre-deploy and post-deploy actions, such as running a Notebook, Data Pipeline, Copy Job, Dataflow Gen2, or User Data FunctionAttach a deployment plan when you use supported Git integration operations, deploy through a Deployment Pipeline, or call a supported REST API. During deployment, Fabric combines the plan's explicit dependencies with Fabric lineage to determine execution order. If an item or action fails, the operation stops without rolling back completed work.The result is a repeatable deployment flow that follows your intended order and runs the required actions around each item deployment.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=fbee65ff-2b8b-f111-ab0f-6045bd03ee11",
+  "contentHash": "650db23366e8382f9e2ab94ccc0282cb69e3a06893f6709d9dc19207dbdc3205",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

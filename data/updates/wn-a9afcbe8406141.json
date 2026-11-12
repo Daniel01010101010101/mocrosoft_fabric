@@ -1,0 +1,63 @@
+{
+  "id": "wn-a9afcbe8406141",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Evaluate-Fabric-workload-performance-with-the-modern-evaluation/ba-p/5330293",
+  "docsUrl": "https://learn.microsoft.com/en-us/data-integration/vnet/modern-evaluation-engine",
+  "title": "Modern evaluation engine for VNet data gateways (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Modern evaluation engine for VNet data gateways (Preview) provides an opt-in execution path for supported mashup evaluations so you can test semantic model refresh, Dataflow Gen2 refresh, and DirectQuery performance without changing your private network architecture. For more information, see Modern evaluation engine for VNet data gateways.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Evaluate-Fabric-workload-performance-with-the-modern-evaluation/ba-p/5330293\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Modern evaluation engine for VNet data gateways (Preview)</a> provides an opt-in execution path for supported mashup evaluations so you can test semantic model refresh, Dataflow Gen2 refresh, and DirectQuery performance without changing your private network architecture. For more information, see <a href=\"https://learn.microsoft.com/en-us/data-integration/vnet/modern-evaluation-engine\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Modern evaluation engine for VNet data gateways</a>.",
+    "excerpt": "Modern evaluation engine for VNet data gateways (Preview) provides an opt-in execution path for supported mashup evaluations so you can test semantic model refresh, Dataflow Gen2 refresh, and DirectQuery performance without changing your private network architecture. For more information, see Modern evaluation engine…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Modern evaluation engine for VNet data gateways (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Evaluate-Fabric-workload-performance-with-the-modern-evaluation/ba-p/5330293"
+      },
+      {
+        "label": "Modern evaluation engine for VNet data gateways",
+        "url": "https://learn.microsoft.com/en-us/data-integration/vnet/modern-evaluation-engine"
+      }
+    ]
+  },
+  "contentHash": "1c58ad0d8f49eae5cdd25b1f5a35de8752114844e2ebdb187fa8a16266a7ec51",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "data-scientists",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Evaluate-Fabric-workload-performance-with-the-modern-evaluation/ba-p/5330293",
+    "backfill": "true"
+  }
+}

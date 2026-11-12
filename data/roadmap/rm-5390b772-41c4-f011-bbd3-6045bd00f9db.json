@@ -1,0 +1,23 @@
+{
+  "id": "rm-5390b772-41c4-f011-bbd3-6045bd00f9db",
+  "releaseItemId": "5390b772-41c4-f011-bbd3-6045bd00f9db",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Translytical task flows",
+  "description": "With translytical task flows, you can automate end-user actions like updating records, adding annotations, or creating workflows that trigger actions. Simply add a button in your Power BI report and link it to your Fabric user data function.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=5390b772-41c4-f011-bbd3-6045bd00f9db",
+  "contentHash": "b0351edfa6ff008f9e3e4b75322ebfb72856fdd7446b786fb70e53cf05fbb50d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

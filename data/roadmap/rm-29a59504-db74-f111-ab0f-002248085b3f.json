@@ -1,0 +1,23 @@
+{
+  "id": "rm-29a59504-db74-f111-ab0f-002248085b3f",
+  "releaseItemId": "29a59504-db74-f111-ab0f-002248085b3f",
+  "product": "Fabric HorizonDB",
+  "productId": "0d409704-5dd2-f111-a059-0022480a4cb7",
+  "category": "databases",
+  "name": "Microsoft Fabric HorizonDB",
+  "description": "Fabric HorizonDB is a new serverless, Fabric-native PostgreSQL database built for modern data and AI applications. Fabric HorizonDB brings operational data directly into Fabric, giving developers a PostgreSQL foundation alongside Fabric’s analytics, data, and AI capabilities.With new capabilities that connect transactional and analytical data across Fabric, developers can bring operational data into analytics and AI experiences while connecting insights back to their applications. And with Fabric HorizonDB available as a database option for Fabric apps, teams have a connected foundation for building intelligent applications on their data.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabrichorizondb&releaseItem=29a59504-db74-f111-ab0f-002248085b3f",
+  "contentHash": "113742bfc5a402da042c3fa551881ed4e9d1b15106892d534421db1da5e544bb",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

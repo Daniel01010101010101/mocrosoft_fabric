@@ -1,0 +1,59 @@
+{
+  "id": "az-476389",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=476389",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/runtime-1-3",
+  "title": "Retirement: Microsoft Fabric Runtime 1.1 End of Support",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2025-01-16T18:00:34.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "End of support for Microsoft Fabric Runtime 1.1 was announced July 12, 2024. We recommend that you upgrade your Fabric workspace and environments to use Runtime 1.3 (Apache Spark 3.5 and Delta Lake 3.2). This latest Fabric Runtime 1.3 also offers a Native Execution Engine to boost performance and flexibility at no additional cost. Learn more about Native Execution Engine here. Microsoft Fabric Runtime 1.1 will be retired and disabled as of March 2025.",
+    "html": "<span><span>End of support for Microsoft Fabric Runtime 1.1 was announced July 12, 2024. We recommend that you upgrade your Fabric workspace and environments to use </span></span><a rel=\"noopener noreferrer nofollow\" href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/runtime-1-3\" target=\"_blank\"><span><span>Runtime 1.3 (Apache Spark 3.5 and Delta Lake 3.2)</span></span></a><span><span>. This latest Fabric Runtime 1.3 also offers a Native Execution Engine to boost performance and flexibility at no </span><span>additional</span><span> cost. Learn more about Native Execution Engine </span></span><a rel=\"noopener noreferrer nofollow\" href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/native-execution-engine-overview\" target=\"_blank\"><span><span>here</span></span></a><span><span>. Microsoft Fabric Runtime 1.1 </span></span><span><span>will be retired and disabled as </span><span>of March 2025. </span></span><span> </span><br />",
+    "excerpt": "End of support for Microsoft Fabric Runtime 1.1 was announced July 12, 2024. We recommend that you upgrade your Fabric workspace and environments to use Runtime 1.3 (Apache Spark 3.5 and Delta Lake 3.2). This latest Fabric Runtime 1.3 also offers a Native Execution Engine to boost performance and flexibility at no…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Runtime 1.3 (Apache Spark 3.5 and Delta Lake 3.2)",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/runtime-1-3"
+      },
+      {
+        "label": "here",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/native-execution-engine-overview"
+      }
+    ]
+  },
+  "contentHash": "6d57c1c183d6a6c621326f944ef3ceb72ea49bb422e37a1bf5b03628d8ac15a6",
+  "categories": [
+    "data-engineering"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "deprecation",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 59,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "products": "Azure Data Factory, Azure Synapse Analytics, Power BI Embedded, Microsoft Fabric",
+    "tags": "Retirements",
+    "modified": "2025-01-17T14:00:13.6141153Z"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-7430b6f3-0cb8-f011-bbd3-000d3a5b0efa",
+  "releaseItemId": "7430b6f3-0cb8-f011-bbd3-000d3a5b0efa",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Data protection: Sensitivity labels in Public APIs",
+  "description": "Fabric now includes Public APIs to enable users to fetch item's sensitivity id in List Items, Get Item and Create item public APIs. With this release customers that are building their own governance and data managment solutions will have more options to incorporate sensitivity labels in expeirences outside of Fabric.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=7430b6f3-0cb8-f011-bbd3-000d3a5b0efa",
+  "contentHash": "54c38243d77f00009b0fff875f36962a5cc5d29e2a98cc12c0c068098ef45ea1",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

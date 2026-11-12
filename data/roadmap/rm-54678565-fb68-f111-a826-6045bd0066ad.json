@@ -1,0 +1,23 @@
+{
+  "id": "rm-54678565-fb68-f111-a826-6045bd0066ad",
+  "releaseItemId": "54678565-fb68-f111-a826-6045bd0066ad",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Build Agent with AI Mode Supports Files as Context",
+  "description": "Build Agent with AI Mode file support lets users upload existing text-based business context such as documentation, glossaries, process guides, and data dictionaries, so Creator Agent can use it to generate more complete and accurate Data Agent configurations. This reduces repetitive setup work by allowing users to reuse knowledge that already exists in files, rather than manually recreating that context through long chat interactions.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=54678565-fb68-f111-a826-6045bd0066ad",
+  "contentHash": "6da6282e8bc2eb39a74ad2cbbff7d3acbc46905e659ae8365aa2db0afdacd524",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

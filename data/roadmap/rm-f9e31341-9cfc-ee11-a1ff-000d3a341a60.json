@@ -1,0 +1,23 @@
+{
+  "id": "rm-f9e31341-9cfc-ee11-a1ff-000d3a341a60",
+  "releaseItemId": "f9e31341-9cfc-ee11-a1ff-000d3a341a60",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Stored credentials for Direct Lake dataset security in Microsoft Fabric",
+  "description": "By default, Direct Lake storage mode accesses data in a Microsoft Fabric lakehouse or warehouse by using single sign-on (SSO). With SSO, the credentials of the user interacting with the Power BI report (or XMLA client tool) must have permission to query the underlying lakehouse or warehouse.However, it’s possible to use stored credentials, in which case the dataset owner can disable SSO. That means end users don’t require permission to query the underlying lakehouse or warehouse, and data security can be set up in the Power BI dataset. Direct Lake datasets can implement dataset data security, like row-level security (RLS) and object-level security (OLS).",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=f9e31341-9cfc-ee11-a1ff-000d3a341a60",
+  "contentHash": "ef0b692fcb2db9d3ca89845d5d8aa8a57cb80436321f26294acf86dd672abdc0",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

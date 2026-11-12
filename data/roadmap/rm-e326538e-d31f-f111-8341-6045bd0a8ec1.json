@@ -1,0 +1,23 @@
+{
+  "id": "rm-e326538e-d31f-f111-8341-6045bd0a8ec1",
+  "releaseItemId": "e326538e-d31f-f111-8341-6045bd0a8ec1",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Add to preset for Power BI visuals",
+  "description": "Take the formatting on an individual visual and add it to the custom report theme for re-use on other visuals in the same report or a new report.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=e326538e-d31f-f111-8341-6045bd0a8ec1",
+  "contentHash": "56605f03698f098cd1288697b7f3a9440bae889ad336baf6d9b558be0b820815",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

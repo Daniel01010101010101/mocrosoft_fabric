@@ -1,0 +1,23 @@
+{
+  "id": "rm-e5867f80-8897-f011-b4cc-000d3a5b0efa",
+  "releaseItemId": "e5867f80-8897-f011-b4cc-000d3a5b0efa",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Enable developers to focus on one key editor pane and hide sidebar",
+  "description": "When focusing on editing an Item developers need an option to maximize the available window space for the editor pane. This is a core need when working on Item editing, but it also addresses the crowding that can occur in the UI due to multiple levels of navigation and side panels between the shell and various extensions.This feature allows users to hide their navigation side bar so that they can be more focused on the main page.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=e5867f80-8897-f011-b4cc-000d3a5b0efa",
+  "contentHash": "c746a6658b84318217f1a19892d7f5a1de89faaae4a2297d8197b785d282ba46",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

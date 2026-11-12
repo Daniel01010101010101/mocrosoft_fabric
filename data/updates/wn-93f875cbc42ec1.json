@@ -1,0 +1,60 @@
+{
+  "id": "wn-93f875cbc42ec1",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/invoke-ssis-package-activity-in-microsoft-fabric-preview?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-factory/invoke-ssis-package-activity",
+  "title": "Invoke SSIS Package activity in Data Factory pipelines (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Invoke SSIS Package activity (preview) enables package execution from pipeline orchestration in Fabric. For more information, read Blog: Invoke SSIS Package Activity in Microsoft Fabric (preview).",
+    "html": "The <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/invoke-ssis-package-activity\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Invoke SSIS Package activity (preview)</a> enables package execution from pipeline orchestration in Fabric. For more information, read <a href=\"https://blog.fabric.microsoft.com/blog/invoke-ssis-package-activity-in-microsoft-fabric-preview?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Blog: Invoke SSIS Package Activity in Microsoft Fabric (preview)</a>.",
+    "excerpt": "The Invoke SSIS Package activity (preview) enables package execution from pipeline orchestration in Fabric. For more information, read Blog: Invoke SSIS Package Activity in Microsoft Fabric (preview).",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Invoke SSIS Package activity (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/invoke-ssis-package-activity"
+      },
+      {
+        "label": "Blog: Invoke SSIS Package Activity in Microsoft Fabric (preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/invoke-ssis-package-activity-in-microsoft-fabric-preview?ft=All"
+      }
+    ]
+  },
+  "contentHash": "c60f8c3713cb483fd1ceb7df3644408c01c5bb3f0dc4c2b072c048461a1ca090",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/invoke-ssis-package-activity-in-microsoft-fabric-preview?ft=All",
+    "backfill": "true"
+  }
+}

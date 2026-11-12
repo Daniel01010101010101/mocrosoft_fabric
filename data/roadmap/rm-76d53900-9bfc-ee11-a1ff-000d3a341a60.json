@@ -1,0 +1,23 @@
+{
+  "id": "rm-76d53900-9bfc-ee11-a1ff-000d3a341a60",
+  "releaseItemId": "76d53900-9bfc-ee11-a1ff-000d3a341a60",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Enhancing image capture in Power BI add-in for PowerPoint",
+  "description": "Previously, when users add Power BI report or visual to a PowerPoint presentation using the Power BI add-in, Power BI checks the user permissions before presenting any live data to those who view the presentation. But if the add-in was set as image, and when PowerPoint uses screen capture as a thumbnail, there is no check on who the user is. In this update we will allow users to tell PowerPoint whether to show the image to every user who has access to the presentation or to limit that only to those who have access to the report in Power BI. In addition, the default thumbnail will be disabled.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=76d53900-9bfc-ee11-a1ff-000d3a341a60",
+  "contentHash": "28d1a6643f829cbe77f8d5b5e6566b49b6a12610876dac0ee1ff4af66a5e6d56",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

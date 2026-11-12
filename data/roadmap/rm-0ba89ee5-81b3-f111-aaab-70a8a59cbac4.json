@@ -1,0 +1,23 @@
+{
+  "id": "rm-0ba89ee5-81b3-f111-aaab-70a8a59cbac4",
+  "releaseItemId": "0ba89ee5-81b3-f111-aaab-70a8a59cbac4",
+  "product": "SQL database",
+  "productId": "347da228-ea54-ef11-a317-0022480a694f",
+  "category": "databases",
+  "name": "Point-in-time restore from dropped databases",
+  "description": "Today users can restore a database into any point-in-time from live databases in Microsoft Fabric. Point-in-time restore (PITR) feature should have enhanced capability to help their users recover from accidental database deletion and ensure business continuity. Users should be able to restore a dropped database from a hard-deleted artifact and from workspace soft-deleted workspace as well. In each use-case, the user should be able to easily restore a database and continue using it.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=0ba89ee5-81b3-f111-aaab-70a8a59cbac4",
+  "contentHash": "e00f39bc3bbcd5becf4c26f95c97e7139ebf6176474a94ab0dd8c30576492ebd",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-27bd32c2-fcd6-ee11-9079-000d3a310f67",
+  "releaseItemId": "27bd32c2-fcd6-ee11-9079-000d3a310f67",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Warehouse monitoring experience",
+  "description": "Using the built-in warehouse monitoring experience, you can view both live queries and historical queries, monitor, and troubleshoot performance of their end-to-end solution.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2024",
+  "releaseQuarterStart": "2024-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=27bd32c2-fcd6-ee11-9079-000d3a310f67",
+  "contentHash": "fbf1ac4bde80585ca3d06cb54c8c0720dfcf2523a6c187c95db1c440efac0f5d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

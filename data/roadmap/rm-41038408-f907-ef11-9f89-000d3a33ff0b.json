@@ -1,0 +1,23 @@
+{
+  "id": "rm-41038408-f907-ef11-9f89-000d3a33ff0b",
+  "releaseItemId": "41038408-f907-ef11-9f89-000d3a33ff0b",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Multi-tenant organzation (MTO) MVP",
+  "description": "A Multi-Tenant Organization (MTO) is a single organization that has more than one Entra ID (formerly known as AAD) tenant. In an MTO, users from one tenant are added into another tenant as external members. An external member is authenticated by the owner tenant and is granted member level access in the member tenant.We will support MTO in Fabric. This includes the ability for external members to:*  Login to the Fabric portal* Be assigned licenses using the same logic as external guest users (B2B)* Access all Fabric workloads like regular Entra id users* Easily switch between the tenants in the organization using a tenant switcher control in the portal.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=41038408-f907-ef11-9f89-000d3a33ff0b",
+  "contentHash": "ed911c58dd8e015a30582dbb3f774919c6b4f35877d72496f6d07ac631de8a81",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

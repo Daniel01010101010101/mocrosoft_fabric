@@ -1,0 +1,23 @@
+{
+  "id": "rm-0fc35ee9-1241-f011-b4ca-000d3a34671f",
+  "releaseItemId": "0fc35ee9-1241-f011-b4ca-000d3a34671f",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Extension Workloads - Storing Item state within Fabric",
+  "description": "This feature allowes workloads to store the Item State within Fabric, providing them with a way to build Workloads that don't need to store any user data outside of the customers tenant.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=0fc35ee9-1241-f011-b4ca-000d3a34671f",
+  "contentHash": "0552f78b893517bb0cf5f1d18d9c3ec8b9be9a81c85fa48959f8e43258b8adf6",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

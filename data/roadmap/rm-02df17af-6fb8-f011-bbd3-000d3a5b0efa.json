@@ -1,0 +1,23 @@
+{
+  "id": "rm-02df17af-6fb8-f011-bbd3-000d3a5b0efa",
+  "releaseItemId": "02df17af-6fb8-f011-bbd3-000d3a5b0efa",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Fabric Capacity Overage",
+  "description": "Fabric capacity overage is an opt-in feature in Microsoft Fabric that automatically bills for excess capacity usage in a pay-as-you-go basis instead of throttling operations - enabling capacity administrators to protect capacities from being throttled.  Today, as a capcity admin, you can use surge protection, resize capacities, or pay for dedicated capacities to try to protect mission critical jobs, but all these approaches still can result in throttling and rejection due to insufficient provisioned capacity.  Overage billing addresses this consideration.  The solution allows a capacity admin to opt-in to paying off their smoothed usage and overages instead of being throttled.As Microsoft releases Fabric Overage Billing the Capacity Metrics App will be updated to reflect this new capability.  Specifically, views this will include clear visibility into overage events, showing when Overage Billing was activated and overage charges are being assessed - as well as cases where the capacity is reaching the overage billing limits set and is experiencing throttling.  The view also will show trends over time alongside the amount of utilization.  These enhancements, alongside the core Overage Billing capability, make it easier to monitor costs, optimize resource allocation, and ensure business continuity through flexible capacity management capabilities.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=02df17af-6fb8-f011-bbd3-000d3a5b0efa",
+  "contentHash": "d76681d6c7f72d9131d4375225d0f66fe049e204fa58cddb8001b7d64c194125",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

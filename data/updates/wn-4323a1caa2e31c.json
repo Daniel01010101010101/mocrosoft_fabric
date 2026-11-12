@@ -1,0 +1,66 @@
+{
+  "id": "wn-4323a1caa2e31c",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Monitor-key-metrics-at-a-glance-with-the-new-KPI-visualization/ba-p/5360033",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-visuals-customize",
+  "title": "Real-Time Dashboard KPI visualization (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-08-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The KPI visualization in Real-Time Dashboards is now generally available, providing at-a-glance metrics with goals, status indicators, trends, and conditional formatting. For more information, see Customize Real-Time Dashboard visuals and Apply conditional formatting in Real-Time Dashboards.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Monitor-key-metrics-at-a-glance-with-the-new-KPI-visualization/ba-p/5360033\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">The KPI visualization in Real-Time Dashboards is now generally available</a>, providing at-a-glance metrics with goals, status indicators, trends, and conditional formatting. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-visuals-customize\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Customize Real-Time Dashboard visuals</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-conditional-formatting\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Apply conditional formatting in Real-Time Dashboards</a>.",
+    "excerpt": "The KPI visualization in Real-Time Dashboards is now generally available, providing at-a-glance metrics with goals, status indicators, trends, and conditional formatting. For more information, see Customize Real-Time Dashboard visuals and Apply conditional formatting in Real-Time Dashboards.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "The KPI visualization in Real-Time Dashboards is now generally available",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Monitor-key-metrics-at-a-glance-with-the-new-KPI-visualization/ba-p/5360033"
+      },
+      {
+        "label": "Customize Real-Time Dashboard visuals",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-visuals-customize"
+      },
+      {
+        "label": "Apply conditional formatting in Real-Time Dashboards",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-conditional-formatting"
+      }
+    ]
+  },
+  "contentHash": "f7d43b9cb89764e1ffb55e5a4af34d4cad5d5a93457b209dc3d1e195b7367b2c",
+  "categories": [
+    "power-bi",
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "August 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Monitor-key-metrics-at-a-glance-with-the-new-KPI-visualization/ba-p/5360033"
+  }
+}

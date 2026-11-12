@@ -1,0 +1,23 @@
+{
+  "id": "rm-c6fc0eaa-a392-ef11-ac21-002248098a98",
+  "releaseItemId": "c6fc0eaa-a392-ef11-ac21-002248098a98",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "OneLake Delta to Iceberg table virtualization",
+  "description": "Delta Lake tables in OneLake are automatically and virtually converted to the Apache Iceberg table format. This capability enhances interoperability of Fabric with your broader data and analytics environment. It allows you to seamlessly integrate your Fabric tables with services and engines that support the Apache Iceberg format. This includes Snowflake, as a major part of our [previously announced partnership](https://www.microsoft.com/en-us/microsoft-fabric/blog/2024/05/22/snowflake-and-microsoft-announce-expansion-of-their-partnership/). You can easily access and analyze your Fabric tables across various platforms, unlocking new possibilities for data-driven insights and analytics.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=c6fc0eaa-a392-ef11-ac21-002248098a98",
+  "contentHash": "db977b26ef71a9f4886d8d2265633593e8791ddf0748a951d481ae378a389f6f",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

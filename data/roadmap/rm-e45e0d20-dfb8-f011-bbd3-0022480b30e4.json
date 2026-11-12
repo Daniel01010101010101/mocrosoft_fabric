@@ -1,0 +1,23 @@
+{
+  "id": "rm-e45e0d20-dfb8-f011-bbd3-0022480b30e4",
+  "releaseItemId": "e45e0d20-dfb8-f011-bbd3-0022480b30e4",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Managing Multi-Warehouse Dependencies with DacFx",
+  "description": "DacFx support for cross-warehouse references allows developers to define and manage dependencies between objects in different Fabric Warehouses. For example, a table in Warehouse A might reference a view in Warehouse B. With DacFx: These references can be tracked and versioned in Git, just like regular schema changes. Deployments can validate and update cross-warehouse objects safely, reducing the risk of broken references. It supports incremental, non-destructive deployments, ensuring that changes in one warehouse don’t unexpectedly break dependencies in another.Cyclic dependencies between warehouses are not supported, so any circular references across warehouses must be avoided.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=e45e0d20-dfb8-f011-bbd3-0022480b30e4",
+  "contentHash": "18677a8acb2490aa67520a2ff5e60365071b4a7767f1c10b08680e6522b80405",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

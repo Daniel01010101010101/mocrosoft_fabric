@@ -1,0 +1,23 @@
+{
+  "id": "rm-a83463e5-6038-f111-88b5-6045bd0a8ec1",
+  "releaseItemId": "a83463e5-6038-f111-88b5-6045bd0a8ec1",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Power Query - Modern Power Query Editor in Power BI Desktop",
+  "description": "Power BI Desktop will adopt the Modern Power Query Editor, bringing next‑generation authoring, usability, and productivity enhancements that are not available in the legacy Power Query experience. This modern editor aligns Power BI Desktop with the latest Power Query innovations used across Fabric, Dataflows, Power BI Web Modeling and other Power Query Online integrations, and serves as the foundation for ongoing transformation UX improvements.The modern editor introduces a set of authoring‑centric capabilities designed to make complex queries easier to build, understand, and maintain—especially as data preparation workflows grow in size and sophistication.What’s new in the modern Power Query editor:* Diagram View: Visualize query steps as a connected flow, helping you understand end‑to‑end transformation logic at a glance and more easily navigate complex, multi‑step queries.* Schema View: Explore and manage columns through a dedicated schema-centric view, making it easier to understand table shape, reason about column-level changes, and prepare data with confidence.* Enhanced Steps pane: Clear step icons that distinguish different types of transformations. Query folding indicators that surface which steps are folding back to the source. Improved layout and interaction for reviewing and editing applied step.* Modern ribbon experience: A cleaner, more discoverable command surface—including support for a single‑line ribbon—that scales better as new transformation capabilities are added.* Global search box: Quickly find commands, transformations, and actions across the editor without navigating menus or remembering exact locations.* Enhanced status bar: Richer, more contextual feedback during authoring and evaluation—making it easier to understand what the editor is doing and respond when issues arise.* Improved accessibility and keyboard navigation: Built to modern accessibility standards, enabling more efficient and inclusive data preparation workflows.Why this matters:* More productive authoring: Visual tools like Schema View, Diagram View, and enriched steps metadata reduce cognitive load when working with complex transformations.* Better transparency and trust: Folding indicators and clearer step semantics help users understand performance characteristics and execution behavior.* Future‑ready foundation: The modern editor enables faster delivery of new Power Query features without being constrained by legacy UI architecture.This transition represents a major step forward in Power Query authoring for Power BI Desktop—unlocking modern capabilities that make data preparation more intuitive today, while ensuring customers benefit from continued innovation across Fabric and Power Query going forward.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=a83463e5-6038-f111-88b5-6045bd0a8ec1",
+  "contentHash": "fe4d667ada7625bd695a8b3d4c2b9317b6c12c6df6cceed5256732d86b1176b0",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

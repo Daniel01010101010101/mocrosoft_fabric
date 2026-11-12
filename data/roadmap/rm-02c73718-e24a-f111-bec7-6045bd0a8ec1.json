@@ -1,0 +1,23 @@
+{
+  "id": "rm-02c73718-e24a-f111-bec7-6045bd0a8ec1",
+  "releaseItemId": "02c73718-e24a-f111-bec7-6045bd0a8ec1",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Query item downstream and upstream relations through a public API",
+  "description": "Query upstream and downstream item relationships across all Fabric workloads through a public API. Retrieve which items depend on or feed into a given item, spanning Lakehouses, Warehouses, Pipelines, Semantic Models, Reports and more.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=02c73718-e24a-f111-bec7-6045bd0a8ec1",
+  "contentHash": "8d0c5bfe65aa764c2ae97372b55be40ebcb726be238f14eca8d345465186a3d8",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

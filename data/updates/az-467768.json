@@ -1,0 +1,59 @@
+{
+  "id": "az-467768",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=467768",
+  "title": "Public Preview: Azure SQL Managed Instance mirroring to Microsoft Fabric",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2024-11-19T17:00:35.815Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "You can now use mirroring to easily replicate Azure SQL Managed Instance data to Microsoft Fabric. Mirroring replicates your data in near real-time directly into Fabric OneLake. Using mirroring helps you avoid complex Extract Transform Load (ETL) processes and reduce your total cost of ownership while gaining faster time to insights. Fabric unlocks powerful business intelligence, artificial intelligence, data engineering, data science, and data sharing scenarios.\nLearn more.",
+    "html": "<br /><p><span><span>You can now use mirroring </span><span>to </span><span>easily </span><span>replicate </span><span>Azure SQL Managed Instance </span><span>data </span><span>to Microsoft Fabric</span><span>.</span><span> </span><span>Mirroring </span><span>replicate</span><span>s</span><span> </span><span>your data in near real-time directly into </span><span>Fabric</span><span> </span><span>OneLake</span><span>. </span><span>Using mirroring </span><span>helps </span><span>you </span><span>avoid complex Extract Transform Load</span><span> (ETL</span><span>) processes and </span><span>reduce</span><span> your total cost of ownership</span><span> while gaining </span><span>faster time to insights</span><span>.</span><span> </span><span>Fabric</span><span> </span><span>unlock</span><span>s</span><span> </span><span>powerful business intelligence, artificial intelligence, data </span><span>e</span><span>ngineering</span><span>, data </span><span>s</span><span>cience</span><span>, and data sharing scenarios. </span></span><span> </span></p><p><span><span></span></span><span> </span></p><p><span></span><a rel=\"noopener noreferrer nofollow\" href=\"https://aka.ms/sqlmi-mirroring-learnmore\" target=\"_blank\"><span><span>Learn more</span></span></a><span><span>.</span></span></p>",
+    "excerpt": "You can now use mirroring to easily replicate Azure SQL Managed Instance data to Microsoft Fabric. Mirroring replicates your data in near real-time directly into Fabric OneLake. Using mirroring helps you avoid complex Extract Transform Load (ETL) processes and reduce your total cost of ownership while gaining faster…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://aka.ms/sqlmi-mirroring-learnmore"
+      }
+    ]
+  },
+  "contentHash": "646dad8f368515c11b85d89537feef115d4cf88e31333dd0bfc2f11f4aee4681",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 63,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-scientists",
+      "architects",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "In preview",
+    "products": "Azure SQL Managed Instance",
+    "tags": "Features, Microsoft Ignite",
+    "previewDate": "2024-11",
+    "modified": "2024-11-19T17:00:35.8153253Z"
+  }
+}

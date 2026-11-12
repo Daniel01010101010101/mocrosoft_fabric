@@ -1,0 +1,23 @@
+{
+  "id": "rm-57b79e2e-4494-ef11-8a6a-002248098a98",
+  "releaseItemId": "57b79e2e-4494-ef11-8a6a-002248098a98",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Data point annotations in Power BI add-in for PowerPoint",
+  "description": "Annotations allow users to add descriptive text to a specific data point within a visualization. They serve as contextual explanations or highlights, aiding viewers in comprehending the visualization.Annotations benefits are:**Enhanced Communication**: Annotations aid in effectively communicating insights, explanations, or observations within the visualization itself, reducing the need for external documentation or additional explanations. Its main purpose is to highlight key insights, or mark data that need to be explained.**Contextual Clarity:** Annotations provide contextual information directly on data points, allowing viewers to better understand the significance of specific elements.**Presentation and Collaboration:** Annotations facilitate effective presentation of visualizations and enable collaboration by providing a platform for discussions and shared insights within the visualization.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=57b79e2e-4494-ef11-8a6a-002248098a98",
+  "contentHash": "fadd0512012b5cc6f82231ece6136beaceb6bf40883a12b31896a9753f16e752",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

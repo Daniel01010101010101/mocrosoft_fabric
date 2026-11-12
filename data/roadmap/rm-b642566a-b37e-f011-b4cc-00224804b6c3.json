@@ -1,0 +1,23 @@
+{
+  "id": "rm-b642566a-b37e-f011-b4cc-00224804b6c3",
+  "releaseItemId": "b642566a-b37e-f011-b4cc-00224804b6c3",
+  "product": "Fabric Ecosystem",
+  "productId": "94e84e43-aa69-f011-bec2-00224804b6c3",
+  "category": "integrations-connectors",
+  "name": "Quantexa Unify entity resolution for OneLake",
+  "description": "Quantexa Unify reads data directly from OneLake, automates cleansing, parsing and normalization of data sources, then performs sophisticated data matching to produce a connected view of the data in OneLake.  Quantexa Unify provides preconfigured matching templates, allowing users to define the level of match quality required.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricecosystem&releaseItem=b642566a-b37e-f011-b4cc-00224804b6c3",
+  "contentHash": "622d0b768646a23b61187391b25e10ec4549d1967c1976643f43d1e5439bb37b",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-b502af0d-6d63-f011-bec2-00224804b6c3",
+  "releaseItemId": "b502af0d-6d63-f011-bec2-00224804b6c3",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Migration Assistant for Data Warehouse",
+  "description": "The Migration Assistant for Data Warehouse is a built-in tool in Microsoft Fabric that helps organizations migrate their existing data warehouses—such as those from Azure Synapse Analytics or SQL Server—into the Microsoft Fabric Data Warehouse environment. The Migration Assistant provides a guided, AI-assisted experience to:**Migrate metadata** (schemas, tables, views, stored procedures, etc.) using a DACPAC file.**Fix compatibility issues** in T-SQL scripts automatically or with guided help.**Copy data **from the source warehouse using Fabric Data Factory.**Reroute connections** from source systems to the new Fabric warehouse.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=b502af0d-6d63-f011-bec2-00224804b6c3",
+  "contentHash": "1c176e8c7eb5da250736231290e659d1f4d473801971248004786d3d6ccdd7dc",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-ab01c7d9-92ba-f011-bbd3-00224808fcf0",
+  "releaseItemId": "ab01c7d9-92ba-f011-bbd3-00224808fcf0",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "ArcGIS GeoAnalytics for Microsoft Fabric Spark - General Availability",
+  "description": "Microsoft and Esri have partnered to bring spatial analytics into Microsoft Fabric. This collaboration introduces a new library, ArcGIS GeoAnalytics for Microsoft Fabric, enabling an extensive set of spatial analytics right within Microsoft Fabric Spark notebooks and Spark job definitions (across both Data Engineering and Data Science experiences / workloads). This integrated product experience empowers Spark developers or data scientists to natively use Esri capabilities to run ArcGIS GeoAnalytics functions and tools within Fabric Spark for spatial transformation, enrichment, and pattern / trend analysis of data – even big data – across different use cases without any need for separate installation and configuration.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=ab01c7d9-92ba-f011-bbd3-00224808fcf0",
+  "contentHash": "34d237c32d96c0e7d1fc930d2de59a4178b44bc09a1f9e35a33cff7acf462f24",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

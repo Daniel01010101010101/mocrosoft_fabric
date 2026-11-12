@@ -1,0 +1,23 @@
+{
+  "id": "rm-8ea01c69-98a1-f111-b8db-0022480b837b",
+  "releaseItemId": "8ea01c69-98a1-f111-b8db-0022480b837b",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - New Destination: Google BigQuery",
+  "description": "We are introducing Google BigQuery as a new data destination for Dataflow Gen2 in Preview, enabling customers to publish transformed data from Microsoft Fabric directly into BigQuery tables using Dataflow Gen2's low-code Power Query experience.This preview expands Dataflow Gen2's destination ecosystem to better support multi-cloud analytics architectures, giving customers with existing investments in Google Cloud a simple way to deliver Fabric-based transformations into their BigQuery data warehouse — without building or maintaining custom pipelines and orchestration.Key benefits and scenarios:* Publish curated outputs from Dataflow Gen2 directly into Google BigQuery datasets and tables* Support multi-cloud analytics and data sharing scenarios while keeping transformation logic centralized in Fabric* Prepare, standardize, and reshape data in Fabric before making it available to BigQuery-based reporting, machine learning, and downstream processing* Complete the round trip for BigQuery customers, complementing existing read connectivity and mirroring with a first-class write path* Reduce operational overhead by replacing hand-built export and load jobs with a governed, refreshable dataflowDuring Preview, the Google BigQuery data destination is intended for evaluation and feedback, allowing customers to validate connectivity patterns, load performance, and integration workflows ahead of broader production use.This release is part of our broader effort to make Dataflow Gen2 a flexible, low-code transformation layer across clouds, with ongoing investments planned to further mature and expand multi-cloud destination support in Microsoft Fabric.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=8ea01c69-98a1-f111-b8db-0022480b837b",
+  "contentHash": "51a118a414a037ab27dab1978dd84adf15399005603dbb1a27c7e38b389a60df",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

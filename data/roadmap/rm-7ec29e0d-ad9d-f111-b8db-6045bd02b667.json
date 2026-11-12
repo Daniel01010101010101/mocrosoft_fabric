@@ -1,0 +1,23 @@
+{
+  "id": "rm-7ec29e0d-ad9d-f111-b8db-6045bd02b667",
+  "releaseItemId": "7ec29e0d-ad9d-f111-b8db-6045bd02b667",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "Fabric Graph integration with Ontology: From shared business meaning to connected-data insights",
+  "description": "Fabric IQ brings Ontology and Graph together so customers can move from a shared business model to advanced relationship analysis. Customers can understand how business concepts connect, choose the data most relevant to their scenario, and use Graph for multi-step impact analysis, dependency exploration, and path-based questions.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=7ec29e0d-ad9d-f111-b8db-6045bd02b667",
+  "contentHash": "c6926e9d8b78aca3fcc82e0125b4ccca048c0d8bcea155934fdc2cacdb7c06ba",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

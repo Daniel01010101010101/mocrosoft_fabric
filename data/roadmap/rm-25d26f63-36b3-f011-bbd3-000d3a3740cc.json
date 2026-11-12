@@ -1,0 +1,23 @@
+{
+  "id": "rm-25d26f63-36b3-f011-bbd3-000d3a3740cc",
+  "releaseItemId": "25d26f63-36b3-f011-bbd3-000d3a3740cc",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "OneLake catalog - tables data preview and quick actions",
+  "description": "With this new feature, OneLake catalog can display user-defined descriptions for tables and columns, helping users quickly understand data context. Once a table is identified as relevant, users can instantly preview its data with a single click - streamlining discovery and accelerating informed decision-making. This enhancement fosters trust, promotes collaboration, and encourages a culture of data reuse across the organization.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=25d26f63-36b3-f011-bbd3-000d3a3740cc",
+  "contentHash": "f8b7289cf69f25fd134eab16104b3bda07da46c0e3f4e9cb19ecdd883313cf68",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-e1cbba8d-e9d6-ee11-9079-000d3a341a60",
+  "releaseItemId": "e1cbba8d-e9d6-ee11-9079-000d3a341a60",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Microsoft Fabric Reserved Instance offerings in Azure",
+  "description": "Currently all the capabilities of Fabric are available for purchase within Azure with a Pay-as-you-go offering with lower purchase points. You can pause/resume and scale up/down on demand. Soon you can purchase a 1-year reservation for Fabric with large discounts for that commitment.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2023",
+  "releaseQuarterStart": "2023-10-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=e1cbba8d-e9d6-ee11-9079-000d3a341a60",
+  "contentHash": "c50b5abae38bd139eb6ca7e873ccc12fbfcf49b63de9099cad2b2339aca8e819",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

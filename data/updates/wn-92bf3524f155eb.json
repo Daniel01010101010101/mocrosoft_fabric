@@ -1,0 +1,56 @@
+{
+  "id": "wn-92bf3524f155eb",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-prompt-to-production-What-s-new-in-Fabric-Apps/ba-p/5369134",
+  "title": "Fabric Apps functions and connectors (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric Apps functions and connectors (Preview) add Fabric data connectors, PostgreSQL support, server-side functions, secret storage, application storage, and built-in metrics.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-prompt-to-production-What-s-new-in-Fabric-Apps/ba-p/5369134\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Apps functions and connectors (Preview)</a> add Fabric data connectors, PostgreSQL support, server-side functions, secret storage, application storage, and built-in metrics.",
+    "excerpt": "Fabric Apps functions and connectors (Preview) add Fabric data connectors, PostgreSQL support, server-side functions, secret storage, application storage, and built-in metrics.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric Apps functions and connectors (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-prompt-to-production-What-s-new-in-Fabric-Apps/ba-p/5369134"
+      }
+    ]
+  },
+  "contentHash": "50c3439ef8d85798e3ffa969bfd60150890b21eb85287c6f460e3ad8ad3ce6e9",
+  "categories": [
+    "integrations-connectors",
+    "power-bi"
+  ],
+  "primaryCategory": "integrations-connectors",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-prompt-to-production-What-s-new-in-Fabric-Apps/ba-p/5369134",
+    "backfill": "true"
+  }
+}

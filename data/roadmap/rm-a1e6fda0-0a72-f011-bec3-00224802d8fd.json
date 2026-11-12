@@ -1,0 +1,23 @@
+{
+  "id": "rm-a1e6fda0-0a72-f011-bec3-00224802d8fd",
+  "releaseItemId": "a1e6fda0-0a72-f011-bec3-00224802d8fd",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Support for Workspace Private Link on Fabric Warehouse and SQL Endpoints",
+  "description": "### Workspace Private Link**Workspace Private Link** is a networking feature in Microsoft Fabric that enables secure, private inbound connectivity between Fabric workspaces and customer virtual networks. It eliminates exposure to the public internet by routing inbound traffic through private endpoints within the customer’s Azure environment. When combined with Outbound Access Protection (OAP), it provides comprehensive protection by securing both inbound and outbound network traffic, helping organizations prevent unauthorized access and data exfiltration while enhancing security, compliance, and data sovereignty.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=a1e6fda0-0a72-f011-bec3-00224802d8fd",
+  "contentHash": "520eff90b0b1fc9ac06eafb338e6899edf68403b7d615cfd3e52a4613baa9290",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

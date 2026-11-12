@@ -1,0 +1,60 @@
+{
+  "id": "wn-bbcf85edc533aa",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/copilot-in-fabric-preview-is-available-worldwide",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/fundamentals/copilot-ai-feature-state",
+  "title": "Copilot in Fabric is available worldwide",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Copilot in Fabric is now available to all customers. For more information on release status, see Release status of AI and Copilot experiences in Fabric.",
+    "html": "<a href=\"https://blog.fabric.microsoft.com/blog/copilot-in-fabric-preview-is-available-worldwide\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Copilot in Fabric is now available</a> to all customers. For more information on release status, see <a href=\"https://learn.microsoft.com/en-us/fabric/fundamentals/copilot-ai-feature-state\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Release status of AI and Copilot experiences in Fabric</a>.",
+    "excerpt": "Copilot in Fabric is now available to all customers. For more information on release status, see Release status of AI and Copilot experiences in Fabric.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Copilot in Fabric is now available",
+        "url": "https://blog.fabric.microsoft.com/blog/copilot-in-fabric-preview-is-available-worldwide"
+      },
+      {
+        "label": "Release status of AI and Copilot experiences in Fabric",
+        "url": "https://learn.microsoft.com/en-us/fabric/fundamentals/copilot-ai-feature-state"
+      }
+    ]
+  },
+  "contentHash": "024faf7266273f5801c0bc4c3bd590725e719fa2c13c48439c5f1b398d5ba334",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/copilot-in-fabric-preview-is-available-worldwide",
+    "backfill": "true"
+  }
+}

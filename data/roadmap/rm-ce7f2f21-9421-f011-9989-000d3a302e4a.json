@@ -1,0 +1,23 @@
+{
+  "id": "rm-ce7f2f21-9421-f011-9989-000d3a302e4a",
+  "releaseItemId": "ce7f2f21-9421-f011-9989-000d3a302e4a",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Shortcuts in Fabric Data Warehouse",
+  "description": "Shortcuts in Fabric DW allow users to directly access and query data that is present in internal and external data sources, without loading them into Fabric DW. Users will have the capability to create Table Shortcuts via TSQL, UX and API",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=ce7f2f21-9421-f011-9989-000d3a302e4a",
+  "contentHash": "76c8a17d27346564609c797a9bd77fa67b57707110ea10403d8d7731fb35ca5b",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "wn-554c358dfa81e6",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/evaluate-your-fabric-data-agents-programmatically-with-the-python-sdk?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-science/data-agent-microsoft-copilot-studio",
+  "title": "Fabric data agents evaluation with the Python SDK (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "You can now use the Python SDK to programmatically evaluate Fabric data agents. For more information, see Consume a Fabric Data Agent in Microsoft Copilot Studio (preview).",
+    "html": "You can now use <a href=\"https://blog.fabric.microsoft.com/blog/evaluate-your-fabric-data-agents-programmatically-with-the-python-sdk?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">the Python SDK to programmatically evaluate Fabric data agents</a>. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-science/data-agent-microsoft-copilot-studio\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Consume a Fabric Data Agent in Microsoft Copilot Studio (preview)</a>.",
+    "excerpt": "You can now use the Python SDK to programmatically evaluate Fabric data agents. For more information, see Consume a Fabric Data Agent in Microsoft Copilot Studio (preview).",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "the Python SDK to programmatically evaluate Fabric data agents",
+        "url": "https://blog.fabric.microsoft.com/blog/evaluate-your-fabric-data-agents-programmatically-with-the-python-sdk?ft=All"
+      },
+      {
+        "label": "Consume a Fabric Data Agent in Microsoft Copilot Studio (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-science/data-agent-microsoft-copilot-studio"
+      }
+    ]
+  },
+  "contentHash": "863e48dbc857e3326ceabb57f7a672d3ec472583d756d8089d2642a5146833ac",
+  "categories": [
+    "copilot-ai",
+    "developer-apis"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/evaluate-your-fabric-data-agents-programmatically-with-the-python-sdk?ft=All",
+    "backfill": "true"
+  }
+}

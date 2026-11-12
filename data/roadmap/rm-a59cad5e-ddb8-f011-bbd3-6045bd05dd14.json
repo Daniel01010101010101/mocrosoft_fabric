@@ -1,0 +1,23 @@
+{
+  "id": "rm-a59cad5e-ddb8-f011-bbd3-6045bd05dd14",
+  "releaseItemId": "a59cad5e-ddb8-f011-bbd3-6045bd05dd14",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Fabric Web: Streamlined Git and Deployment Pipeline Support with DacFx",
+  "description": "DacFx onboarding in the Fabric Web editor enables seamless Git integration and supports deployment pipelines for Fabric Warehouse. With DacFx, developers can reliably manage schema changes, version control database projects, and execute incremental, non-destructive deployments directly from the web editor. This integration ensures that changes are tracked, deployments are safe, and pipelines can be automated, aligning with best practices for CI/CD in enterprise data environments.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=a59cad5e-ddb8-f011-bbd3-6045bd05dd14",
+  "contentHash": "8b2e75be35301bb9a2db5efc643bccdc8b4033dd3f8996ccb6c2602725033119",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "wn-6c08ddd0b48f8a",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_116",
+  "title": "Database agent (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Database agent (Preview) analyzes SQL and PostgreSQL performance, availability, workload health, and cost signals in Database Hub.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_116\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Database agent (Preview)</a> analyzes SQL and PostgreSQL performance, availability, workload health, and cost signals in Database Hub.",
+    "excerpt": "Database agent (Preview) analyzes SQL and PostgreSQL performance, availability, workload health, and cost signals in Database Hub.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Database agent (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_116"
+      }
+    ]
+  },
+  "contentHash": "a6ed65f58563420c79f96470cacd37e5f224c56993e06a884a6419f73d33fcf7",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 60,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_116"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-0781625c-21ba-f011-bbd3-000d3a3740cc",
+  "releaseItemId": "0781625c-21ba-f011-bbd3-000d3a3740cc",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Fabric Extensibility Toolkit - Workload validation Improvements",
+  "description": "The Fabric Extensibility Toolkit (FET) introduces Validation Improvements to streamline readiness checks for Public Preview and GA stages. A new self-verification tool empowers developers to validate workloads independently, ensuring compliance with Fabric standards before submission. In addition, we’ve enhanced documentation for validation workflows and upgraded the partner validation reports, providing clearer insights, actionable feedback, and alignment with certification requirements. These improvements reduce friction, accelerate approval timelines, and give partners greater confidence in their release readiness.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=0781625c-21ba-f011-bbd3-000d3a3740cc",
+  "contentHash": "3c6f788b040fe9a8f4d692c080a7135306254b27f9926da69e073b2afca2be64",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

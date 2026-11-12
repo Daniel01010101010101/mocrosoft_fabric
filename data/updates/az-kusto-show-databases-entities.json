@@ -1,0 +1,55 @@
+{
+  "id": "az-kusto-show-databases-entities",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=kusto-show-databases-entities",
+  "docsUrl": "https://learn.microsoft.com/azure/data-explorer/kusto/management/show-databases-entities",
+  "title": "New in Kusto: `.show databases entities` command for viewing tables, functions, and more",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2023-09-13T15:00:13.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "We are excited to announce a new command for Kusto: `.show databases entities`. This command allows you to view the entities of all cluster databases that you have access to, such as tables, materialized views, external tables, functions, and entity groups. You can also use various options to customize the output, such as showing obfuscated strings, resolving functions schema, and filtering by database name or entity type. For more details and examples, please refer to the documentation.\nWe hope you find this command helpful and we welcome your feedback and suggestions.",
+    "html": "<p>We are excited to announce a new command for Kusto: `.show databases entities`. This command allows you to view the entities of all cluster databases that you have access to, such as tables, materialized views, external tables, functions, and entity groups. You can also use various options to customize the output, such as showing obfuscated strings, resolving functions schema, and filtering by database name or entity type. For more details and examples, please refer to the <a href=\"https://learn.microsoft.com/azure/data-explorer/kusto/management/show-databases-entities\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">documentation</a>.</p>\n\n<p>We hope you find this command helpful and we welcome your feedback and suggestions.</p>\n",
+    "excerpt": "We are excited to announce a new command for Kusto: `.show databases entities`. This command allows you to view the entities of all cluster databases that you have access to, such as tables, materialized views, external tables, functions, and entity groups. You can also use various options to customize the output,…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "documentation",
+        "url": "https://learn.microsoft.com/azure/data-explorer/kusto/management/show-databases-entities"
+      }
+    ]
+  },
+  "contentHash": "fab1b32b4693f30948959749077b11da9e272002284337b7b851ef813e4f80a4",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 42,
+    "level": "bajo",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "Launched",
+    "products": "Azure Data Explorer, Azure Synapse Analytics, Microsoft Fabric",
+    "tags": "Features",
+    "gaDate": "2023-09",
+    "modified": "2023-09-13T15:00:13.0000000Z"
+  }
+}

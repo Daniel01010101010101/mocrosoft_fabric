@@ -1,0 +1,23 @@
+{
+  "id": "rm-961d2a03-e6d6-ee11-9079-000d3a310f67",
+  "releaseItemId": "961d2a03-e6d6-ee11-9079-000d3a310f67",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Fabric Admin APIs",
+  "description": "Admin APIs in Microsoft Fabric offers programmatic access to administrative functions within the Fabric service. Admin APIs play an important role in automating essential admin and governance tasks, including activities such as monitoring, auditing, compliance, access controls, etc. The existing PBI-only admin APIs have encountered issues like timeouts and slow performance while lacking coverage for non-PowerBI Fabric artifacts. In response to these challenges, the next-gen Fabric admin APIs were launched as part of the Fabric GA release in November 2023. The initial set of APIs focuses on the discovery and exploration of Workspaces, non-PowerBI Fabric items, and user access details at the workspace and item levels. To further enhance functionality, in Q1 2024, we are planning to extend these discovery and exploration APIs to include PowerBI items. Moreover, the Fabric API surface will be expanded to include APIs for adding and deleting users and workspaces. It's important to note that Microsoft will continue to support PowerBI-only Admin APIs to ensure a seamless transition to the new Fabric APIs.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=961d2a03-e6d6-ee11-9079-000d3a310f67",
+  "contentHash": "1f5725c84b21a692d5dce0bdd3264755d0da0a9862041f37461c156a9ea52d5d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

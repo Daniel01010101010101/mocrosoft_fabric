@@ -1,0 +1,57 @@
+{
+  "id": "wn-890336f0dd20c2",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Agents-in-Microsoft-Copilot-Studio-Generally/ba-p/5362882",
+  "title": "Fabric Data Agent integration with Microsoft Copilot Studio (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.1,
+  "publishedAt": "2026-08-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric Data Agent integration with Microsoft Copilot Studio adds a Fabric data agent to a Copilot Studio agent as a Fabric IQ Data MCP tool while retaining source permissions.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Agents-in-Microsoft-Copilot-Studio-Generally/ba-p/5362882\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Data Agent integration with Microsoft Copilot Studio</a> adds a Fabric data agent to a Copilot Studio agent as a Fabric IQ Data MCP tool while retaining source permissions.",
+    "excerpt": "Fabric Data Agent integration with Microsoft Copilot Studio adds a Fabric data agent to a Copilot Studio agent as a Fabric IQ Data MCP tool while retaining source permissions.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric Data Agent integration with Microsoft Copilot Studio",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Agents-in-Microsoft-Copilot-Studio-Generally/ba-p/5362882"
+      }
+    ]
+  },
+  "contentHash": "047ebcdd48a9f213992c1ae63f2fd2ff5aa59249d3a1bae68aa741538f0f61bd",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects",
+      "administrators",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "August 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Data-Agents-in-Microsoft-Copilot-Studio-Generally/ba-p/5362882"
+  }
+}

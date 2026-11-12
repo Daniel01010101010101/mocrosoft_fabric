@@ -1,0 +1,64 @@
+{
+  "id": "wn-009643ba030394",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/announcing-the-public-preview-of-folder-rest-api?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/fundamentals/workspaces-folders",
+  "title": "Folder REST API (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "You can now create and manage workspace folders in automation scenarios and integrate with other systems and tools. The Folder Rest API is now in preview. To get started, see Fabric REST API Folders.",
+    "html": "You can now create and manage <a href=\"https://learn.microsoft.com/en-us/fabric/fundamentals/workspaces-folders\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">workspace folders</a> in automation scenarios and integrate with other systems and tools. The <a href=\"https://blog.fabric.microsoft.com/blog/announcing-the-public-preview-of-folder-rest-api?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Folder Rest API is now in preview</a>. To get started, see <a href=\"https://learn.microsoft.com/en-us/rest/api/fabric/core/folders\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric REST API Folders</a>.",
+    "excerpt": "You can now create and manage workspace folders in automation scenarios and integrate with other systems and tools. The Folder Rest API is now in preview. To get started, see Fabric REST API Folders.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "workspace folders",
+        "url": "https://learn.microsoft.com/en-us/fabric/fundamentals/workspaces-folders"
+      },
+      {
+        "label": "Folder Rest API is now in preview",
+        "url": "https://blog.fabric.microsoft.com/blog/announcing-the-public-preview-of-folder-rest-api?ft=All"
+      },
+      {
+        "label": "Fabric REST API Folders",
+        "url": "https://learn.microsoft.com/en-us/rest/api/fabric/core/folders"
+      }
+    ]
+  },
+  "contentHash": "d86ae96516b746362ac0923c1bd7b0d30ba77377e4ab2af36b248cb5581af90f",
+  "categories": [
+    "developer-apis"
+  ],
+  "primaryCategory": "developer-apis",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/announcing-the-public-preview-of-folder-rest-api?ft=All",
+    "backfill": "true"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-c335ffc2-dc0a-ef11-9f89-000d3a34b75c",
+  "releaseItemId": "c335ffc2-dc0a-ef11-9f89-000d3a34b75c",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Deployment pipelines Fabric APIs Phase II",
+  "description": "In line with Fabric alignment, we are finalizing the public APIs for the Deployment pipelines on the Fabric platform, following the initial batch of APIs released in May 2024. While the May release provided the ability to retrieve existing deployment pipeline details and stages, the upcoming release will introduce APIs for their modification, workspace addition/removal, access control, and administrative tasks. The complete list is provided below.Service Principal support for Deployment pipelines APIsAdd Deployment Pipeline Role AssignmentDelete Deployment Pipeline Role AssignmentGet Deployment Pipeline Role AssignmentsCreate Deployment PipelineDelete Deployment PipelineUpdate Deployment PipelineAssign Workspace To StageUnassign Workspace From Stage+ Add deployment options to Deploy APIGet Deployment Pipeline OperationGet Deployment Pipeline Operations",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=c335ffc2-dc0a-ef11-9f89-000d3a34b75c",
+  "contentHash": "7dde48d18d767c3f1836dfecd45ee8c00a3f0cf493aa2bd9c792b9608d6b5d04",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

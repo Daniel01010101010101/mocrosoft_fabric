@@ -1,0 +1,23 @@
+{
+  "id": "rm-6ec641c0-5a07-ef11-9f89-000d3a34b75c",
+  "releaseItemId": "6ec641c0-5a07-ef11-9f89-000d3a34b75c",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Copilot for Data Factory (Data pipeline)",
+  "description": "Copilot for Data Factory (Data pipeline) empowers customers to build data pipelines using natural language and provides troubleshooting guidance.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=6ec641c0-5a07-ef11-9f89-000d3a34b75c",
+  "contentHash": "382e79c68564d970d0ea868ca3996e85a0f8dabea14235d191cfa7282abe0916",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-bfd0bc17-7dba-f011-bbd2-0022480a2ecf",
+  "releaseItemId": "bfd0bc17-7dba-f011-bbd2-0022480a2ecf",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "CSV Support for Native Execution Engine",
+  "description": "Enhance the Native Execution Engine in Microsoft Fabric Spark to support CSV ingestion natively, minimizing fallbacks to the Spark JVM and improving performance for data ingestion workflows.Unlock native engine speedups for foundational ingestion scenarios.Reduce cost and latency during ETL, especially for write-heavy delta loads for customers given majority of users  have CSV based file dependencies",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=bfd0bc17-7dba-f011-bbd2-0022480a2ecf",
+  "contentHash": "78981154dc3b051e703edf217a473205c78bf105c140d03ce7e49467e68c2518",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "cm-5360422",
+  "kind": "blog",
+  "source": "powerbi-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Upgrade-Power-BI-Dataflows-Gen1-to-Fabric-Dataflows-Gen2-with/ba-p/5360422",
+  "docsUrl": "https://learn.microsoft.com/fabric/data-factory/dataflow-gen2-migrate-from-dataflow-gen1",
+  "title": "Upgrade Power BI Dataflows Gen1 to Fabric Dataflows Gen2 with the Upgrade Wizard (Preview)",
+  "author": "eranbenayun",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-08-24T15:00:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Upgrading Power BI Dataflows Gen1 is now easier with the Dataflows Upgrade Wizard. Now in preview for eligible workspaces assigned to Fabric capacity, the wizard provides a guided experience to upgrade Power BI Dataflows Gen1 items to Fabric Dataflows Gen2 (CI/CD). The wizard preserves key properties of the existing dataflow and assesses each item before you begin, helping you understand the upgrade scope and expected follow-up actions.\nModernize at your own pace\nPower BI Dataflows Gen1 remains supported in a legacy state, while new feature investment focuses on Fabric Dataflows Gen2 (CI/CD), as shared in a previous post about the future of Dataflows. The Upgrade Wizard gives dataflow owners a guided self-service path to start that modernization without rebuilding their Power Query logic.\nYou don't need to upgrade your full estate at once. Start with a representative set of dataflows, validate the results, and expand at a pace that works for your organization. For detailed migration planning and inventory guidance, review Migrate from Dataflow Gen1 to Dataflow Gen2.\nBuild on the benefits of Dataflows Gen2\nFabric Dataflows Gen2 (CI/CD) builds on the Power Query authoring experience already used in Power BI Dataflows Gen1, while adding capabilities designed for development, operations, and integration across Fabric.\nDataflows Gen2 supports a broad set of data destinations: Azure SQL Database, Azure Data Explorer (Kusto), Azure Data Lake Storage Gen2, Fabric Lakehouse tables, Fabric Lakehouse files, Fabric Warehouse, Fabric KQL database, Fabric SQL database, SharePoint Files, Snowflake database, and PostgreSQL database. You can begin with the upgraded dataflow and add destinations when you are ready.\nAs a native Fabric item, Dataflows Gen2 (CI/CD) supports Git integration and Fabric deployment workflows. Teams can bring dataflow definitions into source control, collaborate through established development practices, and move changes across development, test, and production environments. Refresh history and Fabric monitoring experiences provide operational details that help teams review runs and investigate failures.\nCapabilities such as Fast Copy, Modern Evaluator, and Partitioned Compute improve performance and scale for different workload patterns. Microsoft's published Dataflow Gen2 cost and performance benchmarks show refresh times improving by 1.6 to 21 times with Dataflows Gen2. Results vary by data, capacity, connector, gateway usage, and query design, so validate your representative workloads.\nDataflows Gen2 (CI/CD) also benefits from tiered Standard Compute pricing, with a lower rate after the first 10 minutes of each mashup-engine query. Separate meters apply to high-scale compute and Fast Copy data movement.\nCopilot in Data Factory enhances Dataflow Gen2 authoring with natural language. It can generate transformation steps, create queries, and summarize a query and its applied steps. These capabilities help authors understand and review complex query logic, improving productivity during transformation design.\nThe bottom line is simple: upgrade now, then modernize when it adds value.\nUpgrade one or more dataflows from the same workspace\nReady to begin? Open the menu next to a Power BI Dataflows Gen1 item and select Upgrade to Dataflow Gen2 (Preview). The Dataflows Upgrade Wizard opens with the selected item and lets you add other Dataflows Gen1 items from the same workspace.\nFigure: Start the Dataflows Upgrade Wizard from a Dataflows Gen1 item.\nThe upgraded item preserves its ID, schedule, queries, and connections. Keeping the same item ID helps downstream semantic models and reports continue using the upgraded dataflow without source remapping. The dataflow name also stays the same unless the assessment identifies a required naming change.\nAfter the upgrade is completed, the Fabric Dataflows Gen2 (CI/CD) item replaces the original Power BI Dataflows Gen1 item, and the upgrade can't be reversed. If you need to keep the original Power BI Dataflows Gen1 item, use Save As to create a separate Fabric Dataflows Gen2 (CI/CD) item instead.\nKnow what needs attention before the upgrade\nBefore making any changes, the Upgrade Wizard assesses the Power BI Dataflows Gen1 items in your workspace, giving you a clear view of which dataflows are ready and where you may need to act before or after upgrading:\n• Ready to migrate: The wizard didn't identify a manual step needed before or after the upgrade. Review the known limitations because the assessment doesn't detect every limitation.\n• Needs Attention: You can proceed, but review the reasons and complete the recommended actions.\n• Upgrade unavailable: You don't own the dataflow. Ask the owner to upgrade it or use Take over first.\nFigure: The assessment shows which dataflows are ready and which need attention.\nA Needs Attention status can currently identify incremental refresh, Bring Your Own Lake storage, linked dataflows, possible DirectQuery consumers, or naming changes. Hover over the status to see the reason, then review the Upgrade Wizard documentation for follow-up actions and more information. The scenarios represented by each assessment status may expand as we further enhance the assessment capabilities.\nAfter the upgrade\nOnce the wizard finishes, complete these follow-up steps to validate your upgraded dataflows and reconnect any dependencies.\n• Refresh each upgraded dataflow to load its data.\n• Open and save each downstream dataflow to rebind it.\n• Complete any remaining recommended Needs Attention actions.\n• Update consumers (for example, semantic models or linked dataflows) using the legacy Power BI Dataflows connector to the modern Power Platform Dataflows connector. The assessment doesn't detect legacy connector use.\nLearn more\nReady to explore the Upgrade Wizard? Review the prerequisites, assessment guidance, and complete workflow in Upgrade Dataflow Gen1 to Dataflow Gen2 (CI/CD) using the Upgrade Wizard. We look forward to hearing about your experience during preview.",
+    "html": "<p>Upgrading Power BI Dataflows Gen1 is now easier with the Dataflows Upgrade Wizard. Now in preview for eligible workspaces assigned to Fabric capacity, the wizard provides a guided experience to upgrade Power BI Dataflows Gen1 items to Fabric Dataflows Gen2 (CI/CD). The wizard preserves key properties of the existing dataflow and assesses each item before you begin, helping you understand the upgrade scope and expected follow-up actions. </p>\n<h4>Modernize at your own pace </h4>\n<p>Power BI Dataflows Gen1 remains supported in a legacy state, while new feature investment focuses on Fabric Dataflows Gen2 (CI/CD), as shared in a previous post about <a href=\"https://powerbi.microsoft.com/blog/dataflows-thank-you-for-eight-years-of-gen1-and-why-gen2-is-the-future/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">the future of Dataflows</a>. The Upgrade Wizard gives dataflow owners a guided self-service path to start that modernization without rebuilding their Power Query logic. </p>\n<p>You don't need to upgrade your full estate at once. Start with a representative set of dataflows, validate the results, and expand at a pace that works for your organization. For detailed migration planning and inventory guidance, review <a href=\"https://learn.microsoft.com/fabric/data-factory/dataflow-gen2-migrate-from-dataflow-gen1\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Migrate from Dataflow Gen1 to Dataflow Gen2</a>. </p>\n<h4>Build on the benefits of Dataflows Gen2 </h4>\n<p>Fabric Dataflows Gen2 (CI/CD) builds on the Power Query authoring experience already used in Power BI Dataflows Gen1, while adding capabilities designed for development, operations, and integration across Fabric. </p>\n<p>Dataflows Gen2 supports a broad set of <a href=\"https://learn.microsoft.com/fabric/data-factory/dataflow-gen2-data-destinations-and-managed-settings\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">data destinations</a>: Azure SQL Database, Azure Data Explorer (Kusto), Azure Data Lake Storage Gen2, Fabric Lakehouse tables, Fabric Lakehouse files, Fabric Warehouse, Fabric KQL database, Fabric SQL database, SharePoint Files, Snowflake database, and PostgreSQL database. You can begin with the upgraded dataflow and add destinations when you are ready. </p>\n<p>As a native Fabric item, Dataflows Gen2 (CI/CD) supports Git integration and Fabric deployment workflows. Teams can bring dataflow definitions into source control, collaborate through established development practices, and move changes across development, test, and production environments. Refresh history and Fabric monitoring experiences provide operational details that help teams review runs and investigate failures. </p>\n<p>Capabilities such as Fast Copy, Modern Evaluator, and Partitioned Compute improve performance and scale for different workload patterns. Microsoft's published <a href=\"https://learn.microsoft.com/fabric/data-factory/dataflow-gen2-cost-performance-benchmarks\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Dataflow Gen2 cost and performance benchmarks</a> show refresh times improving by 1.6 to 21 times with Dataflows Gen2. Results vary by data, capacity, connector, gateway usage, and query design, so validate your representative workloads. </p>\n<p>Dataflows Gen2 (CI/CD) also benefits from <a href=\"https://learn.microsoft.com/fabric/data-factory/pricing-dataflows-gen2#dataflow-gen2-pricing-model\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">tiered Standard Compute pricing</a>, with a lower rate after the first 10 minutes of each mashup-engine query. Separate meters apply to high-scale compute and Fast Copy data movement. </p>\n<p><a href=\"https://learn.microsoft.com/fabric/data-factory/copilot-fabric-data-factory\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Copilot in Data Factory</a> enhances Dataflow Gen2 authoring with natural language. It can generate transformation steps, create queries, and summarize a query and its applied steps. These capabilities help authors understand and review complex query logic, improving productivity during transformation design. </p>\n<p>The bottom line is simple: upgrade now, then modernize when it adds value. </p>\n<h4>Upgrade one or more dataflows from the same workspace </h4>\n<p>Ready to begin? Open the menu next to a Power BI Dataflows Gen1 item and select <strong>Upgrade to Dataflow Gen2 (Preview)</strong>. The Dataflows Upgrade Wizard opens with the selected item and lets you add other Dataflows Gen1 items from the same workspace. </p>\n\n<p>Figure: Start the Dataflows Upgrade Wizard from a Dataflows Gen1 item.</p>\n\n<p> </p>\n<p>The upgraded item preserves its ID, schedule, queries, and connections. Keeping the same item ID helps downstream semantic models and reports continue using the upgraded dataflow without source remapping. The dataflow name also stays the same unless the assessment identifies a required naming change.</p>\n<p>After the upgrade is completed, the Fabric Dataflows Gen2 (CI/CD) item replaces the original Power BI Dataflows Gen1 item, and the upgrade can't be reversed. If you need to keep the original Power BI Dataflows Gen1 item, use <a href=\"https://learn.microsoft.com/fabric/data-factory/migrate-to-dataflow-gen2-using-save-as\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Save As</a> to create a separate Fabric Dataflows Gen2 (CI/CD) item instead.</p>\n<h2>Know what needs attention before the upgrade</h2>\n<p>Before making any changes, the Upgrade Wizard assesses the Power BI Dataflows Gen1 items in your workspace, giving you a clear view of which dataflows are ready and where you may need to act before or after upgrading:</p>\n<p>• <strong>Ready to migrate</strong>: The wizard didn't identify a manual step needed before or after the upgrade. Review the known limitations because the assessment doesn't detect every limitation.</p>\n<p>• <strong>Needs Attention</strong>: You can proceed, but review the reasons and complete the recommended actions.</p>\n<p>• <strong>Upgrade unavailable</strong>: You don't own the dataflow. Ask the owner to upgrade it or use <strong>Take over </strong>first.</p>\n\n<p>Figure: The assessment shows which dataflows are ready and which need attention.</p>\n\n<p>A <strong>Needs Attention</strong> status can currently identify incremental refresh, Bring Your Own Lake storage, linked dataflows, possible DirectQuery consumers, or naming changes. Hover over the status to see the reason, then review the <a href=\"https://learn.microsoft.com/fabric/data-factory/migrate-to-dataflow-gen2-using-upgrade-wizard\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Upgrade Wizard documentation</a> for follow-up actions and more information. The scenarios represented by each assessment status may expand as we further enhance the assessment capabilities.</p>\n<h2>After the upgrade</h2>\n<p>Once the wizard finishes, complete these follow-up steps to validate your upgraded dataflows and reconnect any dependencies.</p>\n<p>• Refresh each upgraded dataflow to load its data.</p>\n<p>• Open and save each downstream dataflow to rebind it.</p>\n<p>• Complete any remaining recommended <strong>Needs Attention</strong> actions.</p>\n<p>• Update consumers (for example, semantic models or linked dataflows) using the legacy <strong>Power BI Dataflows</strong> connector to the modern <strong>Power Platform Dataflows</strong> connector. The assessment doesn't detect legacy connector use.</p>\n<h2>Learn more</h2>\n<p>Ready to explore the Upgrade Wizard? Review the prerequisites, assessment guidance, and complete workflow in <a href=\"https://learn.microsoft.com/fabric/data-factory/migrate-to-dataflow-gen2-using-upgrade-wizard\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Upgrade Dataflow Gen1 to Dataflow Gen2 (CI/CD) using the Upgrade Wizard</a>. We look forward to <a href=\"https://community.fabric.microsoft.com/category/datafactory/discussions/df_dataflows\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">hearing about your experience</a> during preview.</p>",
+    "excerpt": "Upgrading Power BI Dataflows Gen1 is now easier with the Dataflows Upgrade Wizard. Now in preview for eligible workspaces assigned to Fabric capacity, the wizard provides a guided experience to upgrade Power BI Dataflows Gen1 items to Fabric Dataflows Gen2 (CI/CD). The wizard preserves key properties of the existing…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "the future of Dataflows",
+        "url": "https://powerbi.microsoft.com/blog/dataflows-thank-you-for-eight-years-of-gen1-and-why-gen2-is-the-future/"
+      },
+      {
+        "label": "Migrate from Dataflow Gen1 to Dataflow Gen2",
+        "url": "https://learn.microsoft.com/fabric/data-factory/dataflow-gen2-migrate-from-dataflow-gen1"
+      },
+      {
+        "label": "data destinations",
+        "url": "https://learn.microsoft.com/fabric/data-factory/dataflow-gen2-data-destinations-and-managed-settings"
+      },
+      {
+        "label": "Dataflow Gen2 cost and performance benchmarks",
+        "url": "https://learn.microsoft.com/fabric/data-factory/dataflow-gen2-cost-performance-benchmarks"
+      },
+      {
+        "label": "tiered Standard Compute pricing",
+        "url": "https://learn.microsoft.com/fabric/data-factory/pricing-dataflows-gen2#dataflow-gen2-pricing-model"
+      },
+      {
+        "label": "Copilot in Data Factory",
+        "url": "https://learn.microsoft.com/fabric/data-factory/copilot-fabric-data-factory"
+      },
+      {
+        "label": "Save As",
+        "url": "https://learn.microsoft.com/fabric/data-factory/migrate-to-dataflow-gen2-using-save-as"
+      },
+      {
+        "label": "Upgrade Wizard documentation",
+        "url": "https://learn.microsoft.com/fabric/data-factory/migrate-to-dataflow-gen2-using-upgrade-wizard"
+      },
+      {
+        "label": "hearing about your experience",
+        "url": "https://community.fabric.microsoft.com/category/datafactory/discussions/df_dataflows"
+      }
+    ]
+  },
+  "contentHash": "39cd5343e681239b1b1efc024450ae086893db1b19b94fb8a7e054cc7b3bb304",
+  "categories": [
+    "data-factory",
+    "power-bi",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 69,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

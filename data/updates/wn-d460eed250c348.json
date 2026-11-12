@@ -1,0 +1,62 @@
+{
+  "id": "wn-d460eed250c348",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_43",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-warehouse/fabric-user-data-functions",
+  "title": "Warehouse User Data Function integration (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Warehouse User Data Function integration (Preview) invokes custom Python logic from T-SQL external functions. For more information, see Fabric User Data Functions in Warehouse.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_43\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Warehouse User Data Function integration (Preview)</a> invokes custom Python logic from T-SQL external functions. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/fabric-user-data-functions\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric User Data Functions in Warehouse</a>.",
+    "excerpt": "Warehouse User Data Function integration (Preview) invokes custom Python logic from T-SQL external functions. For more information, see Fabric User Data Functions in Warehouse.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Warehouse User Data Function integration (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_43"
+      },
+      {
+        "label": "Fabric User Data Functions in Warehouse",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/fabric-user-data-functions"
+      }
+    ]
+  },
+  "contentHash": "904257560a6892ee34d7dcae27226f365a57062fbd6763bdc7489a2dc4143ff8",
+  "categories": [
+    "data-warehouse",
+    "data-engineering",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_43"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "az-573875",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=573875",
+  "title": "Announcing: Table discovery in OneLake Catalog search",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-10-05T17:55:23.422Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Starting October 15, 2026, Search in Microsoft Fabric will return tables from semantic models, lakehouses, and mirrored databases as individual results. Users can search by table name or description, or find a table by an exact column-name match. More object types will become available over time. This applies to Fabric's global search, the OneLake Catalog UI, the Search API, search in Fabric's MCP servers, the /find command in the Fabric CLI, and the discovery skill.\nWhat you need to know:\nTable visibility in search follows permissions on the parent item, not data-level permissions on the table. If a user has Read permission or higher on the item, they can discover all tables under that item, even tables they can't query.\nSearch does not grant access to table data; existing data-access controls still apply when a user opens or queries a table. Tables in semantic models protected by object-level security are excluded from search.\nAction:\nReview \"Users can find objects in search\" setting in the Fabric admin portal under Tenant settings. It's enabled by default. Turn it off if your organization isn't ready for users to find tables by search; item and data access won't change.",
+    "html": "Starting October 15, 2026, Search in Microsoft Fabric will return tables from semantic models, lakehouses, and mirrored databases as individual results. Users can search by table name or description, or find a table by an exact column-name match.  More object types will become available over time. This applies to Fabric's global search, the OneLake Catalog UI, the Search API, search in Fabric's MCP servers, the /find command in the Fabric CLI, and the discovery skill.<b><br /></b><b><br /></b><b>What you need to know: </b><br />Table visibility in search follows permissions on the parent item, not data-level permissions on the table. If a user has Read permission or higher on the item, they can discover all tables under that item, even tables they can't query. <br /><br />Search does not grant access to table data; existing data-access controls still apply when a user opens or queries a table. Tables in semantic models protected by object-level security are excluded from search. <b><b><br /></b></b><b><br /></b><b>Action:</b> <br />Review \"Users can find objects in search\" setting in the Fabric admin portal under Tenant settings. It's enabled by default. Turn it off if your organization isn't ready for users to find tables by search; item and data access won't change.<br />",
+    "excerpt": "Starting October 15, 2026, Search in Microsoft Fabric will return tables from semantic models, lakehouses, and mirrored databases as individual results. Users can search by table name or description, or find a table by an exact column-name match. More object types will become available over time. This applies to…",
+    "images": [],
+    "codeBlocks": [],
+    "links": []
+  },
+  "contentHash": "89645c981d321ed6cde1d7b549b864f97431a3b183818125bbbb1d0f7e36de55",
+  "categories": [
+    "onelake"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 45,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "data-scientists",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "products": "Microsoft Fabric",
+    "tags": "Announcement",
+    "modified": "2026-10-05T17:55:23.4226434Z"
+  }
+}

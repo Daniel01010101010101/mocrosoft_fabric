@@ -1,0 +1,23 @@
+{
+  "id": "rm-5952a1c1-60b0-f011-bbd3-000d3a3740cc",
+  "releaseItemId": "5952a1c1-60b0-f011-bbd3-000d3a3740cc",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Capacity Insights & Actions (in-product observability)",
+  "description": "**Capacity Monitoring in Monitor Hub **Microsoft Fabric is introducing capacity monitoring and management capabilities within the Fabric product itself, designed to give administrators a unified and actionable view of capacity health, usage, and management capabilities. This experience centralizes the most critical controls and insights—such as around utilization, scaling, throttling, and surge protection—making it easier than ever to detect issues, manage resources, and remediate capacities quickly.  Key initials features include CU utilization details with breakdowns (e.g., interactive/background delays and rejections), status indicators for surge protection and throttling, direct toggles for pausing or resuming capacities, and easy ways to take direct actions for unhealthy capacities such scaling capacities and/or performing workspace migrations right from within the experience.By bringing these capabilities into the Monitor Hub, Fabric empowers customers to proactively manage capacities, maintain reliability, and streamline operations—all from an intuitive interface that introduces the concept of Capacity Health.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=5952a1c1-60b0-f011-bbd3-000d3a3740cc",
+  "contentHash": "feab58e04a668515a71dd74871c153a8d4a7a3987e53622806ecdcbd27e00449",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

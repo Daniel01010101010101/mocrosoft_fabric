@@ -1,0 +1,57 @@
+{
+  "id": "wn-5f429888f20fda",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_57",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-hub/explore-fabric-workspace-item-events",
+  "title": "Item soft-delete and recovery events (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Item soft-delete and recovery events (Preview) expose lifecycle events in Real-Time Hub for automation and audit scenarios. For more information, see Fabric workspace item events.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_57\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Item soft-delete and recovery events (Preview)</a> expose lifecycle events in Real-Time Hub for automation and audit scenarios. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-hub/explore-fabric-workspace-item-events\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric workspace item events</a>.",
+    "excerpt": "Item soft-delete and recovery events (Preview) expose lifecycle events in Real-Time Hub for automation and audit scenarios. For more information, see Fabric workspace item events.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Item soft-delete and recovery events (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_57"
+      },
+      {
+        "label": "Fabric workspace item events",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-hub/explore-fabric-workspace-item-events"
+      }
+    ]
+  },
+  "contentHash": "982234435b0299342821cdc0bfbd0362bf9e2098a9ebef8d14d470b3c8de0cad",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_57"
+  }
+}

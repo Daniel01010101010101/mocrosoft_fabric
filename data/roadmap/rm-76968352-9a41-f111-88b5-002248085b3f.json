@@ -1,0 +1,23 @@
+{
+  "id": "rm-76968352-9a41-f111-88b5-002248085b3f",
+  "releaseItemId": "76968352-9a41-f111-88b5-002248085b3f",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "DeltaFlow: Analytics ready CDC feed processing in Eventstream",
+  "description": "Eventstream now makes change data capture (CDC) feeds analytics ready by automatically turning raw change events into structured tables. Developers and analysts can work with change data as if it were regular tables, without interpreting complex CDC semantics. This speeds the development of operational dashboards, event-driven applications, and real-time analytics.With this capability, you can:- Convert raw change events into tables that match the source schema.- Build dashboards and event-driven applications on change data quickly.- React to source changes instantly with minimal setup and maintenance.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=76968352-9a41-f111-88b5-002248085b3f",
+  "contentHash": "c97cd767a5b5ee19f7f134f0ca236ccb411d95da804afd1da50171324be2943f",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

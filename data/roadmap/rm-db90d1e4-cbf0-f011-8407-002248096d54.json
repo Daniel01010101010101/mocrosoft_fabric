@@ -1,0 +1,23 @@
+{
+  "id": "rm-db90d1e4-cbf0-f011-8407-002248096d54",
+  "releaseItemId": "db90d1e4-cbf0-f011-8407-002248096d54",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Build Agent with AI Mode in Data Agent",
+  "description": "The Build Agent with AI mode is a specialized AI assistant designed to help data agent creators configure, improve, and optimize their data agents by generating and refining Agent Instructions, Data Source Instructions, and Few‑Shot Examples. It addresses common customer pain points such as confusion about where to put instructions, uncertainty about the effectiveness of few shots, and difficulty diagnosing why an agent produces poor results. The agent works in a collaborative, chat‑based “setup” mode, where it analyzes existing configurations, explores database schemas and query patterns, and recommends improvements that users can explicitly accept or reject. It is designed to detect ambiguity and contradictions across configurations and suggest clearer, more consistent alternatives. Initially focused on SQL data sources, the Build Agent with AI mode is intended to expand to additional data sources (e.g., KQL, semantic models) over time. Overall, it enables a faster, more scalable, and more understandable way to build high‑quality data agents without requiring deep knowledge of the underlying system.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=db90d1e4-cbf0-f011-8407-002248096d54",
+  "contentHash": "6213a6697c4d0df81ee26b52367c8c19bcf9c95ce663186d71960ed35f1720e1",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

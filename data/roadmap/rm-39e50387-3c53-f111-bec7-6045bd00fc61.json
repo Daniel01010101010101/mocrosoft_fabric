@@ -1,0 +1,23 @@
+{
+  "id": "rm-39e50387-3c53-f111-bec7-6045bd00fc61",
+  "releaseItemId": "39e50387-3c53-f111-bec7-6045bd00fc61",
+  "product": "Data Science",
+  "productId": "0522b590-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-science",
+  "name": "MLFlow 3 in Fabric : logged model and traces",
+  "description": "MLflow 3 arrives in Fabric with support for tracing, logged models, and an upgraded experiment tracking UX. The update introduces a new trace table view and nested trace visualization for inspecting multi-step model execution paths, a dedicated trace detail page, and the logged model API and UX for capturing and managing model artifacts as first-class objects. Together, these provide a more structured workflow for tracking experiments, registering models, and understanding model behavior.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=39e50387-3c53-f111-bec7-6045bd00fc61",
+  "contentHash": "4fee0c52468c745ad86d7c49af88ada3f3feeb3f7baf765346a447a7f3258362",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

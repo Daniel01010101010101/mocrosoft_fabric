@@ -1,0 +1,23 @@
+{
+  "id": "rm-10e2a1c0-d664-f111-a826-000d3a5a7aa2",
+  "releaseItemId": "10e2a1c0-d664-f111-a826-000d3a5a7aa2",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Modern visual defaults and customizing theme improvements",
+  "description": "New visual defaults to overhaul the Power BI base report theme to create professional looking reports in seconds. This update incorporates many of the latest updates we have made to reports and report theming. This update also includes increasing the default page size to 1080x1920. Report theme customizaton improvements such as color palettes and custom theme authoring from the formatting pane available in both Desktop and web.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=10e2a1c0-d664-f111-a826-000d3a5a7aa2",
+  "contentHash": "10a8f5afe91c4779bb986046704209e0264fbf4b5a8806d528e1721a1c824100",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

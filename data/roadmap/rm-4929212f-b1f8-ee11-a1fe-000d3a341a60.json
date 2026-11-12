@@ -1,0 +1,23 @@
+{
+  "id": "rm-4929212f-b1f8-ee11-a1fe-000d3a341a60",
+  "releaseItemId": "4929212f-b1f8-ee11-a1fe-000d3a341a60",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Optimistic Job Admission for Fabric Spark",
+  "description": "With Optimistic Job Admission, Fabric Spark only reserves the minimum number of cores that a job needs to start, based on the minimum number of nodes that the job can scale down to. This allows more jobs to be admitted if there are enough resources to meet the minimum requirements. If a job needs to scale up later, the scale up requests is approved or rejected based on the available cores in capacity.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2024",
+  "releaseQuarterStart": "2024-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=4929212f-b1f8-ee11-a1fe-000d3a341a60",
+  "contentHash": "23d75f7263f4c5571258951236e44ba0118e1de235d645abfb0eb4bfc536ba62",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

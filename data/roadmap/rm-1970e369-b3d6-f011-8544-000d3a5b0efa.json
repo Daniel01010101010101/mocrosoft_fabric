@@ -1,0 +1,23 @@
+{
+  "id": "rm-1970e369-b3d6-f011-8544-000d3a5b0efa",
+  "releaseItemId": "1970e369-b3d6-f011-8544-000d3a5b0efa",
+  "product": "SQL database",
+  "productId": "347da228-ea54-ef11-a317-0022480a694f",
+  "category": "databases",
+  "name": "Pre-/post-deployment scripts in CI/CD",
+  "description": "The SQL database definition includes the objects that reside in the database, but the multi-dimensional nature of a database results in a requirement for additional actions during deployment. SQL database projects include a feature for incorporating open-ended T-SQL scripts for execution before and after the database deployment. Pre-deployment and post-deployment scripts unlock data cleaning before deployment, reference data management, and other advanced scenarios for CI/CD.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=1970e369-b3d6-f011-8544-000d3a5b0efa",
+  "contentHash": "48815fe5772b19251da1379beb4b5a23f2bc9416f1ac466a4f3a88a792dfe97e",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

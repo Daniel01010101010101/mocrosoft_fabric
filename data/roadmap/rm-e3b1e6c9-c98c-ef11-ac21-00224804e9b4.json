@@ -1,0 +1,23 @@
+{
+  "id": "rm-e3b1e6c9-c98c-ef11-ac21-00224804e9b4",
+  "releaseItemId": "e3b1e6c9-c98c-ef11-ac21-00224804e9b4",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Livy API - General Availability",
+  "description": "Apache Livy is an API that enables easy interaction with a Spark cluster over a REST interface. It enables easy submission of Spark jobs or snippets of Spark code, synchronous or asynchronous result retrieval, as well as Spark Context management, all via a simple REST interface or an RPC client library. Apache Livy API also simplifies the interaction between Spark and application servers, thus enabling the use of Spark for interactive web/mobile applications.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=e3b1e6c9-c98c-ef11-ac21-00224804e9b4",
+  "contentHash": "4efbcb4010fd37342d01bd5526d5b44afeeace5afe1fac96fcce41cfed8010ee",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-9484955e-569d-f011-b41c-000d3a5b0efa",
+  "releaseItemId": "9484955e-569d-f011-b41c-000d3a5b0efa",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Mirroring - SQL Server 2022 and before",
+  "description": "Mirroring support SQL Server on-prem (2022 and before) as General availability",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=9484955e-569d-f011-b41c-000d3a5b0efa",
+  "contentHash": "535032c61cbe5861bde2d2a8c0e0aa73076ef464f147ec86e6d24e8f0d331e5d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

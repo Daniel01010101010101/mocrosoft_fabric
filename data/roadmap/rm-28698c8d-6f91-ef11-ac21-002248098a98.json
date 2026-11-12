@@ -1,0 +1,23 @@
+{
+  "id": "rm-28698c8d-6f91-ef11-ac21-002248098a98",
+  "releaseItemId": "28698c8d-6f91-ef11-ac21-002248098a98",
+  "product": "SQL database",
+  "productId": "347da228-ea54-ef11-a317-0022480a694f",
+  "category": "databases",
+  "name": "Editor for SQL database in Fabric",
+  "description": "The SQL query editor in the Microsoft Fabric portal is a powerful tool designed for writing and executing T-SQL queries. Here are its key features:* IntelliSense and Code Completion: Provides support for syntax highlighting, client-side parsing, and validation.* Query Execution: Allows running Data Definition Language (DDL), Data Manipulation Language (DML), and Data Control Language (DCL) statements.* Automatic Saving: Queries are saved automatically every few seconds.* Result Viewing: Displays query results in a grid, with options to search within results and download them in various formats (Excel, JSON, CSV).* Copilot Integration: Utilizes AI to assist in writing and managing queries, enhancing efficiency.* Keyboard Shortcuts: Offers various shortcuts to streamline query writing and execution.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=28698c8d-6f91-ef11-ac21-002248098a98",
+  "contentHash": "7da5d748a748fc1c7285857274aee6bdd8ce1569932eb41ce86864d7ce1c8a7c",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

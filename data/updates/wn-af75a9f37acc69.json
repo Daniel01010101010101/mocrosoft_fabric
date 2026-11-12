@@ -1,0 +1,62 @@
+{
+  "id": "wn-af75a9f37acc69",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_17",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/onelake/onelake-manage-outbound-access",
+  "title": "OneLake outbound access protection (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "OneLake outbound access protection blocks external shortcuts and copy operations by default and allows approved connections. For more information, see Manage outbound access.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_17\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">OneLake outbound access protection</a> blocks external shortcuts and copy operations by default and allows approved connections. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/onelake/onelake-manage-outbound-access\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Manage outbound access</a>.",
+    "excerpt": "OneLake outbound access protection blocks external shortcuts and copy operations by default and allows approved connections. For more information, see Manage outbound access.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "OneLake outbound access protection",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_17"
+      },
+      {
+        "label": "Manage outbound access",
+        "url": "https://learn.microsoft.com/en-us/fabric/onelake/onelake-manage-outbound-access"
+      }
+    ]
+  },
+  "contentHash": "451979c6a13ce5f0d29d21398f56ac172fc01f680670c6e55fd14d7709764d10",
+  "categories": [
+    "onelake",
+    "security"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_17"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "wn-7db7bf19b3744f",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_3",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/fundamentals/understand-best-practices-fabric-cicd",
+  "title": "Deployment plans (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.85,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Deployment plans (Preview) define item deployment order and pre/post actions on a visual canvas. For more information, see Plan CI/CD for Fabric solutions.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_3\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Deployment plans (Preview)</a> define item deployment order and pre/post actions on a visual canvas. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/fundamentals/understand-best-practices-fabric-cicd\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Plan CI/CD for Fabric solutions</a>.",
+    "excerpt": "Deployment plans (Preview) define item deployment order and pre/post actions on a visual canvas. For more information, see Plan CI/CD for Fabric solutions.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Deployment plans (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_3"
+      },
+      {
+        "label": "Plan CI/CD for Fabric solutions",
+        "url": "https://learn.microsoft.com/en-us/fabric/fundamentals/understand-best-practices-fabric-cicd"
+      }
+    ]
+  },
+  "contentHash": "cf569c96b8a7021cc70d2a153b9d688ffbbc7b5cebc9edbd1de45540f9aed8ea",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_3"
+  }
+}

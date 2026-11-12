@@ -1,0 +1,59 @@
+{
+  "id": "wn-d14c33422e4abc",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690#toc-hId--1012203563",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent",
+  "title": "Observability for Fabric Data Agent in Microsoft Foundry (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.7,
+  "publishedAt": "2026-06-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Observability for Fabric Data Agent in Microsoft Foundry (Preview) surfaces telemetry for every call to a Fabric Data Agent used as a tool inside a Foundry agent, including latency, status, and error details, so agent builders can debug and monitor production agents. For more information, see Fabric data agent concepts.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690#toc-hId--1012203563\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Observability for Fabric Data Agent in Microsoft Foundry (Preview)</a> surfaces telemetry for every call to a Fabric Data Agent used as a tool inside a Foundry agent, including latency, status, and error details, so agent builders can debug and monitor production agents. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric data agent concepts</a>.",
+    "excerpt": "Observability for Fabric Data Agent in Microsoft Foundry (Preview) surfaces telemetry for every call to a Fabric Data Agent used as a tool inside a Foundry agent, including latency, status, and error details, so agent builders can debug and monitor production agents. For more information, see Fabric data agent…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Observability for Fabric Data Agent in Microsoft Foundry (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690#toc-hId--1012203563"
+      },
+      {
+        "label": "Fabric data agent concepts",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent"
+      }
+    ]
+  },
+  "contentHash": "89100a1d7c5f33f6bca4980be656a53f6f2f13f71be818dbe065fbbefe0eb160",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690#toc-hId--1012203563"
+  }
+}

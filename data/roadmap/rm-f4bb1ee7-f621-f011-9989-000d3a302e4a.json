@@ -1,0 +1,23 @@
+{
+  "id": "rm-f4bb1ee7-f621-f011-9989-000d3a302e4a",
+  "releaseItemId": "f4bb1ee7-f621-f011-9989-000d3a302e4a",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - Save Dataflow Gen1 as Dataflow Gen2",
+  "description": "We will continue enhancing the recently shipped “Save as Dataflow Gen2” capabilities and discovery for Dataflow Gen1 customers, allowing them to seamlessly save an existing Dataflow Gen1 artifact as Gen2, leading up to the GA release of this feature. [Learn more about this feature](https://learn.microsoft.com/en-us/fabric/data-factory/migrate-to-dataflow-gen2-using-save-as#save-a-dataflow-gen1-as-a-new-dataflow-gen2-cicdhttp://)",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=f4bb1ee7-f621-f011-9989-000d3a302e4a",
+  "contentHash": "a95e173065722484331960bd4272e99d271777331900d3a959be23822923fdae",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

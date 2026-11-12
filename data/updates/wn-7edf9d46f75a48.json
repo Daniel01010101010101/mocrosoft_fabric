@@ -1,0 +1,60 @@
+{
+  "id": "wn-7edf9d46f75a48",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_27",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/sql-analytics-endpoint-metadata-sync",
+  "title": "Metadata Sync support for Delta Checkpoint V2 (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-08-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Metadata Sync support for Delta Checkpoint V2 lets both legacy and new Metadata Sync discover and synchronize Delta tables that use the Checkpoint V2 format. For more information, see SQL analytics endpoint metadata synchronization.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_27\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Metadata Sync support for Delta Checkpoint V2</a> lets both legacy and new Metadata Sync discover and synchronize Delta tables that use the Checkpoint V2 format. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/sql-analytics-endpoint-metadata-sync\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">SQL analytics endpoint metadata synchronization</a>.",
+    "excerpt": "Metadata Sync support for Delta Checkpoint V2 lets both legacy and new Metadata Sync discover and synchronize Delta tables that use the Checkpoint V2 format. For more information, see SQL analytics endpoint metadata synchronization.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Metadata Sync support for Delta Checkpoint V2",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_27"
+      },
+      {
+        "label": "SQL analytics endpoint metadata synchronization",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/sql-analytics-endpoint-metadata-sync"
+      }
+    ]
+  },
+  "contentHash": "b71b27aa597f45ee8a3f803cea43ad0e464c7ca732a43dfd073e01a42e282878",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "August 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_27"
+  }
+}

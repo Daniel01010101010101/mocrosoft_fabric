@@ -1,0 +1,23 @@
+{
+  "id": "rm-7627fb72-ce07-ef11-9f89-000d3a34b75c",
+  "releaseItemId": "7627fb72-ce07-ef11-9f89-000d3a34b75c",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Evenhouse table no-code creation and editing experience",
+  "description": "Wizards to create/edit tables",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=7627fb72-ce07-ef11-9f89-000d3a34b75c",
+  "contentHash": "c5c43aa05169cfbb045d869b25aa29353f883143e378f858be285d8a3f3e8303",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

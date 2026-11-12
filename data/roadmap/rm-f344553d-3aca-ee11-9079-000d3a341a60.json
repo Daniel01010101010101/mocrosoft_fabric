@@ -1,0 +1,23 @@
+{
+  "id": "rm-f344553d-3aca-ee11-9079-000d3a341a60",
+  "releaseItemId": "f344553d-3aca-ee11-9079-000d3a341a60",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "High concurrency in pipelines",
+  "description": "In addition to high concurrency in notebooks, we'll also enable high concurrency in pipelines. This capability will allow you to run multiple notebooks in a pipeline with a single session.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2024",
+  "releaseQuarterStart": "2024-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=f344553d-3aca-ee11-9079-000d3a341a60",
+  "contentHash": "d1226487230c0ec8b7a50f53510cc0212fad79a81d2bf720ee432f1e40df69a8",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

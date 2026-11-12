@@ -1,0 +1,23 @@
+{
+  "id": "rm-ac9e9fff-def2-ef11-be21-0022480939f0",
+  "releaseItemId": "ac9e9fff-def2-ef11-be21-0022480939f0",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Fabric CLI",
+  "description": "Fabric CLI is a command-line interface tool designed to interact with Microsoft Fabric. It provides a way for users/developers to manage and automate tasks within the Fabric environment. The toolwill support various functionalities such as running notebooks, managing pipelines, handling permissions, and more. It is aimed at enhancing the user experience by offering an alternative to graphical interfaces, similar to how Azure CLI operates within the Azure PortalThe Fabric CLI offers two primary modes:1. Interactive Mode - this mode allows users to interact with the CLI in real-time, executing commands one at a time and receiving immediate feedback. It is particularly useful for exploratory tasks and learning the CLI commands2. Command Line Mode - also known as scripting or batch mode, this mode enables users to execute multiple commands at once. It is ideal for automation tasks, such as running scripts or integrating with CI/CD pipelines]These modes provide flexibility for different use cases, whether you are performing ad-hoc tasks or automating complex workflows.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=ac9e9fff-def2-ef11-be21-0022480939f0",
+  "contentHash": "e4107a2b4b8536b91f45782ae3f9fa3f64c24a42a27db4aea834b53843f03b1d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

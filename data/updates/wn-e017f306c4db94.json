@@ -1,0 +1,57 @@
+{
+  "id": "wn-e017f306c4db94",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/on-premises-data-gateway-june-2025-release?ft=All",
+  "title": "Fabric Data Factory Upsert table action in the Lakehouse Connector (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Upsert (Preview) table action in the Lakehouse Connector is in preview.",
+    "html": "The <a href=\"https://blog.fabric.microsoft.com/blog/on-premises-data-gateway-june-2025-release?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Upsert (Preview) table action in the Lakehouse Connector</a> is in preview.",
+    "excerpt": "The Upsert (Preview) table action in the Lakehouse Connector is in preview.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Upsert (Preview) table action in the Lakehouse Connector",
+        "url": "https://blog.fabric.microsoft.com/blog/on-premises-data-gateway-june-2025-release?ft=All"
+      }
+    ]
+  },
+  "contentHash": "75e20b18e418e094720c96b199ecdab45dd5b62fc7b91fe45acce1494d1adbd2",
+  "categories": [
+    "data-engineering",
+    "integrations-connectors",
+    "data-factory"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/on-premises-data-gateway-june-2025-release?ft=All",
+    "backfill": "true"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "wn-02536fcef5e0d6",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-Excel-to-Delta-Tables-Simplifying-Excel-Data-Ingestion-with/ba-p/5185370",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/onelake/shortcuts/transformations",
+  "title": "Excel to Delta tables with shortcut transformations (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Excel to Delta tables with shortcut transformations (Preview) extends the zero-code shortcut transformations ingestion model to multi-sheet .xlsx and .xls workbooks, with automatic sheet discovery, wildcard sheet matching, combined-table or table-per-sheet output, schema drift handling, continuous sync, and sanitization of sheet names into valid Delta table names. For more information, see Shortcut transformations (file).",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-Excel-to-Delta-Tables-Simplifying-Excel-Data-Ingestion-with/ba-p/5185370\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Excel to Delta tables with shortcut transformations (Preview)</a> extends the zero-code shortcut transformations ingestion model to multi-sheet <code>.xlsx</code> and <code>.xls</code> workbooks, with automatic sheet discovery, wildcard sheet matching, combined-table or table-per-sheet output, schema drift handling, continuous sync, and sanitization of sheet names into valid Delta table names. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/onelake/shortcuts/transformations\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Shortcut transformations (file)</a>.",
+    "excerpt": "Excel to Delta tables with shortcut transformations (Preview) extends the zero-code shortcut transformations ingestion model to multi-sheet .xlsx and .xls workbooks, with automatic sheet discovery, wildcard sheet matching, combined-table or table-per-sheet output, schema drift handling, continuous sync, and…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Excel to Delta tables with shortcut transformations (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-Excel-to-Delta-Tables-Simplifying-Excel-Data-Ingestion-with/ba-p/5185370"
+      },
+      {
+        "label": "Shortcut transformations (file)",
+        "url": "https://learn.microsoft.com/en-us/fabric/onelake/shortcuts/transformations"
+      }
+    ]
+  },
+  "contentHash": "221539907f681b5ea99b0352de086c7530afe68ff130c222dc4ba0481697ad27",
+  "categories": [
+    "onelake",
+    "data-engineering",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-scientists",
+      "architects",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-Excel-to-Delta-Tables-Simplifying-Excel-Data-Ingestion-with/ba-p/5185370",
+    "backfill": "true"
+  }
+}

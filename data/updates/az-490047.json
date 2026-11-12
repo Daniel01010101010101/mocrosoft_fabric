@@ -1,0 +1,58 @@
+{
+  "id": "az-490047",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=490047",
+  "title": "Retirement: Microsoft Fabric Runtime 1.2",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2025-05-30T11:15:51.888Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "End of\nSupport for Microsoft Fabric Runtime 1.2 has been announced. Microsoft\nFabric Runtime 1.2 will be deprecated and disabled March 31, 2026.\nWe strongly recommend upgrading\nyour Fabric workspace and environments to use Runtime\n1.3 (Apache Spark 3.5 and Delta Lake 3.2).",
+    "html": "<p><span>End of\nSupport for Microsoft Fabric Runtime 1.2 has been announced. Microsoft\nFabric Runtime 1.2 will be deprecated and disabled March 31, 2026.  \nWe strongly recommend <a href=\"https://review.learn.microsoft.com/en-us/fabric/data-engineering/runtime\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">upgrading\nyour Fabric workspace</a> and environments to use <a href=\"https://review.learn.microsoft.com/en-us/fabric/data-engineering/runtime-1-3\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Runtime\n1.3 (Apache Spark 3.5 and Delta Lake 3.2)</a>. </span></p>",
+    "excerpt": "End of Support for Microsoft Fabric Runtime 1.2 has been announced. Microsoft Fabric Runtime 1.2 will be deprecated and disabled March 31, 2026. We strongly recommend upgrading your Fabric workspace and environments to use Runtime 1.3 (Apache Spark 3.5 and Delta Lake 3.2).",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "upgrading\nyour Fabric workspace",
+        "url": "https://review.learn.microsoft.com/en-us/fabric/data-engineering/runtime"
+      },
+      {
+        "label": "Runtime\n1.3 (Apache Spark 3.5 and Delta Lake 3.2)",
+        "url": "https://review.learn.microsoft.com/en-us/fabric/data-engineering/runtime-1-3"
+      }
+    ]
+  },
+  "contentHash": "cf19d2d3e1d1e3119ce879d4ccec52228e9c774b8c5134d5cad0a3e40e8b7ce8",
+  "categories": [
+    "data-engineering"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "deprecation",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "products": "Microsoft Fabric",
+    "tags": "Retirements, Microsoft Build, SDK and Tools",
+    "modified": "2025-05-30T11:15:51.8886744Z"
+  }
+}

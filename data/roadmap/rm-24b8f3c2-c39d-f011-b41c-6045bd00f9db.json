@@ -1,0 +1,23 @@
+{
+  "id": "rm-24b8f3c2-c39d-f011-b41c-6045bd00f9db",
+  "releaseItemId": "24b8f3c2-c39d-f011-b41c-6045bd00f9db",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Pipelines - Workspace Identity support for pipeline activities",
+  "description": "With support for Fabric Workspace Identity (WI), you can now use WI authentication in your pipeline activities. This enables secure and reliable authentication to run automated pipelines using secured identities.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=24b8f3c2-c39d-f011-b41c-6045bd00f9db",
+  "contentHash": "0ad57c4c9e57e7d633fa686a073969dfd8c5e312e337d971ca521588ccb30e6d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-ed90fa62-4321-f011-9989-6045bd030c4d",
+  "releaseItemId": "ed90fa62-4321-f011-9989-6045bd030c4d",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - New Output Destination:  Snowflake",
+  "description": "We continue enhancing the options for Dataflow Gen2 creators to output their transformation results to the destinations they need. Snowflake databases are the top non-MSFT requested destination, and we aim to provide the ability to output query results to new or existing tables in Snowflake databases.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=ed90fa62-4321-f011-9989-6045bd030c4d",
+  "contentHash": "8e58959c4b7cdd4f35ed2e3aad5fd8f639489cb48a251ebe3e22621181171504",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-3a88492a-6b71-f011-bec3-6045bd09dba9",
+  "releaseItemId": "3a88492a-6b71-f011-bec3-6045bd09dba9",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Workspace-Level Workload Assignment",
+  "description": "Until now, assigning workloads in Microsoft Fabric was limited to capacity admins—scoped only at the capacity level. Today, we’re introducing a major shift in control and flexibility.With this update, **workspace admins** can now assign workloads directly to their own workspaces. This means faster onboarding, more autonomy, and a streamlined experience for teams building with Fabric.**Key Highlights:**- Workspace admins can open the **Workload Hub**, select a supported workload, and assign it directly to their workspace—**no capacity-level permissions required**.- Once assigned, users can update the assignment and add additional workspaces as needed.- After the workload is added, all workspace participants can create the new item, which appears in the **New Panel** within the workspace.**Impact:**This change empowers decentralized teams to move faster while maintaining governance and visibility through the Fabric platform. With workspace-level assignment, we expect a significant boost in workload adoption across the organization.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=3a88492a-6b71-f011-bec3-6045bd09dba9",
+  "contentHash": "977ab007d1f6e27372316616a60a6939ef816721e3a73eb44cc6a8c596ec60fd",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

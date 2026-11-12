@@ -1,0 +1,23 @@
+{
+  "id": "rm-9e815d56-7c90-ef11-ac21-002248098a98",
+  "releaseItemId": "9e815d56-7c90-ef11-ac21-002248098a98",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "OneLake catalog security management experience",
+  "description": "Today Fabric has many different UI experiences for managing permissions to data: the share dialog, the manage permissions page, workspace role settings, and other in-artifact code or role creation experiences. With the OneLake catalog secure tab, you can now manage all your OneLake security roles from a single location. Users can also view user access to workspaces, items, and domains to get an end-to-end picture of data access in Fabric.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=9e815d56-7c90-ef11-ac21-002248098a98",
+  "contentHash": "df8d91fe2aeaa3fba16d61f00aa11c616cc8ecfeb834062358713517798b23fc",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

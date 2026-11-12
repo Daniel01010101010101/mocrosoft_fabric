@@ -1,0 +1,23 @@
+{
+  "id": "rm-4ffd1a22-b7bb-f111-aaad-000d3a373559",
+  "releaseItemId": "4ffd1a22-b7bb-f111-aaad-000d3a373559",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Filter action button to show filter options on the visual",
+  "description": "Bringing the filter pane to your visual with a new top level action buttons in your visual title.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=4ffd1a22-b7bb-f111-aaad-000d3a373559",
+  "contentHash": "b83892ba10f836e64931979c041204791b8a9e728b9519a9865230ecd73c142e",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

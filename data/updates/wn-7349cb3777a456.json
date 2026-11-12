@@ -1,0 +1,59 @@
+{
+  "id": "wn-7349cb3777a456",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_23",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/custom-live-pools-configure",
+  "title": "Delegated Custom Live Pool management (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Delegated Custom Live Pool management (Preview) lets workspace Members configure pools through Fabric environments when an administrator enables delegation. For more information, see Configure Custom Live Pools.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_23\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Delegated Custom Live Pool management (Preview)</a> lets workspace Members configure pools through Fabric environments when an administrator enables delegation. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/custom-live-pools-configure\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Configure Custom Live Pools</a>.",
+    "excerpt": "Delegated Custom Live Pool management (Preview) lets workspace Members configure pools through Fabric environments when an administrator enables delegation. For more information, see Configure Custom Live Pools.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Delegated Custom Live Pool management (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_23"
+      },
+      {
+        "label": "Configure Custom Live Pools",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/custom-live-pools-configure"
+      }
+    ]
+  },
+  "contentHash": "1d15af54676d490894d77bdacd9c9b5324e35fa86d63a454f0ec83dea213a598",
+  "categories": [
+    "data-engineering"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_23"
+  }
+}

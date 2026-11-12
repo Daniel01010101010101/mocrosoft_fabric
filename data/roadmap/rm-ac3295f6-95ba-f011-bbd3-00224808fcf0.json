@@ -1,0 +1,23 @@
+{
+  "id": "rm-ac3295f6-95ba-f011-bbd3-00224808fcf0",
+  "releaseItemId": "ac3295f6-95ba-f011-bbd3-00224808fcf0",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Fabric Runtime 2.0 - General Availability",
+  "description": "This a new Fabric Runtime 2.0 release based on Spark 4.x and Delta Lake 4.x. Most importantly, it will have Scala 2.13 and will be based on Mariner 3.0 OS.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=ac3295f6-95ba-f011-bbd3-00224808fcf0",
+  "contentHash": "dd005aea9e957391ca53dcf293a8a836f187b28185fe5e5be5b639e1b4992001",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-429662c3-a361-f011-bec1-000d3a35e553",
+  "releaseItemId": "429662c3-a361-f011-bec1-000d3a35e553",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Data Agent Schema Descriptions for SQL",
+  "description": "The Data Source schema description feature allows users to add rich descriptions to tables, columns, and other schema elements to enhance how the Data Agent understands and utilizes the data. These annotations provide valuable context that can improve routing decisions, schema selection, and query generation. By supplementing raw schema with user-defined descriptions—such as definitions, usage notes, or expected value formats—the agent can interpret questions more accurately and choose the most relevant data sources and fields when responding to user queries.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=429662c3-a361-f011-bec1-000d3a35e553",
+  "contentHash": "757c4313ddf0c018eaf37911fdeb5c9926fde3e52c59618a298a34622f9c4f4b",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

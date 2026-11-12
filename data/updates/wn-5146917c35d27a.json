@@ -1,0 +1,61 @@
+{
+  "id": "wn-5146917c35d27a",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_91",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/iq/connectors/fabric-iq-mcp",
+  "title": "Fabric IQ MCP Server (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric IQ MCP Server brings governed Fabric business context to compatible AI clients. For more information, see Fabric IQ MCP Server.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_91\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric IQ MCP Server</a> brings governed Fabric business context to compatible AI clients. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/iq/connectors/fabric-iq-mcp\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric IQ MCP Server</a>.",
+    "excerpt": "Fabric IQ MCP Server brings governed Fabric business context to compatible AI clients. For more information, see Fabric IQ MCP Server.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric IQ MCP Server",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_91"
+      },
+      {
+        "label": "Fabric IQ MCP Server",
+        "url": "https://learn.microsoft.com/en-us/fabric/iq/connectors/fabric-iq-mcp"
+      }
+    ]
+  },
+  "contentHash": "c5e84d3cdd61dc577960a877c47d1eed78e7698269826e2b9ace0b80f4ed9af2",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_91"
+  }
+}

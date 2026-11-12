@@ -1,0 +1,23 @@
+{
+  "id": "rm-c501a0bc-7974-f011-bec3-0022480939f0",
+  "releaseItemId": "c501a0bc-7974-f011-bec3-0022480939f0",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "Shortcut transform - parquet files to Delta table",
+  "description": "Parquet to Delta shortcut transform upgrades a Parquet shortcut into a Delta table. It builds the Delta transaction log and, when needed, rewrites data files to meet Delta specs, unlocking ACID transactions, schema evolution, and time travel for every Fabric engine.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=c501a0bc-7974-f011-bec3-0022480939f0",
+  "contentHash": "76e23e879091cdd5f8c8a8a2544f2bfe7d3f48a2023919093476da87ac0a91f4",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-5c05195c-b0fe-ef11-bae3-0022480939f0",
+  "releaseItemId": "5c05195c-b0fe-ef11-bae3-0022480939f0",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Translytical Task Flows",
+  "description": "Translytical task flows is a major evolution in Fabric that allows seamless insights to action on Power BI reports, such as updating customer records, adding annotations, and so much more!",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=5c05195c-b0fe-ef11-bae3-0022480939f0",
+  "contentHash": "d048708b57aedc4701b2de58748e6754e824795e391847f9c9c0d036ee125b08",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

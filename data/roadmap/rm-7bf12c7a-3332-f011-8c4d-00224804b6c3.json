@@ -1,0 +1,23 @@
+{
+  "id": "rm-7bf12c7a-3332-f011-8c4d-00224804b6c3",
+  "releaseItemId": "7bf12c7a-3332-f011-8c4d-00224804b6c3",
+  "product": "SQL database",
+  "productId": "347da228-ea54-ef11-a317-0022480a694f",
+  "category": "databases",
+  "name": "Performance Dashboard in Fabric Enhancements",
+  "description": "Multiple enhancements in Performance Dashboard including addition of memory are on the way.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=7bf12c7a-3332-f011-8c4d-00224804b6c3",
+  "contentHash": "1c32fe0f90d33ddc9035068758d27640b6f1f5b468deca5498950aa6ace4ba12",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

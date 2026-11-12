@@ -1,0 +1,23 @@
+{
+  "id": "rm-5294a2e1-4107-ef11-9f89-000d3a33ff0b",
+  "releaseItemId": "5294a2e1-4107-ef11-9f89-000d3a33ff0b",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Organizational Apps for Fabric",
+  "description": "Power BI apps are one of the easiest ways to package up and securely distribute Power BI reporting to your organization in a customized and easy-to-use experience. Previously one Power BI app could be created per workspace. With apps rebuilt for Fabric, multiple organizational apps can be created per workspace. Apps can contain more than just Power BI items like reports, but Fabric items like notebooks too. And the app experience can be customized in new ways with more control over the color (choose any color), navigation style, and landing experience.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2024",
+  "releaseQuarterStart": "2024-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=5294a2e1-4107-ef11-9f89-000d3a33ff0b",
+  "contentHash": "b390eefbc78d1176a4b3fc8896dda016bda8e8b6dae44c12951133e00cfb641e",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

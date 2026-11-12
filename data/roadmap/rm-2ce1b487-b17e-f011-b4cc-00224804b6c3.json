@@ -1,0 +1,23 @@
+{
+  "id": "rm-2ce1b487-b17e-f011-b4cc-00224804b6c3",
+  "releaseItemId": "2ce1b487-b17e-f011-b4cc-00224804b6c3",
+  "product": "Fabric Ecosystem",
+  "productId": "94e84e43-aa69-f011-bec2-00224804b6c3",
+  "category": "integrations-connectors",
+  "name": "Tessell Oracle mirroring to OneLake",
+  "description": "Tessell's DB as a service, allows users to replicate events from managed Oracle databases into OneLake, in real-time. Data lands in OneLake as Delta Lake tables ready for analytics and AI.https://learn.microsoft.com/en-us/fabric/mirroring/open-mirroring-partners-ecosystem#tessell",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricecosystem&releaseItem=2ce1b487-b17e-f011-b4cc-00224804b6c3",
+  "contentHash": "053b794ab2f5c75860a13c8efa0d435ee0ba609bb7c8ccd9235a6e8138e31f02",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

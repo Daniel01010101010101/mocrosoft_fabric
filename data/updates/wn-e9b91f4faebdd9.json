@@ -1,0 +1,61 @@
+{
+  "id": "wn-e9b91f4faebdd9",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/dropped-warehouse-recovery-in-microsoft-fabric-preview?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/admin/portal-workspaces",
+  "title": "Dropped warehouse recovery (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.85,
+  "publishedAt": "2026-07-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Dropped warehouse recovery lets Workspace Administrators restore accidentally dropped warehouses from the Workspace Recycle Bin within a configurable retention window (7 to 90 days), recovering table schemas, data, snapshots, permissions, views, and stored procedures. For more information, see Manage workspaces.",
+    "html": "<a href=\"https://blog.fabric.microsoft.com/blog/dropped-warehouse-recovery-in-microsoft-fabric-preview?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Dropped warehouse recovery</a> lets Workspace Administrators restore accidentally dropped warehouses from the Workspace Recycle Bin within a configurable retention window (7 to 90 days), recovering table schemas, data, snapshots, permissions, views, and stored procedures. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/admin/portal-workspaces\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Manage workspaces</a>.",
+    "excerpt": "Dropped warehouse recovery lets Workspace Administrators restore accidentally dropped warehouses from the Workspace Recycle Bin within a configurable retention window (7 to 90 days), recovering table schemas, data, snapshots, permissions, views, and stored procedures. For more information, see Manage workspaces.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Dropped warehouse recovery",
+        "url": "https://blog.fabric.microsoft.com/blog/dropped-warehouse-recovery-in-microsoft-fabric-preview?ft=All"
+      },
+      {
+        "label": "Manage workspaces",
+        "url": "https://learn.microsoft.com/en-us/fabric/admin/portal-workspaces"
+      }
+    ]
+  },
+  "contentHash": "c69f2204b9e7fdd7db3b9022081396801a3954b72c0f080eb199beaf65868985",
+  "categories": [
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "July 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/dropped-warehouse-recovery-in-microsoft-fabric-preview?ft=All"
+  }
+}

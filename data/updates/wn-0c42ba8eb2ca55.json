@@ -1,0 +1,67 @@
+{
+  "id": "wn-0c42ba8eb2ca55",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/See-your-business-as-it-happens-with-Real-Time-Dashboard-in/ba-p/5327997",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/real-time-dashboards-overview",
+  "title": "Real-Time Dashboard (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.91,
+  "publishedAt": "2026-07-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Real-Time Dashboard (Generally Available) lets you monitor Eventhouse data with live refresh, Copilot-created tiles, drill-down exploration, Activator alerts, and team sharing. For more information, see What is Real-Time Dashboard? and Create a Real-Time Dashboard.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/See-your-business-as-it-happens-with-Real-Time-Dashboard-in/ba-p/5327997\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Real-Time Dashboard (Generally Available)</a> lets you monitor Eventhouse data with live refresh, Copilot-created tiles, drill-down exploration, Activator alerts, and team sharing. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/real-time-dashboards-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">What is Real-Time Dashboard?</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-real-time-create?tabs=create-manual,kql-database,new-tile-copilot\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Create a Real-Time Dashboard</a>.",
+    "excerpt": "Real-Time Dashboard (Generally Available) lets you monitor Eventhouse data with live refresh, Copilot-created tiles, drill-down exploration, Activator alerts, and team sharing. For more information, see What is Real-Time Dashboard? and Create a Real-Time Dashboard.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Real-Time Dashboard (Generally Available)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/See-your-business-as-it-happens-with-Real-Time-Dashboard-in/ba-p/5327997"
+      },
+      {
+        "label": "What is Real-Time Dashboard?",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/real-time-dashboards-overview"
+      },
+      {
+        "label": "Create a Real-Time Dashboard",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-real-time-create?tabs=create-manual,kql-database,new-tile-copilot"
+      }
+    ]
+  },
+  "contentHash": "f736187ef5e96043ca1e9e046660eed9713de417d2a5f8b69b72c4dc048be0c6",
+  "categories": [
+    "real-time-intelligence",
+    "power-bi"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 67,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "administrators",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "July 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/See-your-business-as-it-happens-with-Real-Time-Dashboard-in/ba-p/5327997"
+  }
+}

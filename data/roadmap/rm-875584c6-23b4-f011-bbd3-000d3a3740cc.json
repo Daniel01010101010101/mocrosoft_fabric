@@ -1,0 +1,23 @@
+{
+  "id": "rm-875584c6-23b4-f011-bbd3-000d3a3740cc",
+  "releaseItemId": "875584c6-23b4-f011-bbd3-000d3a3740cc",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Increase Workspace Identity quota at tenant level",
+  "description": "Currently, customers can only create up to 1000 Worskapce Identities per tenant. We are planning to increase this limit and also, introduce the capabliti for the Fabric admin to define a limit for their tenant.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=875584c6-23b4-f011-bbd3-000d3a3740cc",
+  "contentHash": "e75ec400d87b4d4dcd97ac5ef0b6b63ee5a356a29c0c68424499b52cbb37f090",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-1f20b760-5807-ef11-9f89-000d3a34b75c",
+  "releaseItemId": "1f20b760-5807-ef11-9f89-000d3a34b75c",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Connections - Data source identity management (Azure Key Vault)",
+  "description": "Support for Azure Key Vault - You can store your keys and secrets in Azure Key Vault and connect to it. This way, you can manage your keys in a single place.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=1f20b760-5807-ef11-9f89-000d3a34b75c",
+  "contentHash": "1d8eda4f807f2cf74aea1dd8e8c2060173ed4503f853862a0eb12f7b29109e07",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

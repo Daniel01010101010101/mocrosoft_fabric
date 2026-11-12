@@ -1,0 +1,58 @@
+{
+  "id": "wn-21c6bd1738ad25",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/onelake/table-apis/table-apis-overview",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/onelake/table-apis/table-apis-overview",
+  "title": "OneLake table read API (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Use the table read API to read rows from a Delta Lake or Apache Iceberg table in OneLake. For more information, see Overview of OneLake table APIs.",
+    "html": "Use the table read API to read rows from a Delta Lake or Apache Iceberg table in OneLake. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/onelake/table-apis/table-apis-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Overview of OneLake table APIs</a>.",
+    "excerpt": "Use the table read API to read rows from a Delta Lake or Apache Iceberg table in OneLake. For more information, see Overview of OneLake table APIs.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Overview of OneLake table APIs",
+        "url": "https://learn.microsoft.com/en-us/fabric/onelake/table-apis/table-apis-overview"
+      }
+    ]
+  },
+  "contentHash": "8f5d10de5d83dbcd1c7846628433ec4070d9633db507e6f9e13f44f3f2c6939a",
+  "categories": [
+    "onelake",
+    "developer-apis"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

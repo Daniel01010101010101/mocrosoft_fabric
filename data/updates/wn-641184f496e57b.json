@@ -1,0 +1,56 @@
+{
+  "id": "wn-641184f496e57b",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/mirroring/sharepoint-list",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/mirroring/sharepoint-list",
+  "title": "SharePoint List mirroring (Generally available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "SharePoint List mirroring is now generally available. You can continuously replicate SharePoint list data into OneLake and use it across Fabric workloads. For more information, see SharePoint List mirroring.",
+    "html": "SharePoint List mirroring is now generally available. You can continuously replicate SharePoint list data into OneLake and use it across Fabric workloads. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/mirroring/sharepoint-list\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">SharePoint List mirroring</a>.",
+    "excerpt": "SharePoint List mirroring is now generally available. You can continuously replicate SharePoint list data into OneLake and use it across Fabric workloads. For more information, see SharePoint List mirroring.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "SharePoint List mirroring",
+        "url": "https://learn.microsoft.com/en-us/fabric/mirroring/sharepoint-list"
+      }
+    ]
+  },
+  "contentHash": "03c95191f24c1e065801beb84627299f6fea9bb4d2b3ba2098e9acedd6d877b4",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features"
+  }
+}

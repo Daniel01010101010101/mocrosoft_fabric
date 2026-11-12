@@ -1,0 +1,23 @@
+{
+  "id": "rm-5f6edaa0-1140-f111-88b5-000d3a376137",
+  "releaseItemId": "5f6edaa0-1140-f111-88b5-000d3a376137",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Data Grid Improvements in Data Warehouse & SQL Endpoint - Milestone 2",
+  "description": "The Data Grid feature for data warehouses and SQL analytics endpoints includes:* Data Handling: Supports large datasets with virtualization for performance.* Column & Row Features: Reorder, hide/show, group, pin, define dynamic columns, sort, filter, and select multiple rows.* Filtering & Sorting: Multi-column sorting and custom filters for data types (string, integer, date).* Search: Search across columns.* Grid-Level Options: Copy data with/without headers, select multiple rows, and export data in various formats.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=5f6edaa0-1140-f111-88b5-000d3a376137",
+  "contentHash": "388f573f0db6a15812473ad8271edb85f99c8cc26feccbb431ac276ffcb6e605",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

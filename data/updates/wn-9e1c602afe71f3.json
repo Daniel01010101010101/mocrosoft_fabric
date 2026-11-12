@@ -1,0 +1,60 @@
+{
+  "id": "wn-9e1c602afe71f3",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/migration-teradata-planning",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-warehouse/migration-teradata-planning",
+  "title": "Data Warehouse Migration Assistant for Teradata (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Get started planning your Teradata migration to Fabric Data Warehouse (preview) with the Fabric Migration Assistant for Data Warehouse.",
+    "html": "Get started planning your <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/migration-teradata-planning\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Teradata migration to Fabric Data Warehouse (preview)</a> with the <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/migration-assistant\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Migration Assistant for Data Warehouse</a>.",
+    "excerpt": "Get started planning your Teradata migration to Fabric Data Warehouse (preview) with the Fabric Migration Assistant for Data Warehouse.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Teradata migration to Fabric Data Warehouse (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/migration-teradata-planning"
+      },
+      {
+        "label": "Fabric Migration Assistant for Data Warehouse",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/migration-assistant"
+      }
+    ]
+  },
+  "contentHash": "7535984f097fbc514a2d1b31cffc66485a03a4201eceafa2ae830b85d9b02abc",
+  "categories": [
+    "data-warehouse",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

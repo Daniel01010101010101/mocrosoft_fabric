@@ -1,0 +1,23 @@
+{
+  "id": "rm-78bd9572-bb29-f011-8c4e-0022480939f0",
+  "releaseItemId": "78bd9572-bb29-f011-8c4e-0022480939f0",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Extension Workloads - Supporting workloads without a backend",
+  "description": "We are adding a new hosting type for workloads that allows developers to build a workload without the need to have a backend. This feature will make it significantly simpler for our ISVs and customer to build workloads and add new functionallity to Fabric.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=78bd9572-bb29-f011-8c4e-0022480939f0",
+  "contentHash": "786637894f15dff86c0fcae167183700ccd13ac54756d4d0f1db1d9c7bbddbbf",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

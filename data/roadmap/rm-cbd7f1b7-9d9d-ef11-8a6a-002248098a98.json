@@ -1,0 +1,23 @@
+{
+  "id": "rm-cbd7f1b7-9d9d-ef11-8a6a-002248098a98",
+  "releaseItemId": "cbd7f1b7-9d9d-ef11-8a6a-002248098a98",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Monitoring for Native Execution Engine",
+  "description": "The monitoring feature for the Native Execution Engine will allow users to view details related to the Native Execution Engine, including:* Spark SQL query execution details, such as the nodes running on the Native Engine or the normal JVMs.* A dedicated green color to highlight the stage or operator that runs under the Native Engine.* A summary of all key metrics for Spark SQL query executions, covering both native executions and normal Spark executions.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=cbd7f1b7-9d9d-ef11-8a6a-002248098a98",
+  "contentHash": "0999b2d075375ebf0edecbf63bd01c7ff150464b8d89bc4e53683991db5dd977",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

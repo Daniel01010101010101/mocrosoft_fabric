@@ -1,0 +1,55 @@
+{
+  "id": "wn-6cdf347a86f51d",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/sql/t-sql/statements/alter-database-transact-sql-set-options?view=fabric-sqldb&preserve-view=true",
+  "docsUrl": "https://learn.microsoft.com/en-us/sql/t-sql/statements/alter-database-transact-sql-set-options?view=fabric-sqldb&preserve-view=true",
+  "title": "ALTER DATABASE SET options in SQL database",
+  "originalLanguage": "en",
+  "languageConfidence": 0.92,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "ALTER DATABASE SET options in SQL database are now available as a preview feature. For more information, see ALTER DATABASE SET options (Transact-SQL) for SQL database in Fabric. Collation support and full-text indexing are also now available in SQL database as preview features.",
+    "html": "<code>ALTER DATABASE SET</code> options in SQL database are now available as a preview feature. For more information, see <a href=\"https://learn.microsoft.com/en-us/sql/t-sql/statements/alter-database-transact-sql-set-options?view=fabric-sqldb&amp;preserve-view=true\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ALTER DATABASE SET options (Transact-SQL)</a> for SQL database in Fabric. Collation support and full-text indexing are also now available in SQL database as preview features.",
+    "excerpt": "ALTER DATABASE SET options in SQL database are now available as a preview feature. For more information, see ALTER DATABASE SET options (Transact-SQL) for SQL database in Fabric. Collation support and full-text indexing are also now available in SQL database as preview features.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "ALTER DATABASE SET options (Transact-SQL)",
+        "url": "https://learn.microsoft.com/en-us/sql/t-sql/statements/alter-database-transact-sql-set-options?view=fabric-sqldb&preserve-view=true"
+      }
+    ]
+  },
+  "contentHash": "312db1d770ccb269ceae8237bab476878c5c98fba1fe9e22acc894d5d00060f5",
+  "categories": [
+    "databases"
+  ],
+  "primaryCategory": "databases",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

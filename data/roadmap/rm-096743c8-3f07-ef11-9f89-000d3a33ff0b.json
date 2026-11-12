@@ -1,0 +1,23 @@
+{
+  "id": "rm-096743c8-3f07-ef11-9f89-000d3a33ff0b",
+  "releaseItemId": "096743c8-3f07-ef11-9f89-000d3a33ff0b",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Copilot for DAX query generation",
+  "description": "DAX query authors can use Copilot for DAX query generation to write, edit, or explain DAX queries on their model data.  Ask what data you want to see returned and Copilot will give you the DAX query. Copilot can also be used to add a column or formatting to an existing DAX query, even finding the column in your data. Finally, Copilot can explain what a DAX query is doing or tell you more about specific DAX functions. This is a huge productivity boost in authoring DAX queries.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=096743c8-3f07-ef11-9f89-000d3a33ff0b",
+  "contentHash": "829cbac46ede662fc9779c708765f74e4167603479e47296e76596880f2d8d26",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

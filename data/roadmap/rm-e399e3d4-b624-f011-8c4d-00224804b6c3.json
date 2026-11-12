@@ -1,0 +1,23 @@
+{
+  "id": "rm-e399e3d4-b624-f011-8c4d-00224804b6c3",
+  "releaseItemId": "e399e3d4-b624-f011-8c4d-00224804b6c3",
+  "product": "Data Science",
+  "productId": "0522b590-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-science",
+  "name": "Service Principal authentication supported in Semantic Link",
+  "description": "This feature adds Azure service principal (SPN) support as an authentication type for Semantic Link.An Azure service principal is a non-human security identity used by applications or automation tools to access Azure resources with precise permissions.Using service principals in Semantic Link allows Power BI admins to manage and optimize Fabric items securely and efficiently, without relying on user identities.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=e399e3d4-b624-f011-8c4d-00224804b6c3",
+  "contentHash": "6d64465a13c383af70015ed9b21804a2ed259bcf1108207c933f4c7e23ce7add",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

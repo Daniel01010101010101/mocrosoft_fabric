@@ -1,0 +1,23 @@
+{
+  "id": "rm-2d795c03-a033-f111-88b4-6045bd0a886d",
+  "releaseItemId": "2d795c03-a033-f111-88b4-6045bd0a886d",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflows - New destination: Excel Workbooks (XLSX)",
+  "description": "We plan to make the Excel Workbook (XLSX) Data Destination in Dataflow Gen2 generally available, enabling customers to publish curated, refreshed data directly into Excel files using Fabric’s low‑code transformation experience.Taking this feature to GA means it is ready for production usage, with the reliability, consistency, and support required for operational and business‑critical workflows.Key benefits and scenarios:* Write transformed outputs from Dataflow Gen2 directly to Excel workbooks for broad accessibility* Enable business users to consume governed, regularly refreshed data in familiar Excel‑based workflows* Support file‑based sharing, automation, and downstream processes where Excel remains the system of recordBy bringing the Excel Workbook data destination to GA, Dataflow Gen2 becomes a production‑ready bridge between governed Fabric transformations and everyday Excel‑centric business processes.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=2d795c03-a033-f111-88b4-6045bd0a886d",
+  "contentHash": "0c4958fd764a7f3f19a53738161ec62533aefc049e94d89a2b607cc993b347d1",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

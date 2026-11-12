@@ -1,0 +1,60 @@
+{
+  "id": "wn-f48034e734507c",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_3",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/cicd/git-integration/branched-workspace",
+  "title": "Git Integration Workspace Relation API (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-08-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Workspace Relations API lets automation create, query, update, and delete relationships between parent and branched workspaces. For more information, see Development process using the Branch out experience.",
+    "html": "The <a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_3\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace Relations API</a> lets automation create, query, update, and delete relationships between parent and branched workspaces. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/cicd/git-integration/branched-workspace\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Development process using the Branch out experience</a>.",
+    "excerpt": "The Workspace Relations API lets automation create, query, update, and delete relationships between parent and branched workspaces. For more information, see Development process using the Branch out experience.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Workspace Relations API",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_3"
+      },
+      {
+        "label": "Development process using the Branch out experience",
+        "url": "https://learn.microsoft.com/en-us/fabric/cicd/git-integration/branched-workspace"
+      }
+    ]
+  },
+  "contentHash": "d60ca9b72891433126166db243715dc6707b11510bda2abc6d24e9e5ee569cb9",
+  "categories": [
+    "developer-apis"
+  ],
+  "primaryCategory": "developer-apis",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_3"
+  }
+}

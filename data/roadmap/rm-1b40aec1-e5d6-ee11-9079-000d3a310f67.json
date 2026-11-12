@@ -1,0 +1,23 @@
+{
+  "id": "rm-1b40aec1-e5d6-ee11-9079-000d3a310f67",
+  "releaseItemId": "1b40aec1-e5d6-ee11-9079-000d3a310f67",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Disaster recovery support",
+  "description": "The goal of Business Continuity and Disaster Recovery (BCDR) is to ensure uninterrupted access to data and services during data center outages or regional disasters. As we shift towards a self-service SaaS model for our cloud-scale analytics solutions, we understand the need for minimal configuration and planning for critical workloads. In our initial release, we'll provide cross-regional data availability in OneLake if there's a disaster. We also plan to enable capacity-level disaster recovery configuration, allowing you to select replication for essential workspace data while excluding dev and test workspaces.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=1b40aec1-e5d6-ee11-9079-000d3a310f67",
+  "contentHash": "333ef7e732f0acc3c726809d23c5a7f9311eec8a36a48f6c164bcff159900bda",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

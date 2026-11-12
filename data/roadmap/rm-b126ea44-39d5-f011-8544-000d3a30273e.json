@@ -1,0 +1,23 @@
+{
+  "id": "rm-b126ea44-39d5-f011-8544-000d3a30273e",
+  "releaseItemId": "b126ea44-39d5-f011-8544-000d3a30273e",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "Scaled Configuration Canvas",
+  "description": "The scaled canvas UX focuses on delivering a more consistent and scalable UX that supports advanced ontology configurations. Current workflows are fragmented and limit discoverability, making it harder for users to manage ontologies effectively. The scaled design features unified navigation, scalable and expandable elements, and better interaction patterns for clearer entities, relationships, rules, and more. This approach is grounded in user research, where participants responded positively to the navigation and ontology visualization, with feedback on specific pain points incorporated into iterative improvements.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=b126ea44-39d5-f011-8544-000d3a30273e",
+  "contentHash": "18f6c50e95491d2f860a1d57a6b2c195824282f42115fe6989e6f3e80ecebd4b",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

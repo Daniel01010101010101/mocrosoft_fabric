@@ -1,0 +1,23 @@
+{
+  "id": "rm-d52b1f9e-3e40-f111-88b4-000d3a308b7b",
+  "releaseItemId": "d52b1f9e-3e40-f111-88b4-000d3a308b7b",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "[Ontology for Copilot Studio] Ontology integration with CoPilot Studio",
+  "description": "Fabric IQ Ontology serves as a first-class context source within Microsoft Copilot Studio, enabling you to build custom agents that understand your business domain out of the box. By connecting your ontology to Copilot Studio, your custom agents gain access to a structured semantic layer that defines your entity types, relationships, and business concepts — allowing them to reason over real operational data and deliver domain-aware responses without requiring custom prompt engineering or manual data wiring.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=d52b1f9e-3e40-f111-88b4-000d3a308b7b",
+  "contentHash": "b3967aa5eba48fadd40be8047c4a64c0e6adddb5927893dff142c325336aad4f",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

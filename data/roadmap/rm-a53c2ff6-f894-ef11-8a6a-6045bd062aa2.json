@@ -1,0 +1,23 @@
+{
+  "id": "rm-a53c2ff6-f894-ef11-8a6a-6045bd062aa2",
+  "releaseItemId": "a53c2ff6-f894-ef11-8a6a-6045bd062aa2",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Installing libraries from ADLS Gen2 Storage account",
+  "description": "Supporting a new source for users to install libraries. Through creating a custom conda/PyPI channel, which is hosted on their storage account, users can install the libraries from their storage account in their Fabric Environments.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=a53c2ff6-f894-ef11-8a6a-6045bd062aa2",
+  "contentHash": "b786e31a9938a8f077385c4414fdeaf3537a607eca0e9d8c62fedcfc749a668d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

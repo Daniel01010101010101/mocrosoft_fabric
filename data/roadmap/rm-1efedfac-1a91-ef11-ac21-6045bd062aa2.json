@@ -1,0 +1,23 @@
+{
+  "id": "rm-1efedfac-1a91-ef11-ac21-6045bd062aa2",
+  "releaseItemId": "1efedfac-1a91-ef11-ac21-6045bd062aa2",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Allow multiple schedulers on a single item",
+  "description": "We plan to allow multiple schedulers to be created and used in the same item. Each of these schedulers operates separately and independently of others. You can make different job schedule plans for the same item based on different business requirements. We will support API first, with UX following soon after.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=1efedfac-1a91-ef11-ac21-6045bd062aa2",
+  "contentHash": "d46ca8418ce325e274c3b981a44e87fccbace4e19e185f46d36cea1d43ea7f77",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

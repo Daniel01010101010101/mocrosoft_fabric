@@ -1,0 +1,23 @@
+{
+  "id": "rm-b8bf2150-86d7-ee11-9079-000d3a310f67",
+  "releaseItemId": "b8bf2150-86d7-ee11-9079-000d3a310f67",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Notebook integration",
+  "description": "Customers can natively query KQL databases from Microsoft Fabric notebooks. Use notebooks to run queries on KQL databases, save the resulting data frames, ingest data into KQL databases, and more.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=b8bf2150-86d7-ee11-9079-000d3a310f67",
+  "contentHash": "824fadceda9261d5490fc5e9329e9c553f2c9a44c5dc514bc88fcb293a25be13",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

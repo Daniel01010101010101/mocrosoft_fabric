@@ -1,0 +1,77 @@
+{
+  "id": "wn-80cfe38602f4ec",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/prebuilt-azure-ai-services-in-fabric-2",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-science/ai-services/ai-services-overview",
+  "title": "Prebuilt Foundry Tools in Fabric preview",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The preview of prebuilt Foundry Tools in Fabric is an integration with Foundry Tools, formerly known as Azure AI services. Foundry Tools (preview) allow for easy enhancement of data with prebuilt AI models without any prerequisites. Currently, prebuilt Foundry Tools are in preview and include support for the Microsoft Azure OpenAI Service, Azure Language in Foundry Tools, and Azure Translator in Foundry Tools.",
+    "html": "The <a href=\"https://blog.fabric.microsoft.com/blog/prebuilt-azure-ai-services-in-fabric-2\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">preview of prebuilt Foundry Tools in Fabric</a> is an integration with <a href=\"https://azure.microsoft.com/products/ai-services\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Foundry Tools</a>, formerly known as Azure AI services. <a href=\"https://learn.microsoft.com/en-us/fabric/data-science/ai-services/ai-services-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Foundry Tools (preview)</a> allow for easy enhancement of data with prebuilt AI models without any prerequisites. Currently, prebuilt Foundry Tools are in preview and include support for the <a href=\"https://learn.microsoft.com/en-us/azure/foundry/foundry-models/concepts/models-sold-directly-by-azure?tabs=global-standard-aoai%2Cglobal-standard&amp;pivots=azure-openai\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Microsoft Azure OpenAI Service</a>, <a href=\"https://azure.microsoft.com/products/ai-services/text-analytics/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Azure Language in Foundry Tools</a>, and <a href=\"https://azure.microsoft.com/products/ai-services/translator/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Azure Translator in Foundry Tools</a>.",
+    "excerpt": "The preview of prebuilt Foundry Tools in Fabric is an integration with Foundry Tools, formerly known as Azure AI services. Foundry Tools (preview) allow for easy enhancement of data with prebuilt AI models without any prerequisites. Currently, prebuilt Foundry Tools are in preview and include support for the Microsoft…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "preview of prebuilt Foundry Tools in Fabric",
+        "url": "https://blog.fabric.microsoft.com/blog/prebuilt-azure-ai-services-in-fabric-2"
+      },
+      {
+        "label": "Foundry Tools",
+        "url": "https://azure.microsoft.com/products/ai-services"
+      },
+      {
+        "label": "Foundry Tools (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-science/ai-services/ai-services-overview"
+      },
+      {
+        "label": "Microsoft Azure OpenAI Service",
+        "url": "https://learn.microsoft.com/en-us/azure/foundry/foundry-models/concepts/models-sold-directly-by-azure?tabs=global-standard-aoai%2Cglobal-standard&pivots=azure-openai"
+      },
+      {
+        "label": "Azure Language in Foundry Tools",
+        "url": "https://azure.microsoft.com/products/ai-services/text-analytics/"
+      },
+      {
+        "label": "Azure Translator in Foundry Tools",
+        "url": "https://azure.microsoft.com/products/ai-services/translator/"
+      }
+    ]
+  },
+  "contentHash": "668d2053f121246bf2bbb67aa79c018d7bbd12453145d8676333f5af1b456ab5",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-scientists",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/prebuilt-azure-ai-services-in-fabric-2",
+    "backfill": "true"
+  }
+}

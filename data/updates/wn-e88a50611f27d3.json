@@ -1,0 +1,60 @@
+{
+  "id": "wn-e88a50611f27d3",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent",
+  "title": "Improved NL2SQL Engine for Fabric Data Agent (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Improved NL2SQL Engine (Preview) for Fabric Data Agent improves accuracy, transparency, and resilience when translating natural language to SQL across lakehouses, warehouses, and mirrored databases. It uses example queries to follow patterns, asks clarifying questions when intent is ambiguous, and surfaces structured diagnostics, available when you enable the Preview Fabric Data Agent Runtime. For more information, see Fabric data agent concepts.",
+    "html": "<a href=\"https://aka.ms/data-agent-nl2sql\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Improved NL2SQL Engine (Preview)</a> for Fabric Data Agent improves accuracy, transparency, and resilience when translating natural language to SQL across lakehouses, warehouses, and mirrored databases. It uses example queries to follow patterns, asks clarifying questions when intent is ambiguous, and surfaces structured diagnostics, available when you enable the Preview Fabric Data Agent Runtime. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric data agent concepts</a>.",
+    "excerpt": "Improved NL2SQL Engine (Preview) for Fabric Data Agent improves accuracy, transparency, and resilience when translating natural language to SQL across lakehouses, warehouses, and mirrored databases. It uses example queries to follow patterns, asks clarifying questions when intent is ambiguous, and surfaces structured…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Improved NL2SQL Engine (Preview)",
+        "url": "https://aka.ms/data-agent-nl2sql"
+      },
+      {
+        "label": "Fabric data agent concepts",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent"
+      }
+    ]
+  },
+  "contentHash": "87c9d03fb97c8ca0c2228eeccd4a149bf39fa2c30801cb485d2c33b79d3e42ac",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 60,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

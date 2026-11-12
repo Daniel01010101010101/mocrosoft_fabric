@@ -1,0 +1,83 @@
+{
+  "id": "az-502638",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=502638",
+  "docsUrl": "https://learn.microsoft.com/kusto/query/graph-semantics-overview",
+  "title": "Public Preview: Graph Query Language (GQL) in KQL graph semantics",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2025-09-08T12:00:02.744Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "We’re adding Graph Query Language (GQL) support to KQL graph semantics, aligned with the ISO standard. This update allows you to run GQL queries on any Fabric Eventhouse or Azure Data Explorer, making it easier to work with graph data using an industry-standard language.\nLearn more:\n• Explore the GQL overview, reference and best practices in our documentation\n• Discover KQL graph semantics samples to use GQL with",
+    "html": "We’re adding Graph Query Language (GQL) support to <a href=\"https://learn.microsoft.com/kusto/query/graph-semantics-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">KQL graph semantics</a>, aligned with the <a href=\"https://www.iso.org/obp/ui/en/#iso:std:iso-iec:39075:ed-1:v1:en\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ISO standard</a>. This update allows you to run GQL queries on any <a href=\"https://learn.microsoft.com/fabric/real-time-intelligence/eventhouse\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Eventhouse</a> or <span><a href=\"https://learn.microsoft.com/azure/data-explorer/data-explorer-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Azure Data Explorer</a></span>, making it easier to work with graph data using an industry-standard language.<b><br /></b><b>Learn more:</b><ul><li>Explore the GQL <a href=\"https://learn.microsoft.com/kusto/query/graph-query-language\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">overview</a>, <a href=\"https://learn.microsoft.com/kusto/query/graph-query-language-reference\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">reference </a>and <a href=\"https://learn.microsoft.com/kusto/query/graph-query-language-use-cases\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">best practices</a> in our documentation</li><li>Discover KQL graph semantics <a href=\"https://learn.microsoft.com/kusto/query/graph-sample-data\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">samples </a>to use GQL with</li></ul>",
+    "excerpt": "We’re adding Graph Query Language (GQL) support to KQL graph semantics, aligned with the ISO standard. This update allows you to run GQL queries on any Fabric Eventhouse or Azure Data Explorer, making it easier to work with graph data using an industry-standard language. Learn more: • Explore the GQL overview,…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "KQL graph semantics",
+        "url": "https://learn.microsoft.com/kusto/query/graph-semantics-overview"
+      },
+      {
+        "label": "ISO standard",
+        "url": "https://www.iso.org/obp/ui/en/#iso:std:iso-iec:39075:ed-1:v1:en"
+      },
+      {
+        "label": "Fabric Eventhouse",
+        "url": "https://learn.microsoft.com/fabric/real-time-intelligence/eventhouse"
+      },
+      {
+        "label": "Azure Data Explorer",
+        "url": "https://learn.microsoft.com/azure/data-explorer/data-explorer-overview"
+      },
+      {
+        "label": "overview",
+        "url": "https://learn.microsoft.com/kusto/query/graph-query-language"
+      },
+      {
+        "label": "reference",
+        "url": "https://learn.microsoft.com/kusto/query/graph-query-language-reference"
+      },
+      {
+        "label": "best practices",
+        "url": "https://learn.microsoft.com/kusto/query/graph-query-language-use-cases"
+      },
+      {
+        "label": "samples",
+        "url": "https://learn.microsoft.com/kusto/query/graph-sample-data"
+      }
+    ]
+  },
+  "contentHash": "be5568296a9dcb612c27271a267287d3165cba9a77698fa95885775b5624aa47",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "In preview",
+    "products": "Azure Data Explorer, Microsoft Fabric",
+    "tags": "Features",
+    "previewDate": "2025-09",
+    "modified": "2025-09-08T12:00:02.7446357Z"
+  }
+}

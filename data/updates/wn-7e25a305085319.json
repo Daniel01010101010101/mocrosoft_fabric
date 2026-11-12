@@ -1,0 +1,60 @@
+{
+  "id": "wn-7e25a305085319",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_78",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts",
+  "title": "Granular shortcut-database sharing (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Granular shortcut-database sharing shares selected Eventhouse data without exposing an entire database. For more information, see OneLake shortcuts.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_78\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Granular shortcut-database sharing</a> shares selected Eventhouse data without exposing an entire database. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">OneLake shortcuts</a>.",
+    "excerpt": "Granular shortcut-database sharing shares selected Eventhouse data without exposing an entire database. For more information, see OneLake shortcuts.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Granular shortcut-database sharing",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_78"
+      },
+      {
+        "label": "OneLake shortcuts",
+        "url": "https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts"
+      }
+    ]
+  },
+  "contentHash": "78b887dc9618c0c0e98d86ebb6e34f7f3cac3cd0be0da083bbe6f32ba0bfc45a",
+  "categories": [
+    "onelake"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 59,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_78"
+  }
+}

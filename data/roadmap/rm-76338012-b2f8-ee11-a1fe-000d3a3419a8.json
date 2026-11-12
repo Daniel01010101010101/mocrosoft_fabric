@@ -1,0 +1,23 @@
+{
+  "id": "rm-76338012-b2f8-ee11-a1fe-000d3a3419a8",
+  "releaseItemId": "76338012-b2f8-ee11-a1fe-000d3a3419a8",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Support for snapshots of in-progress Notebook jobs",
+  "description": "This feature allows users to view a Notebook snapshot while it is still running, which is essential for monitoring progress and troubleshooting performance issues. Users can see the original source code, input parameters, and cell outputs to better understand the Spark job, and they can track the Spark execution progress at the cell level.  Users can also review the output of completed cells to validate the accuracy of the Spark application and estimate the remaining work. Additionally, any errors or exceptions from already executed cells are displayed, helping users identify and address issues early.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=76338012-b2f8-ee11-a1fe-000d3a3419a8",
+  "contentHash": "dc4331e324bc7a07e4158e4688d6815588c52a8545741e65e5adfb01241f7142",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

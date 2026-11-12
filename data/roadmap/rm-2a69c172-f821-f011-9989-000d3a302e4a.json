@@ -1,0 +1,23 @@
+{
+  "id": "rm-2a69c172-f821-f011-9989-000d3a302e4a",
+  "releaseItemId": "2a69c172-f821-f011-9989-000d3a302e4a",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Data Pipelines - Provide a utility to migrate your ADF/Synapse pipelines to Fabric Data Factory",
+  "description": "Customers will be able to point to their pipelines they have created in ADF/Synapse and this utility will perform best-effort methods to recreate the JSON representation of the ADF/Synapse into Fabric Data Factory pipelines",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=2a69c172-f821-f011-9989-000d3a302e4a",
+  "contentHash": "4f25455325502435d60b2413e8e454fb21f00c41244d708a8e4227f0c7e4679f",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

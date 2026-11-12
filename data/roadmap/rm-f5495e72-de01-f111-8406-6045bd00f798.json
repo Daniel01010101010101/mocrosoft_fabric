@@ -1,0 +1,23 @@
+{
+  "id": "rm-f5495e72-de01-f111-8406-6045bd00f798",
+  "releaseItemId": "f5495e72-de01-f111-8406-6045bd00f798",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Environment - Support for Python Notebook",
+  "description": "Python Notebooks now integrate with Environments, enabling users to upload and use custom libraries and packages.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "FY27 Q3 (Jan-Mar 2027)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=f5495e72-de01-f111-8406-6045bd00f798",
+  "contentHash": "f0cf5a06a6ddcaef11255f2f93493b16c52f1f0b5a1c1dda1a130e613e2e86be",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

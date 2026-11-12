@@ -1,0 +1,23 @@
+{
+  "id": "rm-add43c89-3350-f111-bec7-6045bd00fc61",
+  "releaseItemId": "add43c89-3350-f111-bec7-6045bd00fc61",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "[GA] Job Insights Library",
+  "description": "The general availability of the Job Insights Library provides comprehensive visibility into Spark execution by surfacing logs and metrics across queries, jobs, stages, and tasks. Users can not only analyze execution behavior directly within the experience but also download and store driver and executor logs to Lakehouse or other destinations, enabling persistent storage, deeper analysis, and integration with downstream monitoring workflows.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=add43c89-3350-f111-bec7-6045bd00fc61",
+  "contentHash": "5376a183a84cda97e9efd87f214b02ad73072f8c17a0d3decd93ac2dc7eed9bb",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

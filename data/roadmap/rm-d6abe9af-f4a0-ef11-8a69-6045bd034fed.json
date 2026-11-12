@@ -1,0 +1,23 @@
+{
+  "id": "rm-d6abe9af-f4a0-ef11-8a69-6045bd034fed",
+  "releaseItemId": "d6abe9af-f4a0-ef11-8a69-6045bd034fed",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Fabric workload developer kit",
+  "description": "This feature now extends to additional workloads and offers a robust developer toolkit for designing, developing, and interoperating with Microsoft Fabric using frontend SDKs and backend REST APIs. Introducing the Microsoft Fabric Workload Development Kit. The Microsoft Fabric platform now provides a mechanism for ISVs and developers to integrate their new and existing applications natively into Fabric’s workload hub. This integration provides the ability to add net new capabilities to Fabric in a consistent experience without leaving their Fabric workspace, thereby accelerating data driven outcomes from Microsoft Fabric. By downloading and leveraging the development kit, ISVs and software developers can build and scale existing and new applications on Microsoft Fabric and offer them via the Azure Marketplace without the need to ever leave the Fabric environment. The development kit provides a comprehensive guide and sample code for creating custom item types that can be added to the Fabric workspace. These item types can leverage the Fabric frontend SDKs and backend REST APIs to interact with other Fabric capabilities, such as data ingestion, transformation, orchestration, visualization, and collaboration. You can also embed your own data application into the Fabric item editor using the Fabric native experience components, such as the header, toolbar, navigation pane, and status bar. This way, you can offer consistent and seamless user experience across different Fabric workloads.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=d6abe9af-f4a0-ef11-8a69-6045bd034fed",
+  "contentHash": "fb1c05b49058b77975b7520d667df5444f7cdee1243d8af4cc816115f3f150f0",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

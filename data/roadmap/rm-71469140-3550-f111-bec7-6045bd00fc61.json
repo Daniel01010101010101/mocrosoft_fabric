@@ -1,0 +1,23 @@
+{
+  "id": "rm-71469140-3550-f111-bec7-6045bd00fc61",
+  "releaseItemId": "71469140-3550-f111-bec7-6045bd00fc61",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Track and Manage Notebook Run Dependencies & Linage View",
+  "description": "This feature delivers a comprehensive Notebook Run Lineage experience for Spark applications, enabling data engineers to monitor and analyze complex notebook workflows with ease. It provides an at-a-glance view of all notebook run statuses, helps quickly identify root-cause failures across nested executions, and highlights performance bottlenecks. Users can filter and explore large execution graphs, access detailed error and run-level information, and view aggregated summaries of execution health and resource usage—all in one place.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=71469140-3550-f111-bec7-6045bd00fc61",
+  "contentHash": "41bd63991dd5fdc91835f78c0d1c48f1d1df63dd2db45a2004c9c87461790473",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

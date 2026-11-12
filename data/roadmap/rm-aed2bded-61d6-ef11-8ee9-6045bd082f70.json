@@ -1,0 +1,23 @@
+{
+  "id": "rm-aed2bded-61d6-ef11-8ee9-6045bd082f70",
+  "releaseItemId": "aed2bded-61d6-ef11-8ee9-6045bd082f70",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Kusto Detective Agency Fabric Special",
+  "description": "The Kusto Detective Agency has launched a new spin-off series called Fabric KUsto Detective Agency. This new series, derived from the original, promises to bring innovative features and enhanced capabilities that will significantly improve your experience. It is designed to be both engaging and valuable, offering a fresh perspective and advanced tools for your needs.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=aed2bded-61d6-ef11-8ee9-6045bd082f70",
+  "contentHash": "c71131a50dae56197edd008218eb219155640cbe0de2ed1eb5c857d1954ae1ba",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

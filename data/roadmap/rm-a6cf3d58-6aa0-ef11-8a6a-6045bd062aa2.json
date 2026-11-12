@@ -1,0 +1,23 @@
+{
+  "id": "rm-a6cf3d58-6aa0-ef11-8a6a-6045bd062aa2",
+  "releaseItemId": "a6cf3d58-6aa0-ef11-8a6a-6045bd062aa2",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "AI Skill becomes a conversational AI agent",
+  "description": "The AI Skill is now conversational, enabling users to engage in natural, back-and-forth dialogue to explore and understand their data with ease. This enhancement allows users to ask follow-up questions, refine queries, and receive dynamic insights, making data exploration more intuitive and interactive.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=a6cf3d58-6aa0-ef11-8a6a-6045bd062aa2",
+  "contentHash": "606c4d12a8f2fdc72d2bfeb7b8e99a5f0606c34284f06b4b4e10b60dc4e69eca",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

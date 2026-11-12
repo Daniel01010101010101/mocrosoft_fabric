@@ -1,0 +1,59 @@
+{
+  "id": "az-public-preview-azure-sql-database-mirroring-in-microsoft-fabric",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=public-preview-azure-sql-database-mirroring-in-microsoft-fabric",
+  "title": "Generally Available: Mirroring Azure SQL Database in Fabric",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2024-03-26T16:00:14.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "We are excited to announce the general availability of Mirroring Azure SQL Database in Fabric. Mirroring is a simple, free, and frictionless way to replicate a snapshot of incremental data changes in Azure SQL Database to Fabric OneLake. Delta tables keep your data in sync in near-real time. Mirroring is a low-cost, zero-code, zero-ETL solution that brings data together, driving faster time to insight.\nLearn more.",
+    "html": "<p><span><span></span></span></p><p><span><span>We are excited to announce the general availability of Mirroring Azure SQL Database in Fabric. Mirroring is a simple, free</span><span>,</span><span> and frictionless way to replicate a snapshot </span><span>of </span><span>incremental data changes in Azure SQL </span><span>D</span><span>atabase to Fabric </span><span>OneLake</span><span>.</span><span> </span><span>D</span><span>elta tables keep </span><span>your </span><span>data </span><span>in sync</span><span> in near-real time. </span><span>Mirroring </span><span>is a </span><span>low-cost, </span><span>zero-code</span><span>, zero-ETL solution</span><span> that </span><span>brings data together</span><span>, </span><span>driving faster time to insight.</span></span><span> </span></p><p><span><span></span></span><span> </span></p><p><span></span><a rel=\"noopener noreferrer nofollow\" href=\"https://aka.ms/mirroring-sqldb-ga\" target=\"_blank\"><span><span>Learn more</span></span></a><span><span>. </span></span><span> </span></p><p><span><span></span></span></p><p></p>\n",
+    "excerpt": "We are excited to announce the general availability of Mirroring Azure SQL Database in Fabric. Mirroring is a simple, free, and frictionless way to replicate a snapshot of incremental data changes in Azure SQL Database to Fabric OneLake. Delta tables keep your data in sync in near-real time. Mirroring is a low-cost,…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://aka.ms/mirroring-sqldb-ga"
+      }
+    ]
+  },
+  "contentHash": "9389d03a4db5f6b5ec86e343208fcf1da3d0c556c18c0ef7d00b00fd57b5c648",
+  "categories": [
+    "databases",
+    "data-factory"
+  ],
+  "primaryCategory": "databases",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 75,
+    "level": "alto",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "Launched",
+    "products": "Azure SQL Database",
+    "tags": "Features",
+    "gaDate": "2024-11",
+    "previewDate": "2024-03",
+    "modified": "2024-11-19T19:30:23.6896577Z"
+  }
+}

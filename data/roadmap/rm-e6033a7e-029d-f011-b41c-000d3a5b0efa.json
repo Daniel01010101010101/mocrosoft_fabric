@@ -1,0 +1,23 @@
+{
+  "id": "rm-e6033a7e-029d-f011-b41c-000d3a5b0efa",
+  "releaseItemId": "e6033a7e-029d-f011-b41c-000d3a5b0efa",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Connector - New connector in Copy Job and Pipeline activities (2H)",
+  "description": "New connectors are planned in Copy job, and Pipeline activities 1. SharePoint Online File (as source and destination)3. Google BigQuery (as destination)4. MySQL (as destination)5. PosgreSQL connector (as destination)",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=e6033a7e-029d-f011-b41c-000d3a5b0efa",
+  "contentHash": "bd8f759e1cd5f92b6470178a13cbf5db69af8bd75221230bb40e81c14beac4b9",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

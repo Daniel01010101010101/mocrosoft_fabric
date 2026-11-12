@@ -1,0 +1,23 @@
+{
+  "id": "rm-2365a2ad-2302-f111-8406-000d3a36696c",
+  "releaseItemId": "2365a2ad-2302-f111-8406-000d3a36696c",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "Fabric Graph expands GQL support for real world relationship queries",
+  "description": "Fabric Graph increases GQL feature coverage to support richer relationship modeling and investigation scenarios. This includes dynamic nested data, OPTIONAL MATCH, extended FOR semantics (IS SOURCE OF, IS DESTINATION OF, COLLECT ONE), result shaping functions (NODES, EDGES, INNER NODES), quantified simple edge patterns, and shortest path queries.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=2365a2ad-2302-f111-8406-000d3a36696c",
+  "contentHash": "a990669ac56796f7e9b93fdbf7315cb73f501ded10abf33b552ee02e536de83d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

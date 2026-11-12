@@ -1,0 +1,23 @@
+{
+  "id": "rm-7d974ea6-c7c3-f111-aaaf-70a8a5b194a9",
+  "releaseItemId": "7d974ea6-c7c3-f111-aaaf-70a8a5b194a9",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "Databricks – Onelake as native storage - GA / Production-ready",
+  "description": "Production-ready support for Azure Databricks to store data in OneLake with OneLake Security enabled",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=7d974ea6-c7c3-f111-aaaf-70a8a5b194a9",
+  "contentHash": "cfff60af5005f8546859f8dbdc5647edf01bc35bdbae19f06e72927c720272c5",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

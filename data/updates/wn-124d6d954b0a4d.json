@@ -1,0 +1,58 @@
+{
+  "id": "wn-124d6d954b0a4d",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-agent-with-AI-for-Data-Agent-Preview/ba-p/5351116",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent",
+  "title": "Build Agent with AI (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Build agent with AI (Preview) feature is an AI-assisted creation experience that generates and refines Fabric Data Agent configurations through an interactive workflow, replacing manual setup with schema- and conversation-aware recommendations for agent instructions, data source guidance, and example queries; the preview focuses on SQL and Eventhouse scenarios. For more information, see Fabric data agent concepts.",
+    "html": "The <a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-agent-with-AI-for-Data-Agent-Preview/ba-p/5351116\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Build agent with AI (Preview)</a> feature is an AI-assisted creation experience that generates and refines Fabric Data Agent configurations through an interactive workflow, replacing manual setup with schema- and conversation-aware recommendations for agent instructions, data source guidance, and example queries; the preview focuses on SQL and Eventhouse scenarios. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric data agent concepts</a>.",
+    "excerpt": "The Build agent with AI (Preview) feature is an AI-assisted creation experience that generates and refines Fabric Data Agent configurations through an interactive workflow, replacing manual setup with schema- and conversation-aware recommendations for agent instructions, data source guidance, and example queries; the…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Build agent with AI (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-agent-with-AI-for-Data-Agent-Preview/ba-p/5351116"
+      },
+      {
+        "label": "Fabric data agent concepts",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-science/concept-data-agent"
+      }
+    ]
+  },
+  "contentHash": "9a7ca41e2791ea431201db176427b970612bc9984dcb84715412f2fbc7db1760",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 60,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-agent-with-AI-for-Data-Agent-Preview/ba-p/5351116",
+    "backfill": "true"
+  }
+}

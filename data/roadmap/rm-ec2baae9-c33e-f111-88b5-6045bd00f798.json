@@ -1,0 +1,23 @@
+{
+  "id": "rm-ec2baae9-c33e-f111-88b5-6045bd00f798",
+  "releaseItemId": "ec2baae9-c33e-f111-88b5-6045bd00f798",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Trigger Based Scheduling for Materialized Lake Views",
+  "description": "FMLV will support trigger-based execution of Materialized Lake Views — complementing existing scheduled and ad-hoc runs — by integrating with the Fabric event mechanism to allow customers to automatically refresh MLVs in response to events such as onelake events, Fabric Job events",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=ec2baae9-c33e-f111-88b5-6045bd00f798",
+  "contentHash": "3c3d604bc7a071a5a160fe7334146753766c21cc4c05620123ccfcdae0b73c5c",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

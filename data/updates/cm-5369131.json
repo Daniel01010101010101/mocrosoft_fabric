@@ -1,0 +1,84 @@
+{
+  "id": "cm-5369131",
+  "kind": "blog",
+  "source": "powerbi-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-s-next-chapter-The-evolution-of-business-intelligence/ba-p/5369131",
+  "docsUrl": "https://learn.microsoft.com/fabric/iq/connectors/cowork-overview",
+  "title": "Power BI’s next chapter: The evolution of business intelligence",
+  "author": "mohammadali",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-29T06:30:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases.\nMore than a decade ago, I watched Power BI change the way users work, analyze and take action on their data. Since then, I have had the privilege of seeing it grow alongside our customers—from a tool for building reports into a platform used by millions of people to understand their businesses and make decisions every day. Now, Power BI is entering its next chapter.\nIntroducing the next generation of report development\nWe’re introducing a new app building experience in Power BI Desktop, powered by apps in Fabric, that enables users to create data applications using natural language. Starting from a trusted semantic model, users can generate, preview, edit, and publish purpose-built applications to Microsoft Fabric. These applications can accept inputs, write back data, preserve shared state, and support operational workflows, helping users move from insight to action. This experience will be available for Power BI Desktop users in the coming months.\nImportantly, this experience isn’t limited to Microsoft Fabric capacity customers. Apps in Power BI will be available in preview to Power BI Pro and Premium Per User customers, as well as Microsoft Fabric capacity customers. Pro and Premium Per User customers will also have access to Fabric Database capabilities, enabling them to build applications that support both analytical and transactional scenarios. This brings AI-assisted app creation to Power BI users through their existing licensing options.\nOur community is already bringing some creative ideas to life. Explore some examples from Microsoft and the community in the Fabric apps gallery today.\nFigure: Creating an app using natural language in Power BI Desktop.\nFigure: A community created app by Jon Sandman that shows football statistics and match replays for coaches.\nExpanding the semantic layer\nThe semantic layer is an organization's most strategic asset. More than 22 million Power BI semantic models are in use every day, making Power BI the world’s most widely adopted semantic layer. Increasingly, it also grounds agents, applications, and Microsoft Copilot in that same business meaning.\nAt FabCon Barcelona, we are sharing an early look at semantic views, allowing users to define governed business metrics and semantics directly where data lives in OneLake and reuse them across and beyond Fabric. Our goal is to bring semantics closer to where the data lives while making it open, reusable, and interoperable.\nWe are also pleased to affirm our commitment to Apache Ossie (incubating), a community-led effort to establish a vendor-neutral standard for exchanging semantic metadata across analytics, AI, and BI platforms. Working with Snowflake and the broader industry, we’re helping customers define semantic context once and reuse it across ecosystems without duplicating data or business logic. Our collaboration with Snowflake currently focuses on cross-platform semantic-layer conversion. Looking ahead, we’re committed to advancing Apache Ossie through our deep semantic-modeling expertise, establishing DAX as an Ossie-recognized query language and expanding support for ontologies, enabling platform-agnostic operational intelligence.\nFigure: Semantic views provide governed business context across analytics, applications, and AI experiences.\nBringing semantic models into M365 Copilot\nFabric IQ in Microsoft Copilot Cowork and Microsoft Copilot Chat are now generally available. Users can ask business questions in Copilot Chat and receive trusted answers grounded in governed Power BI reports and semantic models, with Copilot inferring which report or model is right for the question. In Cowork, Power BI content participates directly in long running and asynchronous tasks.\nThe same Microsoft Copilot experience is also coming directly to Copilot in Power BI, allowing you to use your M365 data for richer responses. Fabric IQ MCP is entering general availability, so creators can use the same conversational analytics in their own development environments and external MCP clients. You can read more details about this update in our Fabric IQ in Microsoft 365 Copilot Cowork documentation.\nLooking ahead\nPower BI’s evolution has always been shaped by the community and the millions of creators, analysts, developers, and business users who build with it every day. Your ideas, feedback, and ingenuity have pushed us to make business intelligence more accessible, trusted, and connected to the decisions that matter. Thank you for building this community—and for continuing to challenge us to imagine what comes next.\nYou can catch all our announcements in detail in the Power BI September 2026 monthly roll-up blog. We invite you to help shape this next chapter—share your feedback with us, shape our roadmap, and meet us in person at Fabric Community Conference and Ignite!",
+    "html": "<blockquote>\n<p><em>If you haven't already, check out </em><a href=\"https://aka.ms/FabCon-SQLCon-Barcelona\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents</a><em> </em><em>for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases.</em></p>\n</blockquote>\n<p>More than a decade ago, I watched Power BI change the way users work, analyze and take action on their data. Since then, I have had the privilege of seeing it grow alongside our customers—from a tool for building reports into a platform used by millions of people to understand their businesses and make decisions every day. Now, Power BI is entering its next chapter.</p>\n<h2>Introducing the next generation of report development</h2>\n<p>We’re introducing a new app building experience in Power BI Desktop, powered by <a href=\"https://www.microsoft.com/microsoft-fabric/features/rayfin\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">apps in Fabric</a>, that enables users to create data applications using natural language. Starting from a trusted semantic model, users can generate, preview, edit, and publish purpose-built applications to Microsoft Fabric. These applications can accept inputs, write back data, preserve shared state, and support operational workflows, helping users move from insight to action.  This experience will be available for Power BI Desktop users in the coming months.</p>\n<p>Importantly, this experience isn’t limited to Microsoft Fabric capacity customers. Apps in Power BI will be available in preview to Power BI Pro and Premium Per User customers, as well as Microsoft Fabric capacity customers. Pro and Premium Per User customers will also have access to Fabric Database capabilities, enabling them to build applications that support both analytical and transactional scenarios. This brings AI-assisted app creation to Power BI users through their existing licensing options.</p>\n<p>Our community is already bringing some creative ideas to life. Explore some examples from Microsoft and the community in the <a href=\"https://community.fabric.microsoft.com/category/pbi_comm_galleries/discussions/pbi_fabricappsgallery\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric apps gallery</a> today.</p>\n<em>Figure: Creating an app using natural language in Power BI Desktop.</em>\n<p> </p>\n<em>Figure: A community created app by Jon Sandman that shows football statistics and match replays for coaches.</em>\n<h2>Expanding the semantic layer</h2>\n<p>The semantic layer is an organization's most strategic asset. More than 22 million Power BI semantic models are in use every day, making Power BI the world’s most widely adopted semantic layer. Increasingly, it also grounds agents, applications, and Microsoft Copilot in that same business meaning.</p>\n<p>At FabCon Barcelona, we are sharing an early look at semantic views, allowing users to define governed business metrics and semantics directly where data lives in OneLake and reuse them across and beyond Fabric. Our goal is to bring semantics closer to where the data lives while making it open, reusable, and interoperable.</p>\n<p>We are also pleased to affirm our commitment to <a href=\"https://ossie.apache.org/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Apache Ossie (incubating)</a>, a community-led effort to establish a vendor-neutral standard for exchanging semantic metadata across analytics, AI, and BI platforms. Working with Snowflake and the broader industry, we’re helping customers define semantic context once and reuse it across ecosystems without duplicating data or business logic. Our collaboration with Snowflake currently focuses on cross-platform semantic-layer conversion. Looking ahead, we’re committed to advancing Apache Ossie through our deep semantic-modeling expertise, establishing DAX as an Ossie-recognized query language and expanding support for ontologies, enabling platform-agnostic operational intelligence.</p>\nFigure: Semantic views provide governed business context across analytics, applications, and AI experiences.\n<h3>Bringing semantic models into M365 Copilot</h3>\n<p>Fabric IQ in Microsoft Copilot Cowork and Microsoft Copilot Chat are now generally available. Users can ask business questions in Copilot Chat and receive trusted answers grounded in governed Power BI reports and semantic models, with Copilot inferring which report or model is right for the question. In Cowork, Power BI content participates directly in long running and asynchronous tasks.</p>\n<p>The same Microsoft Copilot experience is also coming directly to Copilot in Power BI, allowing you to use your M365 data for richer responses. Fabric IQ MCP is entering general availability, so creators can use the same conversational analytics in their own development environments and external MCP clients. You can read more details about this update in our <a href=\"https://learn.microsoft.com/fabric/iq/connectors/cowork-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric IQ in Microsoft 365 Copilot Cowork</a> documentation.</p>\n<h2>Looking ahead</h2>\n<p>Power BI’s evolution has always been shaped by the community and the millions of creators, analysts, developers, and business users who build with it every day. Your ideas, feedback, and ingenuity have pushed us to make business intelligence more accessible, trusted, and connected to the decisions that matter. Thank you for building this community—and for continuing to challenge us to imagine what comes next.</p>\n<p>You can catch all our announcements in detail in the <a href=\"https://aka.ms/powerbisep2026update\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Power BI September 2026 monthly roll-up blog</a>. We invite you to help shape this next chapter—share your <a href=\"https://community.fabric.microsoft.com/category/powerbi\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">feedback with us</a>, <a href=\"https://community.fabric.microsoft.com/tag/power%20bi?nodeId=board%3Afbc_ideas\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">shape our roadmap</a>, and meet us in person at Fabric Community Conference and Ignite!</p>",
+    "excerpt": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. More than a decade ago, I watched Power BI change the way users work, analyze and…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents",
+        "url": "https://aka.ms/FabCon-SQLCon-Barcelona"
+      },
+      {
+        "label": "apps in Fabric",
+        "url": "https://www.microsoft.com/microsoft-fabric/features/rayfin"
+      },
+      {
+        "label": "Fabric apps gallery",
+        "url": "https://community.fabric.microsoft.com/category/pbi_comm_galleries/discussions/pbi_fabricappsgallery"
+      },
+      {
+        "label": "Apache Ossie (incubating)",
+        "url": "https://ossie.apache.org/"
+      },
+      {
+        "label": "Fabric IQ in Microsoft 365 Copilot Cowork",
+        "url": "https://learn.microsoft.com/fabric/iq/connectors/cowork-overview"
+      },
+      {
+        "label": "Power BI September 2026 monthly roll-up blog",
+        "url": "https://aka.ms/powerbisep2026update"
+      },
+      {
+        "label": "feedback with us",
+        "url": "https://community.fabric.microsoft.com/category/powerbi"
+      },
+      {
+        "label": "shape our roadmap",
+        "url": "https://community.fabric.microsoft.com/tag/power%20bi?nodeId=board%3Afbc_ideas"
+      }
+    ]
+  },
+  "contentHash": "066709a244d42bae0f5b0b282baed68d270b4c0fc0c68e49723aa6a5c0a999a4",
+  "categories": [
+    "power-bi",
+    "copilot-ai"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "announcement",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 48,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "data-scientists",
+      "architects",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

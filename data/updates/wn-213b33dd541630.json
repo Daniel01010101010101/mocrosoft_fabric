@@ -1,0 +1,61 @@
+{
+  "id": "wn-213b33dd541630",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-deploy-and-govern-Microsoft-Fabric-at-scale/ba-p/5369145",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/governance/onelake-catalog-govern",
+  "title": "OneLake catalog Govern experience (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "OneLake catalog Govern experience centralizes governance for tenants, domains, capacities, workspaces, tags, and policies. For more information, see Govern your data estate.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-deploy-and-govern-Microsoft-Fabric-at-scale/ba-p/5369145\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">OneLake catalog Govern experience</a> centralizes governance for tenants, domains, capacities, workspaces, tags, and policies. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/governance/onelake-catalog-govern\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Govern your data estate</a>.",
+    "excerpt": "OneLake catalog Govern experience centralizes governance for tenants, domains, capacities, workspaces, tags, and policies. For more information, see Govern your data estate.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "OneLake catalog Govern experience",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-deploy-and-govern-Microsoft-Fabric-at-scale/ba-p/5369145"
+      },
+      {
+        "label": "Govern your data estate",
+        "url": "https://learn.microsoft.com/en-us/fabric/governance/onelake-catalog-govern"
+      }
+    ]
+  },
+  "contentHash": "8672cb6ba458c2a146151ebb53f43f9663876538f201e01f2d0f4d89f5b6beca",
+  "categories": [
+    "onelake"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 59,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-deploy-and-govern-Microsoft-Fabric-at-scale/ba-p/5369145"
+  }
+}

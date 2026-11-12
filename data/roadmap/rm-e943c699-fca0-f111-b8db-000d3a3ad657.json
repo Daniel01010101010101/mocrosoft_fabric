@@ -1,0 +1,23 @@
+{
+  "id": "rm-e943c699-fca0-f111-b8db-000d3a3ad657",
+  "releaseItemId": "e943c699-fca0-f111-b8db-000d3a3ad657",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Faster Metadata & Schema Discovery for Large Warehouses",
+  "description": "Accelerate metadata queries and schema exploration for warehouses and sql analytics endpoints, improving object browsing, tooling responsiveness, and developer productivity across Fabric and SQL tools.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=e943c699-fca0-f111-b8db-000d3a3ad657",
+  "contentHash": "5dfcf1de75527f40a7c97e6e6012d55778835575f0e306fd90048fd80acee494",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

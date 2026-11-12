@@ -1,0 +1,23 @@
+{
+  "id": "rm-1f690b06-ce80-ef11-ac21-6045bd062aa2",
+  "releaseItemId": "1f690b06-ce80-ef11-ac21-6045bd062aa2",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "JSON support",
+  "description": "JSON support in Fabric Datawarehouse enables processing of textual data formatted as JSON text. The new JSON features in Fabric DW are:* FOR JSON query option that formats the query results as JSON text. This was one of the features that is requested on Microsoft Fabric Idea site.* JSON scalar functions that can also be used in Azure SQL database. In addition to the existing JSON scalar functions (ISJSON, JSON_VALUE, JSON_QUERY, and JSON_MODIFY), Fabric DW is suporting the latest JSON functions that exist in Azure SQL Database – JSON_PATH_EXISTS, JSON_OBJECT, and JSON_ARRAY.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=1f690b06-ce80-ef11-ac21-6045bd062aa2",
+  "contentHash": "e961f6fdaad16850ee69fb50fb9095883cb9b34a5e3df81c1eb0ebe6cc465283",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

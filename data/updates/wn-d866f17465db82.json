@@ -1,0 +1,61 @@
+{
+  "id": "wn-d866f17465db82",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_4",
+  "docsUrl": "https://learn.microsoft.com/en-us/purview/dlp-powerbi-get-started",
+  "title": "DLP restrict access (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "DLP restrict access (Generally Available) automatically limits access when Microsoft Purview policies detect sensitive information. For more information, see Restrict access action for DLP policies.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_4\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">DLP restrict access (Generally Available)</a> automatically limits access when Microsoft Purview policies detect sensitive information. For more information, see <a href=\"https://learn.microsoft.com/en-us/purview/dlp-powerbi-get-started\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Restrict access action for DLP policies</a>.",
+    "excerpt": "DLP restrict access (Generally Available) automatically limits access when Microsoft Purview policies detect sensitive information. For more information, see Restrict access action for DLP policies.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "DLP restrict access (Generally Available)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_4"
+      },
+      {
+        "label": "Restrict access action for DLP policies",
+        "url": "https://learn.microsoft.com/en-us/purview/dlp-powerbi-get-started"
+      }
+    ]
+  },
+  "contentHash": "bfd4f1802b55e80e532a98038408c5ce6e95d8cc3fb0853b73580f0ab0653d56",
+  "categories": [
+    "security"
+  ],
+  "primaryCategory": "security",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_4"
+  }
+}

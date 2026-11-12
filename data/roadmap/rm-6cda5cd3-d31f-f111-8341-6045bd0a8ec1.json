@@ -1,0 +1,23 @@
+{
+  "id": "rm-6cda5cd3-d31f-f111-8341-6045bd0a8ec1",
+  "releaseItemId": "6cda5cd3-d31f-f111-8341-6045bd0a8ec1",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Organizational themes for Power BI reports",
+  "description": "Organizational themes (preview) allow Power BI administrators to centrally manage and distribute custom report themes across the organization. Maintaining a consistent visual identity across Power BI reports is now simpler and more scalable, thanks to organizational themes. Whether reports are built manually or generated with Copilot, this feature ensures that styling and branding stay aligned with your organization's identity and design standards.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=6cda5cd3-d31f-f111-8341-6045bd0a8ec1",
+  "contentHash": "56fc198d99b78df82c26835baac9bc5b8b1d8bc8bf3d8d9a8df1b234f264265c",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

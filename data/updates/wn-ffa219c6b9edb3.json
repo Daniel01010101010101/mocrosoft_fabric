@@ -1,0 +1,56 @@
+{
+  "id": "wn-ffa219c6b9edb3",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/enterprise/surge-protection#workspace-level-surge-protection-preview",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/enterprise/surge-protection#workspace-level-surge-protection-preview",
+  "title": "Workspace-level surge protection (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.79,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Workspace-level surge protection lets capacity admins cap a workspace's compute consumption, automatically or manually block excessive consumers, exempt mission-critical workspaces, and restore blocked workspaces. For more information, see Manage surge protection for Fabric capacities.",
+    "html": "Workspace-level surge protection lets capacity admins cap a workspace's compute consumption, automatically or manually block excessive consumers, exempt mission-critical workspaces, and restore blocked workspaces. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/enterprise/surge-protection#workspace-level-surge-protection-preview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Manage surge protection for Fabric capacities</a>.",
+    "excerpt": "Workspace-level surge protection lets capacity admins cap a workspace's compute consumption, automatically or manually block excessive consumers, exempt mission-critical workspaces, and restore blocked workspaces. For more information, see Manage surge protection for Fabric capacities.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Manage surge protection for Fabric capacities",
+        "url": "https://learn.microsoft.com/en-us/fabric/enterprise/surge-protection#workspace-level-surge-protection-preview"
+      }
+    ]
+  },
+  "contentHash": "1c56b0d5485a16258887456754684e90602213622b59f68f6969626710bda4c5",
+  "categories": [
+    "admin-governance"
+  ],
+  "primaryCategory": "admin-governance",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

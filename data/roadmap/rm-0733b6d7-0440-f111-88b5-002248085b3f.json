@@ -1,0 +1,23 @@
+{
+  "id": "rm-0733b6d7-0440-f111-88b5-002248085b3f",
+  "releaseItemId": "0733b6d7-0440-f111-88b5-002248085b3f",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Root Cause Analysis in Operations Agent",
+  "description": "We are adding root cause analysis and investigate capabilities to the Operations Agent in Microsoft Fabric Real-Time Intelligence. With this update, when an anomaly or alert fires, the Operations Agent helps you understand why it happened by automatically correlating signals across your operational data and surfacing the most likely causal factors.With this capability, you can:- Move from \"an alert fired\" to \"this is why it fired\" without manually pivoting across dashboards and queries.- Correlate metrics, logs, and related entities to find contributing factors and time-aligned changes.- Drill into suggested causal paths and validate them against the underlying data in Eventhouse.The feature is rolling out in Public Preview to all Fabric customers using the Operations Agent. It works on data already flowing through your Eventhouse and requires no additional setup beyond having alerts or anomaly detection configured.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=0733b6d7-0440-f111-88b5-002248085b3f",
+  "contentHash": "fbd33bb8aeab2cfa76edabac400df8a5de0a194b51378b0c531e1967206b6f7d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

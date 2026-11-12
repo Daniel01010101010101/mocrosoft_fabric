@@ -1,0 +1,23 @@
+{
+  "id": "rm-43047daa-3471-f011-bec3-00224809ba60",
+  "releaseItemId": "43047daa-3471-f011-bec3-00224809ba60",
+  "product": "Fabric Ecosystem",
+  "productId": "94e84e43-aa69-f011-bec2-00224804b6c3",
+  "category": "integrations-connectors",
+  "name": "Osmos AI Wrangler & Engineer",
+  "description": "Use Osmos AI Wrangler to quickly and easily convert messy, unstructured data into clear, usable tabular datasets. Use Osmos AI Engineer to automate your data engineering workflows, going from a simple prompt to a working Spark notebook including all required ETL steps, in just a few minutes.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricecosystem&releaseItem=43047daa-3471-f011-bec3-00224809ba60",
+  "contentHash": "9d08bad4bd22d6edd9149e0db397417cb291cf6635524a389c54f13c098d1d36",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

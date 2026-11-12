@@ -1,0 +1,113 @@
+{
+  "generatedAt": "2026-11-12T23:36:39.966Z",
+  "lastRun": {
+    "id": "run-20261112233630",
+    "trigger": "local",
+    "startedAt": "2026-11-12T23:36:30.708Z",
+    "finishedAt": "2026-11-12T23:36:39.965Z",
+    "durationMs": 9257,
+    "status": "success",
+    "sources": [
+      {
+        "source": "fabric-blog",
+        "status": "ok",
+        "attempts": 1,
+        "durationMs": 1345,
+        "fetched": 20,
+        "created": 20,
+        "updated": 0,
+        "unchanged": 0,
+        "rejected": 0
+      },
+      {
+        "source": "powerbi-blog",
+        "status": "ok",
+        "attempts": 1,
+        "durationMs": 977,
+        "fetched": 20,
+        "created": 20,
+        "updated": 0,
+        "unchanged": 0,
+        "rejected": 0
+      },
+      {
+        "source": "learn-whats-new",
+        "status": "ok",
+        "attempts": 1,
+        "durationMs": 576,
+        "fetched": 299,
+        "created": 299,
+        "updated": 0,
+        "unchanged": 0,
+        "rejected": 0
+      },
+      {
+        "source": "azure-updates",
+        "status": "ok",
+        "attempts": 1,
+        "durationMs": 699,
+        "fetched": 41,
+        "created": 41,
+        "updated": 0,
+        "unchanged": 0,
+        "rejected": 0
+      },
+      {
+        "source": "fabric-roadmap",
+        "status": "ok",
+        "attempts": 1,
+        "durationMs": 5143,
+        "fetched": 1131,
+        "created": 1131,
+        "updated": 0,
+        "unchanged": 0,
+        "rejected": 0
+      }
+    ],
+    "ai": {
+      "configured": false,
+      "model": null,
+      "attempted": 0,
+      "succeeded": 0,
+      "failed": 0,
+      "roadmapTranslated": 0,
+      "pendingUpdates": 380,
+      "pendingRoadmap": 1131,
+      "inputTokens": 0,
+      "outputTokens": 0
+    },
+    "totals": {
+      "newUpdates": 380,
+      "updatedUpdates": 0,
+      "newRoadmap": 1131,
+      "changedRoadmap": 0,
+      "duplicatesLinked": 0
+    },
+    "issues": [
+      {
+        "level": "warning",
+        "stage": "config",
+        "message": "Traducción y análisis con IA pendientes: falta configurar el secreto ANTHROPIC_API_KEY en el repositorio. Las novedades se guardan y se traducirán automáticamente en cuanto se configure.",
+        "at": "2026-11-12T23:36:39.461Z"
+      }
+    ]
+  },
+  "lastSuccessfulRunAt": "2026-11-12T23:36:39.965Z",
+  "lastSuccessfulRunId": "run-20261112233630",
+  "lastAttemptAt": "2026-11-12T23:36:30.708Z",
+  "consecutiveFailures": 0,
+  "health": "ok",
+  "counts": {
+    "updates": 380,
+    "roadmap": 1131,
+    "aiDoneUpdates": 0,
+    "aiPendingUpdates": 380,
+    "aiErrorUpdates": 0,
+    "aiDoneRoadmap": 0,
+    "aiPendingRoadmap": 1131
+  },
+  "ai": {
+    "configured": false,
+    "model": null
+  }
+}

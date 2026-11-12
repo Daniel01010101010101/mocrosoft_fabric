@@ -1,0 +1,23 @@
+{
+  "id": "rm-de4682f1-ad90-ef11-ac21-002248098a98",
+  "releaseItemId": "de4682f1-ad90-ef11-ac21-002248098a98",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Dataflow Gen2 support for Save As new item",
+  "description": "Customers often would like to recreate an existing dataflow as a new dataflow. Today, in order to accomplish this, they need to create the new Dataflow Gen2 item from scratch and copy-paste their existing queries, or leverage the Export/Import Power Query template capabilities. This, however, is not only inconvenient due to unnecessary steps, but it also does not carry over additional dataflow settings, such as Scheduled Refresh and other item properties (name, description, sensitivity label, etc.).As part of this enhancement, we will provide a quick \"\"Save As\"\" gesture within the Dataflow Gen2 editing experience, allowing users to save their existing dataflow as a new dataflow.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=de4682f1-ad90-ef11-ac21-002248098a98",
+  "contentHash": "b5400939d3a428d432c7b02064268db2c7f80bd086181fa45996356616fabf65",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

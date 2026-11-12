@@ -1,0 +1,23 @@
+{
+  "id": "rm-a42a4baf-483d-f111-88b5-002248085b3f",
+  "releaseItemId": "a42a4baf-483d-f111-88b5-002248085b3f",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Copy job - Support composite watermark columns for incremental copy",
+  "description": "Incremental copy from Copy job will support composite watermark columns for complex change detection, including scenarios where the maximum watermark is derived from multiple incremental columns such as LastCreateDateTime and LastModifiedDateTime together.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=a42a4baf-483d-f111-88b5-002248085b3f",
+  "contentHash": "aefa61a99744f841e47db57311742ca376a60758c06c18b4f0a327ef2660c19a",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

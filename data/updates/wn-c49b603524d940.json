@@ -1,0 +1,58 @@
+{
+  "id": "wn-c49b603524d940",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/data-engineering-agent-overview",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/data-engineering-agent-overview",
+  "title": "Fabric data engineering agent (Project Osmos) (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.84,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric data engineering agent (Project Osmos) runs persistent, Fabric-hosted tasks that autonomously plan, execute, and validate data engineering work against authorized lakehouse resources. Start tasks from a supported command-line client, review operational settings, and monitor progress and results in Fabric.",
+    "html": "<a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/data-engineering-agent-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric data engineering agent (Project Osmos)</a> runs persistent, Fabric-hosted tasks that autonomously plan, execute, and validate data engineering work against authorized lakehouse resources. Start tasks from a supported command-line client, review operational settings, and monitor progress and results in Fabric.",
+    "excerpt": "Fabric data engineering agent (Project Osmos) runs persistent, Fabric-hosted tasks that autonomously plan, execute, and validate data engineering work against authorized lakehouse resources. Start tasks from a supported command-line client, review operational settings, and monitor progress and results in Fabric.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric data engineering agent (Project Osmos)",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/data-engineering-agent-overview"
+      }
+    ]
+  },
+  "contentHash": "a7af51d6a6f7d2d22e1aae5bfa81768a8b63445e3f830382355d73439e9bb58e",
+  "categories": [
+    "data-engineering",
+    "copilot-ai"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

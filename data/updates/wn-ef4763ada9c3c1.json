@@ -1,0 +1,70 @@
+{
+  "id": "wn-ef4763ada9c3c1",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/fabric-september-2024-monthly-update?ft=All#post-14247-_Toc177485843",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/runtime-1-3",
+  "title": "Notebook debug within vscode.dev (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "You can now place breakpoints and debug your Notebook code with the Synapse VS Code - Remote extension in vscode.dev. This update first starts with the Fabric Runtime 1.3 (EOSA).",
+    "html": "You can now <a href=\"https://blog.fabric.microsoft.com/blog/fabric-september-2024-monthly-update?ft=All#post-14247-_Toc177485843\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">place breakpoints and debug your Notebook code</a> with the <a href=\"https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.vscode-synapse-remote\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Synapse VS Code - Remote</a> extension in <a href=\"https://vscode.dev/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">vscode.dev</a>. This update first starts with the <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/runtime-1-3\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Runtime 1.3 (EOSA)</a>.",
+    "excerpt": "You can now place breakpoints and debug your Notebook code with the Synapse VS Code - Remote extension in vscode.dev. This update first starts with the Fabric Runtime 1.3 (EOSA).",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "place breakpoints and debug your Notebook code",
+        "url": "https://blog.fabric.microsoft.com/blog/fabric-september-2024-monthly-update?ft=All#post-14247-_Toc177485843"
+      },
+      {
+        "label": "Synapse VS Code - Remote",
+        "url": "https://marketplace.visualstudio.com/items?itemName=SynapseVSCode.vscode-synapse-remote"
+      },
+      {
+        "label": "vscode.dev",
+        "url": "https://vscode.dev/"
+      },
+      {
+        "label": "Fabric Runtime 1.3 (EOSA)",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/runtime-1-3"
+      }
+    ]
+  },
+  "contentHash": "6c16ba120d95a7296d3337e18391a469f378dc24eddcab9ceef520225fbdd166",
+  "categories": [
+    "data-engineering"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-scientists",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-september-2024-monthly-update?ft=All#post-14247-_Toc177485843",
+    "backfill": "true"
+  }
+}

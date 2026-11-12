@@ -1,0 +1,64 @@
+{
+  "id": "wn-38c645afc99ca5",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId-166136848",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/native-execution-engine-udf-complex-types",
+  "title": "Native execution engine UDFs and complex types (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-07-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "In Fabric Data Engineering, native execution engine support for Python UDFs, Scala UDFs, and complex data types accelerates Spark processing with no changes to existing notebooks or jobs. For more information, see Native execution engine UDF and complex type support.",
+    "html": "In Fabric Data Engineering, <a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId-166136848\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">native execution engine support for Python UDFs, Scala UDFs, and complex data types</a> accelerates Spark processing with no changes to existing notebooks or jobs. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/native-execution-engine-udf-complex-types\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Native execution engine UDF and complex type support</a>.",
+    "excerpt": "In Fabric Data Engineering, native execution engine support for Python UDFs, Scala UDFs, and complex data types accelerates Spark processing with no changes to existing notebooks or jobs. For more information, see Native execution engine UDF and complex type support.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "native execution engine support for Python UDFs, Scala UDFs, and complex data types",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId-166136848"
+      },
+      {
+        "label": "Native execution engine UDF and complex type support",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/native-execution-engine-udf-complex-types"
+      }
+    ]
+  },
+  "contentHash": "99aacc390c82c1ffa5f7ab616dc5dd3d5ec2c01dcf3f801a74ed6868051cbe2c",
+  "categories": [
+    "data-engineering",
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-scientists",
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "July 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId-166136848"
+  }
+}

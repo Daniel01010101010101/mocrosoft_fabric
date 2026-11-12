@@ -1,0 +1,66 @@
+{
+  "id": "wn-735404fa2411f4",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Using-Bulk-Copy-API-for-faster-ingestion-in-Fabric-Data/ba-p/5195627",
+  "docsUrl": "https://learn.microsoft.com/en-us/sql/tools/bcp/bcp-utility?view=fabric&preserve-view=true",
+  "title": "Bulk Copy API for faster ingestion (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Bulk Copy API (Preview) writes data directly to Fabric Data Warehouse tables from application code without first staging files, replacing row-by-row INSERT statements to improve ingestion throughput. You can use it through SqlBulkCopy for C#, SQLServerBulkCopy for Java, the bcp utility, and tools such as SSIS, Azure Data Factory, and Informatica. For more information, see Ingest data into your warehouse by using BCP API (Preview).",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Using-Bulk-Copy-API-for-faster-ingestion-in-Fabric-Data/ba-p/5195627\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Bulk Copy API (Preview)</a> writes data directly to Fabric Data Warehouse tables from application code without first staging files, replacing row-by-row <code>INSERT</code> statements to improve ingestion throughput. You can use it through SqlBulkCopy for C#, SQLServerBulkCopy for Java, the <a href=\"https://learn.microsoft.com/en-us/sql/tools/bcp/bcp-utility?view=fabric&amp;preserve-view=true\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">bcp utility</a>, and tools such as SSIS, Azure Data Factory, and Informatica. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data-bulk-copy\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Ingest data into your warehouse by using BCP API (Preview)</a>.",
+    "excerpt": "Bulk Copy API (Preview) writes data directly to Fabric Data Warehouse tables from application code without first staging files, replacing row-by-row INSERT statements to improve ingestion throughput. You can use it through SqlBulkCopy for C#, SQLServerBulkCopy for Java, the bcp utility, and tools such as SSIS, Azure…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Bulk Copy API (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Using-Bulk-Copy-API-for-faster-ingestion-in-Fabric-Data/ba-p/5195627"
+      },
+      {
+        "label": "bcp utility",
+        "url": "https://learn.microsoft.com/en-us/sql/tools/bcp/bcp-utility?view=fabric&preserve-view=true"
+      },
+      {
+        "label": "Ingest data into your warehouse by using BCP API (Preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data-bulk-copy"
+      }
+    ]
+  },
+  "contentHash": "1605b010042c7d64872cf68394654fbb2222d250653b7c6e95524b36a25c3082",
+  "categories": [
+    "developer-apis"
+  ],
+  "primaryCategory": "developer-apis",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Using-Bulk-Copy-API-for-faster-ingestion-in-Fabric-Data/ba-p/5195627",
+    "backfill": "true"
+  }
+}

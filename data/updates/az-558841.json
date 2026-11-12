@@ -1,0 +1,59 @@
+{
+  "id": "az-558841",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=558841",
+  "docsUrl": "https://learn.microsoft.com/en-us/azure/mysql/integration/fabric-mirroring-mysql",
+  "title": "Public Preview: Fabric Mirroring integration for Azure Database for MySQL",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-03-25T17:45:33.542Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "We are excited to announce the public preview of Fabric Mirroring integration for Azure Database for MySQL – Flexible Server. You can now replicate MySQL operational data into Microsoft Fabric in near real time, without building or maintaining ETL pipelines. Mirrored data lands in OneLake in Delta Parquet format and is immediately available for analytics across Fabric experiences.\nLearn more.",
+    "html": "<p><span><span>We are excited to announce the</span><span> </span><span>p</span><span>ublic</span><span><span> </span></span><span>p</span><span>review of Fabric Mirroring integration for Azure Database for MySQL – Flexible Server.</span><span><span> </span></span><span>You can now</span><span><span> </span></span><span>replicate MySQL operational data into Microsoft Fabric in near real</span><span><span> </span></span><span>time, without building or maintaining ETL pipelines. Mirrored data lands in</span><span><span> </span></span><span>OneLake</span><span><span> </span></span><span>in Delta Parquet format and is</span><span><span> </span></span><span>immediately</span><span><span> </span></span><span>available for analytics across Fabric experiences. </span></span></p><p><span><span><a href=\"https://learn.microsoft.com/en-us/azure/mysql/integration/fabric-mirroring-mysql\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><span><span>Learn more.</span></span></a><span><span> </span></span></span></span></p>",
+    "excerpt": "We are excited to announce the public preview of Fabric Mirroring integration for Azure Database for MySQL – Flexible Server. You can now replicate MySQL operational data into Microsoft Fabric in near real time, without building or maintaining ETL pipelines. Mirrored data lands in OneLake in Delta Parquet format and…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more.",
+        "url": "https://learn.microsoft.com/en-us/azure/mysql/integration/fabric-mirroring-mysql"
+      }
+    ]
+  },
+  "contentHash": "1b39e0f8b772eacee033bc65e1081f12fab6886b1c16c99f8c3f2aceb3b391db",
+  "categories": [
+    "integrations-connectors",
+    "data-factory"
+  ],
+  "primaryCategory": "integrations-connectors",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "In preview",
+    "products": "Azure Database for MySQL",
+    "tags": "Features",
+    "previewDate": "2026-03",
+    "modified": "2026-03-25T17:45:33.5422578Z"
+  }
+}

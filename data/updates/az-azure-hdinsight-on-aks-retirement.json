@@ -1,0 +1,56 @@
+{
+  "id": "az-azure-hdinsight-on-aks-retirement",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=azure-hdinsight-on-aks-retirement",
+  "title": "Retirement: Azure HDInsight on AKS will retire on January 31, 2025",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2024-08-29T07:00:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "On January 31, 2025, we will retire Azure HDInsight on AKS. The remaining clusters on your subscription will be stopped and removed from the host.\nBefore January 31, 2025, you will need to migrate your workloads to Microsoft Fabric or an equivalent Azure product to avoid abrupt termination of your workloads.\nRequired action:\nTo avoid service disruptions, migrate your workloads from Azure HDInsight on AKS to Microsoft Fabric or an equivalent Azure product by January 31, 2025.\nIf you have any questions or need support, please contact us.",
+    "html": "<p>On <strong>January 31, 2025</strong>, we will retire Azure HDInsight on AKS. The remaining clusters on your subscription will be stopped and removed from the host.</p><p>Before January 31, 2025, you will need to migrate your workloads to <a href=\"https://go.microsoft.com/fwlink/?linkid=2283779\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Microsoft Fabric</a> or an equivalent Azure product to avoid abrupt termination of your workloads.</p><h2><span><span>Required action:</span></span></h2><p>To avoid service disruptions, migrate your workloads from Azure HDInsight on AKS to <a href=\"https://go.microsoft.com/fwlink/?linkid=2283779\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Microsoft Fabric</a> or an equivalent Azure product by <strong>January 31, 2025</strong>.</p><p>If you have any questions or need support, please <a href=\"https://go.microsoft.com/fwlink/?linkid=2218654\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">contact us</a>.</p>",
+    "excerpt": "On January 31, 2025, we will retire Azure HDInsight on AKS. The remaining clusters on your subscription will be stopped and removed from the host. Before January 31, 2025, you will need to migrate your workloads to Microsoft Fabric or an equivalent Azure product to avoid abrupt termination of your workloads. Required…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Microsoft Fabric",
+        "url": "https://go.microsoft.com/fwlink/?linkid=2283779"
+      },
+      {
+        "label": "contact us",
+        "url": "https://go.microsoft.com/fwlink/?linkid=2218654"
+      }
+    ]
+  },
+  "contentHash": "35b69252479fbba1200c7cd20ce77de36dfed295e217d3a767f1e7c9621957fd",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "deprecation",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "products": "Microsoft Fabric",
+    "tags": "Retirements",
+    "modified": "2024-08-29T07:00:00.0000000Z"
+  }
+}

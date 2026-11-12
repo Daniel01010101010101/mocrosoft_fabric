@@ -1,0 +1,60 @@
+{
+  "id": "wn-1adf59ef39038b",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/on-premises-data-gateway-december-2025-release",
+  "docsUrl": "https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-update?toc=%2Ffabric%2Fdata-factory%2Ftoc.json&bc=fabric%2Fdata-factory%2Fbreadcrumb%2Ftoc.json",
+  "title": "Data Factory On-premises data gateway manual update option (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Gateway December 2025 release (version 3000.298) provides a new manual update option (in preview) via the Fabric portal or API.The November release serves as the baseline version for this feature, and you can start performing manual updates beginning in December. For more information, see Update an on-premises data gateway.",
+    "html": "The <a href=\"https://blog.fabric.microsoft.com/blog/on-premises-data-gateway-december-2025-release\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Gateway December 2025 release</a> (version 3000.298) provides a new manual update option (in preview) via the Fabric portal or API.The November release serves as the baseline version for this feature, and you can start performing manual updates beginning in December. For more information, see <a href=\"https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-update?toc=%2Ffabric%2Fdata-factory%2Ftoc.json&amp;bc=fabric%2Fdata-factory%2Fbreadcrumb%2Ftoc.json\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Update an on-premises data gateway</a>.",
+    "excerpt": "The Gateway December 2025 release (version 3000.298) provides a new manual update option (in preview) via the Fabric portal or API.The November release serves as the baseline version for this feature, and you can start performing manual updates beginning in December. For more information, see Update an on-premises…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Gateway December 2025 release",
+        "url": "https://blog.fabric.microsoft.com/blog/on-premises-data-gateway-december-2025-release"
+      },
+      {
+        "label": "Update an on-premises data gateway",
+        "url": "https://learn.microsoft.com/en-us/data-integration/gateway/service-gateway-update?toc=%2Ffabric%2Fdata-factory%2Ftoc.json&bc=fabric%2Fdata-factory%2Fbreadcrumb%2Ftoc.json"
+      }
+    ]
+  },
+  "contentHash": "7288101c6c7e6f5768dca4e53a01c8755186daf7c64a09ec94cc25dd8a14637e",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/on-premises-data-gateway-december-2025-release",
+    "backfill": "true"
+  }
+}

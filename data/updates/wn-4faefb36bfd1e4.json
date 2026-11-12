@@ -1,0 +1,65 @@
+{
+  "id": "wn-4faefb36bfd1e4",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Real-Time-Dashboards-into-your-apps-with-Microsoft-Fabric/ba-p/5323626",
+  "docsUrl": "https://learn.microsoft.com/en-us/power-bi/developer/embedded/embedded-analytics-power-bi",
+  "title": "Microsoft Fabric Embed (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Microsoft Fabric Embed (Preview) lets you embed Real-Time Dashboards in JavaScript or TypeScript apps with delegated Microsoft Entra access. For more information, see Power BI embedded analytics and What is Microsoft Fabric Embed in Microsoft Fabric (Preview)?.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Real-Time-Dashboards-into-your-apps-with-Microsoft-Fabric/ba-p/5323626\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Microsoft Fabric Embed (Preview)</a> lets you embed Real-Time Dashboards in JavaScript or TypeScript apps with delegated Microsoft Entra access. For more information, see <a href=\"https://learn.microsoft.com/en-us/power-bi/developer/embedded/embedded-analytics-power-bi\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Power BI embedded analytics</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/embed/what-is-fabric-embed\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">What is Microsoft Fabric Embed in Microsoft Fabric (Preview)?</a>.",
+    "excerpt": "Microsoft Fabric Embed (Preview) lets you embed Real-Time Dashboards in JavaScript or TypeScript apps with delegated Microsoft Entra access. For more information, see Power BI embedded analytics and What is Microsoft Fabric Embed in Microsoft Fabric (Preview)?.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Microsoft Fabric Embed (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Real-Time-Dashboards-into-your-apps-with-Microsoft-Fabric/ba-p/5323626"
+      },
+      {
+        "label": "Power BI embedded analytics",
+        "url": "https://learn.microsoft.com/en-us/power-bi/developer/embedded/embedded-analytics-power-bi"
+      },
+      {
+        "label": "What is Microsoft Fabric Embed in Microsoft Fabric (Preview)?",
+        "url": "https://learn.microsoft.com/en-us/fabric/embed/what-is-fabric-embed"
+      }
+    ]
+  },
+  "contentHash": "c7f85b1c19fc43d20e4c358805cac6b8c9d8506bda54a1bf978d775719d4d9ef",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Real-Time-Dashboards-into-your-apps-with-Microsoft-Fabric/ba-p/5323626",
+    "backfill": "true"
+  }
+}

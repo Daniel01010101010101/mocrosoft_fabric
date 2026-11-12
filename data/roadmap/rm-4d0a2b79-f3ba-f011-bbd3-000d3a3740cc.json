@@ -1,0 +1,23 @@
+{
+  "id": "rm-4d0a2b79-f3ba-f011-bbd3-000d3a3740cc",
+  "releaseItemId": "4d0a2b79-f3ba-f011-bbd3-000d3a3740cc",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "Shortcut Transformations - CSV to Delta",
+  "description": "**Shortcut Transformations - CSV to Delta**With Fabric Shortcut Transformations, users can now seamlessly convert CSV files into Delta tables in their Lakehouse environment—no pipelines or complex ETL required. This feature enables always-in-sync data ingestion, automatically detecting and updating changes from source files. Users benefit from a simple, UI-driven experience that supports schema evolution, column mapping, and error handling, making it easy to manage both structured and semi-structured data. The system handles multiple CSV files, supports header and delimiter options, and is designed for business users as well as data engineers. Performance optimizations ensure efficient handling of large datasets, and upcoming enhancements will add support for additional file formats and advanced schema management. These capabilities accelerate analytics, reduce manual effort, and help organizations keep their data lakehouse always up to date.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=4d0a2b79-f3ba-f011-bbd3-000d3a3740cc",
+  "contentHash": "f75b1344c36bdc70facc8969e1093d55208d73ec194c7a82de981c6c9d1c97ee",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

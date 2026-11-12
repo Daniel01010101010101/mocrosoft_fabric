@@ -1,0 +1,23 @@
+{
+  "id": "rm-0e984416-8723-f011-8c4e-0022480939f0",
+  "releaseItemId": "0e984416-8723-f011-8c4e-0022480939f0",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Python SDK for MS fabric REST APIs",
+  "description": "The Fabric REST API provides developers with programmatic access to manage and interact with Microsoft Fabric resources. It enables developers to automate a wide array of tasks, including data integration, data warehousing, big data analytics, deployment process automation, new tenant provisioning, and more.The Python SDK is a wrapper library that simplifies the communication with the Fabric REST API and handles the authentication, serialization, and error handling for you.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=0e984416-8723-f011-8c4e-0022480939f0",
+  "contentHash": "d743b91d6bad1e0fdb12d82ce1d61e3b31eabb50e6d09e1ca953711527166af4",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

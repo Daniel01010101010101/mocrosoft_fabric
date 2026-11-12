@@ -1,0 +1,23 @@
+{
+  "id": "rm-09bbedaf-e800-f111-8406-6045bd0a8ec1",
+  "releaseItemId": "09bbedaf-e800-f111-8406-6045bd0a8ec1",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "OneLake catalog - Automatic description with Copilot for Semantic models",
+  "description": "Auto-Description uses Copilot to generate clear, relevant descriptions for semantic models in the OneLake catalog.Item owners can quickly review, refine, and publish these descriptions to save time and improve discoverability, search relevance, and overall understanding of each model.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=09bbedaf-e800-f111-8406-6045bd0a8ec1",
+  "contentHash": "0089006fc774602c675acb9ee782dae8a85256a446ec6b9fad0ed994e8f9c767",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

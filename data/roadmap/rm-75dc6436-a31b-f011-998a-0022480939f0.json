@@ -1,0 +1,23 @@
+{
+  "id": "rm-75dc6436-a31b-f011-998a-0022480939f0",
+  "releaseItemId": "75dc6436-a31b-f011-998a-0022480939f0",
+  "product": "SQL database",
+  "productId": "347da228-ea54-ef11-a317-0022480a694f",
+  "category": "databases",
+  "name": "Shared queries in git integration",
+  "description": "Track the contents of and changes to the shared queries in the Fabric git integration, creating visibility to how a query has been modified over time.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=75dc6436-a31b-f011-998a-0022480939f0",
+  "contentHash": "ba70c9251356d314777d54156d2f0a9be99a5f15a47d3f5d75ce00174a60883e",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

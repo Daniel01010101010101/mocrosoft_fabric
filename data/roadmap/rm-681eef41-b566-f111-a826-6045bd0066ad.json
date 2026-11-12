@@ -1,0 +1,23 @@
+{
+  "id": "rm-681eef41-b566-f111-a826-6045bd0066ad",
+  "releaseItemId": "681eef41-b566-f111-a826-6045bd0066ad",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Advanced DAX Generation for Semantic Models in Data Agents",
+  "description": "Data agents now have advanced DAX generation that more accurately generates queries from your natural-language questions. This update introduces instance value indexing and delivers higher response accuracy and consistency.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=681eef41-b566-f111-a826-6045bd0066ad",
+  "contentHash": "558306de7e8402c47e5dcd16aa6ba544b74f4107184be0a89b5a6444074a8396",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

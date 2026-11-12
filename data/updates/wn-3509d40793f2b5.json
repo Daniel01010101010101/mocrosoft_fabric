@@ -1,0 +1,63 @@
+{
+  "id": "wn-3509d40793f2b5",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-data-movement-with-Copy-job-more-control-more/ba-p/5184219",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-factory/what-is-copy-job",
+  "title": "Extended Auto partition support in Copy job for Oracle, Fabric Lakehouse, and SAP HANA (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Extended Auto partition support in Copy job (Preview) automatically scales out reads and writes for Oracle, Fabric Lakehouse, and SAP HANA without predefining partition columns or custom sharding logic. For more information, see What is Copy job?",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-data-movement-with-Copy-job-more-control-more/ba-p/5184219\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Extended Auto partition support in Copy job (Preview)</a> automatically scales out reads and writes for Oracle, Fabric Lakehouse, and SAP HANA without predefining partition columns or custom sharding logic. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/what-is-copy-job\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">What is Copy job?</a>",
+    "excerpt": "Extended Auto partition support in Copy job (Preview) automatically scales out reads and writes for Oracle, Fabric Lakehouse, and SAP HANA without predefining partition columns or custom sharding logic. For more information, see What is Copy job?",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Extended Auto partition support in Copy job (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-data-movement-with-Copy-job-more-control-more/ba-p/5184219"
+      },
+      {
+        "label": "What is Copy job?",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/what-is-copy-job"
+      }
+    ]
+  },
+  "contentHash": "50a5fa13d43fa1d304d8e4556798d10a3f929021a63420e949f8f1b717e73b2a",
+  "categories": [
+    "integrations-connectors",
+    "data-factory",
+    "data-engineering"
+  ],
+  "primaryCategory": "integrations-connectors",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Simplify-data-movement-with-Copy-job-more-control-more/ba-p/5184219",
+    "backfill": "true"
+  }
+}

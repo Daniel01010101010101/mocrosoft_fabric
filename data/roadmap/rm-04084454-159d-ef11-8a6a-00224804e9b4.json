@@ -1,0 +1,23 @@
+{
+  "id": "rm-04084454-159d-ef11-8a6a-00224804e9b4",
+  "releaseItemId": "04084454-159d-ef11-8a6a-00224804e9b4",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Terraform provider for Fabric",
+  "description": "Terraform, as a powerful Infrastructure as Code (IaC) tool, can create and manage a wide range of cloud resources thanks to its extensive support for various providers. Providers in Terraform are plugins that enable it to work with virtually any platform or service that has an accessible API. This flexibility allows users to define and provision infrastructure across different environments seamlessly.Terraform provider for Fabric empowers users to automate and streamline their deployment and management processes in a declarative manner.With the Terraform Provider for Microsoft Fabric, users can:1. Enhance Governance and Compliance: Establish and enforce processes, mitigate risks, identify and rectify infrastructure drifts, use policies for compliance, approve modifications, and track update history.2. Automate Complex Deployments: Simplify and templatize repetitive tasks, apply changes across multiple environments, and provision environments for various application development stages (Dev, Test, Prod, Pipelines) or common use cases like copilots.3. Manage Ephemeral Environments: Create and destroy temporary development/test environments as needed, ensuring greater consistency between production and development setups.4. Enable Cross-Tenant Resource Copying: Facilitate the copying of environmental resources across non-production tenants for development purposes within enterprises.5. Accelerate Infrastructure Setup: Speed up the setup of complex self-hosted products within customer tenants.6. Manage Partner Tenants: Initialize and manage tenants for business partners, such as dealerships and franchises.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=04084454-159d-ef11-8a6a-00224804e9b4",
+  "contentHash": "e9a203a0239e91569e711fd14931accb9c382df78440ab632f502cd427a0e36c",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

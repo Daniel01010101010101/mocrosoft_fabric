@@ -1,0 +1,23 @@
+{
+  "id": "rm-1eb2c309-13e0-ef11-a730-6045bd077c18",
+  "releaseItemId": "1eb2c309-13e0-ef11-a730-6045bd077c18",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Collate Clause Support in Warehouse",
+  "description": "This feature enables users to specify collations on individual columns, rather than relying solely on the artifact-level collation. Users will be able to use the ‘COLLATE’ command with the CREATE Table / ALTER Table ADD Nullable colum / SELECT INTO / CTAS statements to define the collation for their VARCHAR / CHAR fields. This release also includes support for the 'DATABASE_DEFAULT' collation. All Fabric warehouses by default are configured with case-sensitive (CS) collation Latin1_General_100_BIN2_UTF8. You can also create warehouses with case-insensitive (CI) collation - Latin1_General_100_CI_AS_KS_WS_SC_UTF8",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=1eb2c309-13e0-ef11-a730-6045bd077c18",
+  "contentHash": "4f3824757348723fcf58971733b577555f61ab5bc526b598a7ebb8a4c301c7b0",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

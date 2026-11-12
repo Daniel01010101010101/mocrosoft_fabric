@@ -1,0 +1,23 @@
+{
+  "id": "rm-218081a2-3871-f011-bec2-000d3a34671f",
+  "releaseItemId": "218081a2-3871-f011-bec2-000d3a34671f",
+  "product": "Fabric Ecosystem",
+  "productId": "94e84e43-aa69-f011-bec2-00224804b6c3",
+  "category": "integrations-connectors",
+  "name": "Neo4J Graph Analytics",
+  "description": "Neo4j transforms OneLake data into graph format for rich visual exploration and insights using native graph algorithms.https://neo4j.com/blog/news/ga-graph-intelligence-microsoft-fabric/ - Link to Public blog. Fabric blog is in the works.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricecosystem&releaseItem=218081a2-3871-f011-bec2-000d3a34671f",
+  "contentHash": "6cf02133866152620e4905a7092ff03fcd44447f9942b012fb97e8a7dd4f3021",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

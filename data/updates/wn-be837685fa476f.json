@@ -1,0 +1,57 @@
+{
+  "id": "wn-be837685fa476f",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/data-science/ai-functions/multimodal-overview",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-science/ai-functions/multimodal-overview",
+  "title": "AI Functions multimodal support (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "AI Functions apply one-line, LLM-powered transformations to large pandas or PySpark DataFrames with high concurrency by default. For more information, see Use multimodal input with AI Functions (Preview).",
+    "html": "AI Functions apply one-line, LLM-powered transformations to large pandas or PySpark DataFrames with high concurrency by default. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-science/ai-functions/multimodal-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Use multimodal input with AI Functions (Preview)</a>.",
+    "excerpt": "AI Functions apply one-line, LLM-powered transformations to large pandas or PySpark DataFrames with high concurrency by default. For more information, see Use multimodal input with AI Functions (Preview).",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Use multimodal input with AI Functions (Preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-science/ai-functions/multimodal-overview"
+      }
+    ]
+  },
+  "contentHash": "46cafabd20e4d85d02aff6d0d887497e990b98638dfae6a501b7fcbc4a076613",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-scientists",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

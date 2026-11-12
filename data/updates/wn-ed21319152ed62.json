@@ -1,0 +1,61 @@
+{
+  "id": "wn-ed21319152ed62",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/sharepoint-site-picker-for-easily-connecting-sharepoint-data-in-microsoft-fabric-preview?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/power-query/connectors/sharepoint-folder",
+  "title": "Data Factory SharePoint data source site picker (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.86,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The SharePoint Site Picker (Preview) replaces manual URL entry with a browsable, searchable dropdown for selecting SharePoint sites across Dataflow Gen2, Pipelines, Copy job, and Lakehouse shortcuts. For more information, see SharePoint Folder connector.",
+    "html": "The <a href=\"https://blog.fabric.microsoft.com/blog/sharepoint-site-picker-for-easily-connecting-sharepoint-data-in-microsoft-fabric-preview?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">SharePoint Site Picker (Preview)</a> replaces manual URL entry with a browsable, searchable dropdown for selecting SharePoint sites across Dataflow Gen2, Pipelines, Copy job, and Lakehouse shortcuts. For more information, see <a href=\"https://learn.microsoft.com/en-us/power-query/connectors/sharepoint-folder\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">SharePoint Folder connector</a>.",
+    "excerpt": "The SharePoint Site Picker (Preview) replaces manual URL entry with a browsable, searchable dropdown for selecting SharePoint sites across Dataflow Gen2, Pipelines, Copy job, and Lakehouse shortcuts. For more information, see SharePoint Folder connector.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "SharePoint Site Picker (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/sharepoint-site-picker-for-easily-connecting-sharepoint-data-in-microsoft-fabric-preview?ft=All"
+      },
+      {
+        "label": "SharePoint Folder connector",
+        "url": "https://learn.microsoft.com/en-us/power-query/connectors/sharepoint-folder"
+      }
+    ]
+  },
+  "contentHash": "6985f25a791e084ce832d660aee5de8dfc09f7297066c028fefa2fb003c4e5bf",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/sharepoint-site-picker-for-easily-connecting-sharepoint-data-in-microsoft-fabric-preview?ft=All",
+    "backfill": "true"
+  }
+}

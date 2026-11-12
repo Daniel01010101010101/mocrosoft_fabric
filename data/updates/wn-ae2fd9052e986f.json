@@ -1,0 +1,59 @@
+{
+  "id": "wn-ae2fd9052e986f",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_126",
+  "title": "Business Actions activity (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Business Actions activity (Preview) lets pipelines call supported business systems and workflows. For more information, see Business Actions.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_126\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Business Actions activity (Preview)</a> lets pipelines call supported business systems and workflows. For more information, see <a href=\"https://aka.ms/business-actions-doc\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Business Actions</a>.",
+    "excerpt": "Business Actions activity (Preview) lets pipelines call supported business systems and workflows. For more information, see Business Actions.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Business Actions activity (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_126"
+      },
+      {
+        "label": "Business Actions",
+        "url": "https://aka.ms/business-actions-doc"
+      }
+    ]
+  },
+  "contentHash": "9ec8331b04aed6b0f5f78db6262b3becea8c47438949cffb3e478d068b8fc6ef",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_126"
+  }
+}

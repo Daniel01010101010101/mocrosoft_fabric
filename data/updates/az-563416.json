@@ -1,0 +1,57 @@
+{
+  "id": "az-563416",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=563416",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/iq/overview",
+  "title": "Public Preview: Fabric IQ Ontology Knowledge Source in Microsoft Foundry IQ",
+  "originalLanguage": "en",
+  "languageConfidence": 0.77,
+  "publishedAt": "2026-06-04T19:15:11.385Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Microsoft Foundry IQ now treats a Microsoft Fabric Ontology as a federated knowledge source in public preview, giving agents a way to query the semantic layer customers already curate in Fabric. Foundry IQ translates natural language questions into ontology-grounded queries and SQL against the entities, relationships, and bindings the Fabric team has defined, then returns results with citations back to the underlying Fabric tables. Analytics and platform teams can expose governed business definitions to agents without exporting data or maintaining a parallel schema. The source plugs into the same Foundry IQ retrieval flow as document and database sources, so a single agent call can combine ontology-grounded answers with unstructured knowledge. This release helps customers bring trusted business semantics into agentic applications.\nLearn more.",
+    "html": "Microsoft Foundry IQ now treats a Microsoft Fabric Ontology as a federated knowledge source in public preview, giving agents a way to query the semantic layer customers already curate in Fabric. Foundry IQ translates natural language questions into ontology-grounded queries and SQL against the entities, relationships, and bindings the Fabric team has defined, then returns results with citations back to the underlying Fabric tables. Analytics and platform teams can expose governed business definitions to agents without exporting data or maintaining a parallel schema. The source plugs into the same Foundry IQ retrieval flow as document and database sources, so a single agent call can combine ontology-grounded answers with unstructured knowledge. This release helps customers bring trusted business semantics into agentic applications. <br /><br /><a href=\"https://learn.microsoft.com/en-us/fabric/iq/overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Learn more</a>.",
+    "excerpt": "Microsoft Foundry IQ now treats a Microsoft Fabric Ontology as a federated knowledge source in public preview, giving agents a way to query the semantic layer customers already curate in Fabric. Foundry IQ translates natural language questions into ontology-grounded queries and SQL against the entities, relationships,…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://learn.microsoft.com/en-us/fabric/iq/overview"
+      }
+    ]
+  },
+  "contentHash": "6ed386839193553257124e86fcbfedf5bd9f357dae7115e13c0fc092bb8f858a",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "In preview",
+    "products": "Microsoft Foundry",
+    "tags": "Microsoft Build, Feature",
+    "previewDate": "2026-06",
+    "modified": "2026-06-04T19:15:11.3851002Z"
+  }
+}

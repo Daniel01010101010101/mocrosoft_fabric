@@ -1,0 +1,23 @@
+{
+  "id": "rm-08c6dc13-08a4-f011-bbd3-000d3a5b0efa",
+  "releaseItemId": "08c6dc13-08a4-f011-bbd3-000d3a5b0efa",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "DeltaFlow: Seamless stream processing of Database CDC Feeds",
+  "description": "DeltaFlow is an enhancement to Eventstreams that simplifies real-time analytics on Change Data Capture (CDC) feeds. By automatically transforming raw Debezium change events into structured tables that mirror the source schema, DeltaFlow enables developers and analysts to work with change data as if it were regular tables—eliminating the need to interpret complex CDC semantics. This streamlined approach accelerates the development of operational dashboards, event-driven applications, and real-time analytics solutions, allowing users to extract insights, build AI-powered workflows, and react instantly to changes in their data sources with minimal manual setup and maintenance.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=08c6dc13-08a4-f011-bbd3-000d3a5b0efa",
+  "contentHash": "d77e5cf5d48c1781d828620ebd3bbd4829caeeed133173ba678c68a2714096b7",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

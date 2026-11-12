@@ -1,0 +1,55 @@
+{
+  "id": "wn-345df096e31f41",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/announcing-the-availability-of-rest-apis-for-connections-and-gateways-in-microsoft-fabric?ft=All",
+  "title": "REST APIs for connections and gateways (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "REST APIs for connections and gateways are now in preview. These new APIs allow developers to programmatically manage and interact with connections and gateways within Fabric.",
+    "html": "<a href=\"https://blog.fabric.microsoft.com/blog/announcing-the-availability-of-rest-apis-for-connections-and-gateways-in-microsoft-fabric?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">REST APIs for connections and gateways are now in preview</a>. These new APIs allow developers to programmatically manage and interact with connections and gateways within Fabric.",
+    "excerpt": "REST APIs for connections and gateways are now in preview. These new APIs allow developers to programmatically manage and interact with connections and gateways within Fabric.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "REST APIs for connections and gateways are now in preview",
+        "url": "https://blog.fabric.microsoft.com/blog/announcing-the-availability-of-rest-apis-for-connections-and-gateways-in-microsoft-fabric?ft=All"
+      }
+    ]
+  },
+  "contentHash": "19436fdad4339fa6e99c885b81f37a572addaa69d37443f725c540114031ccc7",
+  "categories": [
+    "developer-apis"
+  ],
+  "primaryCategory": "developer-apis",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/announcing-the-availability-of-rest-apis-for-connections-and-gateways-in-microsoft-fabric?ft=All",
+    "backfill": "true"
+  }
+}

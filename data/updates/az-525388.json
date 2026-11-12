@@ -1,0 +1,60 @@
+{
+  "id": "az-525388",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=525388",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/database/sql/overview",
+  "title": "Generally Available: SQL database in Microsoft Fabric",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2025-11-18T17:01:02.716Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "SQL database in Fabric is now generally available. Built on the trusted SQL Server and Azure SQL Database engine, this fully SaaS-native solution empowers developers and data professionals to unify operational and analytical workloads with speed, security, and AI-powered capabilities. Key highlights include fast provisioning, Copilot-powered management, autonomous scaling, enterprise-grade security (with Customer Managed Keys and SQL Auditing), and native support for AI scenarios like semantic search and RAG.\nLearn more.",
+    "html": "<span>SQL database in Fabric is now generally available. Built on the trusted SQL Server and Azure SQL Database engine, this fully SaaS-native solution empowers developers and data professionals to unify operational and analytical workloads with speed, security, and AI-powered capabilities. Key highlights include fast provisioning, Copilot-powered management, autonomous scaling, enterprise-grade security (with Customer Managed Keys and SQL Auditing), and native support for AI scenarios like semantic search and RAG.</span><a href=\"https://learn.microsoft.com/en-us/fabric/database/sql/overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"><span>Learn more</span></a><span>. </span>",
+    "excerpt": "SQL database in Fabric is now generally available. Built on the trusted SQL Server and Azure SQL Database engine, this fully SaaS-native solution empowers developers and data professionals to unify operational and analytical workloads with speed, security, and AI-powered capabilities. Key highlights include fast…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://learn.microsoft.com/en-us/fabric/database/sql/overview"
+      }
+    ]
+  },
+  "contentHash": "d7e034caa8f110ea8d1270d66350a0b8220d5c26dcf73eaa8f468c6e594ec1a6",
+  "categories": [
+    "databases"
+  ],
+  "primaryCategory": "databases",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 67,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "architects",
+      "administrators",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "Launched",
+    "products": "Microsoft Fabric",
+    "tags": "Microsoft Ignite, Features, Pricing & Offerings",
+    "gaDate": "2025-11",
+    "modified": "2025-11-18T17:01:02.7161876Z"
+  }
+}

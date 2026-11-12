@@ -1,0 +1,66 @@
+{
+  "id": "wn-c28000f7ef67d1",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_24",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-warehouse/development-deployment",
+  "title": "Warehouse CI/CD 2.0 (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-08-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Warehouse item definition version 2.0 uses DacFx-based incremental extraction for Git integration and more accurate comparisons and deployment plans in deployment pipelines. For more information, see Source control with Warehouse and Upgrade Fabric Data Warehouse system files.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_24\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Warehouse item definition version 2.0</a> uses DacFx-based incremental extraction for Git integration and more accurate comparisons and deployment plans in deployment pipelines. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/development-deployment\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Source control with Warehouse</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/upgrade-warehouse\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Upgrade Fabric Data Warehouse system files</a>.",
+    "excerpt": "Warehouse item definition version 2.0 uses DacFx-based incremental extraction for Git integration and more accurate comparisons and deployment plans in deployment pipelines. For more information, see Source control with Warehouse and Upgrade Fabric Data Warehouse system files.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Warehouse item definition version 2.0",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_24"
+      },
+      {
+        "label": "Source control with Warehouse",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/development-deployment"
+      },
+      {
+        "label": "Upgrade Fabric Data Warehouse system files",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/upgrade-warehouse"
+      }
+    ]
+  },
+  "contentHash": "6f0c80ad0c9f782800a1a06ad432c7143b807e7ed2a95073698819b9bbee0cc8",
+  "categories": [
+    "data-warehouse",
+    "developer-apis"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_24"
+  }
+}

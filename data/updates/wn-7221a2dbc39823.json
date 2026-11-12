@@ -1,0 +1,60 @@
+{
+  "id": "wn-7221a2dbc39823",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Start-validating-today-The-ODBC-to-ADBC-driver-transition-in/ba-p/5362917",
+  "docsUrl": "https://learn.microsoft.com/en-us/power-query/transition-to-adbc",
+  "title": "ODBC to ADBC driver transition (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "ADBC drivers for supported Power BI and Fabric connectors are available for validation before they become the default and embedded ODBC drivers are disabled. For more information, see Transition from ODBC to ADBC drivers.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Start-validating-today-The-ODBC-to-ADBC-driver-transition-in/ba-p/5362917\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">ADBC drivers for supported Power BI and Fabric connectors</a> are available for validation before they become the default and embedded ODBC drivers are disabled. For more information, see <a href=\"https://learn.microsoft.com/en-us/power-query/transition-to-adbc\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Transition from ODBC to ADBC drivers</a>.",
+    "excerpt": "ADBC drivers for supported Power BI and Fabric connectors are available for validation before they become the default and embedded ODBC drivers are disabled. For more information, see Transition from ODBC to ADBC drivers.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "ADBC drivers for supported Power BI and Fabric connectors",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Start-validating-today-The-ODBC-to-ADBC-driver-transition-in/ba-p/5362917"
+      },
+      {
+        "label": "Transition from ODBC to ADBC drivers",
+        "url": "https://learn.microsoft.com/en-us/power-query/transition-to-adbc"
+      }
+    ]
+  },
+  "contentHash": "1bbc74a7823df81411227bb224da0e2716d1819f16805ec19d13554c16feebb1",
+  "categories": [
+    "integrations-connectors"
+  ],
+  "primaryCategory": "integrations-connectors",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Start-validating-today-The-ODBC-to-ADBC-driver-transition-in/ba-p/5362917"
+  }
+}

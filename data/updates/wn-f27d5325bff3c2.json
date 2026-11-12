@@ -1,0 +1,60 @@
+{
+  "id": "wn-f27d5325bff3c2",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_71",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-tutorial",
+  "title": "Activator rules from catalog and workspace (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Activator rules from catalog and workspace views (Preview) let you create and manage rules from the context of the data they monitor. For more information, see Create and activate an Activator rule.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_71\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Activator rules from catalog and workspace views (Preview)</a> let you create and manage rules from the context of the data they monitor. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-tutorial\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Create and activate an Activator rule</a>.",
+    "excerpt": "Activator rules from catalog and workspace views (Preview) let you create and manage rules from the context of the data they monitor. For more information, see Create and activate an Activator rule.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Activator rules from catalog and workspace views (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_71"
+      },
+      {
+        "label": "Create and activate an Activator rule",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-tutorial"
+      }
+    ]
+  },
+  "contentHash": "781271e26fdde5220b26f177a5e777bf0962b2e712461e95131a06f443220f9c",
+  "categories": [
+    "data-activator",
+    "admin-governance"
+  ],
+  "primaryCategory": "data-activator",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_71"
+  }
+}

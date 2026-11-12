@@ -1,0 +1,23 @@
+{
+  "id": "rm-419cfd8b-face-f011-bbd3-000d3a30273e",
+  "releaseItemId": "419cfd8b-face-f011-bbd3-000d3a30273e",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "Public query API for Ontology",
+  "description": "The public query API for Microsoft Fabric IQ Ontology gives developers programmatic access to supported ontology query capabilities. Applications and automation can query ontology-backed data using the supported query interface rather than requiring users to run every query interactively. This release concerns the query API; management of ontology definitions and the client management SDK are tracked as separate capabilities.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q2 2027",
+  "releaseQuarterStart": "2027-04-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=419cfd8b-face-f011-bbd3-000d3a30273e",
+  "contentHash": "455e4b2eb2ff62647d7ec1cfdec6ecad7bb218524f648961bd564d4929917ad1",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

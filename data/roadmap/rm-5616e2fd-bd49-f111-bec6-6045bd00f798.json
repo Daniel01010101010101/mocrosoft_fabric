@@ -1,0 +1,23 @@
+{
+  "id": "rm-5616e2fd-bd49-f111-bec6-6045bd00f798",
+  "releaseItemId": "5616e2fd-bd49-f111-bec6-6045bd00f798",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Open Fabric content in a new tab with right-click",
+  "description": "Expands right-click support across key Fabric surfaces, enabling users to quickly open content in a new browser tab without navigating away.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=5616e2fd-bd49-f111-bec6-6045bd00f798",
+  "contentHash": "690b8995bb6d15a534ccd50546a8f7c29b7424a8391d79464bb7e4b88e6deeed",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-d67fb797-009b-f011-b4cc-000d3a30273e",
+  "releaseItemId": "d67fb797-009b-f011-b4cc-000d3a30273e",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Mirroring for SAP via SAP Datasphere",
+  "description": "Mirroring delivers a no-ETL, near real-time integration of your SAP data into Microsoft Fabric. Using SAP Datasphere, you can continuously replicate data from SAP systems directly into Fabric OneLake without disrupting transactional performance. This approach ensures your SAP data seamlessly blends with the rest of your enterprise data in Fabric, enabling unified analytics and insights at scale.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=d67fb797-009b-f011-b4cc-000d3a30273e",
+  "contentHash": "8025e68a3f4387b59c64f88e4905b53d7eea3fb592cd4fcc31357b86203039ed",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

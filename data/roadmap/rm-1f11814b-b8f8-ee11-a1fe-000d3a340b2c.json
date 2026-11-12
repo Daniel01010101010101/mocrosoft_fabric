@@ -1,0 +1,23 @@
+{
+  "id": "rm-1f11814b-b8f8-ee11-a1fe-000d3a340b2c",
+  "releaseItemId": "1f11814b-b8f8-ee11-a1fe-000d3a340b2c",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "VS Code for the Web - debugging support",
+  "description": "Visual Studio Code for the Web is currently supported in Preview for authoring and execution scenarios. We add to the list of capabilities the ability to debug code using this extension for notebook.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2024",
+  "releaseQuarterStart": "2024-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=1f11814b-b8f8-ee11-a1fe-000d3a340b2c",
+  "contentHash": "bfb77e3e262150ffae95f6075ab4709b3903b611cbb028b0cb97dc181fef1f4b",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

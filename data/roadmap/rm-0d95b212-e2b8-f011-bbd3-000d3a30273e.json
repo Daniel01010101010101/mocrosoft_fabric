@@ -1,0 +1,23 @@
+{
+  "id": "rm-0d95b212-e2b8-f011-bbd3-000d3a30273e",
+  "releaseItemId": "0d95b212-e2b8-f011-bbd3-000d3a30273e",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Live connectivity to source for migration to Fabric Data Warehouse",
+  "description": "Migration Assistant for Fabric Data Warehouse will support live connection to Azure Synapse Analytics Dedicated SQL Pool to bring metadata objects from the source system to Fabric Data Warehouse. With this release, users will also be able to select objects to migrate from the source system.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=0d95b212-e2b8-f011-bbd3-000d3a30273e",
+  "contentHash": "4246bdbaae25aa9c1e0eb12aabc433359ab412980e6962eaa95b236f77b3a73d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

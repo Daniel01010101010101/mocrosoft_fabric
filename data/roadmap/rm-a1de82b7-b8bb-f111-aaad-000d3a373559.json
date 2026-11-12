@@ -1,0 +1,23 @@
+{
+  "id": "rm-a1de82b7-b8bb-f111-aaad-000d3a373559",
+  "releaseItemId": "a1de82b7-b8bb-f111-aaad-000d3a373559",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Azure Maps multiple data layers",
+  "description": "Add different data for each layer of your Power BI Azure Maps visual.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=a1de82b7-b8bb-f111-aaad-000d3a373559",
+  "contentHash": "2cbf76b0b0e665d5b1722c615e8bc7edf821ec7729bf7c096379250eae58a13e",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

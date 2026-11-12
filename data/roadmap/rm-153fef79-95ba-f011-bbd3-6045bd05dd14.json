@@ -1,0 +1,23 @@
+{
+  "id": "rm-153fef79-95ba-f011-bbd3-6045bd05dd14",
+  "releaseItemId": "153fef79-95ba-f011-bbd3-6045bd05dd14",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Fabric Extensibility Toolkit - Workspace-Level Workload Assignment GA",
+  "description": "Workspace-Level Workload Assignment - Now Generally AvailableWe're excited to announce that workspace-level workload assignment is now generally available in Microsoft Fabric.First introduced in Public Preview, this capability empowers workspace admins to add extensibility workloads directly to their workspace.Key CapabilitiesWorkspace admins can open the Workload Hub and add workloads directly to their workspace, no capacity-level permissions requiredAfter the workload is added, workspace users can consume the new workload items",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=153fef79-95ba-f011-bbd3-6045bd05dd14",
+  "contentHash": "1646e0a908973b163573e03424de86d28823a597be66388f543d246be094ef7d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

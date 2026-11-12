@@ -1,0 +1,23 @@
+{
+  "id": "rm-754bc857-509d-f011-b41c-6045bd00f9db",
+  "releaseItemId": "754bc857-509d-f011-b41c-6045bd00f9db",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Pipelines - Pipeline Dependencies",
+  "description": "When building workflows with pipelines in Fabric Data Factory, it is very important to express rules that allow you to tell the workflow engine which conditions must be met before invoking or continuing your logic. In pipelines in Data Factory, we are super happy to announce that we've brought this capability into Fabric. If you are a user of ADF and Synpase, this feature was previously available as \"trigger dependencies\" inside of tumbling window triggers. With the inclusion now of dependencies inside of Fabric pipelines in Data Factory, you can now easily move your ADF and Synapse pipelines into Fabric.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=754bc857-509d-f011-b41c-6045bd00f9db",
+  "contentHash": "3bedd70d0d97bde30c43df70765785bfca15cd9ef9119d8b08e642c8ff1ad2c1",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

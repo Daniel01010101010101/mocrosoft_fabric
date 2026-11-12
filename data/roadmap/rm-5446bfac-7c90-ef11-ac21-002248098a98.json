@@ -1,0 +1,23 @@
+{
+  "id": "rm-5446bfac-7c90-ef11-ac21-002248098a98",
+  "releaseItemId": "5446bfac-7c90-ef11-ac21-002248098a98",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "OneLake security granular APIs",
+  "description": "In addition to the existing bulk API for managing OneLake security roles, we will add a new set of APIs for performing granular actions against roles.Examples include: create a single role, add a single member to a role, etc.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=5446bfac-7c90-ef11-ac21-002248098a98",
+  "contentHash": "517481e2729e8c2ac3c6fb7ce5250549b695a36bee143b16c9310418ff171a83",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

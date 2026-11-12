@@ -1,0 +1,23 @@
+{
+  "id": "rm-75a4fb7b-8452-f111-bec6-6045bd00f798",
+  "releaseItemId": "75a4fb7b-8452-f111-bec6-6045bd00f798",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Git Integration - Allow contributor and above users to switch branch",
+  "description": "Today, when a Fabric workspace is connected to a Git repository, only workspace admins can switch the selected branch. With this change, Contributor and above users can also switch branches. Additionally, Contributor and above users will be able to branch out to existing workspaces that have this setting enabled, even if they aren't admins on the target workspace. This new capability will be available via Fabric UI and Fabric REST API.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=75a4fb7b-8452-f111-bec6-6045bd00f798",
+  "contentHash": "ede75b4e432500c175df433a2375afa0e8a23de9e3c19e8ca1604741ee37c758",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

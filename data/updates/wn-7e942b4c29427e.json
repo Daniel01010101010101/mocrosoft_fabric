@@ -1,0 +1,65 @@
+{
+  "id": "wn-7e942b4c29427e",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/AI-assisted-Synapse-Spark-and-pipeline-migration-to-Microsoft/ba-p/5234478",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/fundamentals/skills-for-fabric-overview",
+  "title": "AI-assisted Synapse to Fabric migration skills (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "AI-assisted Synapse to Fabric migration skills (Preview) move Synapse Spark pools, lake databases, notebooks, Spark job definitions, and Data Factory pipelines to Microsoft Fabric from the command line by using REST APIs, with lift-and-shift and migrate-and-modernize paths and a read-only assessment step. For more information, see Skills for Microsoft Fabric.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/AI-assisted-Synapse-Spark-and-pipeline-migration-to-Microsoft/ba-p/5234478\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">AI-assisted Synapse to Fabric migration skills (Preview)</a> move Synapse Spark pools, lake databases, notebooks, Spark job definitions, and Data Factory pipelines to Microsoft Fabric from the command line by using REST APIs, with lift-and-shift and migrate-and-modernize paths and a read-only assessment step. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/fundamentals/skills-for-fabric-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Skills for Microsoft Fabric</a>.",
+    "excerpt": "AI-assisted Synapse to Fabric migration skills (Preview) move Synapse Spark pools, lake databases, notebooks, Spark job definitions, and Data Factory pipelines to Microsoft Fabric from the command line by using REST APIs, with lift-and-shift and migrate-and-modernize paths and a read-only assessment step. For more…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "AI-assisted Synapse to Fabric migration skills (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/AI-assisted-Synapse-Spark-and-pipeline-migration-to-Microsoft/ba-p/5234478"
+      },
+      {
+        "label": "Skills for Microsoft Fabric",
+        "url": "https://learn.microsoft.com/en-us/fabric/fundamentals/skills-for-fabric-overview"
+      }
+    ]
+  },
+  "contentHash": "4260c6eed6e17882a1b07f26ad026ddbb7898e230c6302d2d4c176dd348e8db2",
+  "categories": [
+    "copilot-ai",
+    "integrations-connectors",
+    "data-engineering"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-scientists",
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/AI-assisted-Synapse-Spark-and-pipeline-migration-to-Microsoft/ba-p/5234478",
+    "backfill": "true"
+  }
+}

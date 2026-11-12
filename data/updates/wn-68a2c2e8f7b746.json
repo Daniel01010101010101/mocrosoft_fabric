@@ -1,0 +1,62 @@
+{
+  "id": "wn-68a2c2e8f7b746",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_136",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-factory/what-is-copy-job",
+  "title": "Copy job and Eventstream integration (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.8,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Copy job and Eventstream integration (Preview) uses Eventstream as a Copy job source or destination. For more information, see What is Copy job?.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_136\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Copy job and Eventstream integration (Preview)</a> uses Eventstream as a Copy job source or destination. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/what-is-copy-job\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">What is Copy job?</a>.",
+    "excerpt": "Copy job and Eventstream integration (Preview) uses Eventstream as a Copy job source or destination. For more information, see What is Copy job?.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Copy job and Eventstream integration (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_136"
+      },
+      {
+        "label": "What is Copy job?",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/what-is-copy-job"
+      }
+    ]
+  },
+  "contentHash": "4daea01edf666b040f4ff03488c2045188293a2306835f83ae8d40fa02568c4a",
+  "categories": [
+    "data-factory",
+    "real-time-intelligence",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_136"
+  }
+}

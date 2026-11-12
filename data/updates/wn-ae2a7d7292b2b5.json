@@ -1,0 +1,60 @@
+{
+  "id": "wn-ae2a7d7292b2b5",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_130",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/mirroring/extended-capabilities",
+  "title": "Extended mirroring capabilities (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Extended mirroring capabilities add change feeds and source-view mirroring for advanced replication scenarios. For more information, see Extended capabilities in Mirroring.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_130\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Extended mirroring capabilities</a> add change feeds and source-view mirroring for advanced replication scenarios. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/mirroring/extended-capabilities\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Extended capabilities in Mirroring</a>.",
+    "excerpt": "Extended mirroring capabilities add change feeds and source-view mirroring for advanced replication scenarios. For more information, see Extended capabilities in Mirroring.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Extended mirroring capabilities",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_130"
+      },
+      {
+        "label": "Extended capabilities in Mirroring",
+        "url": "https://learn.microsoft.com/en-us/fabric/mirroring/extended-capabilities"
+      }
+    ]
+  },
+  "contentHash": "ec249c42ef5c7ba38d9be32890658468bc0d66cc211f3c3c4d63ad29a996642c",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_130"
+  }
+}

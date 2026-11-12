@@ -1,0 +1,61 @@
+{
+  "id": "wn-8a91e165375cbd",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Enterprise-planning-to-the-AI-Era-with-Planning-in/ba-p/5326315",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/iq/plan/overview",
+  "title": "Plan (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.98,
+  "publishedAt": "2026-07-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Plan in Fabric IQ (Generally Available) is a unified no-code platform for collaborative planning, reporting, analytics, data integration, and management. For more information, see What is plan?",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Enterprise-planning-to-the-AI-Era-with-Planning-in/ba-p/5326315\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Plan in Fabric IQ (Generally Available)</a> is a unified no-code platform for collaborative planning, reporting, analytics, data integration, and management. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/iq/plan/overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">What is plan?</a>",
+    "excerpt": "Plan in Fabric IQ (Generally Available) is a unified no-code platform for collaborative planning, reporting, analytics, data integration, and management. For more information, see What is plan?",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Plan in Fabric IQ (Generally Available)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Enterprise-planning-to-the-AI-Era-with-Planning-in/ba-p/5326315"
+      },
+      {
+        "label": "What is plan?",
+        "url": "https://learn.microsoft.com/en-us/fabric/iq/plan/overview"
+      }
+    ]
+  },
+  "contentHash": "5adffa8b9f3114b0696b9dba66321c12f504e8c0b2b77914e64f94a52355b2f5",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 59,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "July 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Enterprise-planning-to-the-AI-Era-with-Planning-in/ba-p/5326315"
+  }
+}

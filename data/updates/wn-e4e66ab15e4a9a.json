@@ -1,0 +1,56 @@
+{
+  "id": "wn-e4e66ab15e4a9a",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_97",
+  "title": "Data agents return up to 1,000 rows (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric data agents return up to 1,000 rows (Preview), expanding the results available for downstream analysis. For more information, see Data agent file support.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_97\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric data agents return up to 1,000 rows (Preview)</a>, expanding the results available for downstream analysis. For more information, see <a href=\"https://aka.ms/Fabric/Data-Agent-File-Support\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Data agent file support</a>.",
+    "excerpt": "Fabric data agents return up to 1,000 rows (Preview), expanding the results available for downstream analysis. For more information, see Data agent file support.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric data agents return up to 1,000 rows (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_97"
+      },
+      {
+        "label": "Data agent file support",
+        "url": "https://aka.ms/Fabric/Data-Agent-File-Support"
+      }
+    ]
+  },
+  "contentHash": "89e2942285cc5d78e1f56211fff17805090a0ac3e758e24fe7dbf630b9ecc1cb",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_97"
+  }
+}

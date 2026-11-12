@@ -1,0 +1,59 @@
+{
+  "id": "wn-c93e29ec5ea187",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_169",
+  "title": "Connection tenant allowlist (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Connection tenant allowlist limits cloud connections to trusted Microsoft Entra tenants. For more information, see Tenant allowlist.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_169\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Connection tenant allowlist</a> limits cloud connections to trusted Microsoft Entra tenants. For more information, see <a href=\"https://aka.ms/fabric-tenant-allowlist\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Tenant allowlist</a>.",
+    "excerpt": "Connection tenant allowlist limits cloud connections to trusted Microsoft Entra tenants. For more information, see Tenant allowlist.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Connection tenant allowlist",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_169"
+      },
+      {
+        "label": "Tenant allowlist",
+        "url": "https://aka.ms/fabric-tenant-allowlist"
+      }
+    ]
+  },
+  "contentHash": "d31ccc4552ab6d92b9d1bb842a1487e78fb2b4ef9940df5f89dad12e932ae6f5",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_169"
+  }
+}

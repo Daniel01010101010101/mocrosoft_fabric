@@ -1,0 +1,64 @@
+{
+  "id": "wn-be4f4aafa7ca87",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Controlling-storage-costs-with-OneLake-lifecycle-management/ba-p/5295135",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/onelake/how-to-get-item-size",
+  "title": "OneLake storage tiers and lifecycle management (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-07-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "OneLake storage tiers and lifecycle management let you keep active data in the hot tier and move less-used data to cool or cold tiers with lifecycle policies. For more information, see Get the size of OneLake items and OneLake diagnostics.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Controlling-storage-costs-with-OneLake-lifecycle-management/ba-p/5295135\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">OneLake storage tiers and lifecycle management</a> let you keep active data in the hot tier and move less-used data to cool or cold tiers with lifecycle policies. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/onelake/how-to-get-item-size\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Get the size of OneLake items</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/onelake/onelake-diagnostics-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">OneLake diagnostics</a>.",
+    "excerpt": "OneLake storage tiers and lifecycle management let you keep active data in the hot tier and move less-used data to cool or cold tiers with lifecycle policies. For more information, see Get the size of OneLake items and OneLake diagnostics.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "OneLake storage tiers and lifecycle management",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Controlling-storage-costs-with-OneLake-lifecycle-management/ba-p/5295135"
+      },
+      {
+        "label": "Get the size of OneLake items",
+        "url": "https://learn.microsoft.com/en-us/fabric/onelake/how-to-get-item-size"
+      },
+      {
+        "label": "OneLake diagnostics",
+        "url": "https://learn.microsoft.com/en-us/fabric/onelake/onelake-diagnostics-overview"
+      }
+    ]
+  },
+  "contentHash": "79a935796ccec5eea8fedc5a89fddd8e64ab354494d7bab4b8e70d84c54e6c03",
+  "categories": [
+    "onelake"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "July 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Controlling-storage-costs-with-OneLake-lifecycle-management/ba-p/5295135"
+  }
+}

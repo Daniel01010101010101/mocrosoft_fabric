@@ -1,0 +1,60 @@
+{
+  "id": "wn-185da609c15070",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_95",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-science/data-agent-runtime",
+  "title": "Data agent runtime model upgrade (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.81,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Data agent runtime model upgrade (Preview) uses a newer model for planning, source routing, semantic querying, and natural language to SQL. For more information, see Fabric data agent runtimes.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_95\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Data agent runtime model upgrade (Preview)</a> uses a newer model for planning, source routing, semantic querying, and natural language to SQL. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-science/data-agent-runtime\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric data agent runtimes</a>.",
+    "excerpt": "Data agent runtime model upgrade (Preview) uses a newer model for planning, source routing, semantic querying, and natural language to SQL. For more information, see Fabric data agent runtimes.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Data agent runtime model upgrade (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_95"
+      },
+      {
+        "label": "Fabric data agent runtimes",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-science/data-agent-runtime"
+      }
+    ]
+  },
+  "contentHash": "969e2b04ca3ff96988ee28675612a6f84e5b9218e0471db3c3fbd0fedcf09b70",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-scientists",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_95"
+  }
+}

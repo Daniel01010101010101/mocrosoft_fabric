@@ -1,0 +1,23 @@
+{
+  "id": "rm-a5931131-7020-f011-9989-000d3a34671f",
+  "releaseItemId": "a5931131-7020-f011-9989-000d3a34671f",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "OneLake Catalog - Govern Tab For Admins",
+  "description": "Today, the Goven tab in OneLake Catalog, is a central place for data owners to find insights on their data, get recommended actions and find all the available solutions in Fabric.We are extending the experience to allow Fabric admins to gain insights, get recommended actions and find all Fabric solutions available for them.As part of the public preview, Admins will be able to see information about their entire tenant, such as inventory insights on domains, capacities, workspaces, item operations ,Capacities and domains state, protection state (sensitivity label coverage, information on DLP and more), curations state (description, tags, endorsement)Recommended actions will focus the Admins on steps they should take in order to optimize the tenant usage, surface problematic items, and promote housekeeping.Additional valuable are includes all the solutions available for admins in Fabric and important links that can help to promote user's knowledge on Fabric to better utilize the system.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=a5931131-7020-f011-9989-000d3a34671f",
+  "contentHash": "ff537c96754f85c1a8c822775f078a4f61b269efe6cb391fbc8f6ace499fe914",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

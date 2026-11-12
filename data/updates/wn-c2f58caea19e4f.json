@@ -1,0 +1,59 @@
+{
+  "id": "wn-c2f58caea19e4f",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_84",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/eventhouse-encryption",
+  "title": "Eventhouse customer-managed keys (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Eventhouse customer-managed keys encrypt dedicated physical clusters with organization-controlled Azure Key Vault keys. For more information, see Eventhouse encryption.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_84\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Eventhouse customer-managed keys</a> encrypt dedicated physical clusters with organization-controlled Azure Key Vault keys. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/eventhouse-encryption\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Eventhouse encryption</a>.",
+    "excerpt": "Eventhouse customer-managed keys encrypt dedicated physical clusters with organization-controlled Azure Key Vault keys. For more information, see Eventhouse encryption.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Eventhouse customer-managed keys",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_84"
+      },
+      {
+        "label": "Eventhouse encryption",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/eventhouse-encryption"
+      }
+    ]
+  },
+  "contentHash": "04919c806718d969a188edf776adf9ac50a0b5cfd85e787c62af344eb73c04f0",
+  "categories": [
+    "real-time-intelligence",
+    "security"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 72,
+    "level": "alto",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_84"
+  }
+}

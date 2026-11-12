@@ -1,0 +1,23 @@
+{
+  "id": "rm-e2e8767a-5df1-f011-8406-6045bd026004",
+  "releaseItemId": "e2e8767a-5df1-f011-8406-6045bd026004",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Eventhouse Endpoint for DWH",
+  "description": "The Eventhouse endpoint is a powerful feature in Microsoft Fabric that enables users to query tables with exceptional speed and ease. It allows for real-time insights across your data estate, supporting structured, semi-structured, and unstructured data analysis. This endpoint transforms Fabric into a true real-time analytics platform, combining the simplicity of batch analytics with the responsiveness of event streaming. Additionally, it extends the architecture to structured data sources, allowing users to query Fabric Data Warehouse tables in real-time using KQL. Overall, Eventhouse is designed for managing both streaming and batch data, making it a game-changer for large-scale data operations",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=e2e8767a-5df1-f011-8406-6045bd026004",
+  "contentHash": "ef241cccbb7ebab29f2c87d6470e0868fc7e363cc33889bf0b1d76ef77a34986",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

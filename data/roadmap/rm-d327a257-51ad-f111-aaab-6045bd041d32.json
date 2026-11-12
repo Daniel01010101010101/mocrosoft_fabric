@@ -1,0 +1,23 @@
+{
+  "id": "rm-d327a257-51ad-f111-aaab-6045bd041d32",
+  "releaseItemId": "d327a257-51ad-f111-aaab-6045bd041d32",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Surge Protection V2 (Workspace-level)",
+  "description": "Workspace-level surge protection helps capacity administrators prevent a single workspace from unexpectedly consuming an entire capacity. Administrators can set workspace consumption limits, exempt mission-critical workspaces, and block or unblock workspaces to maintain capacity health and quality of service.  There will also be an API that supports these actions alongside an API for the existing Capacity-level Surge Protection feature as part of this release.  Finally, there will be the ability to opt-in to notifications via email - and see them in product - when a surge protection activity occurs.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=d327a257-51ad-f111-aaab-6045bd041d32",
+  "contentHash": "ab810db442792fa24a933575e73061a57044fdc03d0d2770d76ab75540ce7edb",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

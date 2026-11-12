@@ -1,0 +1,23 @@
+{
+  "id": "rm-c0831fd2-0a03-f111-8406-6045bd00f798",
+  "releaseItemId": "c0831fd2-0a03-f111-8406-6045bd00f798",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "[Ontology for A365] - Ontology integration with Agent 365",
+  "description": "Fabric IQ Ontology integrates natively with Microsoft 365 Copilot and Agent 365, providing AI agents with a rich semantic source of truth for reasoning over your business data. When users ask questions in natural language, agents leverage the ontology to understand the relationships between business entities, interpret intent consistently, and deliver grounded, accurate answers drawn directly from your enterprise data — all within the familiar Microsoft 365 experience.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=c0831fd2-0a03-f111-8406-6045bd00f798",
+  "contentHash": "c42c89e4f6cd80809f8d96e0b50ebef442e179a7cd7a976875fa0da18e474ac9",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

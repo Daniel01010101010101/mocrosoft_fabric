@@ -1,0 +1,23 @@
+{
+  "id": "rm-e648f127-86d7-ee11-9079-000d3a310f67",
+  "releaseItemId": "e648f127-86d7-ee11-9079-000d3a310f67",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Autoscale eventstreams",
+  "description": "This feature provides the flexibility to automatically scale capacity in response to event data traffic volume, enabling seamless improvement of eventstream throughput without disrupting your business operations.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=e648f127-86d7-ee11-9079-000d3a310f67",
+  "contentHash": "689f4e35103a648349ba7b79e19af6352e693c4e0d60241dac9e4e5ecf6b6d8d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

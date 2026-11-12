@@ -1,0 +1,23 @@
+{
+  "id": "rm-d79ffab3-1357-f011-877a-000d3a34671f",
+  "releaseItemId": "d79ffab3-1357-f011-877a-000d3a34671f",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Eventhouse Minimum Capacity Adjustments",
+  "description": "The \"Min Consumption\" button has evolved into two distinct features for greater clarity and control. Always On, now enabled by default, ensures continuous availability without incurring premium storage costs, while Minimum Consumption allows you to define a baseline compute level, optimizing for both performance and cost. This change enhances transparency and empowers smarter resource management.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=d79ffab3-1357-f011-877a-000d3a34671f",
+  "contentHash": "06f1c3484a3a4e0be22982acd5224068093680321138c9569ab1fa7e61e2fa6f",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

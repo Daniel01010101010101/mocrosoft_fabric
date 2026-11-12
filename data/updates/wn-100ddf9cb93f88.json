@@ -1,0 +1,61 @@
+{
+  "id": "wn-100ddf9cb93f88",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Azure-Monitor-and-AWS-Glue-data-to-OneLake-Preview/ba-p/5326474",
+  "title": "AWS Glue mirroring (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.6,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "A mirrored AWS Glue catalog brings AWS Glue Iceberg tables into OneLake for Fabric analysis without duplicating data. For more information, see Mirrored AWS Glue catalog.",
+    "html": "A <a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Azure-Monitor-and-AWS-Glue-data-to-OneLake-Preview/ba-p/5326474\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">mirrored AWS Glue catalog</a> brings AWS Glue Iceberg tables into OneLake for Fabric analysis without duplicating data. For more information, see <a href=\"https://aka.ms/OneLakeMirroredCatalogDocs/AWSGlue\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Mirrored AWS Glue catalog</a>.",
+    "excerpt": "A mirrored AWS Glue catalog brings AWS Glue Iceberg tables into OneLake for Fabric analysis without duplicating data. For more information, see Mirrored AWS Glue catalog.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "mirrored AWS Glue catalog",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Azure-Monitor-and-AWS-Glue-data-to-OneLake-Preview/ba-p/5326474"
+      },
+      {
+        "label": "Mirrored AWS Glue catalog",
+        "url": "https://aka.ms/OneLakeMirroredCatalogDocs/AWSGlue"
+      }
+    ]
+  },
+  "contentHash": "1d5c17c1ebee9495d04061d65def2f4205459834810f3b0b6fe272312daa4798",
+  "categories": [
+    "integrations-connectors",
+    "data-factory"
+  ],
+  "primaryCategory": "integrations-connectors",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Azure-Monitor-and-AWS-Glue-data-to-OneLake-Preview/ba-p/5326474",
+    "backfill": "true"
+  }
+}

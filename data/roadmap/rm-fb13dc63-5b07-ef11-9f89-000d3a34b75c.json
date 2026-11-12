@@ -1,0 +1,23 @@
+{
+  "id": "rm-fb13dc63-5b07-ef11-9f89-000d3a34b75c",
+  "releaseItemId": "fb13dc63-5b07-ef11-9f89-000d3a34b75c",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Improved email notifications for Refresh failures",
+  "description": "Email notifications allow Dataflow Gen2 creators to monitor the results (success/failure) of a dataflow’s refresh operation.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2024",
+  "releaseQuarterStart": "2024-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=fb13dc63-5b07-ef11-9f89-000d3a34b75c",
+  "contentHash": "536335a72b50291882d37e57e8cc80180a020be8fabfb36526c30f3d3197b082",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

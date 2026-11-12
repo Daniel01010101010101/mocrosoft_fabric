@@ -1,0 +1,23 @@
+{
+  "id": "rm-a4ad1c7d-1322-f011-9989-6045bd096807",
+  "releaseItemId": "a4ad1c7d-1322-f011-9989-6045bd096807",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Notebook live versioning",
+  "description": "With live versioning Fabric Notebook developers can track the history of changes made to their notebooks, compare different verions and restore previous versions if needed.Live versioning is now GA.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=a4ad1c7d-1322-f011-9989-6045bd096807",
+  "contentHash": "7e2c25ca1f1cf521651a7e47d5f5ec986e03a37d097f7e13b251e7436d42d337",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

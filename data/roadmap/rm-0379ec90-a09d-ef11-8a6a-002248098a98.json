@@ -1,0 +1,23 @@
+{
+  "id": "rm-0379ec90-a09d-ef11-8a6a-002248098a98",
+  "releaseItemId": "0379ec90-a09d-ef11-8a6a-002248098a98",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Resource Executor Core Utilization Analysis",
+  "description": "The resource utilization analysis feature visualizes the allocation and utilization of executor cores, providing an intuitive way for users to quickly gain insights into resource allocation and utilization throughout the Spark application execution. Some highlights include:* A summary of executor core utilization efficiency is calculated.* Users can view details on the status of executor cores, including Running, Idled, Allocated, and Maximum instances.* The interactive graph allows users to understand executor, job, and task details for a given moment.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=0379ec90-a09d-ef11-8a6a-002248098a98",
+  "contentHash": "8d5250d92b6152ab1a5b18957575ab81949909c68465ab501a53be5b620729b4",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

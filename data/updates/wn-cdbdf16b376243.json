@@ -1,0 +1,59 @@
+{
+  "id": "wn-cdbdf16b376243",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_163",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-factory/get-data-dataflow-gen2",
+  "title": "Modern Get Data Azure browsing (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Azure resource browsing in Modern Get Data (Preview) selects supported Azure resources without copying endpoint values from the Azure portal. For more information, see Get data in Dataflow Gen2.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_163\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Azure resource browsing in Modern Get Data (Preview)</a> selects supported Azure resources without copying endpoint values from the Azure portal. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/get-data-dataflow-gen2\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Get data in Dataflow Gen2</a>.",
+    "excerpt": "Azure resource browsing in Modern Get Data (Preview) selects supported Azure resources without copying endpoint values from the Azure portal. For more information, see Get data in Dataflow Gen2.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Azure resource browsing in Modern Get Data (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_163"
+      },
+      {
+        "label": "Get data in Dataflow Gen2",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/get-data-dataflow-gen2"
+      }
+    ]
+  },
+  "contentHash": "29f2f5b0a36d80cb5637b4a3d3343f542f82154890fb437745b1733541fcb2fb",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_163"
+  }
+}

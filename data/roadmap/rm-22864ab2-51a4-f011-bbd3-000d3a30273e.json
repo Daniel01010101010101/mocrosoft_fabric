@@ -1,0 +1,23 @@
+{
+  "id": "rm-22864ab2-51a4-f011-bbd3-000d3a30273e",
+  "releaseItemId": "22864ab2-51a4-f011-bbd3-000d3a30273e",
+  "product": "Fabric Ecosystem",
+  "productId": "94e84e43-aa69-f011-bec2-00224804b6c3",
+  "category": "integrations-connectors",
+  "name": "SAS Decision Builder",
+  "description": "SAS Decision Builder for Microsoft Fabric helps customers make better, faster and more secure decisions by compiling multiple artificial intelligence models, rules and procedure logic into a composite workflow. This is a critical step for organizations looking to maximize their return on their analytics investments with AI-automated decision making.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricecosystem&releaseItem=22864ab2-51a4-f011-bbd3-000d3a30273e",
+  "contentHash": "3ac6f08662f93667002306c8868e1fe15d32e14e09334d21ed23410832aa1b07",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

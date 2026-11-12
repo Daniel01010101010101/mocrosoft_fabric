@@ -1,0 +1,23 @@
+{
+  "id": "rm-b53e0bb7-4c95-ef11-8a6a-002248098a98",
+  "releaseItemId": "b53e0bb7-4c95-ef11-8a6a-002248098a98",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Semantic Models as new data source for AI Skill",
+  "description": "This feature allows users to query their Power BI Semantic Models in Fabric using natural language, receiving both a concise answer and the corresponding DAX query. Users can ask questions like “What were the total sales over the last 12 months?” and get not only the result but also the underlying DAX query for transparency and reuse. In future, user should also be able to provide few-shot examples—sample questions- to guide the AI Skill that semantic model is the best tool to answer those questions. This approach makes data insights more accessible to all users while providing advanced users with greater control and transparency over the analysis.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=b53e0bb7-4c95-ef11-8a6a-002248098a98",
+  "contentHash": "497ae2ab5fda3413ca60cc422a0e9927dadc75e1ab3a00944ab81c30ad31f773",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

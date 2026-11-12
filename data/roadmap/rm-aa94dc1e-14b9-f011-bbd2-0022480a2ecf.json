@@ -1,0 +1,23 @@
+{
+  "id": "rm-aa94dc1e-14b9-f011-bbd2-0022480a2ecf",
+  "releaseItemId": "aa94dc1e-14b9-f011-bbd2-0022480a2ecf",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "COPY INTO - Support Workspace Identity",
+  "description": "**COPY INTO - Support Workspace Identity** – Support workspace-scoped identity as a credential option, allowing secure storage access and on-behalf-of enforcement without credential management.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=aa94dc1e-14b9-f011-bbd2-0022480a2ecf",
+  "contentHash": "f7cd06d3dd1404017a325ca4aba9bc85440ded0365993cf9d8b375605a8a26fa",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

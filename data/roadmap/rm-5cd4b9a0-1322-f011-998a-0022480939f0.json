@@ -1,0 +1,23 @@
+{
+  "id": "rm-5cd4b9a0-1322-f011-998a-0022480939f0",
+  "releaseItemId": "5cd4b9a0-1322-f011-998a-0022480939f0",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Data Clustering",
+  "description": "Data Clustering enables faster read performance by allowing users to specify columns for co-locating data on ingestion and perform file skipping on read.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=5cd4b9a0-1322-f011-998a-0022480939f0",
+  "contentHash": "ac7440d4e36c87902565940692eb8ce342f44c904f2a9960cd025972e36aea89",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

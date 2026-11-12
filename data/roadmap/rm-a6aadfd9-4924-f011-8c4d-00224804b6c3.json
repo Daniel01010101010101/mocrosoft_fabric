@@ -1,0 +1,23 @@
+{
+  "id": "rm-a6aadfd9-4924-f011-8c4d-00224804b6c3",
+  "releaseItemId": "a6aadfd9-4924-f011-8c4d-00224804b6c3",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Explore Large Schemas in the Data Agent Schema Explorer",
+  "description": "Production Datawarehouses, Lakehouses, Semantic Models, and SQL DBs contain hundreds to tens of thousands of Tables, Views, Functions, and Measures. This feature highlights the requirements to support production scale database systems and semantic models across data agent scenarios within the Data Agent UX seamlessly:  - Enabling the UX to allow users to load large schemas into Data Agent and select Objects easily and efficiently.- Enabling the UX to search for elements allowing users to easily identify key entities required for data agent input - Enabling pagination in the UX to seamlessly browse the schema in the Object explorer.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=a6aadfd9-4924-f011-8c4d-00224804b6c3",
+  "contentHash": "bb56aa18d367ad4942d69d620ede7521cb458d4adc7aaae4800cb06a22dfe8f3",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

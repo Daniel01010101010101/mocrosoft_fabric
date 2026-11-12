@@ -1,0 +1,60 @@
+{
+  "id": "az-public-preview-mirroring-azure-cosmos-db-in-microsoft-fabric",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=public-preview-mirroring-azure-cosmos-db-in-microsoft-fabric",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db",
+  "title": "Public Preview: Mirroring Azure Cosmos DB in Microsoft Fabric",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2024-04-10T16:00:10.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "You can now bring your Azure Cosmos DB data into Microsoft OneLake. Mirroring enables you to get near real-time analytics on your Cosmos DB data without impacting the performance of your transactional workloads. Data from Cosmos DB is incrementally replicated in OneLake, in Delta Parquet format, without the need for complex ETL pipelines. When combined with the rest of your organization’s data in OneLake, this helps unify your data estate and remove data silos. You can now build advanced analytics, BI, and AI solutions using Microsoft Fabric on your Azure Cosmos DB data.\nLearn more.",
+    "html": "<p>You can now bring your Azure Cosmos DB data into Microsoft OneLake. Mirroring enables you to get near real-time analytics on your Cosmos DB data without impacting the performance of your transactional workloads. Data from Cosmos DB is incrementally replicated in OneLake, in Delta Parquet format, without the need for complex ETL pipelines. When combined with the rest of your organization’s data in OneLake, this helps unify your data estate and remove data silos. You can now build advanced analytics, BI, and AI solutions using Microsoft Fabric on your Azure Cosmos DB data.  </p>\n\n<p><a href=\"https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Learn more</a>.  </p>\n",
+    "excerpt": "You can now bring your Azure Cosmos DB data into Microsoft OneLake. Mirroring enables you to get near real-time analytics on your Cosmos DB data without impacting the performance of your transactional workloads. Data from Cosmos DB is incrementally replicated in OneLake, in Delta Parquet format, without the need for…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db"
+      }
+    ]
+  },
+  "contentHash": "696a7f646c90f4b924485f93a9af9fa9f472d47f4a81f210177a7c9ec565cbf2",
+  "categories": [
+    "databases",
+    "data-factory"
+  ],
+  "primaryCategory": "databases",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 71,
+    "level": "alto",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "In preview",
+    "products": "Azure Cosmos DB",
+    "tags": "Features",
+    "previewDate": "2024-04",
+    "modified": "2024-04-10T16:00:10.0000000Z"
+  }
+}

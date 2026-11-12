@@ -1,0 +1,23 @@
+{
+  "id": "rm-c2dd0925-05bc-f011-bbd3-000d3a5b0efa",
+  "releaseItemId": "c2dd0925-05bc-f011-bbd3-000d3a5b0efa",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Job alerts - notifications for failed jobs",
+  "description": "Enables email notifications to a specified list of contacts (users and groups) when a scheduled job fails. Supports pipelines, notebooks, dataflows gen2 and other recurring jobs. Helps users detect issues early and take action without manual monitoring job status.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=c2dd0925-05bc-f011-bbd3-000d3a5b0efa",
+  "contentHash": "5bdc5952709e779915bf0f367937b1ea2f63db351a7abaeb8aff18eb75a38f06",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

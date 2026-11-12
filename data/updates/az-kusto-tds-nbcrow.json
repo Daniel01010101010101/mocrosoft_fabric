@@ -1,0 +1,62 @@
+{
+  "id": "az-kusto-tds-nbcrow",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=kusto-tds-nbcrow",
+  "docsUrl": "https://learn.microsoft.com/openspecs/windows_protocols/ms-tds/c0da3cc9-4441-476b-aa99-5a518f22dc0a",
+  "title": "Announcing NBCROW Compression in Kusto's TDS Implementation",
+  "originalLanguage": "en",
+  "languageConfidence": 0.95,
+  "publishedAt": "2024-02-26T17:00:01.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "We are excited to announce NBCROW compression as a new feature in Kusto's TDS implementation. NBCROW stands for Null Bitmap Compressed Row. It is a data type that the Tabular Data Stream (TDS) protocol supports. TDS is a binary protocol that Kusto uses to communicate with MSSQL clients and return query results. NBCROW compresses the null values in a row of data into a bitmap, where each bit represents the presence or absence of a null value. This reduces the size of null values from 1 byte to 1 bit, saving 7 bits for each null value saving network bandwidth and improving query duration.\nWe hope you enjoy this feature and share your feedback with us.",
+    "html": "<p>We are excited to announce <a href=\"https://learn.microsoft.com/openspecs/windows_protocols/ms-tds/c0da3cc9-4441-476b-aa99-5a518f22dc0a\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">NBCROW </a>compression as a new feature in Kusto's TDS implementation. NBCROW stands for Null Bitmap Compressed Row. It is a data type that the Tabular Data Stream (TDS) protocol supports. TDS is a binary protocol that Kusto uses to <a href=\"https://learn.microsoft.com/azure/data-explorer/sql-server-emulation-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">communicate with MSSQL clients</a> and return query results. NBCROW compresses the null values in a row of data into a bitmap, where each bit represents the presence or absence of a null value. This reduces the size of null values from 1 byte to 1 bit, saving 7 bits for each null value saving network bandwidth and improving query duration.</p>\n\n<p>We hope you enjoy this feature and share your feedback with us.</p>\n",
+    "excerpt": "We are excited to announce NBCROW compression as a new feature in Kusto's TDS implementation. NBCROW stands for Null Bitmap Compressed Row. It is a data type that the Tabular Data Stream (TDS) protocol supports. TDS is a binary protocol that Kusto uses to communicate with MSSQL clients and return query results. NBCROW…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "NBCROW",
+        "url": "https://learn.microsoft.com/openspecs/windows_protocols/ms-tds/c0da3cc9-4441-476b-aa99-5a518f22dc0a"
+      },
+      {
+        "label": "communicate with MSSQL clients",
+        "url": "https://learn.microsoft.com/azure/data-explorer/sql-server-emulation-overview"
+      }
+    ]
+  },
+  "contentHash": "ff53be59f195a0dfcc50d8ac7e0d1de7f87dffc10ef8021f046793ddf6ee4658",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 42,
+    "level": "bajo",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "Launched",
+    "products": "Azure Data Explorer, Azure Synapse Analytics, Microsoft Fabric",
+    "tags": "Features",
+    "gaDate": "2024-02",
+    "modified": "2024-02-26T17:00:01.0000000Z"
+  }
+}

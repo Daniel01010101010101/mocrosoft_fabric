@@ -1,0 +1,64 @@
+{
+  "id": "wn-cc70a951676f52",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Manage-failure-notifications-from-the-monitoring-hub-in-Fabric/ba-p/5160381",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/admin/monitoring-hub#schedule-failures-preview",
+  "title": "Manage failure notifications from the monitoring hub in Fabric (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Schedule failures page in the Fabric monitoring hub (Preview) lists every scheduled item with failure notifications configured and lets you add, edit, or remove recipients for any item from one place, without opening each item individually. For more information, see Schedule failures (preview) and Receive notifications for failed scheduled jobs.",
+    "html": "The <a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Manage-failure-notifications-from-the-monitoring-hub-in-Fabric/ba-p/5160381\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Schedule failures page in the Fabric monitoring hub (Preview)</a> lists every scheduled item with failure notifications configured and lets you add, edit, or remove recipients for any item from one place, without opening each item individually. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/admin/monitoring-hub#schedule-failures-preview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Schedule failures (preview)</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/fundamentals/job-scheduler#receive-notifications-for-failed-scheduled-jobs\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Receive notifications for failed scheduled jobs</a>.",
+    "excerpt": "The Schedule failures page in the Fabric monitoring hub (Preview) lists every scheduled item with failure notifications configured and lets you add, edit, or remove recipients for any item from one place, without opening each item individually. For more information, see Schedule failures (preview) and Receive…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Schedule failures page in the Fabric monitoring hub (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Manage-failure-notifications-from-the-monitoring-hub-in-Fabric/ba-p/5160381"
+      },
+      {
+        "label": "Schedule failures (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/admin/monitoring-hub#schedule-failures-preview"
+      },
+      {
+        "label": "Receive notifications for failed scheduled jobs",
+        "url": "https://learn.microsoft.com/en-us/fabric/fundamentals/job-scheduler#receive-notifications-for-failed-scheduled-jobs"
+      }
+    ]
+  },
+  "contentHash": "8b698f00855297426da3710ce459086a0e9cc114d8e4930509ab3155eedf0343",
+  "categories": [
+    "admin-governance"
+  ],
+  "primaryCategory": "admin-governance",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Manage-failure-notifications-from-the-monitoring-hub-in-Fabric/ba-p/5160381",
+    "backfill": "true"
+  }
+}

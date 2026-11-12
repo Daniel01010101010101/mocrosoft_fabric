@@ -1,0 +1,23 @@
+{
+  "id": "rm-a1774a7b-790b-ef11-9f89-000d3a34b75c",
+  "releaseItemId": "a1774a7b-790b-ef11-9f89-000d3a34b75c",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Git integration - enhanced branching capabilities",
+  "description": "This update to Fabric Git integration introduces enhanced branch-related capabilities, providing users with a seamless method to work in isolation, an essential aspect of any workflow. This release encompasses several improvements to the connection between Fabric and Git branches:* Branching Out to New Workspace: Users can effortlessly branch out to new work environments with just a few clicks. This feature facilitates the creation of a new workspace synced with a corresponding new branch, ready for developers to begin their work. Once tasks are completed, merging back can easily be done via the existing Git workflow. This ensures isolation and streamlines the developers' work process.* Contextual Workspace Navigation: To streamline navigation between related workspaces, a \"related branches\" section is added to the source control pane. This area displays any connected workspaces sharing the same Git connection, allowing users to seamlessly transition between them. This functionality enhances workflow continuity and aids in maintaining context within Fabric.* Improved Source Control Pane Structure: The Git source control pane is redesigned for enhanced usability. It will feature separate tabs for managing changes and updates, branch-related actions and navigation, and additional tabs planned for future updates. This restructuring aims to simplify interaction with the source control pane, providing users with a more intuitive experience.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2024",
+  "releaseQuarterStart": "2024-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=a1774a7b-790b-ef11-9f89-000d3a34b75c",
+  "contentHash": "de5ab5fe192a94667dc2b0c93e9ccc9bd7ff1ef4618e3a458b73e65018658b01",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-b3428049-1b67-f011-bec3-0022480939f0",
+  "releaseItemId": "b3428049-1b67-f011-bec3-0022480939f0",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Workspace Collation Settings for Warehouse & SQL Analytics Endpoint in Microsoft Fabric",
+  "description": "Workspace-level collation settings enable organizations to standardize collation across all **Warehouses** and **SQL Endpoints** within a Microsoft Fabric workspace, ensuring seamless integration and predictable behavior.New and Existing Workspaces defaults to **Case Sensitive (CS)** collation, aligning with current default settings and existing artifacts in older workspaces retain their original collation (often CS) to avoid disruptions.**Admins, Members, and Contributors**: Can modify workspace collation settings at any time via the workspace settings panel. Changes apply only to new artifacts and  **Viewers** can view collation settings but cannot edit them.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=b3428049-1b67-f011-bec3-0022480939f0",
+  "contentHash": "236dc62e19b3b45aee1eb68f1c5d95c9f7ea114050d20aeb5ff4625a6decf18b",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

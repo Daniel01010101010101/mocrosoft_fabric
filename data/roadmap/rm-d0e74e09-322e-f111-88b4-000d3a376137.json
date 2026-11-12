@@ -1,0 +1,23 @@
+{
+  "id": "rm-d0e74e09-322e-f111-88b4-000d3a376137",
+  "releaseItemId": "d0e74e09-322e-f111-88b4-000d3a376137",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Object Explorer & SQL Editor — Scalability and Performance Improvements",
+  "description": "Open your warehouse instantly — your warehouse opens immediately, ready to work, with no delays regardless of size.Explore your warehouse instantly — browse schemas, tables, views, and columns across your entire warehouse without waiting for objects to load.Find any object in seconds — search and filter across tens of thousands of tables, views, and columns by name or type.Write queries with confidence — get fast, accurate autocomplete suggestions scoped to your query context, no matter how large your warehouse is.Navigate large schemas effortlessly — expand only what you need; objects load on demand as you explore.Work without interruption — no more sluggish editors or stalled autocomplete when your warehouse scales up.Author complex queries faster —Auto-complete suggestions are automatically scoped to tables referenced in your active query, keeping autocomplete relevant, precise and write complex and large queries",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=d0e74e09-322e-f111-88b4-000d3a376137",
+  "contentHash": "8397c7cc8f60c75d21fcc4bb1476c0c5b2f3d1817308b5320766a8248b8c6170",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

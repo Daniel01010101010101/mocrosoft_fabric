@@ -1,0 +1,56 @@
+{
+  "id": "wn-4497973d2d26e2",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/fundamentals/workspace-monitoring-overview",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/fundamentals/workspace-monitoring-overview",
+  "title": "Workspace monitoring (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Workspace monitoring uses a monitoring item to collect logs and metrics from supported Fabric items. Centralize telemetry from multiple workspaces, query it with KQL, build dashboards and reports, create alerts, and use Operations Agent to investigate issues.",
+    "html": "<a href=\"https://learn.microsoft.com/en-us/fabric/fundamentals/workspace-monitoring-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace monitoring</a> uses a monitoring item to collect logs and metrics from supported Fabric items. Centralize telemetry from multiple workspaces, query it with KQL, build dashboards and reports, create alerts, and use Operations Agent to investigate issues.",
+    "excerpt": "Workspace monitoring uses a monitoring item to collect logs and metrics from supported Fabric items. Centralize telemetry from multiple workspaces, query it with KQL, build dashboards and reports, create alerts, and use Operations Agent to investigate issues.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Workspace monitoring",
+        "url": "https://learn.microsoft.com/en-us/fabric/fundamentals/workspace-monitoring-overview"
+      }
+    ]
+  },
+  "contentHash": "72325851758ce6a4ef712b3db5cb61ab911016c469c3c63889286d339e4af13e",
+  "categories": [
+    "admin-governance"
+  ],
+  "primaryCategory": "admin-governance",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

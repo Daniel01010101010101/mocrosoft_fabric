@@ -1,0 +1,23 @@
+{
+  "id": "rm-4270e2be-7f98-ef11-8a6a-002248098a98",
+  "releaseItemId": "4270e2be-7f98-ef11-8a6a-002248098a98",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "CI/CD support for OneLake shortcuts",
+  "description": "Microsoft Fabric's lifecycle management tools provide a standardized system for communication and collaboration between all members of the development team throughout the life of the product.With the introduction of CI/CD support for OneLake shortcuts, you can easiliy manage your deployment of OneLake shortcuts across environments.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=4270e2be-7f98-ef11-8a6a-002248098a98",
+  "contentHash": "a1b060d72bb90e7d670b324b90fa795ed1efb93b4726071a02847a72dd23b05e",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-357fe638-f807-ef11-9f89-000d3a33ff0b",
+  "releaseItemId": "357fe638-f807-ef11-9f89-000d3a33ff0b",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "External data sharing enhancements",
+  "description": "We will introduce additional enhancements to Fabric external data sharing, including Public APIs,  the ability to share multiple tables, and to share eventhouse tables.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=357fe638-f807-ef11-9f89-000d3a33ff0b",
+  "contentHash": "0c88ec0068c8174689754d07b9c4c6917dd33b0337c5972cbaf5cae8bd8bad77",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

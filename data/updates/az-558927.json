@@ -1,0 +1,61 @@
+{
+  "id": "az-558927",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=558927",
+  "docsUrl": "https://learn.microsoft.com/en-us/azure/databricks/query-federation/onelake",
+  "title": "Public Preview: Azure Databricks OneLake Catalog Federation",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-03-19T17:00:53.040Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "You can now enable OneLake catalog federation in Azure Databricks to query Microsoft Fabric OneLake data without copying or moving it. By connecting Unity Catalog to a OneLake catalog, Azure Databricks automatically syncs schemas and tables so Fabric Lakehouse items appear side‑by‑side with your existing Azure Databricks data assets. Your queries continue to run on Azure Databricks compute while reading the data stored in OneLake, giving you a zero‑copy experience that reduces data sprawl and simplifies architecture.\nThis interoperability lets more teams reuse the same trusted OneLake data products across engines, avoid building parallel pipelines, and spend less time managing refreshes and reconciliations. It also keeps OneLake as the single source of truth while expanding how broadly those data products can be used across your organization. You can start modernizing your Fabric–Azure Databricks analytics patterns with fewer copies and more consistent governance.\nLearn more.",
+    "html": "<span><span>You can now enable </span><span>OneLake</span><span> catalog federation in Azure Databricks to query Microsoft Fabric </span><span>OneLake</span><span> data without copying or moving it. By connecting Unity Catalog to a </span><span>OneLake</span><span> catalog, </span><span>Azure </span><span>Databricks automatically </span><span>syncs</span><span> schemas and </span><span>tables</span><span> so Fabric Lakehouse items appear side</span></span><span>‑</span><span><span>by</span></span><span>‑</span><span><span>side with your existing </span><span>Azure </span><span>Databricks data assets. Your queries continue to run on </span><span>Azure </span><span>Databricks compute while reading the data stored in </span><span>OneLake</span><span>, giving you a zero</span></span><span>‑</span><span><span>copy experience that reduces data sprawl and simplifies architecture.</span></span><p><br /></p><p><span><span>This interoperability lets more teams reuse the same trusted</span><span> </span><span>OneLake</span><span> </span><span>data products across engines, avoid building parallel pipelines, and spend less time managing refreshes and reconciliations. It also keeps</span><span> </span><span>OneLake</span><span> </span><span>as the</span><span> </span><span>single source</span><span> </span><span>of truth while expanding how broadly those data products can be used across your organization</span><span>. Y</span><span>ou can start modernizing your Fabric–</span><span>Azure</span><span> </span><span>Databricks analytics patterns with fewer copies and more consistent governance</span><span>.</span></span></p><p><a href=\"https://learn.microsoft.com/en-us/azure/databricks/query-federation/onelake\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><span><span>Learn more</span></span></a><span><span>.</span><span> </span></span></p>",
+    "excerpt": "You can now enable OneLake catalog federation in Azure Databricks to query Microsoft Fabric OneLake data without copying or moving it. By connecting Unity Catalog to a OneLake catalog, Azure Databricks automatically syncs schemas and tables so Fabric Lakehouse items appear side‑by‑side with your existing Azure…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://learn.microsoft.com/en-us/azure/databricks/query-federation/onelake"
+      }
+    ]
+  },
+  "contentHash": "85b56b24447ce169de184644986db215a9eab59b4861862879fd98621af4e622",
+  "categories": [
+    "onelake",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "architects",
+      "administrators",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "In preview",
+    "products": "Azure Databricks",
+    "tags": "Features",
+    "previewDate": "2026-03",
+    "modified": "2026-03-19T17:00:53.0406938Z"
+  }
+}

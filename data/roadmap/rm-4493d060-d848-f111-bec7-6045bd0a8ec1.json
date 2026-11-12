@@ -1,0 +1,23 @@
+{
+  "id": "rm-4493d060-d848-f111-bec7-6045bd0a8ec1",
+  "releaseItemId": "4493d060-d848-f111-bec7-6045bd0a8ec1",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Improved Data Agent Routing Across Sources",
+  "description": "The Data Agent is now better at selecting the right data source when answering your questions—especially in setups with multiple sources. It more effectively evaluates schema, example queries, and source descriptions to determine the best place to route each request. This leads to more accurate results and fewer misrouted queries across both SQL, Semantic Model, and KQL sources.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=4493d060-d848-f111-bec7-6045bd0a8ec1",
+  "contentHash": "aab5ec2545b98096e8a0ff68d6cd5441b204402bccdd19097a2e055074b68401",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "wn-7268ab62d81025",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690#toc-hId--1208717068",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-warehouse/development-deployment",
+  "title": "CI/CD Support for SQL analytics endpoint (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.94,
+  "publishedAt": "2026-06-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "CI/CD support for SQL analytics endpoint (Preview) lets you manage SQL analytics endpoint definitions as DacFx database projects in Git alongside other Fabric items and deploy incremental schema changes through Fabric Deployment Pipelines. For more information, see Source control (preview).",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690#toc-hId--1208717068\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">CI/CD support for SQL analytics endpoint (Preview)</a> lets you manage SQL analytics endpoint definitions as DacFx database projects in Git alongside other Fabric items and deploy incremental schema changes through Fabric Deployment Pipelines. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/development-deployment\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Source control (preview)</a>.",
+    "excerpt": "CI/CD support for SQL analytics endpoint (Preview) lets you manage SQL analytics endpoint definitions as DacFx database projects in Git alongside other Fabric items and deploy incremental schema changes through Fabric Deployment Pipelines. For more information, see Source control (preview).",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "CI/CD support for SQL analytics endpoint (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690#toc-hId--1208717068"
+      },
+      {
+        "label": "Source control (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/development-deployment"
+      }
+    ]
+  },
+  "contentHash": "a2d4d4ca6fe2d4fde861b3196c1b685b9b9f23550b80130062b379689a51406c",
+  "categories": [
+    "data-warehouse",
+    "developer-apis"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690#toc-hId--1208717068"
+  }
+}

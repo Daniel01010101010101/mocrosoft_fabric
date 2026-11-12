@@ -1,0 +1,55 @@
+{
+  "id": "wn-72b0a72f292c71",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-partitioned-compute",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-partitioned-compute",
+  "title": "Partitioned compute for Dataflow Gen2 (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Partitioned compute is a capability of the Dataflow Gen2 engine that allows parts of your dataflow logic to run in parallel, reducing the time to complete its evaluations. For more information, see partitioned compute in Dataflow Gen2.",
+    "html": "Partitioned compute is a capability of the Dataflow Gen2 engine that allows parts of your dataflow logic to run in parallel, reducing the time to complete its evaluations. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-partitioned-compute\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">partitioned compute in Dataflow Gen2</a>.",
+    "excerpt": "Partitioned compute is a capability of the Dataflow Gen2 engine that allows parts of your dataflow logic to run in parallel, reducing the time to complete its evaluations. For more information, see partitioned compute in Dataflow Gen2.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "partitioned compute in Dataflow Gen2",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-partitioned-compute"
+      }
+    ]
+  },
+  "contentHash": "d1d4bf78a3a3741bbbf35206d2560c1e976c2e093300dbb04f10befa312e8cf1",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

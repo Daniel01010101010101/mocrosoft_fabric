@@ -1,0 +1,23 @@
+{
+  "id": "rm-30cf803d-ab7e-f011-b4cc-00224804b6c3",
+  "releaseItemId": "30cf803d-ab7e-f011-b4cc-00224804b6c3",
+  "product": "Fabric Ecosystem",
+  "productId": "94e84e43-aa69-f011-bec2-00224804b6c3",
+  "category": "integrations-connectors",
+  "name": "Lucid Datahub AgentMart Studio",
+  "description": "AgentMart Studio enables Fabric users to build agentic workflows in just a few minutes. AgentMart Studio allows users to select datasets in OneLake, automatically creating semantic models using industry specific knoweldge to ensure accuracy and relavence. Users then create agents that take user input to make decisions and take appropriate actions such as sending emails and notifications.https://blog.fabric.microsoft.com/en-us/blog/27082?ft=All",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricecosystem&releaseItem=30cf803d-ab7e-f011-b4cc-00224804b6c3",
+  "contentHash": "6ecc9848ced624f5a796a09a0be1cca28205f556bcc3fdf3876446754f5e7edf",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

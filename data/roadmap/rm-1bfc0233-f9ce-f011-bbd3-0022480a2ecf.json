@@ -1,0 +1,23 @@
+{
+  "id": "rm-1bfc0233-f9ce-f011-bbd3-0022480a2ecf",
+  "releaseItemId": "1bfc0233-f9ce-f011-bbd3-0022480a2ecf",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "Resource Links - Link PBI Reports",
+  "description": "Resource Links let you attach resources to the entity types they describe, so insights live alongside the data model that powers them. Starting with Power BI reports, when someone explores an entity in your ontology, they can immediately see the relevant Power BI reports that show how that data is analyzed, monitored, and used without needing to search across tools or guess which report applies.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=1bfc0233-f9ce-f011-bbd3-0022480a2ecf",
+  "contentHash": "7014a4fa1e71c6246aa30fc9c78d566fbeb4eed0bb1525caae9796c84d771fe1",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

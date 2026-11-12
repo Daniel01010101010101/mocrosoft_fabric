@@ -1,0 +1,57 @@
+{
+  "id": "wn-000caa0d1eb190",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId-1580564301",
+  "title": "Eventhouse update policies with accelerated shortcuts (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-07-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Eventhouse update policies with accelerated shortcuts let update policy queries join to accelerated shortcut external tables for governed ingestion-time enrichment.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId-1580564301\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Eventhouse update policies with accelerated shortcuts</a> let update policy queries join to accelerated shortcut external tables for governed ingestion-time enrichment.",
+    "excerpt": "Eventhouse update policies with accelerated shortcuts let update policy queries join to accelerated shortcut external tables for governed ingestion-time enrichment.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Eventhouse update policies with accelerated shortcuts",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId-1580564301"
+      }
+    ]
+  },
+  "contentHash": "aed65ac6999fdc942b0c4453ec2c628e38b5dc26226b3a8d8616fd32dae78869",
+  "categories": [
+    "onelake",
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "July 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId-1580564301"
+  }
+}

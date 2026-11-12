@@ -1,0 +1,61 @@
+{
+  "id": "cm-5357159",
+  "kind": "blog",
+  "source": "powerbi-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Direct-Lake-Calculated-Columns-Preview/ba-p/5357159",
+  "docsUrl": "https://learn.microsoft.com/power-bi/transform-model/desktop-calculated-columns#expression-context",
+  "title": "Direct Lake Calculated Columns (Preview)",
+  "author": "VivienneVereen",
+  "originalLanguage": "en",
+  "languageConfidence": 0.92,
+  "publishedAt": "2026-08-24T16:14:20.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Calculated columns are now available in preview for Direct Lake on OneLake semantic models. This has been one of the most requested capabilities since Direct Lake launched and closes a long-standing gap with Import and DirectQuery storage modes.\nYou can define calculated columns directly in your semantic model using DAX in web modeling and Power BI Desktop, without changing the table storage mode or modifying data upstream.\nThe problem this solves\nDirect Lake combines Import-like performance with near real-time data freshness by querying Delta tables in OneLake and loading data into memory as needed.\nBut until now, if your model needed a derived column, you had only two options: push the logic upstream into the data source or move the table to a different storage mode. Calculated columns close that gap – you can now define columns directly in the semantic model using DAX without leaving Direct Lake.\nWhat you can build\nCommon use cases include:\n• Derived values, such as an age calculated from a birth date.\n• Concatenating fields, such as city and region into a single field for slicers.\n• Formatted dates like Month-Year for grouping in visuals.\n• Multilingual reports using data translations with USERCULTURE().\n• Personalized content based on functions like USERPRINCIPALNAME().\nExamples\n1. Age = DATEDIFF( DimCustomer[BirthDate], TODAY(), YEAR )\n2. Customer Location = DimCustomer[CityName] & \", \" & DimCustomer[ContinentName]\n3. Month Name = FORMAT( DimDate[FirstOfMonth], \"mmmm\", USERCULTURE() )\nThe first two return the same value for every user unless security context differs. The third adapts to the language of the person viewing the report – see Month Name.\nHow User Context works\nCalculated columns now have a new Expression Context property. Direct Lake calculated columns support User Context expression context only.\nWith User Context:\n• The expression is evaluated when a user queries the model.\n• Evaluation respects row-level security (RLS) and object-level security (OLS).\n• Expressions that do not reference user-aware DAX expressions or secured columns typically return the same value for every user.\nConsiderations:\n• Cannot be used in relationships. Direct Lake calculated columns are evaluated at query time and do not materialize. Because of this, they cannot be used as relationship keys. Build relationship keys in the Delta table when needed.\n• Do not observe filter context. Calculated columns return a fixed value for each row and do not respond to report filters or slicers. Use a measure when the result must change based on report interactions.\nUnlike standard calculated columns, Direct Lake calculated columns are evaluated in the current user's security context. This means calculations automatically respect RLS and OLS.\nSecurity behavior across expression contexts\nThe security difference is easiest to see with a column that references a protected value. Consider a model where OLS hides DimCustomer[Education] from a \"NoEducationOLS\" role, and a calculated column derived from it:\n• Is Graduate = IF( DimCustomer[Education] = \"Graduate Degree\", \"Yes\", \"No\" )\nThe result depends on the expression context:\nImport - Standard\nImport - User Context\nDirect Lake - User Context\nObserves OLS\nNo\nYes\nYes\nResult for a restricted user\n\"Yes\" or \"No\", derived from the hidden value\nColumn not available\nColumn not available\nWith Standard, a restricted user still sees the derived answer and the protection is effectively bypassed. With User Context in both Import and Direct Lake, the reference to the secured column is evaluated within the user's security context, so the restricted user does not see the derived column. The sensitive value is never exposed.\nDirect Lake – User Context Expression Context (only option available)\nImport – Standard Expression Context\nImport – User Context Expression Context\nGetting Started\nCalculated columns for Direct Lake are available in preview. Open a Direct Lake on OneLake semantic model in the web or Desktop, create a calculated column, and begin modeling directly in DAX. To learn more, see the Create calculated columns in Power BI Desktop documentation.",
+    "html": "<p>Calculated columns are now available in preview for <strong>Direct Lake on OneLake</strong> semantic models. This has been one of the most requested capabilities since Direct Lake launched and closes a long-standing gap with Import and DirectQuery storage modes.</p><p>You can define calculated columns directly in your semantic model using DAX in web modeling and Power BI Desktop, without changing the table storage mode or modifying data upstream.</p><h2>The problem this solves</h2><p>Direct Lake combines Import-like performance with near real-time data freshness by querying Delta tables in OneLake and loading data into memory as needed.</p><p>But until now, if your model needed a derived column, you had only two options: push the logic upstream into the data source or move the table to a different storage mode. Calculated columns close that gap – you can now define columns directly in the semantic model using DAX without leaving Direct Lake.</p><h2>What you can build</h2><p>Common use cases include:</p><ul><li><strong>Derived values</strong>, such as an age calculated from a birth date.</li><li><strong>Concatenating fields</strong>, such as city and region into a single field for slicers.</li><li><strong>Formatted dates</strong> like Month-Year for grouping in visuals.</li><li><strong>Multilingual reports</strong> using data translations with USERCULTURE().</li><li><strong>Personalized content</strong> based on functions like USERPRINCIPALNAME().</li></ul><h3>Examples</h3><p>1. Age = DATEDIFF( DimCustomer[BirthDate], TODAY(), YEAR )</p><p> </p><p>2. Customer Location = DimCustomer[CityName] &amp; \", \" &amp; DimCustomer[ContinentName]</p><p> </p><p>3. Month Name = FORMAT( DimDate[FirstOfMonth], \"mmmm\", USERCULTURE() )</p><p> </p><p><strong>The first two return the same value for every user</strong> <strong>unless security context differs. The third adapts to the language of the person viewing the report – see Month Name.</strong></p><h2>How User Context works</h2><p>Calculated columns now have a new <strong>Expression Context</strong> property. Direct Lake calculated columns support <strong>User Context</strong> expression context only.</p><p>With User Context:</p><ul><li>The expression is evaluated when a user queries the model.</li><li>Evaluation respects row-level security (RLS) and object-level security (OLS).</li><li><strong>Expressions that do not reference </strong><a href=\"https://learn.microsoft.com/power-bi/transform-model/desktop-calculated-columns#expression-context\" target=\"_blank\" rel=\"noopener noreferrer nofollow\"><strong>user-aware DAX expressions</strong></a><strong> or secured columns typically return the same value for every user.</strong></li></ul><p> </p><p>Considerations:</p><ul><li><strong>Cannot be used in relationships.</strong> Direct Lake calculated columns are evaluated at query time and do not materialize. Because of this, they cannot be used as relationship keys. Build relationship keys in the Delta table when needed.</li><li><strong>Do not observe filter context.</strong> Calculated columns return a fixed value for each row and do not respond to report filters or slicers. Use a measure when the result must change based on report interactions.</li></ul><p>Unlike standard calculated columns, Direct Lake calculated columns are evaluated in the current user's security context. This means calculations automatically respect RLS and OLS.</p><h2>Security behavior across expression contexts</h2><p>The security difference is easiest to see with a column that references a protected value. Consider a model where OLS hides DimCustomer[Education] from a \"NoEducationOLS\" role, and a calculated column derived from it:</p><ul><li>Is Graduate = IF( DimCustomer[Education] = \"Graduate Degree\", \"Yes\", \"No\" )</li></ul><p>The result depends on the expression context:</p><table><tbody><tr><td><p> </p></td><td><p><strong>Import - Standard</strong></p></td><td><p><strong>Import - User Context</strong></p></td><td><p><strong>Direct Lake - User Context</strong></p></td></tr><tr><td><p>Observes OLS</p></td><td><p>No</p></td><td><p>Yes</p></td><td><p>Yes</p></td></tr><tr><td><p>Result for a restricted user</p></td><td><p>\"Yes\" or \"No\", derived from the hidden value</p></td><td><p>Column not available</p></td><td><p>Column not available</p></td></tr></tbody></table><p>With <strong>Standard</strong>, a restricted user still sees the derived answer and the protection is effectively bypassed. With <strong>User Context</strong> in both Import and Direct Lake, the reference to the secured column is evaluated within the user's security context, so the restricted user does not see the derived column. The sensitive value is never exposed.</p><p> </p><h3>Direct Lake – User Context Expression Context (only option available)</h3><p> </p><h3> Import – Standard Expression Context</h3><p> </p><p> </p><h3>Import – User Context Expression Context</h3><p> </p><h2> </h2><h2>Getting Started</h2><p>Calculated columns for Direct Lake are available in preview. Open a Direct Lake on OneLake semantic model in the web or Desktop, create a calculated column, and begin modeling directly in DAX. To learn more, see the <a href=\"https://learn.microsoft.com/power-bi/transform-model/desktop-calculated-columns\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Create calculated columns in Power BI Desktop</a> documentation.</p>",
+    "excerpt": "Calculated columns are now available in preview for Direct Lake on OneLake semantic models. This has been one of the most requested capabilities since Direct Lake launched and closes a long-standing gap with Import and DirectQuery storage modes. You can define calculated columns directly in your semantic model using…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "user-aware DAX expressions",
+        "url": "https://learn.microsoft.com/power-bi/transform-model/desktop-calculated-columns#expression-context"
+      },
+      {
+        "label": "Create calculated columns in Power BI Desktop",
+        "url": "https://learn.microsoft.com/power-bi/transform-model/desktop-calculated-columns"
+      }
+    ]
+  },
+  "contentHash": "a6e09ab151be496743a0b73716e539d5e06b9ac6d67a65c84c0697e2e19d07ad",
+  "categories": [
+    "power-bi",
+    "direct-lake",
+    "security"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 66,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "data-scientists",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

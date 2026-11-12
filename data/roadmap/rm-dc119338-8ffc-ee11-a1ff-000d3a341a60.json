@@ -1,0 +1,23 @@
+{
+  "id": "rm-dc119338-8ffc-ee11-a1ff-000d3a341a60",
+  "releaseItemId": "dc119338-8ffc-ee11-a1ff-000d3a341a60",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Combine existing mapping visuals into one with Azure Maps",
+  "description": "Customers will get the best features of all mapping visuals rolled into a single visual. The new mapping visual supports the use of shapes, points, shading, and adding more data points than the current default map visual.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=dc119338-8ffc-ee11-a1ff-000d3a341a60",
+  "contentHash": "6a62b62c9bba9a04547f6096f05b501122fa40e5f8a190070c25b41322df28a5",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

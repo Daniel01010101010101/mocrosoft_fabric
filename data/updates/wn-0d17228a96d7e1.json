@@ -1,0 +1,66 @@
+{
+  "id": "wn-0d17228a96d7e1",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId--281200875",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-factory/refresh-materialized-lake-view-activity",
+  "title": "Materialized Lake View refresh features (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.94,
+  "publishedAt": "2026-07-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Refresh Materialized Lake View activity in Fabric Data Factory pipelines in Fabric Data Factory pipelines lets you refresh materialized lake views on demand or on a schedule within your pipeline orchestration. Event-driven refresh for materialized lake views triggers dependent materialized lake view refreshes when OneLake file events or pipeline and notebook job events occur. For more information, see Schedule a materialized lake view refresh.",
+    "html": "The <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/refresh-materialized-lake-view-activity\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Refresh Materialized Lake View activity in Fabric Data Factory pipelines</a> in Fabric Data Factory pipelines lets you refresh materialized lake views on demand or on a schedule within your pipeline orchestration. <a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId--281200875\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Event-driven refresh for materialized lake views</a> triggers dependent materialized lake view refreshes when OneLake file events or pipeline and notebook job events occur. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/materialized-lake-views/schedule-lineage-run#create-a-refresh-configuration\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Schedule a materialized lake view refresh</a>.",
+    "excerpt": "The Refresh Materialized Lake View activity in Fabric Data Factory pipelines in Fabric Data Factory pipelines lets you refresh materialized lake views on demand or on a schedule within your pipeline orchestration. Event-driven refresh for materialized lake views triggers dependent materialized lake view refreshes when…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Refresh Materialized Lake View activity in Fabric Data Factory pipelines",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/refresh-materialized-lake-view-activity"
+      },
+      {
+        "label": "Event-driven refresh for materialized lake views",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId--281200875"
+      },
+      {
+        "label": "Schedule a materialized lake view refresh",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/materialized-lake-views/schedule-lineage-run#create-a-refresh-configuration"
+      }
+    ]
+  },
+  "contentHash": "3625925960c137478d899c34b667671aada052dc74e99e5f9263b054183a9fe4",
+  "categories": [
+    "data-engineering",
+    "data-factory"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-scientists",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId--281200875"
+  }
+}

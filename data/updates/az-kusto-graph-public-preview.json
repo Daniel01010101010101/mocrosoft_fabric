@@ -1,0 +1,66 @@
+{
+  "id": "az-kusto-graph-public-preview",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=kusto-graph-public-preview",
+  "title": "Introducing Graph Semantics in Kusto, a new way to contextualize time series data",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2023-09-11T15:00:47.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "We are excited to announce the public preview of the graph semantics extension to Kusto, the fast and scalable database engine that powers products such as Azure Data Explorer (ADX), Fabric Real-Time Analytics and many more. The graph semantics extension enables users to contextualize their data in Kusto using graphs, a data structure that consists of nodes and edges that connect them. Graphs are useful for representing complex and dynamic data that involve many-to-many, hierarchical, or networked relationships, such as social networks, recommendation systems, connected assets, or knowledge graphs.\nWith the graph semantics extension, users can create and query graphs in ADX using a simple and intuitive syntax that is compatible with the existing Kusto Query Language (KQL) features, such as aggregation, filtering, grouping, joins, window functions, time series, geospatial, and machine learning operations. One of the unique features of Kusto is the support for time-aware graphs, which means that the graph data can be modelled as a time series of graph manipulation events. This allows users to analyze the evolution of the graph over time, such as how the network structure or the node properties change, or how the graph events or anomalies occur.\nThe graph semantics extension is currently in public preview, which means that it is available for testing and feedback, but it is not yet recommended for production use.\nLearn more in our docs and play the Kusto Detective Agency Season 2 (powered by AMD). Please provide feedback.",
+    "html": "<p>We are excited to announce the public preview of the graph semantics extension to Kusto, the fast and scalable database engine that powers products such as Azure Data Explorer (ADX), Fabric Real-Time Analytics and many more. The graph semantics extension enables users to contextualize their data in Kusto using graphs, a data structure that consists of nodes and edges that connect them. Graphs are useful for representing complex and dynamic data that involve many-to-many, hierarchical, or networked relationships, such as social networks, recommendation systems, connected assets, or knowledge graphs.</p>\n\n<p>With the graph semantics extension, users can create and query graphs in ADX using a simple and intuitive syntax that is compatible with the existing Kusto Query Language (KQL) features, such as aggregation, filtering, grouping, joins, window functions, time series, geospatial, and machine learning operations. One of the unique features of Kusto is the support for time-aware graphs, which means that the graph data can be modelled as a time series of graph manipulation events. This allows users to analyze the evolution of the graph over time, such as how the network structure or the node properties change, or how the graph events or anomalies occur.</p>\n\n<p>The graph semantics extension is currently in public preview, which means that it is available for testing and feedback, but it is not yet recommended for production use.</p>\n\n<p><a href=\"https://aka.ms/kusto/graph-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Learn more</a> in our docs and play the <a href=\"https://detective.kusto.io/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Kusto Detective Agency Season 2</a> (powered by AMD). Please provide <a href=\"https://aka.ms/kusto/graph-feedback\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">feedback</a>.</p>\n",
+    "excerpt": "We are excited to announce the public preview of the graph semantics extension to Kusto, the fast and scalable database engine that powers products such as Azure Data Explorer (ADX), Fabric Real-Time Analytics and many more. The graph semantics extension enables users to contextualize their data in Kusto using graphs,…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://aka.ms/kusto/graph-overview"
+      },
+      {
+        "label": "Kusto Detective Agency Season 2",
+        "url": "https://detective.kusto.io/"
+      },
+      {
+        "label": "feedback",
+        "url": "https://aka.ms/kusto/graph-feedback"
+      }
+    ]
+  },
+  "contentHash": "a378a0c4e3696d779fe93946efd6d1756a6d2fcf6a574fa59ebd6ceadcb21617",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-scientists",
+      "architects",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "In preview",
+    "products": "Azure Data Explorer, Azure Synapse Analytics, Microsoft Fabric",
+    "tags": "Features",
+    "previewDate": "2023-09",
+    "modified": "2023-09-11T15:00:47.0000000Z"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "wn-6dff06aefc2a88",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/database/sql/data-virtualization",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/database/sql/data-virtualization",
+  "title": "SQL database data virtualization (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Data virtualization (preview) in SQL database enables querying external data stored in OneLake using T-SQL. With data virtualization syntax, you can execute Transact-SQL (T-SQL) queries on files that store data in common data formats in OneLake. You can combine this data with locally stored relational data by using joins.",
+    "html": "<a href=\"https://learn.microsoft.com/en-us/fabric/database/sql/data-virtualization\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Data virtualization (preview)</a> in SQL database enables querying external data stored in OneLake using T-SQL. With data virtualization syntax, you can execute Transact-SQL (T-SQL) queries on files that store data in common data formats in OneLake. You can combine this data with locally stored relational data by using joins.",
+    "excerpt": "Data virtualization (preview) in SQL database enables querying external data stored in OneLake using T-SQL. With data virtualization syntax, you can execute Transact-SQL (T-SQL) queries on files that store data in common data formats in OneLake. You can combine this data with locally stored relational data by using…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Data virtualization (preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/database/sql/data-virtualization"
+      }
+    ]
+  },
+  "contentHash": "3460dd24136a8ecb40090db4abfa7044e2348e93e2726e207e595c3b1d3f56b8",
+  "categories": [
+    "databases"
+  ],
+  "primaryCategory": "databases",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

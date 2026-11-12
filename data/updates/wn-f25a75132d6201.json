@@ -1,0 +1,62 @@
+{
+  "id": "wn-f25a75132d6201",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/microsoft-odbc-driver-for-microsoft-fabric-data-engineering-preview",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/spark-odbc-driver",
+  "title": "Microsoft ODBC Driver (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Microsoft ODBC Driver for Fabric Data Engineering (Preview) enables .NET, Python, and other ODBC-compatible applications and BI tools to connect to Spark SQL in Fabric through Livy APIs with Microsoft Entra ID authentication, session reuse, and async prefetch. For more information, see Microsoft ODBC driver for Microsoft Fabric Data Engineering (Preview).",
+    "html": "The <a href=\"https://blog.fabric.microsoft.com/blog/microsoft-odbc-driver-for-microsoft-fabric-data-engineering-preview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Microsoft ODBC Driver for Fabric Data Engineering (Preview)</a> enables .NET, Python, and other ODBC-compatible applications and BI tools to connect to Spark SQL in Fabric through Livy APIs with Microsoft Entra ID authentication, session reuse, and async prefetch. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/spark-odbc-driver\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Microsoft ODBC driver for Microsoft Fabric Data Engineering (Preview)</a>.",
+    "excerpt": "The Microsoft ODBC Driver for Fabric Data Engineering (Preview) enables .NET, Python, and other ODBC-compatible applications and BI tools to connect to Spark SQL in Fabric through Livy APIs with Microsoft Entra ID authentication, session reuse, and async prefetch. For more information, see Microsoft ODBC driver for…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Microsoft ODBC Driver for Fabric Data Engineering (Preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/microsoft-odbc-driver-for-microsoft-fabric-data-engineering-preview"
+      },
+      {
+        "label": "Microsoft ODBC driver for Microsoft Fabric Data Engineering (Preview)",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/spark-odbc-driver"
+      }
+    ]
+  },
+  "contentHash": "398f4eea696770cd55760f6557cac8d1008a23ef22b23b4cc9334672af8d6f63",
+  "categories": [
+    "integrations-connectors"
+  ],
+  "primaryCategory": "integrations-connectors",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/microsoft-odbc-driver-for-microsoft-fabric-data-engineering-preview",
+    "backfill": "true"
+  }
+}

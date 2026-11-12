@@ -1,0 +1,65 @@
+{
+  "id": "wn-5e2c650752f906",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/digital-twin-builder-in-microsoft-fabric-real-time-intelligence-revolutionizing-digital-twin-creation-and-management?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/digital-twin-builder/overview",
+  "title": "Digital twin builder (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Digital twin builder (preview) is an item within the Real-Time Intelligence workload. Digital twins create data-driven, real-time representations of entities. It's a data modeling item that creates digital representations of real-world environments, to optimize physical operations using data. For more information, see What is digital twin builder (preview)?",
+    "html": "<a href=\"https://blog.fabric.microsoft.com/blog/digital-twin-builder-in-microsoft-fabric-real-time-intelligence-revolutionizing-digital-twin-creation-and-management?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Digital twin builder (preview)</a> is an item within the Real-Time Intelligence workload. <a href=\"https://blog.fabric.microsoft.com/blog/elevate-how-your-organization-operates-using-real-time-intelligence-now-enhanced-with-digital-twin-builder?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Digital twins create data-driven, real-time representations of entities</a>. It's a data modeling item that creates digital representations of real-world environments, to optimize physical operations using data. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/digital-twin-builder/overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">What is digital twin builder (preview)?</a>",
+    "excerpt": "Digital twin builder (preview) is an item within the Real-Time Intelligence workload. Digital twins create data-driven, real-time representations of entities. It's a data modeling item that creates digital representations of real-world environments, to optimize physical operations using data. For more information, see…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Digital twin builder (preview)",
+        "url": "https://blog.fabric.microsoft.com/blog/digital-twin-builder-in-microsoft-fabric-real-time-intelligence-revolutionizing-digital-twin-creation-and-management?ft=All"
+      },
+      {
+        "label": "Digital twins create data-driven, real-time representations of entities",
+        "url": "https://blog.fabric.microsoft.com/blog/elevate-how-your-organization-operates-using-real-time-intelligence-now-enhanced-with-digital-twin-builder?ft=All"
+      },
+      {
+        "label": "What is digital twin builder (preview)?",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/digital-twin-builder/overview"
+      }
+    ]
+  },
+  "contentHash": "edac8a5cd44cde4162af125f581289df448489ed6552a1a6bd3790ab6d99a91d",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-scientists",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/digital-twin-builder-in-microsoft-fabric-real-time-intelligence-revolutionizing-digital-twin-creation-and-management?ft=All",
+    "backfill": "true"
+  }
+}

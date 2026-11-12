@@ -1,0 +1,23 @@
+{
+  "id": "rm-74c64750-0a4f-f111-bec7-000d3a376137",
+  "releaseItemId": "74c64750-0a4f-f111-bec7-000d3a376137",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Associate an identity with Fabric items and schedules",
+  "description": "Microsoft Fabric items and their schedules today implicitly execute under user identities (owner or creator), which makes production workloads fragile: pipelines, schedules, copy jobs, and shortcuts break when owners leave the organization or their tokens expire, and existing takeover flows only shift the dependency to another user rather than removing it.  With this release, Fabric introduces associated Identity: a durable, user-selected execution identity that can be attached to an item through new UI and APIs, starting with Workspace Identity support and Schedule Run-as. You will be able to assciate workspace identity and other app-based identity types with items, schedules, and interative executions. This decouples execution from ownership so pipelines and schedules keep running through org churn and credential changes, reduces SPN and secret-management overhead, strengthens security by eliminating reliance on user tokens for background execution, and establishes a consistent identity model that workloads across Fabric leverage.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=74c64750-0a4f-f111-bec7-000d3a376137",
+  "contentHash": "da818b84d158c2a1f5aeeab3fb6a5329c24cd27e57621b01c37171af5dc02404",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

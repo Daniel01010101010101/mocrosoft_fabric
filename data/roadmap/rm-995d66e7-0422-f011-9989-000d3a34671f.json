@@ -1,0 +1,23 @@
+{
+  "id": "rm-995d66e7-0422-f011-9989-000d3a34671f",
+  "releaseItemId": "995d66e7-0422-f011-9989-000d3a34671f",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Mirroring - Open Mirroring: Starter Kits (Python SDK)",
+  "description": "We will launch Starter Kits allowing developers to easily get started with Open Mirroring. These starter kits will be easily discoverable and accessible in product.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=995d66e7-0422-f011-9989-000d3a34671f",
+  "contentHash": "bf50bceaab5348746a23f5b3cbc954a61237049c15cbbfec7c867cb49accb3e7",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

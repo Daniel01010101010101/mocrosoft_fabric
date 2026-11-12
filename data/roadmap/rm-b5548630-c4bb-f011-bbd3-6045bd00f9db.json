@@ -1,0 +1,23 @@
+{
+  "id": "rm-b5548630-c4bb-f011-bbd3-6045bd00f9db",
+  "releaseItemId": "b5548630-c4bb-f011-bbd3-6045bd00f9db",
+  "product": "Data Science",
+  "productId": "0522b590-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-science",
+  "name": "Outbound Access Protection for ML Experiment",
+  "description": "This feature allow fabric enterprise customers to use ML experiments in Outbound Access Protection enabled workspace and prevent sensitive data from getting exfiltrated.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=b5548630-c4bb-f011-bbd3-6045bd00f9db",
+  "contentHash": "c4db3c5af261280280543dd368d89efc13768747903d6428004e92ae558598b0",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

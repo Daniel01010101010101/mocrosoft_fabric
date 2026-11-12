@@ -1,0 +1,23 @@
+{
+  "id": "rm-b8bed2a5-5943-f111-88b5-6045bd0a886d",
+  "releaseItemId": "b8bed2a5-5943-f111-88b5-6045bd0a886d",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Fabric Runtime 1.3 Mariner 3.0 Upgrade",
+  "description": "We are upgrading the underlying operating system of Fabric Runtime 1.3 from Mariner 2.0 to Mariner 3.0, delivering improved security, performance, and long-term support for Apache Spark workloads. This upgrade brings the latest OS-level patches, enhanced container compatibility, and a modernized base image that aligns with the latest Azure infrastructure standards.To ensure a smooth transition, the upgrade leverages the Runtime Release Channel feature, which allows customers to preview and validate the Mariner 3.0-based runtime before it becomes the default. Data engineers can switch to the release candidate channel in their environment settings, run their existing workloads, and confirm compatibility — all before the update is applied across their organization.Key benefits include:Enhanced security posture with the latest OS-level patches and hardeningImproved performance from the modernized Mariner 3.0 baseCustomer-controlled validation through the release channel, reducing risk of unexpected issuesContinued compatibility with all existing Runtime 1.3 workloads and librariesThe Mariner 3.0 upgrade is available through Fabric environment settings with no additional configuration required.Business Value: Strengthens the security and performance foundation of Fabric Runtime 1.3 by upgrading to Mariner 3.0, while giving customers the ability to validate the change before it rolls out to production.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=b8bed2a5-5943-f111-88b5-6045bd0a886d",
+  "contentHash": "f280c411b649f4ba2e25ed32274f90ad213864ee340a6d66304f10776da2159a",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

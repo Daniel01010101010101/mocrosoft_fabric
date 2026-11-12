@@ -1,0 +1,57 @@
+{
+  "id": "wn-eb88df35a283fa",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/governance/fabric-policies-overview",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/governance/fabric-policies-overview",
+  "title": "Microsoft Fabric policies (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Microsoft Fabric policies let administrators centrally define and enforce condition-based governance rules at tenant or capacity scope. Policies support centralized management in the OneLake catalog, audit logging, REST APIs, Git integration, and CI/CD automation.",
+    "html": "<a href=\"https://learn.microsoft.com/en-us/fabric/governance/fabric-policies-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Microsoft Fabric policies</a> let administrators centrally define and enforce condition-based governance rules at tenant or capacity scope. Policies support centralized management in the OneLake catalog, audit logging, REST APIs, Git integration, and CI/CD automation.",
+    "excerpt": "Microsoft Fabric policies let administrators centrally define and enforce condition-based governance rules at tenant or capacity scope. Policies support centralized management in the OneLake catalog, audit logging, REST APIs, Git integration, and CI/CD automation.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Microsoft Fabric policies",
+        "url": "https://learn.microsoft.com/en-us/fabric/governance/fabric-policies-overview"
+      }
+    ]
+  },
+  "contentHash": "96642820919733569f0fa8ecc7ca0c9fac092ee881236ad0e0f04b64466e7fe3",
+  "categories": [
+    "developer-apis"
+  ],
+  "primaryCategory": "developer-apis",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 55,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "architects",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "backfill": "true"
+  }
+}

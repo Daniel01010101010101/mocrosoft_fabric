@@ -1,0 +1,49 @@
+{
+  "id": "az-569140",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=569140",
+  "title": "Announcing: Microsoft Fabric Item Recovery will be enabled by default for tenants without an explicit setting",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-08-10T17:50:54.002Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Starting August 23, 2026, Microsoft Fabric will enable Item Recovery by default for tenants that have not explicitly configured the setting. Supported item types will have a 3-day recovery window by default. Admins can review or change this setting in the Fabric admin portal under Tenant settings > Item Recovery.",
+    "html": "Starting August 23, 2026, Microsoft Fabric will enable Item Recovery by default for tenants that have not explicitly configured the setting. Supported item types will have a 3-day recovery window by default. Admins can review or change this setting in the Fabric admin portal under Tenant settings &gt; Item Recovery.",
+    "excerpt": "Starting August 23, 2026, Microsoft Fabric will enable Item Recovery by default for tenants that have not explicitly configured the setting. Supported item types will have a 3-day recovery window by default. Admins can review or change this setting in the Fabric admin portal under Tenant settings > Item Recovery.",
+    "images": [],
+    "codeBlocks": [],
+    "links": []
+  },
+  "contentHash": "bf2d779b952e154b7c429165fc35d47d13958295d4ea6a28c1f9cc8af0510547",
+  "categories": [
+    "admin-governance"
+  ],
+  "primaryCategory": "admin-governance",
+  "type": "feature",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 42,
+    "level": "bajo",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "products": "Microsoft Fabric",
+    "tags": "Announcement",
+    "modified": "2026-08-10T17:50:54.0025923Z"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-c287226c-6ec2-f111-aaad-70a8a5b19412",
+  "releaseItemId": "c287226c-6ec2-f111-aaad-70a8a5b19412",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "ALTER COLUMN (GA)",
+  "description": "ALTER COLUMN to non-nullable lets customers enforce \"this column must always have a value\" directly, in place, no more full table rebuilds just to tighten a constraint. It saves time, avoids error-prone workarounds (CTAS, drop/rename), and preserves table history. Combined with default-constraint support, existing rows get backfilled automatically, so the change is safe and non-breaking.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=c287226c-6ec2-f111-aaad-70a8a5b19412",
+  "contentHash": "7e786779ab94d7cea45e30c908dc77d5a02fe97e5f055190d659d7f72a154c9d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

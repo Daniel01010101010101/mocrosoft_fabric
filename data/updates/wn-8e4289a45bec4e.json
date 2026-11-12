@@ -1,0 +1,60 @@
+{
+  "id": "wn-8e4289a45bec4e",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_80",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/database-entity-diagram",
+  "title": "Eventhouse entity diagram (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Eventhouse entity diagrams visualize KQL database entities and relationships. For more information, see View an entity diagram.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_80\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Eventhouse entity diagrams</a> visualize KQL database entities and relationships. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/database-entity-diagram\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">View an entity diagram</a>.",
+    "excerpt": "Eventhouse entity diagrams visualize KQL database entities and relationships. For more information, see View an entity diagram.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Eventhouse entity diagrams",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_80"
+      },
+      {
+        "label": "View an entity diagram",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/database-entity-diagram"
+      }
+    ]
+  },
+  "contentHash": "529fbfa69c96bef8af3f3007042fad55b18ce1e7e6eb75f1f742d13916430ea6",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_80"
+  }
+}

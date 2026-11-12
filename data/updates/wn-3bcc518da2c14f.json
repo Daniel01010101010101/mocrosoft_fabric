@@ -1,0 +1,64 @@
+{
+  "id": "wn-3bcc518da2c14f",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Accelerate-JSON-workloads-with-the-Native-Execution-Engine-in/ba-p/5364366",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/native-execution-engine-overview",
+  "title": "Native Execution Engine JSON acceleration (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Native Execution Engine JSON acceleration (Preview) reads and parses JSON through the vectorized native path so supported Spark transformations can stay columnar without code changes. For more information, see Native execution engine for Fabric Data Engineering and Apache Spark runtime in Fabric.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Accelerate-JSON-workloads-with-the-Native-Execution-Engine-in/ba-p/5364366\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Native Execution Engine JSON acceleration (Preview)</a> reads and parses JSON through the vectorized native path so supported Spark transformations can stay columnar without code changes. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/native-execution-engine-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Native execution engine for Fabric Data Engineering</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/runtime\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Apache Spark runtime in Fabric</a>.",
+    "excerpt": "Native Execution Engine JSON acceleration (Preview) reads and parses JSON through the vectorized native path so supported Spark transformations can stay columnar without code changes. For more information, see Native execution engine for Fabric Data Engineering and Apache Spark runtime in Fabric.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Native Execution Engine JSON acceleration (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Accelerate-JSON-workloads-with-the-Native-Execution-Engine-in/ba-p/5364366"
+      },
+      {
+        "label": "Native execution engine for Fabric Data Engineering",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/native-execution-engine-overview"
+      },
+      {
+        "label": "Apache Spark runtime in Fabric",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/runtime"
+      }
+    ]
+  },
+  "contentHash": "7ef2275a34e9699c343074b9b4d35f1f418de69604e72ae2433c445911eab47d",
+  "categories": [
+    "data-engineering"
+  ],
+  "primaryCategory": "data-engineering",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Accelerate-JSON-workloads-with-the-Native-Execution-Engine-in/ba-p/5364366",
+    "backfill": "true"
+  }
+}

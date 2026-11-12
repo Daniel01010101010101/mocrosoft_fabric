@@ -1,0 +1,23 @@
+{
+  "id": "rm-e1e96015-25b6-f011-bbd3-000d3a3740cc",
+  "releaseItemId": "e1e96015-25b6-f011-bbd3-000d3a3740cc",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Item Soft-Delete and Recovery -  Workspace recycle bin in UI",
+  "description": "Item soft-delete and recovery offer a secure and efficient way to manage deleted items. When an item is deleted, it is moved to workspace recycle bin and retained for a defined retention period.  During this retention period, users can restore items or permanently remove them through UI.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=e1e96015-25b6-f011-bbd3-000d3a3740cc",
+  "contentHash": "175097f1d4556b80e5dd3208571461fcefdc59e22c4e602c210623ed15a0025e",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,124 @@
+name: Ingesta automática de novedades
+
+# Cinco ejecuciones diarias (UTC). Deben coincidir con shared/schedule.ts (lo verifica un test).
+#   06:17 · madrugada europea        11:17 · mediodía europeo
+#   16:47 · mañana en EE. UU.        19:47 · mediodía en EE. UU.        23:17 · cierre del día
+on:
+  schedule:
+    - cron: '17 6 * * *'
+    - cron: '17 11 * * *'
+    - cron: '47 16 * * *'
+    - cron: '47 19 * * *'
+    - cron: '17 23 * * *'
+  workflow_dispatch:
+    inputs:
+      ai_max_updates:
+        description: 'Máximo de novedades a analizar con IA en esta ejecución'
+        required: false
+        default: ''
+      ai_max_roadmap_batches:
+        description: 'Máximo de lotes de traducción del roadmap en esta ejecución'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Nunca dos ingestas a la vez (evita conflictos en la base de datos).
+concurrency:
+  group: fabric-radar-ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    name: Consultar fuentes oficiales y actualizar la base de datos
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      AI_MODEL: ${{ vars.AI_MODEL }}
+      AI_EFFORT: ${{ vars.AI_EFFORT }}
+      AI_ROADMAP_EFFORT: ${{ vars.AI_ROADMAP_EFFORT }}
+      AI_MAX_UPDATES_PER_RUN: ${{ inputs.ai_max_updates || vars.AI_MAX_UPDATES_PER_RUN }}
+      AI_MAX_ROADMAP_BATCHES_PER_RUN: ${{ inputs.ai_max_roadmap_batches || vars.AI_MAX_ROADMAP_BATCHES_PER_RUN }}
+      TRIGGER: ${{ github.event_name == 'schedule' && 'schedule' || 'manual' }}
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      - name: Instalar dependencias
+        id: deps
+        run: npm ci --no-audit --no-fund
+
+      - name: Consultar fuentes, deduplicar, traducir y analizar
+        id: ingest
+        continue-on-error: true
+        run: npm run ingest -- --trigger "$TRIGGER"
+
+      - name: Reintentar tras un fallo
+        id: retry
+        if: steps.ingest.outcome == 'failure'
+        continue-on-error: true
+        run: |
+          echo "La ingesta falló; se reintenta en 90 segundos."
+          sleep 90
+          npm run ingest -- --trigger retry
+
+      - name: Registrar fallo del workflow
+        # Si el proceso no llegó a ejecutarse (p. ej. fallo al instalar dependencias),
+        # se registra igualmente para que la plataforma nunca lo muestre como exitoso.
+        if: failure() && steps.deps.outcome == 'failure'
+        run: node pipeline/scripts/record-failure.mjs "Fallo al preparar el entorno de ejecución (instalación de dependencias)."
+
+      - name: Guardar la base de datos en el repositorio
+        if: always()
+        run: |
+          git config user.name "fabric-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No hay cambios en los datos."
+            exit 0
+          fi
+          git commit -m "data: ingesta $(date -u +'%Y-%m-%d %H:%M') UTC [${TRIGGER}]"
+          for attempt in 1 2 3 4; do
+            if git push origin "HEAD:${{ github.event.repository.default_branch }}"; then
+              echo "Datos guardados."
+              exit 0
+            fi
+            echo "Push rechazado (intento ${attempt}); sincronizando y reintentando…"
+            sleep $((attempt * 5))
+            git pull --rebase origin "${{ github.event.repository.default_branch }}"
+          done
+          echo "::error::No se pudieron guardar los datos en el repositorio."
+          exit 1
+
+      - name: Resultado de la ingesta
+        if: always()
+        run: |
+          if [ "${{ steps.ingest.outcome }}" = "failure" ] && [ "${{ steps.retry.outcome }}" != "success" ]; then
+            echo "::error::La ingesta falló también tras el reintento. El fallo quedó registrado en data/runs."
+            exit 1
+          fi
+          npm run --silent status | head -n 40
+
+  publish:
+    name: Publicar la plataforma
+    needs: ingest
+    # Se publica incluso si la ingesta falló, para que el panel de estado muestre el error real.
+    if: ${{ always() && needs.ingest.result != 'cancelled' }}
+    uses: ./.github/workflows/pages.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write

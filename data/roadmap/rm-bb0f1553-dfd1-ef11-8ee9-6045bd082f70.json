@@ -1,0 +1,23 @@
+{
+  "id": "rm-bb0f1553-dfd1-ef11-8ee9-6045bd082f70",
+  "releaseItemId": "bb0f1553-dfd1-ef11-8ee9-6045bd082f70",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Partner Workload items can save data in their own OneLake folders",
+  "description": "Workload developers can save item-related data in the item type OneLake folder. Developers can onboard to this functionality by declaring the requirement to create OneLake folders in the workload manifest file. Additionally, ISVs can develop data item types and store item-related data or complete datasets in the OneLake catalog.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2025",
+  "releaseQuarterStart": "2025-01-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=bb0f1553-dfd1-ef11-8ee9-6045bd082f70",
+  "contentHash": "cd5e6fca34813c43df63f72c6dc34b67289bfac420de5de592eb151184205aba",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "wn-47921af7eb0c33",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-April-2026-Feature-Summary/ba-p/5176490",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/governance/onelake-catalog-overview",
+  "title": "Create AI Auto-Description for Semantic Models (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-04-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Auto-Description for Semantic Models (Preview) uses Copilot to generate clear descriptions for semantic models from the model's metadata and structure, which model owners and contributors can review, edit, and regenerate directly from the semantic model details page in the OneLake catalog. For more information, see OneLake catalog overview.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-April-2026-Feature-Summary/ba-p/5176490\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Auto-Description for Semantic Models (Preview)</a> uses Copilot to generate clear descriptions for semantic models from the model's metadata and structure, which model owners and contributors can review, edit, and regenerate directly from the semantic model details page in the OneLake catalog. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/governance/onelake-catalog-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">OneLake catalog overview</a>.",
+    "excerpt": "Auto-Description for Semantic Models (Preview) uses Copilot to generate clear descriptions for semantic models from the model's metadata and structure, which model owners and contributors can review, edit, and regenerate directly from the semantic model details page in the OneLake catalog. For more information, see…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Auto-Description for Semantic Models (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-April-2026-Feature-Summary/ba-p/5176490"
+      },
+      {
+        "label": "OneLake catalog overview",
+        "url": "https://learn.microsoft.com/en-us/fabric/governance/onelake-catalog-overview"
+      }
+    ]
+  },
+  "contentHash": "a7a462dc9cb46585153dd037526c3d150ed4cbf9a8049be61cf0ecf39110232c",
+  "categories": [
+    "power-bi",
+    "copilot-ai"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "data-scientists",
+      "architects",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-April-2026-Feature-Summary/ba-p/5176490"
+  }
+}

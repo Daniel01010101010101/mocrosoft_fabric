@@ -1,0 +1,60 @@
+{
+  "id": "wn-3f3796129e241b",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/fabric-september-2024-monthly-update?ft=All#post-14247-_Toc177485830",
+  "title": "Delta column mapping in the SQL analytics endpoint",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "SQL analytics endpoint now supports Delta tables with column mapping enabled. For more information, see Delta column mapping. This feature is currently in preview.",
+    "html": "SQL analytics endpoint now supports <a href=\"https://blog.fabric.microsoft.com/blog/fabric-september-2024-monthly-update?ft=All#post-14247-_Toc177485830\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Delta tables with column mapping enabled</a>. For more information, see <a href=\"https://docs.delta.io/delta-column-mapping\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Delta column mapping</a>. This feature is currently in preview.",
+    "excerpt": "SQL analytics endpoint now supports Delta tables with column mapping enabled. For more information, see Delta column mapping. This feature is currently in preview.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Delta tables with column mapping enabled",
+        "url": "https://blog.fabric.microsoft.com/blog/fabric-september-2024-monthly-update?ft=All#post-14247-_Toc177485830"
+      },
+      {
+        "label": "Delta column mapping",
+        "url": "https://docs.delta.io/delta-column-mapping"
+      }
+    ]
+  },
+  "contentHash": "599f6de3c3461e6c92e020d0e62bff4512ed39306740f3311e255890aa5ebc4e",
+  "categories": [
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-september-2024-monthly-update?ft=All#post-14247-_Toc177485830",
+    "backfill": "true"
+  }
+}

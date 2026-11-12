@@ -1,0 +1,59 @@
+{
+  "id": "wn-da16571dc6c8b7",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_47",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-factory/migrate-to-dataflow-gen2-using-upgrade-wizard",
+  "title": "Upgrade Dataflow Gen1 to Dataflow Gen2 with the Upgrade Wizard (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-08-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The Dataflows Upgrade Wizard upgrades one or more Dataflow Gen1 items in place while retaining their IDs, names, schedules, and connections. For more information, see Upgrade Dataflow Gen1 to Dataflow Gen2 using the Upgrade Wizard.",
+    "html": "The <a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_47\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Dataflows Upgrade Wizard</a> upgrades one or more Dataflow Gen1 items in place while retaining their IDs, names, schedules, and connections. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/migrate-to-dataflow-gen2-using-upgrade-wizard\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Upgrade Dataflow Gen1 to Dataflow Gen2 using the Upgrade Wizard</a>.",
+    "excerpt": "The Dataflows Upgrade Wizard upgrades one or more Dataflow Gen1 items in place while retaining their IDs, names, schedules, and connections. For more information, see Upgrade Dataflow Gen1 to Dataflow Gen2 using the Upgrade Wizard.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Dataflows Upgrade Wizard",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_47"
+      },
+      {
+        "label": "Upgrade Dataflow Gen1 to Dataflow Gen2 using the Upgrade Wizard",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/migrate-to-dataflow-gen2-using-upgrade-wizard"
+      }
+    ]
+  },
+  "contentHash": "67e215d890f8eb3b69591db1d6b53553d0f5a5de81888a42617d633eadcb8e95",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_47"
+  }
+}

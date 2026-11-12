@@ -1,0 +1,58 @@
+{
+  "id": "az-565733",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=565733",
+  "title": "Generally Available: Azure Databricks native read access to Microsoft OneLake",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-06-17T18:00:18.767Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Azure Databricks now supports native read access to data stored in Microsoft OneLake through Unity Catalog. This capability is generally available. Customers can query and analyze data directly in OneLake without moving or copying data, enabling faster access to insights while simplifying cross-platform data access and governance.\nLearn more.",
+    "html": "Azure Databricks now supports native read access to data stored in Microsoft OneLake through Unity Catalog. This capability is generally available. <p>Customers can query and analyze data directly in OneLake without moving or copying data, enabling faster access to insights while simplifying cross-platform data access and governance. </p><p><a href=\"https://aka.ms/ADBOneLakeRead\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">Learn more</a>.</p>",
+    "excerpt": "Azure Databricks now supports native read access to data stored in Microsoft OneLake through Unity Catalog. This capability is generally available. Customers can query and analyze data directly in OneLake without moving or copying data, enabling faster access to insights while simplifying cross-platform data access…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://aka.ms/ADBOneLakeRead"
+      }
+    ]
+  },
+  "contentHash": "a4e80b16d7f10e79935081910b2ab901fdd10bcd1a936f6aea0b0fd54ff84f59",
+  "categories": [
+    "onelake",
+    "integrations-connectors"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 59,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "Launched",
+    "products": "Azure Databricks",
+    "tags": "Features",
+    "gaDate": "2026-06",
+    "modified": "2026-06-17T18:00:18.7677390Z"
+  }
+}

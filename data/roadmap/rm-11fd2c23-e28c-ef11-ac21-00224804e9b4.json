@@ -1,0 +1,23 @@
+{
+  "id": "rm-11fd2c23-e28c-ef11-ac21-00224804e9b4",
+  "releaseItemId": "11fd2c23-e28c-ef11-ac21-00224804e9b4",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Custom Live Pools",
+  "description": "Customers can create custom compute pools for Spark with libraries and other items specific to their scenario and keep them warm like they can today with starter pools.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=11fd2c23-e28c-ef11-ac21-00224804e9b4",
+  "contentHash": "0378c92954735e5c436f567145e3fb6a0c8d75824f7b29680c65c8cdbce31377",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

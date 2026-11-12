@@ -1,0 +1,23 @@
+{
+  "id": "rm-23d35747-b3ac-f111-aaab-70a8a5af0ad7",
+  "releaseItemId": "23d35747-b3ac-f111-aaab-70a8a5af0ad7",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "Create and manage namespaces in Ontology",
+  "description": "Namespaces in Microsoft Fabric IQ Ontology provide a visual way to organize entity types and relationships into meaningful groups. The authoring experience makes it easier to work with ontologies that span multiple teams or business domains, distinguish concepts with the same name, and understand how each concept is organized.With this experience, you can:• Create namespaces directly in the ontology interface, add optional descriptions, and browse existing namespaces in a dedicated list.• Assign entity types and relationship types to a namespace during creation or later, and view their namespace in the configuration pane.• Manage namespaces from their detail pages by updating names and descriptions or deleting namespaces that are no longer referenced, with safeguards for the default namespace.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=23d35747-b3ac-f111-aaab-70a8a5af0ad7",
+  "contentHash": "b7cd29ac9009b6ce25cd63b1a0283d58cca34ace592bba8aad2416aa5643f1f2",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

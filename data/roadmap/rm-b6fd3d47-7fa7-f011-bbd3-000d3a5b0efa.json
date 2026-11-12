@@ -1,0 +1,23 @@
+{
+  "id": "rm-b6fd3d47-7fa7-f011-bbd3-000d3a5b0efa",
+  "releaseItemId": "b6fd3d47-7fa7-f011-bbd3-000d3a5b0efa",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Chat with your data experience in the Power BI Mobile apps",
+  "description": "Chat with your data in the Power BI Mobile app lets you ask questions in natural language and instantly get answers from your reports and semantic models. It uses Copilot intelligence to deliver insights, summaries, and visuals right from your mobile device, so you can explore data and make decisions on the go.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=b6fd3d47-7fa7-f011-bbd3-000d3a5b0efa",
+  "contentHash": "a8569f3b26fd79c3ce7698fe0ad080e756ef0dc7b0ea8d9283d81657c3940393",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

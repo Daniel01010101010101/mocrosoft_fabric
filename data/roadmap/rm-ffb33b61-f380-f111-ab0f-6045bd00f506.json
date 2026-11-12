@@ -1,0 +1,23 @@
+{
+  "id": "rm-ffb33b61-f380-f111-ab0f-6045bd00f506",
+  "releaseItemId": "ffb33b61-f380-f111-ab0f-6045bd00f506",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Terraform Provider for Fabric V1.11.0",
+  "description": "# Fabric Terraform Provider Changes## New Resources and Data Sources| Feature | Type | Description ||---|---|---|| `fabric_operations_agent` | Data source | Added support for retrieving Operations Agent configuration || `fabric_operations_agent` | Resource | Added support for managing Operations Agent resources || `fabric_data_agent` | Data source | Added support for retrieving Data Agent configuration || `fabric_data_agent` | Resource | Added support for managing Data Agent resources || `fabric_eventstream_destination_connection` | Data source | Added support for retrieving Eventstream Destination Connection configuration || `fabric_eventstream_destination_connection` | Ephemeral resource | Added support for ephemeral Eventstream Destination Connection operations || `fabric_warehouse_sql_audit_settings` | Resource | Added support for managing Warehouse SQL Audit Settings || `fabric_warehouse_sql_audit_settings` | Data source | Added support for retrieving Warehouse SQL Audit Settings |## Enhancements| Feature | Type | Description ||---|---|---|| `shortcut_conflict_policy` attribute in `fabric_shortcut` resource | Enhancement | Added support for configuring shortcut conflict handling behavior || `one_drive_share_point` attribute in `fabric_shortcut` resource | Enhancement | Added support for OneDrive and SharePoint shortcut configuration || `one_drive_share_point` attribute in `fabric_shortcut` data source | Enhancement | Added support for retrieving OneDrive and SharePoint shortcut configuration || `allow_usage_in_user_controlled_code` attribute in `fabric_connection` resource and data source | Enhancement | Added support for controlling usage in user-controlled code scenarios || DataPipeline Execute job type support in `fabric_item_job_scheduler` resource and data source | Enhancement | Added support for scheduling and retrieving DataPipeline Execute job types |## SummaryThis update expands Fabric Terraform provider capabilities with:- New support for Fabric Agents resources and data sources- Eventstream destination connection support- Warehouse SQL Audit Settings management- Enhanced shortcut configuration capabilities- Improved connection configuration controls- Additional DataPipeline job scheduling support",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=ffb33b61-f380-f111-ab0f-6045bd00f506",
+  "contentHash": "6ce386e1d74aa6fd22f7ddd9a6f04e6c1e9eeb6e26b31f43387e5656271b073d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

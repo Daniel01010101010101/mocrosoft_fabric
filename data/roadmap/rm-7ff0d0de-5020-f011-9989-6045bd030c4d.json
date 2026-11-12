@@ -1,0 +1,23 @@
+{
+  "id": "rm-7ff0d0de-5020-f011-9989-6045bd030c4d",
+  "releaseItemId": "7ff0d0de-5020-f011-9989-6045bd030c4d",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "OneLake catalog - Public APIs",
+  "description": "The OneLake catalog now exposes public APIs for search and discovery, providing programmatic access to catalog metadata across Microsoft Fabric. These APIs power relevancy‑ranked search, rich filters, and faceted exploration across items, and are natively available through the Fabric MCP server, enabling AI agents to autonomously discover Fabric content across workspaces.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=7ff0d0de-5020-f011-9989-6045bd030c4d",
+  "contentHash": "ef0413435f044c9dd1de1c19435b9690ccf91f3103b3b72b5b3f4283eac80319",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

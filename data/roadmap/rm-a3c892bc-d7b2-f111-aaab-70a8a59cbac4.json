@@ -1,0 +1,23 @@
+{
+  "id": "rm-a3c892bc-d7b2-f111-aaab-70a8a59cbac4",
+  "releaseItemId": "a3c892bc-d7b2-f111-aaab-70a8a59cbac4",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Preview - Runtime 2.1 (Spark 4.2 and Delta 4.4)",
+  "description": "Microsoft Fabric Runtime 2.1 updates the Apache Spark foundation to Spark 4.2 and Delta Lake 4.4, with Python 3.14, Scala 2.13, and Java 21. For supported workloads, the Native Execution Engine is enabled by default to provide acceleration without extra configuration, while documented opt-out and controlled fallback paths preserve compatibility.Runtime 2.1 also introduces a leaner built-in package baseline with PySpark and SparkR. Customers can add compatible optional Python and R libraries through Library Manager or a Fabric Environment, reducing package conflicts while preserving flexibility for data engineering and data science workloads. The Public Preview is targeted for January 31, 2027 and includes migration guidance, known limitations, and preview support information.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=a3c892bc-d7b2-f111-aaab-70a8a59cbac4",
+  "contentHash": "961a650258d15c66a155e89d99d0f48b4e3ab9be76469fb0b39e5ee812a34281",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "wn-dc5ee6312e37da",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/inline-scalar-user-defined-functions-udfs-in-microsoft-fabric-warehouse-preview?ft=All",
+  "docsUrl": "https://learn.microsoft.com/en-us/sql/t-sql/statements/create-function-sql-data-warehouse?view=fabric&preserve-view=true",
+  "title": "Scalar user-defined functions (UDFs)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.72,
+  "publishedAt": "2026-11-12T23:36:33.354Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Scalar user-defined functions (UDFs) are now supported as a preview feature. For more information, see CREATE FUNCTION for Fabric Data Warehouse.",
+    "html": "<a href=\"https://blog.fabric.microsoft.com/blog/inline-scalar-user-defined-functions-udfs-in-microsoft-fabric-warehouse-preview?ft=All\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Scalar user-defined functions (UDFs) are now supported</a> as a preview feature. For more information, see <a href=\"https://learn.microsoft.com/en-us/sql/t-sql/statements/create-function-sql-data-warehouse?view=fabric&amp;preserve-view=true\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">CREATE FUNCTION for Fabric Data Warehouse</a>.",
+    "excerpt": "Scalar user-defined functions (UDFs) are now supported as a preview feature. For more information, see CREATE FUNCTION for Fabric Data Warehouse.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Scalar user-defined functions (UDFs) are now supported",
+        "url": "https://blog.fabric.microsoft.com/blog/inline-scalar-user-defined-functions-udfs-in-microsoft-fabric-warehouse-preview?ft=All"
+      },
+      {
+        "label": "CREATE FUNCTION for Fabric Data Warehouse",
+        "url": "https://learn.microsoft.com/en-us/sql/t-sql/statements/create-function-sql-data-warehouse?view=fabric&preserve-view=true"
+      }
+    ]
+  },
+  "contentHash": "7f5ea782888ee2970ab520d2bd8cec2dcbd64dfac4f166520e9ef5b50b6a3e2a",
+  "categories": [
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/inline-scalar-user-defined-functions-udfs-in-microsoft-fabric-warehouse-preview?ft=All",
+    "backfill": "true"
+  }
+}

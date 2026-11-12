@@ -1,0 +1,23 @@
+{
+  "id": "rm-b682daa3-eeb0-f111-aaab-70a8a59cba8f",
+  "releaseItemId": "b682daa3-eeb0-f111-aaab-70a8a59cba8f",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Fabric Core MCP Server (GA)",
+  "description": "Fabric Core MCP Server is a secure, cloud-hosted MCP endpoint that lets AI agents perform authenticated operations in Microsoft Fabric. It exposes Fabric public APIs as typed MCP tools for catalog search, workspace and item management, permissions, folders, capacity discovery, and long-running operations. Requests authenticate with Microsoft Entra ID, respect Fabric RBAC, and are recorded in Fabric audit logs. General availability removes the need for customers to install or operate a local server for these workflows.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=b682daa3-eeb0-f111-aaab-70a8a59cba8f",
+  "contentHash": "daab8edad81a070607b91812a307454e978eb29b5027671509f63a465b1d0e29",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

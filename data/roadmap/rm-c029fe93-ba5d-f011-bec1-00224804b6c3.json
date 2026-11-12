@@ -1,0 +1,23 @@
+{
+  "id": "rm-c029fe93-ba5d-f011-bec1-00224804b6c3",
+  "releaseItemId": "c029fe93-ba5d-f011-bec1-00224804b6c3",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "REST API - Service Principal support for Azure DevOps",
+  "description": "For a complete automation story for CI/CD and Git APIs, we will support working with Service principal when running the [Fabric Git APIs](/rest/api/fabric/core/git).This will allow devs to call these APIs with an App created in Entra, and has access to the workspace.Additoinal info:* As we are adding also support for cross-tenant Authentication for Azure DevOps, the SPN used to call Fabric APIs won't automatically be the same identity used to work against Azure Repos.* If the same SPN is to be used to access the repo, make sure the SPN has access. You would also need to setup the App ID and Secret in Fabric, so it can work against ADO using this SPN.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=c029fe93-ba5d-f011-bec1-00224804b6c3",
+  "contentHash": "a3944d7c67398e3ecdefd73924ad0f22ff2357cbb37b510e1c317b77790254e5",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

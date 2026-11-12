@@ -1,0 +1,59 @@
+{
+  "id": "wn-66254f14e52b5a",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_99",
+  "title": "Data-agent MCP tasks (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.45,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Data-agent MCP tasks support long-running Model Context Protocol operations through a published data-agent endpoint. For more information, see Data agent as an MCP server.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_99\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Data-agent MCP tasks</a> support long-running Model Context Protocol operations through a published data-agent endpoint. For more information, see <a href=\"https://aka.ms/Fabric/Data-Agent-MCP-Server\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Data agent as an MCP server</a>.",
+    "excerpt": "Data-agent MCP tasks support long-running Model Context Protocol operations through a published data-agent endpoint. For more information, see Data agent as an MCP server.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Data-agent MCP tasks",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_99"
+      },
+      {
+        "label": "Data agent as an MCP server",
+        "url": "https://aka.ms/Fabric/Data-Agent-MCP-Server"
+      }
+    ]
+  },
+  "contentHash": "05e6f4fd592e6315af037b239036ccd0c12709cfcccc1150d8f3a0d92921e0ce",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-scientists"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_99"
+  }
+}

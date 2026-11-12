@@ -1,0 +1,23 @@
+{
+  "id": "rm-71a7bef8-b766-f111-a826-6045bd0066ad",
+  "releaseItemId": "71a7bef8-b766-f111-a826-6045bd0066ad",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "Enhanced Data Agent Visualizations with Fabric Visuals",
+  "description": "The Data Agent charting library now uses Fabric visuals, improving quality and ensuring greater consistency across Fabric for a more unified and predictable user experience.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=71a7bef8-b766-f111-a826-6045bd0066ad",
+  "contentHash": "f29f9e8774dd6ecb0cb9caa88f6fafccea8aae41cff93e853a8c7bf420ff6468",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

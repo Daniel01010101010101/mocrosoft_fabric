@@ -1,0 +1,23 @@
+{
+  "id": "rm-bd4e72ca-f2ba-f011-bbd3-000d3a3740cc",
+  "releaseItemId": "bd4e72ca-f2ba-f011-bbd3-000d3a3740cc",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "Shortcut Transformations - Enhanced monitoring experience",
+  "description": "With the latest improvements to Shortcut Transformations, you’ll have a much more transparent and actionable monitoring experience. You’ll be able to see detailed stats in the UI, including the number of rows read and written, files processed, and files skipped. Troubleshooting is easier with a consolidated, downloadable output.json log file, making it simple to review and share job details. If a transformation encounters an error and the ‘Skip on Error’ flag is off, the process will pause and allow you to resume after addressing the issue—giving you more control and reducing the risk of data loss. Discoverability is improved with direct hyperlinks to output logs, and basic UX enhancements make it easier to monitor, troubleshoot, and receive alerts. Additionally, shortcut jobs will no longer clutter your run history, keeping your workspace focused and organized.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=bd4e72ca-f2ba-f011-bbd3-000d3a3740cc",
+  "contentHash": "e268ff12d57907be514ebe1610b044e6e68f6096b72821ec0f1e1e6a8a0afb08",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

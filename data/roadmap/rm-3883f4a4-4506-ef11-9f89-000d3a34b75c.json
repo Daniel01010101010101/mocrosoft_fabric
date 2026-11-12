@@ -1,0 +1,23 @@
+{
+  "id": "rm-3883f4a4-4506-ef11-9f89-000d3a34b75c",
+  "releaseItemId": "3883f4a4-4506-ef11-9f89-000d3a34b75c",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Workspace filters/search support nested folders",
+  "description": "This feature provides user capability to filer/search by keyword in entire workspace or entire folder including all its children.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2024",
+  "releaseQuarterStart": "2024-07-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=3883f4a4-4506-ef11-9f89-000d3a34b75c",
+  "contentHash": "f7cad0484bce5290c476ca2e4ae140aaf0eae6c1de22d49c7d2ec1a87419dc1d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

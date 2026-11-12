@@ -1,0 +1,23 @@
+{
+  "id": "rm-f0f360ab-3350-f111-bec7-6045bd00fc61",
+  "releaseItemId": "f0f360ab-3350-f111-bec7-6045bd00fc61",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "Spark Workspace Monitoring v1",
+  "description": "This feature delivers a comprehensive Spark Workspace Monitoring experience, enabling administrators and data engineers to gain full visibility into workspace-level Spark activity. Users can view and analyze live and historical job executions, filter and drill into specific runs, and compare performance across Fabric items.With direct access to Spark diagnostic logs and metrics via Kusto Query Language (KQL), users can create custom queries, perform advanced aggregations, and build their own dashboards, unlocking powerful, flexible insights for monitoring, troubleshooting, and optimization.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=f0f360ab-3350-f111-bec7-6045bd00fc61",
+  "contentHash": "0b38dd13dd01acf116a83bd83ff780eebde63e99269a0fd5618f0d056ceb02fe",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

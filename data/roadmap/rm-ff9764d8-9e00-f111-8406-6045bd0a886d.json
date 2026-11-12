@@ -1,0 +1,23 @@
+{
+  "id": "rm-ff9764d8-9e00-f111-8406-6045bd0a886d",
+  "releaseItemId": "ff9764d8-9e00-f111-8406-6045bd0a886d",
+  "product": "Fabric Ecosystem",
+  "productId": "94e84e43-aa69-f011-bec2-00224804b6c3",
+  "category": "integrations-connectors",
+  "name": "Spectral Core Workload Migration",
+  "description": "Spectral Core delivers fast and worry-free migration solution, that makes it easy to move data, metadata and SQL transformations from populate databases and data warehouse to Microsoft Fabric.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricecosystem&releaseItem=ff9764d8-9e00-f111-8406-6045bd0a886d",
+  "contentHash": "b595f7b8184c0a3a18430961e26c6a666caadbb44420a8d78ca20942aad2020c",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

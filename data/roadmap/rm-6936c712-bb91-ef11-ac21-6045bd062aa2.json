@@ -1,0 +1,23 @@
+{
+  "id": "rm-6936c712-bb91-ef11-ac21-6045bd062aa2",
+  "releaseItemId": "6936c712-bb91-ef11-ac21-6045bd062aa2",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Copilot assisted Real-Time dashboard creation for KQL table in Real-Time Hub",
+  "description": "Customers can select a KQL table and generate a real-time dashboard with copilot.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=6936c712-bb91-ef11-ac21-6045bd062aa2",
+  "contentHash": "a59b13defb0e21b7d53cc863b45a2dd098bcc571e3630f3eda064fe03b7a0331",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

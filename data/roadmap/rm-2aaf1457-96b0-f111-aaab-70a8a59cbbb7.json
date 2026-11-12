@@ -1,0 +1,23 @@
+{
+  "id": "rm-2aaf1457-96b0-f111-aaab-70a8a59cbbb7",
+  "releaseItemId": "2aaf1457-96b0-f111-aaab-70a8a59cbbb7",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Fabric Chargeback app",
+  "description": "**Fabric Chargeback app - Tags Support **Chargeback app tagging will enable organizations to attribute and analyze capacity consumption across customer-defined business dimensions such as project, function, workspace, cost center, or department. This enhancement will provide greater flexibility for cost allocation, chargeback, and reporting scenarios, helping customers align Fabric consumption with their internal financial and organizational structures.About the app:  The** Microsoft Fabric Chargeback app** helps customers understand which teams, users, and workloads are driving capacity usage, enabling them to build chargeback processes that fairly allocate costs based on actual consumption. As a capacity admin, you can view key parameters such as metric types, dates, and operation names, and share the report with others in your organization to support transparent and informed cost management.  Ultimately, this enables admins to:* Understand cost drivers – See which workspaces, users, or artifacts consume the most resources.* Enable accurate chargeback – Distribute costs fairly across departments based on real usage.* Optimize capacity planning – Identify expensive artifacts and adjust capacity assignments or auto-scale settings to control costs.With these insights, admins can make informed decisions about capacity sizing, workload distribution, and budgeting/chargeback—ensuring cost transparency and operational efficiency.",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=2aaf1457-96b0-f111-aaab-70a8a59cbbb7",
+  "contentHash": "fb777603032f83f7bd3abc6187052562a91b392d0fdb2e884238047b5ba22850",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-a269d067-3164-f011-bec2-00224804b6c3",
+  "releaseItemId": "a269d067-3164-f011-bec2-00224804b6c3",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Private Link support at a workspace level",
+  "description": "While private links at a tenant level enable secure connectivity to Fabric, we intend to provide granular support for this feature at a workspace level. Organizations can use this feature to secure inbound traffic to specific workspaces instead of the entire tenant and this allows them to secure production workspaces but let dev and test workspaces to be accessed over internet. This setup uses Azure Private Link and Azure Networking private endpoints to ensure data traffic travels privately via Microsoft's backbone network, instead if using public endpoints. The Private Link capability at the workspace level will start with few workloads and extend to others in phases. Once Azure Private Link is configured and public internet access is restricted, all the supported scenarios for that Fabric workspace will be routed through private links.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=a269d067-3164-f011-bec2-00224804b6c3",
+  "contentHash": "3572b302b130dd8cb1f6f0680f594a4363afbc3ba68c958f8a709ce8d542f6c2",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

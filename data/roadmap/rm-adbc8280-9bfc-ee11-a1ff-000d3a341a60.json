@@ -1,0 +1,23 @@
+{
+  "id": "rm-adbc8280-9bfc-ee11-a1ff-000d3a341a60",
+  "releaseItemId": "adbc8280-9bfc-ee11-a1ff-000d3a341a60",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Customize content access request messages for Power BI organizational apps",
+  "description": "This feature will allow setting a custom entry point for each Power BI organizational app to an organization's internal access management system from Power BI Access Request messages. This feature will be especially useful for organizations that rely on security groups to control access to content.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2023",
+  "releaseQuarterStart": "2023-10-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=adbc8280-9bfc-ee11-a1ff-000d3a341a60",
+  "contentHash": "b3564c932840b990cf0fd90377d8a2a2aa29a42e8c1a8137736ae5edc9447d2a",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

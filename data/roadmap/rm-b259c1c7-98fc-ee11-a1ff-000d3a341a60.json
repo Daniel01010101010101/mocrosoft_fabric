@@ -1,0 +1,23 @@
+{
+  "id": "rm-b259c1c7-98fc-ee11-a1ff-000d3a341a60",
+  "releaseItemId": "b259c1c7-98fc-ee11-a1ff-000d3a341a60",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "power-bi",
+  "name": "Create reports in the Power BI service with new data sources",
+  "description": "It will be possible to create new reports in the Power BI service by using over 100 connectors and 300 transformations, supported by the full capability of Power Query Online.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2024",
+  "releaseQuarterStart": "2024-01-01T00:00:00.000Z",
+  "wave": "2023 Wave 2 (Germanium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=b259c1c7-98fc-ee11-a1ff-000d3a341a60",
+  "contentHash": "3622446b2b8772a683ef846e2f0dc65d45ea057cab04fe4be0731d98c27c7eaf",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

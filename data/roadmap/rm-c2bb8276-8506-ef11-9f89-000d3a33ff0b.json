@@ -1,0 +1,23 @@
+{
+  "id": "rm-c2bb8276-8506-ef11-9f89-000d3a33ff0b",
+  "releaseItemId": "c2bb8276-8506-ef11-9f89-000d3a33ff0b",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Data pipeline support for SparkJobDefinition",
+  "description": "Now you can execute your Spark code, including JAR files, directly from a pipeline activity. Just point to your Spark code and the pipeline will execute the job on your Spark cluster in Fabric. This new activity enables exciting data workflow patterns that leverages the power of Fabric's Spark engine while including the Data Factory control flow and data flow capabilities in the same pipeline as your Spark Jobs.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2024",
+  "releaseQuarterStart": "2024-04-01T00:00:00.000Z",
+  "wave": "2024 Wave 1 (Dilithium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=c2bb8276-8506-ef11-9f89-000d3a33ff0b",
+  "contentHash": "bc4c846084a8582fdb9f0a5e0c8285dc2870cc3dc0069c2403237f524c632edf",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

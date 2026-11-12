@@ -1,0 +1,54 @@
+{
+  "id": "wn-395b7cd9e77630",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_63",
+  "title": "Eventstream workspace Private Link (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.3,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Eventstream workspace Private Link (Preview) secures supported streaming workloads at workspace scope.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_63\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Eventstream workspace Private Link (Preview)</a> secures supported streaming workloads at workspace scope.",
+    "excerpt": "Eventstream workspace Private Link (Preview) secures supported streaming workloads at workspace scope.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Eventstream workspace Private Link (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_63"
+      }
+    ]
+  },
+  "contentHash": "69b0445b599d1ac1f7ba209cb3fc4dabb3b8948f434bdbcb73e2e7c11e4f1db6",
+  "categories": [
+    "real-time-intelligence",
+    "admin-governance",
+    "security"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 57,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_63"
+  }
+}

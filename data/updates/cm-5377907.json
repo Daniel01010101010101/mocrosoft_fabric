@@ -1,0 +1,63 @@
+{
+  "id": "cm-5377907",
+  "kind": "blog",
+  "source": "powerbi-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-reports-support-OAP-exceptions-for-semantic-models-in/ba-p/5377907",
+  "docsUrl": "https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-power-bi-reports",
+  "title": "Power BI reports support OAP exceptions for semantic models in separate workspaces (Preview)",
+  "author": "kayu",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-05T22:00:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Workspace outbound access protection (OAP) helps you control where data in a Microsoft Fabric workspace can flow. The initial preview for Power BI reports, launched in June, required a report in an OAP-protected workspace to use a semantic model in that same workspace. Customer feedback highlighted that this was too restrictive. With this improvement, a report can now query a semantic model in another workspace provided a workspace administrator explicitly allowed that destination through an OAP exception policy.\nApply exception policies to allow report-to-model connections\nOAP continues to block outbound report-to-model connections by default. When a report opens, Power BI evaluates the report workspace policy before it renders the report in the browser. If the destination workspace is covered by an applicable exception, the report can connect to its semantic model. Otherwise, Power BI blocks the connection, and the report does not open.\nThe report honors the policy that a workspace admin configured for the semantic model destination. You don't configure an exception on each report, and you don't need to move the report and semantic model into the same workspace. The OAP exception policy supports a common Power BI architecture: a central team manages shared semantic models in one workspace, while business teams build reports in separate workspaces. You can preserve that separation of ownership without removing the outbound boundary from the report workspace.\nSee the improvement in action\nThe following example shows a report stored in an OAP-protected workspace, and its semantic model is stored in another workspace. First, the report does not have an applicable exception policy. Power BI blocks the cross-workspace connection and displays the following error because the report can't access its semantic model.\nFigure: OAP continues to block outbound report-to-model connections by default.\nNext, a workspace admin creates an exception policy for the semantic model workspace. In the workspace settings under Outbound networking, select Add new cloud connection rule, select Power BI Semantic Model as the Connection Kind, and select the desired semantic model workspace under Workspace exception, as in the following screenshot. Select Add, and then select Save to save the Data Connection rules.\nFigure: An OAP exception policy to allow report-to-model connections.\nAfter the policy takes effect, the same report loads and its visuals render successfully. The report binding doesn't change. The OAP policy determines whether the cross-workspace connection is allowed. The semantic model remains subject to its own OAP controls. Connections from the semantic model to cloud databases, on-premises systems through gateways, lakehouses, warehouses, and other sources are still evaluated against the semantic model workspace's data connection rules. Make sure you enable OAP for both, the report workspace as well as for the semantic model workspace.\nNext steps\nWork with your workspace admin to confirm that your report workspace meets the OAP prerequisites and that OAP is enabled. Then create an exception policy for each approved semantic model destination. Policy changes can take about 15 minutes to propagate.\nFor configuration details, refer to the Workspace outbound access protection for Power BI reports documentation. To understand downstream enforcement, refer to Workspace outbound access protection for semantic models.",
+    "html": "<p>Workspace outbound access protection (OAP) helps you control where data in a Microsoft Fabric workspace can flow. The <a href=\"https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/workspace-outbound-access-protection-for-power-bi-reports-preview/5193354\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">initial preview for Power BI reports</a>, launched in June, required a report in an OAP-protected workspace to use a semantic model in that same workspace. Customer feedback highlighted that this was too restrictive. With this improvement, a report can now query a semantic model in another workspace provided a workspace administrator explicitly allowed that destination through an OAP exception policy.</p>\n<h2>Apply exception policies to allow report-to-model connections</h2>\n<p>OAP continues to block outbound report-to-model connections by default. When a report opens, Power BI evaluates the report workspace policy before it renders the report in the browser. If the destination workspace is covered by an applicable exception, the report can connect to its semantic model. Otherwise, Power BI blocks the connection, and the report does not open.</p>\n<p>The report honors the policy that a workspace admin configured for the semantic model destination. You don't configure an exception on each report, and you don't need to move the report and semantic model into the same workspace. The OAP exception policy supports a common Power BI architecture: a central team manages shared semantic models in one workspace, while business teams build reports in separate workspaces. You can preserve that separation of ownership without removing the outbound boundary from the report workspace.</p>\n<h2>See the improvement in action</h2>\n<p>The following example shows a report stored in an OAP-protected workspace, and its semantic model is stored in another workspace. First, the report does not have an applicable exception policy. Power BI blocks the cross-workspace connection and displays the following error because the report can't access its semantic model.</p>\nFigure: OAP continues to block outbound report-to-model connections by default.\n<p>Next, a workspace admin creates an exception policy for the semantic model workspace. In the workspace settings under Outbound networking, select Add new cloud connection rule, select Power BI Semantic Model as the Connection Kind, and select the desired semantic model workspace under Workspace exception, as in the following screenshot. Select Add, and then select Save to save the Data Connection rules.</p>\n<p> </p>\nFigure: An OAP exception policy to allow report-to-model connections.\n<p>After the policy takes effect, the same report loads and its visuals render successfully. The report binding doesn't change. The OAP policy determines whether the cross-workspace connection is allowed. The semantic model remains subject to its own OAP controls. Connections from the semantic model to cloud databases, on-premises systems through gateways, lakehouses, warehouses, and other sources are still evaluated against the semantic model workspace's <strong>data connection rules</strong>. Make sure you enable OAP for both, the report workspace as well as for the semantic model workspace.</p>\n<h2>Next steps</h2>\n<p>Work with your workspace admin to confirm that your report workspace meets the OAP prerequisites and that OAP is enabled. Then create an exception policy for each approved semantic model destination. Policy changes can take about 15 minutes to propagate.</p>\n<p>For configuration details, refer to the <a href=\"https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-power-bi-reports\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace outbound access protection for Power BI reports</a> documentation. To understand downstream enforcement, refer to <a href=\"https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-semantic-models\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace outbound access protection for semantic models</a>.</p>",
+    "excerpt": "Workspace outbound access protection (OAP) helps you control where data in a Microsoft Fabric workspace can flow. The initial preview for Power BI reports, launched in June, required a report in an OAP-protected workspace to use a semantic model in that same workspace. Customer feedback highlighted that this was too…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "initial preview for Power BI reports",
+        "url": "https://community.fabric.microsoft.com/blog/fbc_pbiupdatesblog/workspace-outbound-access-protection-for-power-bi-reports-preview/5193354"
+      },
+      {
+        "label": "Workspace outbound access protection for Power BI reports",
+        "url": "https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-power-bi-reports"
+      },
+      {
+        "label": "Workspace outbound access protection for semantic models",
+        "url": "https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-semantic-models"
+      }
+    ]
+  },
+  "contentHash": "b0190d562e9e110b6b69913c8f521ee954f2a9dcb30746d45ab0ddec4a128731",
+  "categories": [
+    "power-bi"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "data-scientists",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

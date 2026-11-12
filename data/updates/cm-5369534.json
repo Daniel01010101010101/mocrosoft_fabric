@@ -1,0 +1,105 @@
+{
+  "id": "cm-5369534",
+  "kind": "blog",
+  "source": "powerbi-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Microsoft-Snowflake-s-Commitment-to-Apache-Ossie/ba-p/5369534",
+  "docsUrl": "https://learn.microsoft.com/fabric/onelake/snowflake/create-snowflake-database-item?utm_source=chatgpt.com",
+  "title": "Microsoft & Snowflake’s Commitment to Apache Ossie",
+  "author": "wadecb",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-10-26T18:44:50.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases.\nAdvancing an open, interoperable semantic foundation for AI-powered analytics\nToday, Microsoft is pleased to affirm our commitment to Apache Ossie (incubating), a community-led effort to establish a vendor-neutral standard for exchanging semantic metadata across analytics, AI, and BI platforms. This has been a close collaboration with Snowflake, who helped found Ossie.\nWe have heard loud and clear that customers want to enable platform-agnostic agentic experiences. Shared semantic context must be defined once and reused across platforms, enabling agentic consumption at scale, maximizing the reach of AI-powered analytics, and empowering users to leverage the best agent for the job.\nPower BI semantic models are key enablers of AI-powered analysis, providing humans and AI agents with governed semantic context to answer data questions quickly and confidently. Power BI semantic models have more than 38 million monthly active users and are adopted by 94% of Fortune 500 companies. Microsoft was also recognized as a Leader and Outperformer in the GigaOm’s radar for semantic layers & metric stores in 2025. We’re now bringing this wealth of experience to Apache Ossie, and we are excited to work with Snowflake and other partners to help make the project successful.\nWhy Apache Ossie matters\nUntil now, semantic definitions were often recreated across platforms, introducing complexity, inconsistency, and management overhead. Apache Ossie addresses this with a common specification that tools can read and write. Its goal is straightforward but consequential: define a semantic layer once and make it portable across the data and AI ecosystem, while preserving semantic meaning and governance for agentic consumption.\nCollaboration with Snowflake\nSnowflake and Microsoft serve many of the same customers, but customers don't want to choose between ecosystems. They want their data and analytics investments to work together. That makes interoperability between, for example, Snowflake Semantic Views and Power BI semantic models a shared responsibility. This layers on top of the integration work we have already done with Snowflake for writing Iceberg tables from Snowflake to OneLake, Mirrored Databases from Snowflake, using Iceberg tables with OneLake, Catalog Integration for OneLake, Power Query Snowflake connector and much more.\nAs discussed in the Snowflake blog post and the message below from Carl Perry, VP of Analytics at Snowflake, our collaboration is currently focused on using Apache Ossie as a vehicle for cross-platform semantic-layer conversion without moving or duplicating the underlying data. Looking ahead, we’re committed to advancing the open standard by building on our deep expertise in semantic modeling by, including helping establish DAX as an Ossie-recognized query language. We also plan to help advance Ossie support for ontologies so customers can extend the business logic in semantic models beyond agentic analysis and into platform-agnostic operational intelligence.\nUltimately our goal is simple: enable customers to define once, and reuse anywhere.\nToday, we are highlighting the following new integration scenario: converting an Ossie document into both a Snowflake Semantic View and a Power BI semantic model. This enables customers to define shared semantic context once, then reuse it across Snowflake and Fabric while retaining the agentic experiences and capabilities of each platform. Refer to Apache Ossie Microsoft Converter for more information.\nBuilding together\nWe look forward to working with the Apache community, Snowflake, and others across the industry to create a more open and connected future for AI-powered analytics, delivering more choice and flexibility for customers.\nGet involved: Visit the Apache Ossie project website and repository to explore the specification and community contribution channels. Share your thoughts and feedback with us.\nApache Ossie is undergoing incubation at the Apache Software Foundation. Incubation indicates that the project is working toward the governance, infrastructure, and community practices expected of established Apache projects.",
+    "html": "<blockquote>\n<p><em>If you haven't already, check out <a href=\"https://aka.ms/FabCon-SQLCon-Barcelona\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents</a> for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases.</em></p>\n</blockquote>\n<p>Advancing an open, interoperable semantic foundation for AI-powered analytics</p>\n<p>Today, Microsoft is pleased to affirm our commitment to <a href=\"https://ossie.apache.org/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Apache Ossie (incubating)</a>, a community-led effort to establish a vendor-neutral standard for exchanging semantic metadata across analytics, AI, and BI platforms. This has been a close collaboration with Snowflake, who helped <a href=\"https://www.snowflake.com/blog/open-semantic-interchange-ai-standard/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">found Ossie</a>.</p>\n<p>We have heard loud and clear that customers want to enable platform-agnostic agentic experiences. Shared semantic context must be defined once and reused across platforms, enabling agentic consumption at scale, maximizing the reach of AI-powered analytics, and empowering users to leverage the best agent for the job.</p>\n<p>Power BI semantic models are <a href=\"https://aka.ms/SemanticModelsForAI\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">key enablers</a> of AI-powered analysis, providing humans and AI agents with governed semantic context to answer data questions quickly and confidently. Power BI semantic models have more than 38 million monthly active users and are adopted by 94% of Fortune 500 companies. Microsoft was also recognized as a Leader and Outperformer in the GigaOm’s radar for semantic layers &amp; metric stores in 2025. We’re now bringing this wealth of experience to Apache Ossie, and we are excited to work with Snowflake and other partners to help make the project successful.</p>\n<h2><span>Why Apache Ossie matters</span></h2>\n<p>Until now, semantic definitions were often recreated across platforms, introducing complexity, inconsistency, and management overhead. Apache Ossie addresses this with a common specification that tools can read and write. Its goal is straightforward but consequential: define a semantic layer once and make it portable across the data and AI ecosystem, while preserving semantic meaning and governance for agentic consumption.</p>\n<h2><span>Collaboration with Snowflake</span></h2>\n<p>Snowflake and Microsoft serve many of the same customers, but customers don't want to choose between ecosystems. They want their data and analytics investments to work together. That makes interoperability between, for example, Snowflake Semantic Views and Power BI semantic models a shared responsibility. This layers on top of the integration work we have already done with Snowflake for <a href=\"https://learn.microsoft.com/fabric/onelake/snowflake/create-snowflake-database-item?utm_source=chatgpt.com\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">writing Iceberg tables from Snowflake to OneLake</a>, <a href=\"https://learn.microsoft.com/fabric/mirroring/snowflake\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Mirrored Databases from Snowflake</a>, <a href=\"https://learn.microsoft.com/fabric/onelake/onelake-iceberg-tables?utm_source=chatgpt.com\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">using Iceberg tables with OneLake</a>, <a href=\"https://docs.snowflake.com/user-guide/tables-iceberg-configure-catalog-integration-rest-onelake\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Catalog Integration for OneLake</a>, <a href=\"https://learn.microsoft.com/power-query/connectors/snowflake\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Power Query Snowflake connector</a> and much more.</p>\n<p>As discussed in the <a href=\"https://go.microsoft.com/fwlink/?LinkId=2382040\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Snowflake blog post</a> and the message below from Carl Perry, VP of Analytics at Snowflake, our collaboration is currently focused on using Apache Ossie as a vehicle for cross-platform semantic-layer conversion without moving or duplicating the underlying data. Looking ahead, we’re committed to advancing the open standard by building on our deep expertise in semantic modeling by, including helping establish DAX as an Ossie-recognized query language. We also plan to help advance Ossie support for ontologies so customers can extend the business logic in semantic models beyond agentic analysis and into platform-agnostic operational intelligence.</p>\n\n<p>Ultimately our goal is simple: enable customers to define once, and reuse anywhere<span>.</span></p>\n<p>Today, we are highlighting the following new integration scenario: converting an Ossie document into both a Snowflake Semantic View and a Power BI semantic model. This enables customers to define shared semantic context once, then reuse it across Snowflake and Fabric while retaining the agentic experiences and capabilities of each platform. Refer to <a href=\"https://aka.ms/OssieMicrosoftConverter\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Apache Ossie Microsoft Converter</a> for more information.</p>\n<h2><span>Building together</span></h2>\n<p>We look forward to working with the Apache community, Snowflake, and others across the industry to create a more open and connected future for AI-powered analytics, delivering more choice and flexibility for customers.</p>\n<p><strong>Get involved:</strong> Visit the Apache Ossie project <a href=\"https://ossie.apache.org/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">website</a> and <a href=\"https://github.com/apache/ossie/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">repository</a> to explore the specification and community contribution channels. Share your <a href=\"https://community.fabric.microsoft.com/category/powerbi\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">thoughts and feedback</a> with us.</p>\n<p>Apache Ossie is undergoing incubation at the Apache Software Foundation. Incubation indicates that the project is working toward the governance, infrastructure, and community practices expected of established Apache projects.</p>",
+    "excerpt": "If you haven't already, check out FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents for a complete look at all of our FabCon Europe announcements across Fabric and Microsoft Databases. Advancing an open, interoperable semantic foundation for AI-powered analytics Today,…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "FabCon and SQLCon 2026 in Barcelona: Building the data foundation for Microsoft Copilot and Agents",
+        "url": "https://aka.ms/FabCon-SQLCon-Barcelona"
+      },
+      {
+        "label": "Apache Ossie (incubating)",
+        "url": "https://ossie.apache.org/"
+      },
+      {
+        "label": "found Ossie",
+        "url": "https://www.snowflake.com/blog/open-semantic-interchange-ai-standard/"
+      },
+      {
+        "label": "key enablers",
+        "url": "https://aka.ms/SemanticModelsForAI"
+      },
+      {
+        "label": "writing Iceberg tables from Snowflake to OneLake",
+        "url": "https://learn.microsoft.com/fabric/onelake/snowflake/create-snowflake-database-item?utm_source=chatgpt.com"
+      },
+      {
+        "label": "Mirrored Databases from Snowflake",
+        "url": "https://learn.microsoft.com/fabric/mirroring/snowflake"
+      },
+      {
+        "label": "using Iceberg tables with OneLake",
+        "url": "https://learn.microsoft.com/fabric/onelake/onelake-iceberg-tables?utm_source=chatgpt.com"
+      },
+      {
+        "label": "Catalog Integration for OneLake",
+        "url": "https://docs.snowflake.com/user-guide/tables-iceberg-configure-catalog-integration-rest-onelake"
+      },
+      {
+        "label": "Power Query Snowflake connector",
+        "url": "https://learn.microsoft.com/power-query/connectors/snowflake"
+      },
+      {
+        "label": "Snowflake blog post",
+        "url": "https://go.microsoft.com/fwlink/?LinkId=2382040"
+      },
+      {
+        "label": "Apache Ossie Microsoft Converter",
+        "url": "https://aka.ms/OssieMicrosoftConverter"
+      },
+      {
+        "label": "repository",
+        "url": "https://github.com/apache/ossie/"
+      },
+      {
+        "label": "thoughts and feedback",
+        "url": "https://community.fabric.microsoft.com/category/powerbi"
+      }
+    ]
+  },
+  "contentHash": "e14937fcd78c7dc83c866a68a7689fcd99011122e673c1832d30094d037a6f38",
+  "categories": [
+    "integrations-connectors",
+    "copilot-ai",
+    "power-bi"
+  ],
+  "primaryCategory": "integrations-connectors",
+  "type": "announcement",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 36,
+    "level": "bajo",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "data-scientists",
+      "architects",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

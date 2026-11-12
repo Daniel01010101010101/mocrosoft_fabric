@@ -1,0 +1,23 @@
+{
+  "id": "rm-6e2bdf98-4c20-f011-998a-0022480939f0",
+  "releaseItemId": "6e2bdf98-4c20-f011-998a-0022480939f0",
+  "product": "Data Engineering",
+  "productId": "a731518f-36ca-ee11-9079-000d3a341a60",
+  "category": "data-engineering",
+  "name": "T-SQL notebook",
+  "description": "Fabric notebooks support T-SQL language to consume data against Data Warehouse. By adding a Data Warehouse or SQL analytics endpoint to a notebook, T-SQL developers can run queries directly on the connected endpoint. BI analysts can also perform cross-database queries to gather insights from multiple warehouses and SQL analytics endpoints. T-SQL Notebooks offer a great authoring alternative to the existing tools to SQL users and include Fabric native features, like, sharing, GIT integration and collaboration.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2025",
+  "releaseQuarterStart": "2025-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=6e2bdf98-4c20-f011-998a-0022480939f0",
+  "contentHash": "bb0a69b17007232c0a9fe40574a0e46f02534aada62a76f843658ac186bdb371",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "wn-907f5e583c12b7",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690#toc-hId-1620137838",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-factory/activity-overview",
+  "title": "Conditional activity retries in Data Factory pipelines (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-06-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Conditional activity retries (Preview) let you define exactly when a pipeline activity retries based on the error code, error message, or both with AND/OR logic, so long-running pipelines automatically recover from transient failures while fast-failing on errors that don't self-resolve. For more information, see Activity overview.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690#toc-hId-1620137838\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Conditional activity retries (Preview)</a> let you define exactly when a pipeline activity retries based on the error code, error message, or both with AND/OR logic, so long-running pipelines automatically recover from transient failures while fast-failing on errors that don't self-resolve. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/activity-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Activity overview</a>.",
+    "excerpt": "Conditional activity retries (Preview) let you define exactly when a pipeline activity retries based on the error code, error message, or both with AND/OR logic, so long-running pipelines automatically recover from transient failures while fast-failing on errors that don't self-resolve. For more information, see…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Conditional activity retries (Preview)",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690#toc-hId-1620137838"
+      },
+      {
+        "label": "Activity overview",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/activity-overview"
+      }
+    ]
+  },
+  "contentHash": "4575feb22e30fc91b1a33abe80991158773d175f3d5e60b7889b754851f5520d",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690#toc-hId-1620137838"
+  }
+}

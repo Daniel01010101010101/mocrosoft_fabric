@@ -1,0 +1,23 @@
+{
+  "id": "rm-ebc896f3-eb59-ef11-a317-0022480a694f",
+  "releaseItemId": "ebc896f3-eb59-ef11-a317-0022480a694f",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Public (REST) APIs support for Eventstream items",
+  "description": "Eventstream Public APIs enable the e2e automated interaction with Eventstream item, and the integration of Eventstream item with external applications.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=ebc896f3-eb59-ef11-a317-0022480a694f",
+  "contentHash": "dd0022aa601c3641925d519a5e8a34b539131e23b2d67c498622a0afebf35287",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

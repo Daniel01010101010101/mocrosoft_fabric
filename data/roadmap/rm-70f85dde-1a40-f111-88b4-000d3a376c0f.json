@@ -1,0 +1,23 @@
+{
+  "id": "rm-70f85dde-1a40-f111-88b4-000d3a376c0f",
+  "releaseItemId": "70f85dde-1a40-f111-88b4-000d3a376c0f",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "OneLake Storage Lifecycle Management Policies",
+  "description": "OneLake provides rule-based lifecycle management to help organizations optimize storage costs. These policies allow administrators to automatically transition data between hot, cool, and cold tiers based on last access or modification time.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=70f85dde-1a40-f111-88b4-000d3a376c0f",
+  "contentHash": "8bdb61abc4c3d8e551bb136a7dc9e0140a2ca108eb0890c84984495c20919033",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

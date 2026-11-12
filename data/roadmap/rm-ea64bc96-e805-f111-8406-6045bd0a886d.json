@@ -1,0 +1,23 @@
+{
+  "id": "rm-ea64bc96-e805-f111-8406-6045bd0a886d",
+  "releaseItemId": "ea64bc96-e805-f111-8406-6045bd0a886d",
+  "product": "Conversational Analytics",
+  "productId": "951b64e0-a663-f111-a826-6045bd00f798",
+  "category": "copilot-ai",
+  "name": "[PuPr] Data Agent to Support Kusto UDF",
+  "description": "Fabric Data Agent’s support for KQL UDFs enables richer, more optimized reasoning over Eventhouse and KQL‑backed data sources, improving both accuracy and performance of generated KQL queries. By leveraging governed, reusable functions, the agent can translate natural‑language questions into more efficient queries while honoring Fabric’s security and schema semantics. This expands the breadth of scenarios the agent can handle, making KQL‑based analytics faster and more consistent.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=ea64bc96-e805-f111-8406-6045bd0a886d",
+  "contentHash": "23a323312f79ce0aca89e64a5e3eed4a7fbb4f29eb2513560bda8688498b3148",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

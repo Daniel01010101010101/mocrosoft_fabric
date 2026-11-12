@@ -1,0 +1,23 @@
+{
+  "id": "rm-7351cde9-979a-f111-b8db-6045bd02b667",
+  "releaseItemId": "7351cde9-979a-f111-b8db-6045bd02b667",
+  "product": "Power BI",
+  "productId": "642a8375-05fc-ee11-a1ff-000d3a341a60",
+  "category": "copilot-ai",
+  "name": "Enhanced Report Consumption Copilot with Fabric IQ",
+  "description": "Powered by Fabric IQ, this enhancement to Report Consumption Copilot improves answer quality by delivering more accurate and relevant responses to data questions, helping users better understand and explore report content through natural language.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=7351cde9-979a-f111-b8db-6045bd02b667",
+  "contentHash": "23aa47c3494d14ec14439c5e8c60cb78161e2894808ad02a7eb9ac2387faecf0",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

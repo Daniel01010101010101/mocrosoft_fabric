@@ -1,0 +1,23 @@
+{
+  "id": "rm-637716a7-a41b-f011-998a-0022480939f0",
+  "releaseItemId": "637716a7-a41b-f011-998a-0022480939f0",
+  "product": "SQL database",
+  "productId": "347da228-ea54-ef11-a317-0022480a694f",
+  "category": "databases",
+  "name": "Git support for system object references",
+  "description": "References to system objects (tables and views in the [sys] schema) can be validated during local development and in the Fabric source control integration.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2025",
+  "releaseQuarterStart": "2025-07-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=637716a7-a41b-f011-998a-0022480939f0",
+  "contentHash": "09cfd0f421a2710d44260bc5ee67ace952062f20e423b2e9c006bc07e2266d6d",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

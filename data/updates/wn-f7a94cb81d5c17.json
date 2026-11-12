@@ -1,0 +1,57 @@
+{
+  "id": "wn-f7a94cb81d5c17",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://blog.fabric.microsoft.com/blog/fabric-february-2025-feature-summary?ft=All#post-19077-_Toc250850506",
+  "title": "Centralized data governance in the OneLake catalog (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2025-02-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "A new centralized data governance experience in the OneLake catalog is in preview. Data owners can view aggregated insights on the items they created, consider improving their governance by taking recommended actions, and access more information along with all available tools in Fabric.",
+    "html": "A new <a href=\"https://blog.fabric.microsoft.com/blog/fabric-february-2025-feature-summary?ft=All#post-19077-_Toc250850506\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">centralized data governance experience in the OneLake catalog</a> is in preview. Data owners can view aggregated insights on the items they created, consider improving their governance by taking recommended actions, and access more information along with all available tools in Fabric.",
+    "excerpt": "A new centralized data governance experience in the OneLake catalog is in preview. Data owners can view aggregated insights on the items they created, consider improving their governance by taking recommended actions, and access more information along with all available tools in Fabric.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "centralized data governance experience in the OneLake catalog",
+        "url": "https://blog.fabric.microsoft.com/blog/fabric-february-2025-feature-summary?ft=All#post-19077-_Toc250850506"
+      }
+    ]
+  },
+  "contentHash": "56c6b1aea0df100ff202873a2d0cc87fb9cd4bae57681c450eef1f5ceb7d7e22",
+  "categories": [
+    "onelake",
+    "admin-governance",
+    "security"
+  ],
+  "primaryCategory": "onelake",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "architects",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-february-2025-feature-summary?ft=All#post-19077-_Toc250850506"
+  }
+}

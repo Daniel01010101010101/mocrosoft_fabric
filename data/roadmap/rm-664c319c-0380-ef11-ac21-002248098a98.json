@@ -1,0 +1,23 @@
+{
+  "id": "rm-664c319c-0380-ef11-ac21-002248098a98",
+  "releaseItemId": "664c319c-0380-ef11-ac21-002248098a98",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "Query Insights Updates",
+  "description": "Query Insights will now present the amount of data scanned during query execution, spilt up by memory, disk and remote.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2024",
+  "releaseQuarterStart": "2024-10-01T00:00:00.000Z",
+  "wave": "2024 Wave 2 (Selenium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=664c319c-0380-ef11-ac21-002248098a98",
+  "contentHash": "b6e55d34f22d39caf331ef6fb9c1d3405fa8993d38a850d5077968c16749f4e8",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

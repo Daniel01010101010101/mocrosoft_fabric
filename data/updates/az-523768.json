@@ -1,0 +1,59 @@
+{
+  "id": "az-523768",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=523768",
+  "title": "Generally Available: Cosmos DB in Microsoft Fabric",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2025-11-18T17:01:02.716Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Now generally available, Cosmos DB in Fabric enables you to build operational and analytical workloads in Microsoft Fabric. You can use the AI-features in Azure Cosmos DB plus the innovations in Fabric to run SQL queries over JSON data and build real-time intelligence over transactional data. You can also use Azure Cosmos DB as a lightning fast serving layer for Microsoft Power BI, using Spark for reverse extract, transform, load (ETL)—all without having to stitch together separate services.\nCosmos DB in Fabric includes many new features, such as user-defined functions for seamlessly connecting to your Cosmos DB artifacts. With support for continuous integration and continuous deployment (CI/CD), you can manage development, test, and production pipelines. This release also supports Cosmos DB autoscaling for elasticity when you need it, and vector and full-text indexing and search are enabled by default to support your AI-enabled workloads. We are also announcing Fabric CMK support in Preview. This release marks a major step toward making operational data readily accessible across the Fabric ecosystem.\nLearn more.",
+    "html": "<span><span>Now generally available, Cosmos DB in Fabric </span><span>enables </span><span>you to build operational and analytical workloads in Microsoft Fabric. </span><span>You </span><span>can use </span><span>the AI-features </span><span>in </span><span>Azure </span><span>Cosmos DB </span><span>plus </span><span>the innovations in Fabric</span><span> </span><span>to </span><span>run </span><span>SQL queries over JSON data</span><span> </span><span>and </span><span>build real-time intelligence over transactional data</span><span>.</span><span> </span><span>You can </span><span>also </span><span>use </span><span>Azure </span><span>Cosmos DB as a lightning fast serving layer for </span><span>Microsoft </span><span>Power BI</span><span>, using Spark for</span><span> </span><span>reverse </span><span>extract, transform, load (</span><span>ETL</span><span>)</span><span>—all without having to stitch together separate services. </span></span><span> </span><p><span><span></span></span><span> </span></p><p><span><span>Cosmos DB in Fabric</span><span><span> </span></span><span>includes many new features</span><span>, such as user-defined</span><span><span> </span></span><span>functions</span><span><span> </span></span><span>for</span><span><span> </span></span><span>seamlessly</span><span><span> </span></span><span>connect</span><span>ing</span><span><span> </span></span><span>to</span><span><span> </span></span><span>your Cosmos DB artifacts</span><span>.</span><span><span> </span></span><span>With s</span><span>upport for</span><span><span> </span></span><span>continuous integration and continuous deployment (CI/CD)</span><span>,</span><span><span> </span></span><span>you</span><span><span> </span></span><span>can</span><span><span> </span></span><span>manage development, test, and production pipelines. This release</span><span><span> </span></span><span>also</span><span><span> </span></span><span>supports</span><span><span> </span></span><span>Cosmos DB</span><span><span> </span></span><span>autoscal</span><span>ing</span><span><span> </span></span><span>for elasticity when you need it, and vector and full-text indexing and search</span><span><span> </span></span><span>are</span><span><span> </span></span><span>enabled by default to support your AI-enabled workloads.</span><span><span> </span></span><span>We are also announcing Fabric CMK support in</span><span><span> </span></span><span>Preview.</span><span><span> </span></span><span>This</span><span><span> </span></span><span>release marks</span><span><span> </span></span><span>a major step toward making operational data readily accessible across the Fabric ecosystem.</span></span><span> </span></p><p><a rel=\"noopener noreferrer nofollow\" href=\"https://aka.ms/cosmos-fabric-ga-blog\" target=\"_blank\"><span><span>Learn more</span></span></a><span><span>.</span></span><span> </span></p>",
+    "excerpt": "Now generally available, Cosmos DB in Fabric enables you to build operational and analytical workloads in Microsoft Fabric. You can use the AI-features in Azure Cosmos DB plus the innovations in Fabric to run SQL queries over JSON data and build real-time intelligence over transactional data. You can also use Azure…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://aka.ms/cosmos-fabric-ga-blog"
+      }
+    ]
+  },
+  "contentHash": "f58e8d83eadcac0867d8452bc402394dc203fb1e78b9017a12ebe473a7561961",
+  "categories": [
+    "databases"
+  ],
+  "primaryCategory": "databases",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 70,
+    "level": "alto",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "developers",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "Launched",
+    "products": "Azure Cosmos DB, Microsoft Fabric",
+    "tags": "Microsoft Ignite, Features",
+    "gaDate": "2025-11",
+    "modified": "2025-11-18T17:01:02.7161876Z"
+  }
+}

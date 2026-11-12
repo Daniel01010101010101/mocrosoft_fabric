@@ -1,0 +1,23 @@
+{
+  "id": "rm-a5ecd396-14b1-f011-bbd3-000d3a30273e",
+  "releaseItemId": "a5ecd396-14b1-f011-bbd3-000d3a30273e",
+  "product": "Data Factory",
+  "productId": "a821f83f-dbd6-ee11-9079-000d3a310f67",
+  "category": "data-factory",
+  "name": "Pipelines - SQL Endpoint Refresh Activity",
+  "description": "When creating ETL pipelines in Fabric, it is important to have an easy step to refresh downstream items including the SQL Analytics Endpoint. To make it easy in your pipelines, we're excited to announce a new activity to easily refresh the SQL Endpoint.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=a5ecd396-14b1-f011-bbd3-000d3a30273e",
+  "contentHash": "2c26a063d73573648d706913e5073bf3d1d1ebb22ef5d50e9d331f22ce9ddf58",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rm-174dbee0-534a-f111-bec7-6045bd0a8ec1",
+  "releaseItemId": "174dbee0-534a-f111-bec7-6045bd0a8ec1",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "OneLake Catalog - govern with centralized management capabilities (domains, tags, capacities, etc)",
+  "description": "The OneLake Catalog – Govern experience is expanding by introducing a comprehensive set of management tools designed to reduce fragmentation and simplify day-to-day administration. Enable admins to centrally govern the data they own from a single, unified place, supporting operations at scale while maintaining speed and agility. Deliver a consistent and intuitive admin experience across tenant, domain, capacity, and workspace scopes, ensuring governance is predictable and easy to apply regardless of where data resides. Provide flexible and granular governance controls that adapt to different organizational needs, maturity levels, and operating models. Enhance visibility by offering deeper insights, contextual signals, and proactive recommendations, helping admins understand the current governance posture and take informed action.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=174dbee0-534a-f111-bec7-6045bd0a8ec1",
+  "contentHash": "7f3729959f13df292bf8b0811759345c4e3fb00ee96ed11c018711f36ea32182",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

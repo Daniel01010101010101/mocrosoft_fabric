@@ -1,0 +1,23 @@
+{
+  "id": "rm-65cd5ddb-28a8-f011-bbd3-000d3a30273e",
+  "releaseItemId": "65cd5ddb-28a8-f011-bbd3-000d3a30273e",
+  "product": "Data Warehouse",
+  "productId": "fa3a73cd-dcd6-ee11-9079-000d3a310f67",
+  "category": "data-warehouse",
+  "name": "OPENROWSET(JSONL)",
+  "description": "The OPENROWSET(BULK) function allows you to query external data (such as CSV and Parquet files) stored in the lake using the T-SQL syntax. With JSONL support, you can now also query JSON Lines files, expanding the range of supported formats and simplifying access to semi-structured data. To read a JSONL file, use the existing OPENROWSET(BULK) syntax:```SELECT TOP 10 *FROM OPENROWSET(  BULK 'https://pandemicdatalake.blob.core.windows.net/public/curated/covid-19/bing_covid-19_data/latest/bing_covid-19_data.jsonl')```",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 1 (Bromine)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=65cd5ddb-28a8-f011-bbd3-000d3a30273e",
+  "contentHash": "b49be3fc36a1d1111292dfc4b1b958da4122c6dacb44f5bf2a6d15012dcfca72",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

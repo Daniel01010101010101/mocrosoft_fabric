@@ -1,0 +1,55 @@
+{
+  "name": "fabric-radar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Centro de inteligencia que monitorea, traduce y analiza automáticamente las novedades oficiales de Microsoft Fabric.",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "ingest": "tsx pipeline/src/cli.ts run",
+    "ingest:no-ai": "tsx pipeline/src/cli.ts run --no-ai",
+    "export": "tsx pipeline/src/cli.ts export",
+    "record-failure": "tsx pipeline/src/cli.ts record-failure",
+    "status": "tsx pipeline/src/cli.ts status",
+    "dev": "npm run export && vite --config web/vite.config.ts",
+    "build": "npm run export && vite build --config web/vite.config.ts",
+    "preview": "vite preview --config web/vite.config.ts",
+    "typecheck": "tsc -p tsconfig.json --noEmit && tsc -p web/tsconfig.json --noEmit",
+    "test": "vitest run",
+    "check": "npm run typecheck && npm run test"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "1.8.0",
+    "@fontsource-variable/geist": "5.3.0",
+    "@fontsource-variable/geist-mono": "5.3.0",
+    "@tanstack/react-query": "5.107.1",
+    "cheerio": "1.2.0",
+    "clsx": "2.1.1",
+    "date-fns": "4.4.0",
+    "fast-xml-parser": "5.12.0",
+    "lucide-react": "1.72.0",
+    "minisearch": "7.2.0",
+    "motion": "12.43.0",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "react-router-dom": "7.18.5",
+    "sanitize-html": "2.18.2",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "4.3.5",
+    "@types/node": "22.20.5",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@types/sanitize-html": "2.16.2",
+    "@vitejs/plugin-react": "5.2.0",
+    "tailwindcss": "4.3.5",
+    "tsx": "4.23.15",
+    "typescript": "5.9.3",
+    "vite": "7.3.8",
+    "vitest": "5.1.0",
+    "yaml": "2.9.1"
+  }
+}

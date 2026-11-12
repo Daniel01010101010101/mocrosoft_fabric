@@ -1,0 +1,23 @@
+{
+  "id": "rm-aa858b30-d73d-f111-88b5-6045bd0a8ec1",
+  "releaseItemId": "aa858b30-d73d-f111-88b5-6045bd0a8ec1",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Notebook as a Business Events Publisher from Real-Time Hub",
+  "description": "**Notebook as a Business Events Publisher from Real-Time Hub****Overview**Enable users to generate and publish Business Events directly from Notebooks using guided experiences in Real-Time hub—combining data exploration, custom logic, and event emission in a single workflow.**Key Capabilities*** Notebook Publisher Creation from Real-Time Hub: Launch and configure Notebooks directly from Real-Time hub to publish Business Events without leaving the experience.* Dynamic Code Generation for Event Publishing: Auto-generate starter code to publish Business Events, reducing setup effort and accelerating development.* Custom Logic + Event Emission: Combine data processing, analytics, and Business Event publishing within a single Notebook workflow.* Schema-Aligned Event Publishing: Use predefined Business Event schemas to ensure published events are consistent and interoperable across the ecosystem.* Integrated Developer Experience: Seamlessly iterate, test, and trigger Business Events from within the Notebook environment.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=aa858b30-d73d-f111-88b5-6045bd0a8ec1",
+  "contentHash": "06a26b9aa3ceca4e014907e83cc6e75a2ff33d611b1956a4e3c48798fa5a6c9b",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

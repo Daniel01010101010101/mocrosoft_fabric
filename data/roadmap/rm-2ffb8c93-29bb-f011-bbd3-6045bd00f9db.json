@@ -1,0 +1,23 @@
+{
+  "id": "rm-2ffb8c93-29bb-f011-bbd3-6045bd00f9db",
+  "releaseItemId": "2ffb8c93-29bb-f011-bbd3-6045bd00f9db",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Fabric Local MCP (General Availability)",
+  "description": "After a successful public preview, Fabric Local MCP is now generally available. This open-source MCP server runs locally on your machine, connecting AI coding assistants like GitHub Copilot to Fabric. It provides API schemas and validation, item definitions, and other resources to help developers generate accurate code and streamline local-to-cloud workflows — now with improved tooling and broader capabilities.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=2ffb8c93-29bb-f011-bbd3-6045bd00f9db",
+  "contentHash": "104e6b41e9cd79b3129ea7472dc17d3cdb62025e8731817cf4017a010eae9ff7",
+  "detectedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}
