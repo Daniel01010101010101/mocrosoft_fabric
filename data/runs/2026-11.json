@@ -183,5 +183,98 @@
       }
     ],
     "workflowRunUrl": "https://github.com/Daniel01010101010101/mocrosoft_fabric/actions/runs/43331914238"
+  },
+  {
+    "id": "run-20261113144215",
+    "trigger": "schedule",
+    "startedAt": "2026-11-13T14:42:15.575Z",
+    "finishedAt": "2026-11-13T14:42:22.687Z",
+    "durationMs": 7112,
+    "status": "success",
+    "sources": [
+      {
+        "source": "fabric-blog",
+        "status": "ok",
+        "attempts": 1,
+        "durationMs": 983,
+        "fetched": 20,
+        "created": 0,
+        "updated": 1,
+        "unchanged": 19,
+        "rejected": 0
+      },
+      {
+        "source": "powerbi-blog",
+        "status": "ok",
+        "attempts": 1,
+        "durationMs": 994,
+        "fetched": 20,
+        "created": 0,
+        "updated": 0,
+        "unchanged": 20,
+        "rejected": 0
+      },
+      {
+        "source": "learn-whats-new",
+        "status": "not-modified",
+        "attempts": 1,
+        "durationMs": 114,
+        "fetched": 0,
+        "created": 0,
+        "updated": 0,
+        "unchanged": 0,
+        "rejected": 0
+      },
+      {
+        "source": "azure-updates",
+        "status": "ok",
+        "attempts": 1,
+        "durationMs": 889,
+        "fetched": 41,
+        "created": 0,
+        "updated": 0,
+        "unchanged": 41,
+        "rejected": 0
+      },
+      {
+        "source": "fabric-roadmap",
+        "status": "ok",
+        "attempts": 1,
+        "durationMs": 3880,
+        "fetched": 1131,
+        "created": 0,
+        "updated": 0,
+        "unchanged": 1131,
+        "rejected": 0
+      }
+    ],
+    "ai": {
+      "configured": false,
+      "model": null,
+      "attempted": 0,
+      "succeeded": 0,
+      "failed": 0,
+      "roadmapTranslated": 0,
+      "pendingUpdates": 380,
+      "pendingRoadmap": 1131,
+      "inputTokens": 0,
+      "outputTokens": 0
+    },
+    "totals": {
+      "newUpdates": 0,
+      "updatedUpdates": 1,
+      "newRoadmap": 0,
+      "changedRoadmap": 0,
+      "duplicatesLinked": 0
+    },
+    "issues": [
+      {
+        "level": "warning",
+        "stage": "config",
+        "message": "Traducción y análisis con IA pendientes: falta configurar el secreto ANTHROPIC_API_KEY en el repositorio. Las novedades se guardan y se traducirán automáticamente en cuanto se configure.",
+        "at": "2026-11-13T14:42:22.598Z"
+      }
+    ],
+    "workflowRunUrl": "https://github.com/Daniel01010101010101/mocrosoft_fabric/actions/runs/43445222775"
   }
 ]
