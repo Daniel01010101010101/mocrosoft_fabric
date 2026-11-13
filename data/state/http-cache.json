@@ -1,13 +1,13 @@
 {
   "https://blog.fabric.microsoft.com/en-us/blog/feed/": {
-    "fetchedAt": "2026-11-13T18:33:21.734Z"
+    "fetchedAt": "2026-11-13T22:14:33.921Z"
   },
   "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new": {
-    "etag": "\"cVsQTy5wiCRsd6LRXhJwyyXXW9k=\"",
+    "etag": "\"19YueRWC8a6x2KMKaf93iXxriXI=\"",
     "lastModified": "Mon, 09 Nov 2026 18:02:20 GMT",
-    "fetchedAt": "2026-11-12T23:36:33.408Z"
+    "fetchedAt": "2026-11-13T22:14:35.195Z"
   },
   "https://powerbi.microsoft.com/en-us/blog/feed/": {
-    "fetchedAt": "2026-11-13T18:33:22.575Z"
+    "fetchedAt": "2026-11-13T22:14:34.823Z"
   }
 }
