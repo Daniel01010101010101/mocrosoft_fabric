@@ -45,5 +45,11 @@
     "products": "Microsoft Fabric",
     "tags": "Announcement",
     "modified": "2026-08-10T17:50:54.0025923Z"
+  },
+  "tr": {
+    "status": "pending",
+    "attempts": 1,
+    "lastAttemptAt": "2026-11-14T04:25:51.126Z",
+    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
   }
 }

@@ -57,5 +57,11 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Azure-Monitor-and-AWS-Glue-data-to-OneLake-Preview/ba-p/5326474",
     "backfill": "true"
+  },
+  "tr": {
+    "status": "pending",
+    "attempts": 1,
+    "lastAttemptAt": "2026-11-14T04:25:50.916Z",
+    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
   }
 }

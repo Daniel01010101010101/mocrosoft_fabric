@@ -82,5 +82,11 @@
     "status": "pending",
     "attempts": 0
   },
-  "meta": {}
+  "meta": {},
+  "tr": {
+    "status": "pending",
+    "attempts": 1,
+    "lastAttemptAt": "2026-11-14T04:25:50.884Z",
+    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+  }
 }

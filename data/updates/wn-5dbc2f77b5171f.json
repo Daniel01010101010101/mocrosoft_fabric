@@ -58,5 +58,11 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/execute-power-query-programmatically-in-microsoft-fabric?ft=All",
     "backfill": "true"
+  },
+  "tr": {
+    "status": "pending",
+    "attempts": 1,
+    "lastAttemptAt": "2026-11-14T04:25:50.983Z",
+    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
   }
 }

@@ -63,5 +63,11 @@
     "month": "August 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Customer-Managed-Key-CMK-APIs-for-Microsoft-Fabric-Workspaces/ba-p/5360035"
+  },
+  "tr": {
+    "status": "pending",
+    "attempts": 1,
+    "lastAttemptAt": "2026-11-14T04:25:51.126Z",
+    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
   }
 }

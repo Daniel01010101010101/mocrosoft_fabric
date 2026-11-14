@@ -57,5 +57,11 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Capacity-Operation-Events-in-Real-Time-Hub-Preview/ba-p/5364092",
     "backfill": "true"
+  },
+  "tr": {
+    "status": "pending",
+    "attempts": 1,
+    "lastAttemptAt": "2026-11-14T04:25:50.909Z",
+    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
   }
 }

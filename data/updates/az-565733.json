@@ -54,5 +54,11 @@
     "tags": "Features",
     "gaDate": "2026-06",
     "modified": "2026-06-17T18:00:18.7677390Z"
+  },
+  "tr": {
+    "status": "pending",
+    "attempts": 1,
+    "lastAttemptAt": "2026-11-14T04:25:51.154Z",
+    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
   }
 }

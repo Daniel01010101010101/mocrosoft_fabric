@@ -61,5 +61,11 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/monitor-your-eventstreams-with-workspace-monitoring-%E2%80%94-now-with-per-eventstream-c/5331185",
     "backfill": "true"
+  },
+  "tr": {
+    "status": "pending",
+    "attempts": 1,
+    "lastAttemptAt": "2026-11-14T04:25:50.948Z",
+    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
   }
 }

@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-14T03:21:20.435Z",
+  "generatedAt": "2026-11-14T04:25:51.338Z",
   "lastRun": {
-    "id": "run-20261114032112",
-    "trigger": "schedule",
-    "startedAt": "2026-11-14T03:21:12.927Z",
-    "finishedAt": "2026-11-14T03:21:20.433Z",
-    "durationMs": 7506,
-    "status": "success",
+    "id": "run-20261114042541",
+    "trigger": "manual",
+    "startedAt": "2026-11-14T04:25:41.814Z",
+    "finishedAt": "2026-11-14T04:25:51.336Z",
+    "durationMs": 9522,
+    "status": "partial",
     "sources": [
       {
         "source": "fabric-blog",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 643,
+        "durationMs": 981,
         "fetched": 20,
         "created": 0,
         "updated": 0,
@@ -23,7 +23,7 @@
         "source": "powerbi-blog",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 812,
+        "durationMs": 879,
         "fetched": 20,
         "created": 0,
         "updated": 0,
@@ -32,20 +32,20 @@
       },
       {
         "source": "learn-whats-new",
-        "status": "not-modified",
+        "status": "ok",
         "attempts": 1,
-        "durationMs": 137,
-        "fetched": 0,
+        "durationMs": 454,
+        "fetched": 299,
         "created": 0,
         "updated": 0,
-        "unchanged": 0,
+        "unchanged": 299,
         "rejected": 0
       },
       {
         "source": "azure-updates",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 523,
+        "durationMs": 721,
         "fetched": 41,
         "created": 0,
         "updated": 0,
@@ -56,7 +56,7 @@
         "source": "fabric-roadmap",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 5085,
+        "durationMs": 5698,
         "fetched": 1132,
         "created": 0,
         "updated": 0,
@@ -65,11 +65,14 @@
       }
     ],
     "ai": {
-      "configured": false,
-      "model": null,
+      "configured": true,
+      "provider": "github",
+      "model": "github:openai/gpt-4.1-mini",
       "attempted": 0,
       "succeeded": 0,
       "failed": 0,
+      "translated": 0,
+      "requests": 28,
       "roadmapTranslated": 0,
       "pendingUpdates": 380,
       "pendingRoadmap": 1132,
@@ -85,19 +88,181 @@
     },
     "issues": [
       {
-        "level": "warning",
-        "stage": "config",
-        "message": "Traducción y análisis con IA pendientes: falta configurar el secreto ANTHROPIC_API_KEY en el repositorio. Las novedades se guardan y se traducirán automáticamente en cuanto se configure.",
-        "at": "2026-11-14T03:21:20.411Z"
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:50.888Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:50.884Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:50.909Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:50.916Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:50.933Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:50.930Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:50.948Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:50.949Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:50.967Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:50.965Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:50.985Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:50.983Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:51.002Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:51.004Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:51.022Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:51.024Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:51.041Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:51.043Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:51.058Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:51.071Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:51.081Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:51.093Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:51.102Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:51.111Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:51.126Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:51.136Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:51.143Z"
+      },
+      {
+        "level": "error",
+        "stage": "ai",
+        "message": "Lote de traducción: Unexpected token 'O', \"OK\r\n\" is not valid JSON",
+        "at": "2026-11-14T04:25:51.154Z"
       }
     ],
-    "workflowRunUrl": "https://github.com/Daniel01010101010101/mocrosoft_fabric/actions/runs/43551161513"
+    "workflowRunUrl": "https://github.com/Daniel01010101010101/mocrosoft_fabric/actions/runs/43556579780"
   },
   "lastSuccessfulRunAt": "2026-11-14T03:21:20.433Z",
   "lastSuccessfulRunId": "run-20261114032112",
-  "lastAttemptAt": "2026-11-14T03:21:12.927Z",
+  "lastAttemptAt": "2026-11-14T04:25:41.814Z",
   "consecutiveFailures": 0,
-  "health": "ok",
+  "health": "degraded",
   "counts": {
     "updates": 380,
     "roadmap": 1132,
@@ -105,10 +270,12 @@
     "aiPendingUpdates": 380,
     "aiErrorUpdates": 0,
     "aiDoneRoadmap": 0,
-    "aiPendingRoadmap": 1132
+    "aiPendingRoadmap": 1132,
+    "translatedUpdates": 0
   },
   "ai": {
-    "configured": false,
-    "model": null
+    "configured": true,
+    "provider": "github",
+    "model": "github:openai/gpt-4.1-mini"
   }
 }
