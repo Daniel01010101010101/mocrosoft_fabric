@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-14T13:40:28.176Z",
+  "generatedAt": "2026-11-14T17:10:55.477Z",
   "lastRun": {
-    "id": "run-20261114134019",
+    "id": "run-20261114171047",
     "trigger": "schedule",
-    "startedAt": "2026-11-14T13:40:19.833Z",
-    "finishedAt": "2026-11-14T13:40:28.174Z",
-    "durationMs": 8341,
+    "startedAt": "2026-11-14T17:10:47.527Z",
+    "finishedAt": "2026-11-14T17:10:55.476Z",
+    "durationMs": 7949,
     "status": "success",
     "sources": [
       {
         "source": "fabric-blog",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 950,
+        "durationMs": 802,
         "fetched": 20,
         "created": 0,
         "updated": 0,
@@ -23,7 +23,7 @@
         "source": "powerbi-blog",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 1028,
+        "durationMs": 661,
         "fetched": 20,
         "created": 0,
         "updated": 0,
@@ -32,20 +32,20 @@
       },
       {
         "source": "learn-whats-new",
-        "status": "not-modified",
+        "status": "ok",
         "attempts": 1,
-        "durationMs": 124,
-        "fetched": 0,
+        "durationMs": 414,
+        "fetched": 299,
         "created": 0,
         "updated": 0,
-        "unchanged": 0,
+        "unchanged": 299,
         "rejected": 0
       },
       {
         "source": "azure-updates",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 614,
+        "durationMs": 418,
         "fetched": 41,
         "created": 0,
         "updated": 0,
@@ -56,7 +56,7 @@
         "source": "fabric-roadmap",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 4887,
+        "durationMs": 4930,
         "fetched": 1132,
         "created": 0,
         "updated": 0,
@@ -91,14 +91,14 @@
         "level": "warning",
         "stage": "config",
         "message": "Análisis con IA pendiente: falta configurar el secreto ANTHROPIC_API_KEY. Mientras tanto se usan las traducciones oficiales de Microsoft Learn y las traducciones ya guardadas; el resto se traducirá automáticamente en cuanto se configure la clave.",
-        "at": "2026-11-14T13:40:28.152Z"
+        "at": "2026-11-14T17:10:55.455Z"
       }
     ],
-    "workflowRunUrl": "https://github.com/Daniel01010101010101/mocrosoft_fabric/actions/runs/43600910999"
+    "workflowRunUrl": "https://github.com/Daniel01010101010101/mocrosoft_fabric/actions/runs/43619653533"
   },
-  "lastSuccessfulRunAt": "2026-11-14T13:40:28.174Z",
-  "lastSuccessfulRunId": "run-20261114134019",
-  "lastAttemptAt": "2026-11-14T13:40:19.833Z",
+  "lastSuccessfulRunAt": "2026-11-14T17:10:55.476Z",
+  "lastSuccessfulRunId": "run-20261114171047",
+  "lastAttemptAt": "2026-11-14T17:10:47.527Z",
   "consecutiveFailures": 0,
   "health": "ok",
   "counts": {
