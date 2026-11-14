@@ -1,0 +1,23 @@
+{
+  "id": "rm-7ae96023-9ddf-f111-84e8-00224809f154",
+  "releaseItemId": "7ae96023-9ddf-f111-84e8-00224809f154",
+  "product": "SQL database",
+  "productId": "347da228-ea54-ef11-a317-0022480a694f",
+  "category": "databases",
+  "name": "Create SQL Databases in Fabric from SSMS",
+  "description": "Create new SQL Databases in Fabric using the new Create Fabric SQL Database dialog in SQL Server Management Studio (SSMS). [Learn more](https://aka.ms/ssms-release-notes)",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "FY27 Q2 (Oct-Dec 2026)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=7ae96023-9ddf-f111-84e8-00224809f154",
+  "contentHash": "4ad7617ce415ee73db8310d0d4dffe19b18dbb1cf84feea2f80fd12453762039",
+  "detectedAt": "2026-11-13T22:14:33.049Z",
+  "updatedAt": "2026-11-13T22:14:33.049Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}
