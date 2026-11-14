@@ -3,16 +3,26 @@ import type { AiRunStats, Analysis, RoadmapItem, RunIssue, UpdateItem } from '..
 import { PROMPT_VERSION, type PipelineConfig } from '../config';
 import { blendImpact, heuristicImpact } from '../core/classify';
 import type { Store } from '../core/store';
-import { AiClient, AiFatalError } from './client';
+import { truncate } from '../core/text';
+import { AiClient, AiFatalError, type StructuredClient } from './client';
 import { buildUpdatePrompt } from './context';
-import { ANALYSIS_SYSTEM_PROMPT, ROADMAP_SYSTEM_PROMPT } from './prompts';
-import { AnalysisSchema, RoadmapBatchSchema, type AnalysisOutput } from './schema';
+import { GitHubModelsClient } from './githubModels';
+import { ANALYSIS_SYSTEM_PROMPT, BRIEF_ANALYSIS_NOTE, ROADMAP_SYSTEM_PROMPT, TRANSLATE_SYSTEM_PROMPT } from './prompts';
+import { AnalysisSchema, RoadmapBatchSchema, UpdateTranslationBatchSchema, type AnalysisOutput } from './schema';
 
 export function needsAnalysis(item: UpdateItem, maxAttempts: number): boolean {
   if (item.duplicateOf) return false;
   if (item.ai.status === 'done' && item.ai.sourceHash === item.contentHash) return false;
   if (item.ai.status === 'skipped') return false;
   return item.ai.attempts < maxAttempts;
+}
+
+/** Traducción rápida pendiente: sin análisis vigente ni traducción para el contenido actual. */
+export function needsTranslation(item: UpdateItem, maxAttempts: number): boolean {
+  if (item.duplicateOf) return false;
+  if (item.ai.status === 'done' && item.ai.sourceHash === item.contentHash) return false;
+  if (item.tr?.status === 'done' && item.tr.sourceHash === item.contentHash) return false;
+  return (item.tr?.attempts ?? 0) < maxAttempts;
 }
 
 export function needsRoadmapTranslation(item: RoadmapItem, maxAttempts: number): boolean {
@@ -30,6 +40,7 @@ export function prioritizeUpdates(items: UpdateItem[]): UpdateItem[] {
     if (recentA !== recentB) return recentB - recentA;
     if (a.kind === 'blog' && b.kind !== 'blog') return -1;
     if (b.kind === 'blog' && a.kind !== 'blog') return 1;
+    if (b.impact.score !== a.impact.score && Math.abs(tb - ta) < 7 * 86_400_000) return b.impact.score - a.impact.score;
     return tb - ta;
   });
 }
@@ -95,21 +106,49 @@ async function runPool<T>(items: T[], concurrency: number, worker: (item: T) => 
   await Promise.all(runners);
 }
 
+/** Agrupa elementos en lotes limitados por número y por tamaño de texto. */
+export function batchBySize<T>(items: T[], size: (item: T) => number, maxChars: number, maxItems: number): T[][] {
+  const batches: T[][] = [];
+  let current: T[] = [];
+  let chars = 0;
+  for (const item of items) {
+    const n = size(item);
+    if (current.length > 0 && (current.length >= maxItems || chars + n > maxChars)) {
+      batches.push(current);
+      current = [];
+      chars = 0;
+    }
+    current.push(item);
+    chars += n;
+  }
+  if (current.length) batches.push(current);
+  return batches;
+}
+
 export interface EnrichOptions {
   store: Store;
   config: PipelineConfig;
   issues: RunIssue[];
   /** Permite inyectar un cliente simulado en tests. */
-  client?: Pick<AiClient, 'structured' | 'model'>;
+  client?: StructuredClient;
+  log?: (m: string) => void;
 }
 
-export async function enrich({ store, config, issues, client }: EnrichOptions): Promise<AiRunStats> {
+function translationInput(item: UpdateItem, maxChars: number): { id: string; title: string; excerpt: string } {
+  return { id: item.id, title: item.title, excerpt: truncate(item.content.text.replace(/\s+/g, ' '), maxChars) };
+}
+
+export async function enrich({ store, config, issues, client, log = () => {} }: EnrichOptions): Promise<AiRunStats> {
+  const provider = client?.provider ?? (config.aiProvider === 'none' ? null : config.aiProvider);
   const stats: AiRunStats = {
-    configured: config.anthropicApiKeyPresent || Boolean(client),
-    model: config.anthropicApiKeyPresent || client ? config.aiModel : null,
+    configured: provider !== null,
+    provider: provider ?? 'none',
+    model: null,
     attempted: 0,
     succeeded: 0,
     failed: 0,
+    translated: 0,
+    requests: 0,
     roadmapTranslated: 0,
     pendingUpdates: 0,
     pendingRoadmap: 0,
@@ -117,6 +156,7 @@ export async function enrich({ store, config, issues, client }: EnrichOptions): 
     outputTokens: 0,
   };
 
+  const pendingTranslations = () => [...store.updates.values()].filter((i) => needsTranslation(i, config.aiMaxAttemptsPerItem));
   const pendingUpdates = () => [...store.updates.values()].filter((i) => needsAnalysis(i, config.aiMaxAttemptsPerItem));
   const pendingRoadmap = () => [...store.roadmap.values()].filter((i) => needsRoadmapTranslation(i, config.aiMaxAttemptsPerItem));
 
@@ -125,7 +165,7 @@ export async function enrich({ store, config, issues, client }: EnrichOptions): 
     if (item.duplicateOf && item.ai.status === 'pending') item.ai.status = 'skipped';
   }
 
-  if (!stats.configured) {
+  if (!provider) {
     stats.pendingUpdates = pendingUpdates().length;
     stats.pendingRoadmap = pendingRoadmap().length;
     if (stats.pendingUpdates + stats.pendingRoadmap > 0) {
@@ -133,72 +173,119 @@ export async function enrich({ store, config, issues, client }: EnrichOptions): 
         level: 'warning',
         stage: 'config',
         message:
-          'Traducción y análisis con IA pendientes: falta configurar el secreto ANTHROPIC_API_KEY en el repositorio. Las novedades se guardan y se traducirán automáticamente en cuanto se configure.',
+          'Traducción y análisis con IA pendientes: no hay ningún servicio de IA disponible (ni ANTHROPIC_API_KEY ni el token de GitHub Models). Las novedades se guardan y se traducirán en cuanto haya uno.',
         at: new Date().toISOString(),
       });
     }
     return stats;
   }
 
-  const ai = client ?? new AiClient(config);
+  let ai: StructuredClient;
+  if (client) ai = client;
+  else if (provider === 'github') {
+    const gh = new GitHubModelsClient(config);
+    await gh.init(log);
+    ai = gh;
+  } else ai = new AiClient(config);
+  stats.model = provider === 'github' ? `github:${ai.model}` : ai.model;
+  const limits = ai.limits;
+
   const deadline = Date.now() + config.aiTimeBudgetMs;
   let fatal: string | null = null;
-  const stop = () => fatal !== null || Date.now() > deadline;
+  const budgetLeft = () => config.aiMaxRequestsPerRun - (stats.requests ?? 0);
+  const stop = () => fatal !== null || Date.now() > deadline || budgetLeft() <= 0;
+  const call: StructuredClient['structured'] = async (opts) => {
+    stats.requests = (stats.requests ?? 0) + 1;
+    const res = await ai.structured(opts);
+    stats.inputTokens += res.inputTokens;
+    stats.outputTokens += res.outputTokens;
+    return res;
+  };
 
-  /* ------------------------- 1) Análisis de novedades ------------------------- */
-  const queue = prioritizeUpdates(pendingUpdates()).slice(0, config.aiMaxUpdatesPerRun);
-  await runPool(
-    queue,
-    config.aiConcurrency,
-    async (item) => {
-      stats.attempted++;
-      const now = new Date().toISOString();
-      item.ai.attempts += 1;
-      item.ai.lastAttemptAt = now;
-      try {
-        const user = await buildUpdatePrompt(item, store, config);
-        const res = await ai.structured({
-          system: ANALYSIS_SYSTEM_PROMPT,
-          user,
-          schema: AnalysisSchema,
-          effort: config.aiEffort,
-          maxTokens: 32_000,
-        });
-        stats.inputTokens += res.inputTokens;
-        stats.outputTokens += res.outputTokens;
-        applyAnalysis(item, sanitizeAnalysis(res.data), res.model, new Date().toISOString());
-        stats.succeeded++;
-      } catch (err) {
-        const message = (err as Error).message;
-        if (err instanceof AiFatalError) {
-          fatal = message;
-          item.ai.attempts -= 1; // no penalizar al elemento por un fallo general
-          return;
+  /* -------------- 1) Traducción rápida (título + resumen) en lotes -------------- */
+  {
+    const pending = prioritizeUpdates(pendingTranslations());
+    const excerptChars = Math.min(700, Math.floor(limits.translateBatchChars / limits.translateBatchItems));
+    const batches = batchBySize(
+      pending,
+      (i) => i.title.length + Math.min(i.content.text.length, excerptChars) + 40,
+      limits.translateBatchChars,
+      limits.translateBatchItems,
+    );
+    await runPool(
+      batches,
+      limits.concurrency,
+      async (batch) => {
+        if (stop()) return;
+        const now = new Date().toISOString();
+        for (const item of batch) {
+          item.tr = { ...(item.tr ?? { status: 'pending', attempts: 0 }), attempts: (item.tr?.attempts ?? 0) + 1, lastAttemptAt: now };
         }
-        stats.failed++;
-        item.ai.lastError = message;
-        item.ai.status = item.ai.attempts >= config.aiMaxAttemptsPerItem ? 'error' : 'pending';
-        issues.push({ level: 'error', stage: 'ai', source: item.source, message: `${item.title}: ${message}`, at: now });
-      }
-    },
-    stop,
-  );
+        try {
+          const res = await call({
+            system: TRANSLATE_SYSTEM_PROMPT,
+            user: `Traduce estas ${batch.length} novedades de Microsoft Fabric. Devuelve un elemento por id.\n\n${JSON.stringify(
+              batch.map((i) => translationInput(i, excerptChars)),
+              null,
+              1,
+            )}`,
+            schema: UpdateTranslationBatchSchema,
+            effort: 'low',
+            maxTokens: 8_000,
+          });
+          const byId = new Map(res.data.items.map((r) => [r.id, r]));
+          for (const item of batch) {
+            const t = byId.get(item.id);
+            if (!t || !t.titleEs.trim()) {
+              item.tr = { ...item.tr!, status: 'pending', lastError: 'La respuesta no incluyó este elemento.' };
+              continue;
+            }
+            item.tr = {
+              status: 'done',
+              sourceHash: item.contentHash,
+              model: res.model,
+              promptVersion: PROMPT_VERSION,
+              generatedAt: new Date().toISOString(),
+              attempts: item.tr?.attempts ?? 1,
+              lastAttemptAt: now,
+              result: { titleEs: t.titleEs.trim(), summaryEs: t.summaryEs.trim() },
+            };
+            stats.translated = (stats.translated ?? 0) + 1;
+          }
+        } catch (err) {
+          const message = (err as Error).message;
+          if (err instanceof AiFatalError) {
+            fatal = message;
+            for (const item of batch) item.tr = { ...item.tr!, attempts: Math.max(0, (item.tr?.attempts ?? 1) - 1) };
+            return;
+          }
+          for (const item of batch) item.tr = { ...item.tr!, status: 'pending', lastError: message };
+          issues.push({ level: 'error', stage: 'ai', message: `Lote de traducción: ${message}`, at: now });
+        }
+      },
+      stop,
+    );
+  }
 
-  /* ------------------------- 2) Traducción del roadmap ------------------------- */
-  if (!fatal) {
-    const pending = pendingRoadmap().sort((a, b) => {
+  /* ------------- 2) Roadmap planificado (próximas novedades) ------------- */
+  const translateRoadmap = async (filter: (r: RoadmapItem) => boolean) => {
+    if (stop()) return;
+    const pending = pendingRoadmap().filter(filter).sort((a, b) => {
       // Primero lo planificado (próximas novedades) y lo más reciente
       if (a.releaseStatus !== b.releaseStatus) return a.releaseStatus === 'planned' ? -1 : 1;
       return (b.releaseQuarterStart ?? '').localeCompare(a.releaseQuarterStart ?? '');
     });
-    const batches: RoadmapItem[][] = [];
-    for (let i = 0; i < pending.length && batches.length < config.aiMaxRoadmapBatchesPerRun; i += config.aiRoadmapBatchSize) {
-      batches.push(pending.slice(i, i + config.aiRoadmapBatchSize));
-    }
+    const batches = batchBySize(
+      pending,
+      (r) => r.name.length + r.description.length + 60,
+      limits.roadmapBatchChars,
+      Math.min(limits.roadmapBatchItems, config.aiRoadmapBatchSize),
+    ).slice(0, config.aiMaxRoadmapBatchesPerRun);
     await runPool(
       batches,
-      config.aiConcurrency,
+      limits.concurrency,
       async (batch) => {
+        if (stop()) return;
         const now = new Date().toISOString();
         for (const item of batch) {
           item.ai.attempts += 1;
@@ -206,15 +293,13 @@ export async function enrich({ store, config, issues, client }: EnrichOptions): 
         }
         const payload = batch.map((i) => ({ id: i.id, product: i.product, name: i.name, description: i.description }));
         try {
-          const res = await ai.structured({
+          const res = await call({
             system: ROADMAP_SYSTEM_PROMPT,
             user: `Traduce estos ${batch.length} elementos del roadmap de Microsoft Fabric. Devuelve un elemento por id.\n\n${JSON.stringify(payload, null, 1)}`,
             schema: RoadmapBatchSchema,
             effort: config.aiRoadmapEffort,
             maxTokens: 32_000,
           });
-          stats.inputTokens += res.inputTokens;
-          stats.outputTokens += res.outputTokens;
           const byId = new Map(res.data.items.map((r) => [r.id, r]));
           for (const item of batch) {
             const t = byId.get(item.id);
@@ -252,10 +337,55 @@ export async function enrich({ store, config, issues, client }: EnrichOptions): 
       },
       stop,
     );
-  }
+  };
+
+  await translateRoadmap((r) => r.releaseStatus === 'planned');
+
+  /* ------------------------- 3) Análisis detallado ------------------------- */
+  const queue = prioritizeUpdates(pendingUpdates()).slice(0, config.aiMaxUpdatesPerRun);
+  await runPool(
+    queue,
+    limits.concurrency,
+    async (item) => {
+      if (stop()) return;
+      stats.attempted++;
+      const now = new Date().toISOString();
+      item.ai.attempts += 1;
+      item.ai.lastAttemptAt = now;
+      try {
+        const user = await buildUpdatePrompt(item, store, config, limits, limits.brief ? BRIEF_ANALYSIS_NOTE : '');
+        const res = await call({
+          system: ANALYSIS_SYSTEM_PROMPT,
+          user,
+          schema: AnalysisSchema,
+          effort: config.aiEffort,
+          maxTokens: 32_000,
+        });
+        applyAnalysis(item, sanitizeAnalysis(res.data), res.model, new Date().toISOString());
+        stats.succeeded++;
+      } catch (err) {
+        const message = (err as Error).message;
+        if (err instanceof AiFatalError) {
+          fatal = message;
+          item.ai.attempts -= 1; // no penalizar al elemento por un fallo general
+          return;
+        }
+        stats.failed++;
+        item.ai.lastError = message;
+        item.ai.status = item.ai.attempts >= config.aiMaxAttemptsPerItem ? 'error' : 'pending';
+        issues.push({ level: 'error', stage: 'ai', source: item.source, message: `${item.title}: ${message}`, at: now });
+      }
+    },
+    stop,
+  );
+
+  /* --------------------- 4) Resto del roadmap (entregado) --------------------- */
+  await translateRoadmap(() => true);
 
   if (fatal) {
-    issues.push({ level: 'error', stage: 'ai', message: fatal, at: new Date().toISOString() });
+    // Un límite de uso alcanzado no es un fallo del proceso: se reanuda en la siguiente ejecución.
+    const isQuota = /límite de uso/i.test(fatal);
+    issues.push({ level: isQuota ? 'warning' : 'error', stage: 'ai', message: fatal, at: new Date().toISOString() });
   }
   if (Date.now() > deadline) {
     issues.push({
@@ -267,5 +397,8 @@ export async function enrich({ store, config, issues, client }: EnrichOptions): 
   }
   stats.pendingUpdates = pendingUpdates().length;
   stats.pendingRoadmap = pendingRoadmap().length;
+  log(
+    `· IA (${stats.model}): ${stats.translated} traducciones rápidas, ${stats.succeeded} análisis, ${stats.roadmapTranslated} elementos de roadmap, ${stats.requests} peticiones.`,
+  );
   return stats;
 }

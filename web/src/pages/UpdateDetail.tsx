@@ -77,6 +77,7 @@ function Fact({ label, children }: { label: string; children: React.ReactNode })
 }
 
 function PendingAnalysis({ d }: { d: Detail }) {
+  const translated = d.translated && d.summaryEs;
   return (
     <div className="card overflow-hidden">
       <div className="flex items-start gap-3 border-b border-line bg-amber-50/60 p-5 dark:bg-amber-400/5">
@@ -84,19 +85,32 @@ function PendingAnalysis({ d }: { d: Detail }) {
           <Languages className="size-4" />
         </span>
         <div>
-          <h2 className="font-semibold text-fg">{d.aiStatus === 'error' ? 'No se pudo completar el análisis' : 'Análisis en español en preparación'}</h2>
+          <h2 className="font-semibold text-fg">
+            {d.aiStatus === 'error' ? 'No se pudo completar el análisis' : translated ? 'Análisis detallado en preparación' : 'Traducción en preparación'}
+          </h2>
           <p className="mt-1 text-sm leading-relaxed text-fg-muted">
             {d.aiStatus === 'error'
-              ? 'La traducción automática falló varias veces para esta novedad. El error quedó registrado en el panel de estado. Mientras tanto se muestra el contenido original verificado.'
-              : 'Esta novedad ya está verificada y almacenada. La traducción y el análisis detallado se generan automáticamente en las próximas ejecuciones programadas; mientras tanto se muestra el contenido oficial original.'}
+              ? 'El análisis automático falló varias veces para esta novedad. El error quedó registrado en el panel de estado. Mientras tanto se muestra el resumen disponible y el contenido original verificado.'
+              : translated
+                ? 'Ya tienes el resumen en español. La ficha completa (qué es, cómo funciona, cómo implementarla, casos de uso e impacto) se genera automáticamente en las próximas ejecuciones programadas.'
+                : 'Esta novedad ya está verificada y almacenada. La traducción y el análisis se generan automáticamente en las próximas ejecuciones programadas; mientras tanto se muestra el contenido oficial original.'}
           </p>
         </div>
       </div>
       <div className="p-5">
-        <div className="eyebrow mb-2">Extracto original ({d.originalLanguage === 'en' ? 'inglés' : d.originalLanguage})</div>
-        <p className="text-sm leading-relaxed text-fg-muted" lang={d.originalLanguage}>
-          {d.excerptOriginal}
-        </p>
+        {translated ? (
+          <>
+            <div className="eyebrow mb-2">Resumen en español</div>
+            <p className="text-[1.02rem] leading-relaxed text-fg">{d.summaryEs}</p>
+          </>
+        ) : (
+          <>
+            <div className="eyebrow mb-2">Extracto original ({d.originalLanguage === 'en' ? 'inglés' : d.originalLanguage})</div>
+            <p className="text-sm leading-relaxed text-fg-muted" lang={d.originalLanguage}>
+              {d.excerptOriginal}
+            </p>
+          </>
+        )}
       </div>
     </div>
   );
@@ -163,7 +177,7 @@ export default function UpdateDetail() {
                   <Sparkles className="size-3 text-brand" /> Transformadora
                 </Badge>
               )}
-              <AiBadge status={d.aiStatus} original={d.originalLanguage} />
+              <AiBadge status={d.aiStatus} original={d.originalLanguage} translated={d.translated} />
             </div>
             <h1 className="text-[1.6rem] font-semibold leading-tight tracking-tight text-fg sm:text-[2.1rem]">{displayTitle(d)}</h1>
             {d.titleEs && d.titleEs !== d.titleOriginal && (

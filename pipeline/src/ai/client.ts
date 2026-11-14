@@ -29,6 +29,50 @@ export interface StructuredCallResult<T> {
   outputTokens: number;
 }
 
+export interface StructuredRequest<S extends z.ZodType> {
+  system: string;
+  user: string;
+  schema: S;
+  effort: PipelineConfig['aiEffort'];
+  maxTokens: number;
+}
+
+/** Límites de tamaño de las peticiones según el proveedor de IA. */
+export interface ProviderLimits {
+  maxSourceChars: number;
+  maxDocChars: number;
+  maxDocs: number;
+  /** Caracteres de entrada por lote de traducción rápida de novedades. */
+  translateBatchChars: number;
+  translateBatchItems: number;
+  /** Caracteres de entrada por lote de traducción del roadmap. */
+  roadmapBatchChars: number;
+  roadmapBatchItems: number;
+  /** Pide respuestas más breves (proveedores con límite de tokens de salida). */
+  brief: boolean;
+  concurrency: number;
+}
+
+/** Interfaz común a los proveedores de IA (Claude y GitHub Models). */
+export interface StructuredClient {
+  readonly provider: 'anthropic' | 'github';
+  readonly model: string;
+  readonly limits: ProviderLimits;
+  structured<S extends z.ZodType>(opts: StructuredRequest<S>): Promise<StructuredCallResult<z.infer<S>>>;
+}
+
+export const ANTHROPIC_LIMITS: ProviderLimits = {
+  maxSourceChars: 40_000,
+  maxDocChars: 6_000,
+  maxDocs: 2,
+  translateBatchChars: 30_000,
+  translateBatchItems: 25,
+  roadmapBatchChars: 40_000,
+  roadmapBatchItems: 25,
+  brief: false,
+  concurrency: 3,
+};
+
 /**
  * Envoltorio del SDK de Anthropic para peticiones con salida estructurada.
  *
@@ -38,24 +82,21 @@ export interface StructuredCallResult<T> {
  * - Clasifica los errores: los de configuración/autenticación detienen la fase de IA;
  *   los demás afectan solo al elemento (se reintenta en ejecuciones posteriores).
  */
-export class AiClient {
+export class AiClient implements StructuredClient {
+  readonly provider = 'anthropic' as const;
+  readonly limits: ProviderLimits;
   private readonly client: Anthropic;
 
   constructor(private readonly config: PipelineConfig) {
     this.client = new Anthropic({ maxRetries: 3, timeout: 10 * 60 * 1000 });
+    this.limits = { ...ANTHROPIC_LIMITS, concurrency: config.aiConcurrency };
   }
 
   get model(): string {
     return this.config.aiModel;
   }
 
-  async structured<S extends z.ZodType>(opts: {
-    system: string;
-    user: string;
-    schema: S;
-    effort: PipelineConfig['aiEffort'];
-    maxTokens: number;
-  }): Promise<StructuredCallResult<z.infer<S>>> {
+  async structured<S extends z.ZodType>(opts: StructuredRequest<S>): Promise<StructuredCallResult<z.infer<S>>> {
     try {
       const stream = this.client.beta.messages.stream({
         model: this.config.aiModel,

@@ -231,13 +231,22 @@ export default function Status() {
               <dl className="grid grid-cols-2 gap-3 text-sm">
                 <div className="rounded-xl bg-surface-2 p-3">
                   <dt className="text-xs text-fg-muted">Servicio</dt>
-                  <dd className="mt-1 font-medium text-fg">{status.ai.configured ? 'Configurado' : 'Pendiente de configurar'}</dd>
-                  <dd className="text-xs text-fg-subtle">{status.ai.model ?? 'Secreto ANTHROPIC_API_KEY no definido'}</dd>
+                  <dd className="mt-1 font-medium text-fg">
+                    {status.ai.provider === 'anthropic'
+                      ? 'Claude (Anthropic)'
+                      : status.ai.provider === 'github'
+                        ? 'GitHub Models'
+                        : status.ai.configured
+                          ? 'Configurado'
+                          : 'Pendiente de configurar'}
+                  </dd>
+                  <dd className="break-all text-xs text-fg-subtle">{status.ai.model ?? 'Sin servicio de IA disponible'}</dd>
                 </div>
                 <div className="rounded-xl bg-surface-2 p-3">
-                  <dt className="text-xs text-fg-muted">Novedades analizadas</dt>
+                  <dt className="text-xs text-fg-muted">En español / con análisis completo</dt>
                   <dd className="tabular mt-1 font-medium text-fg">
-                    {formatNumber(status.counts.aiDoneUpdates)} / {formatNumber(status.counts.updates)}
+                    {formatNumber(status.counts.translatedUpdates ?? status.counts.aiDoneUpdates)} / {formatNumber(status.counts.aiDoneUpdates)} de{' '}
+                    {formatNumber(status.counts.updates)}
                   </dd>
                   <dd className="text-xs text-fg-subtle">
                     {formatNumber(status.counts.aiPendingUpdates)} pendientes · {formatNumber(status.counts.aiErrorUpdates)} con error
@@ -251,7 +260,9 @@ export default function Status() {
                 </div>
                 <div className="rounded-xl bg-surface-2 p-3">
                   <dt className="text-xs text-fg-muted">Última ejecución</dt>
-                  <dd className="tabular mt-1 font-medium text-fg">{last ? `${last.ai.succeeded} análisis · ${last.ai.roadmapTranslated} trad.` : '—'}</dd>
+                  <dd className="tabular mt-1 font-medium text-fg">
+                    {last ? `${last.ai.translated ?? 0} trad. · ${last.ai.succeeded} análisis · ${last.ai.roadmapTranslated} roadmap` : '—'}
+                  </dd>
                   <dd className="tabular text-xs text-fg-subtle">{last ? `${formatNumber(last.ai.inputTokens + last.ai.outputTokens)} tokens` : ''}</dd>
                 </div>
               </dl>
@@ -339,7 +350,7 @@ export default function Status() {
                       <td className="px-3 py-2.5 text-right text-fg-muted">{formatDuration(r.durationMs)}</td>
                       <td className="px-3 py-2.5 text-right font-medium text-fg">{r.totals.newUpdates}</td>
                       <td className="px-3 py-2.5 text-right text-fg-muted">{r.totals.updatedUpdates}</td>
-                      <td className="px-3 py-2.5 text-right text-fg-muted">{r.ai.succeeded + r.ai.roadmapTranslated}</td>
+                      <td className="px-3 py-2.5 text-right text-fg-muted">{(r.ai.translated ?? 0) + r.ai.succeeded + r.ai.roadmapTranslated}</td>
                       <td className={clsx('px-3 py-2.5 text-right', r.issues.some((i) => i.level === 'error') ? 'font-medium text-red-600 dark:text-red-400' : 'text-fg-muted')}>
                         {r.issues.filter((i) => i.level === 'error').length}
                       </td>

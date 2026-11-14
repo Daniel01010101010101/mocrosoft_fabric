@@ -22,8 +22,9 @@ export async function recordWorkflowFailure(opts: {
     status: 'failed',
     sources: [],
     ai: {
-      configured: opts.config.anthropicApiKeyPresent,
-      model: opts.config.anthropicApiKeyPresent ? opts.config.aiModel : null,
+      configured: opts.config.aiProvider !== 'none',
+      provider: opts.config.aiProvider,
+      model: null,
       attempted: 0,
       succeeded: 0,
       failed: 0,

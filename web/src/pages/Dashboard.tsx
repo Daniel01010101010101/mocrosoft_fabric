@@ -273,12 +273,12 @@ export default function Dashboard() {
                 <motion.div
                   className="h-full rounded-full bg-brand"
                   initial={{ width: 0 }}
-                  animate={{ width: `${kpis.total ? (kpis.aiDone / kpis.total) * 100 : 0}%` }}
+                  animate={{ width: `${kpis.total ? (kpis.translated / kpis.total) * 100 : 0}%` }}
                   transition={{ duration: 1 }}
                 />
               </div>
               <p className="mt-2 text-xs text-fg-muted">
-                {formatNumber(kpis.aiDone)} de {formatNumber(kpis.total)} novedades analizadas.
+                {formatNumber(kpis.translated)} de {formatNumber(kpis.total)} novedades en español · {formatNumber(kpis.aiDone)} con análisis completo.
                 {kpis.aiDone < kpis.total && ' El resto se procesa automáticamente en las próximas ejecuciones.'}
               </p>
             </div>

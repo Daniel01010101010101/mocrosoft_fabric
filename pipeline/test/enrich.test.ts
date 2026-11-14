@@ -3,9 +3,10 @@ import os from 'node:os';
 import path from 'node:path';
 import { afterEach, describe, expect, it } from 'vitest';
 import type { RunIssue } from '../../shared/types';
-import { AiFatalError, AiItemError } from '../src/ai/client';
-import { enrich, needsAnalysis } from '../src/ai/enrich';
-import type { AnalysisOutput } from '../src/ai/schema';
+import { AiFatalError, AiItemError, ANTHROPIC_LIMITS } from '../src/ai/client';
+import { batchBySize, enrich, needsAnalysis, needsTranslation } from '../src/ai/enrich';
+import { GITHUB_LIMITS, GitHubModelsClient } from '../src/ai/githubModels';
+import { RoadmapBatchSchema, UpdateTranslationBatchSchema, type AnalysisOutput } from '../src/ai/schema';
 import { loadConfig, type PipelineConfig } from '../src/config';
 import { upsertRoadmap, upsertUpdate } from '../src/core/ingest';
 import { Store } from '../src/core/store';
@@ -81,14 +82,16 @@ const ANALYSIS: AnalysisOutput = {
 };
 
 function config(overrides: Partial<PipelineConfig> = {}): PipelineConfig {
-  return { ...loadConfig(), anthropicApiKeyPresent: true, aiConcurrency: 1, ...overrides };
+  return { ...loadConfig(), anthropicApiKeyPresent: true, aiProvider: 'anthropic', aiMaxRequestsPerRun: 100, aiConcurrency: 1, ...overrides };
 }
+
+const base = { provider: 'anthropic' as const, model: 'claude-opus-5-5', limits: { ...ANTHROPIC_LIMITS, concurrency: 1 } };
 
 describe('Traducción y análisis con IA', () => {
   it('sin clave configurada deja todo pendiente y lo avisa (no lo marca como traducido)', async () => {
     const store = await makeStore();
     const issues: RunIssue[] = [];
-    const stats = await enrich({ store, config: config({ anthropicApiKeyPresent: false }), issues });
+    const stats = await enrich({ store, config: config({ anthropicApiKeyPresent: false, aiProvider: 'none' }), issues });
     expect(stats.configured).toBe(false);
     expect(stats.pendingUpdates).toBe(1);
     expect(store.updates.get('cm-10')!.ai.status).toBe('pending');
@@ -99,10 +102,18 @@ describe('Traducción y análisis con IA', () => {
     const store = await makeStore();
     let calls = 0;
     const client = {
-      model: 'claude-opus-5-5',
-      structured: async (opts: { system: string }) => {
+      ...base,
+      structured: async (opts: { schema: unknown; user: string }) => {
         calls++;
-        if (opts.system.includes('roadmap')) {
+        if (opts.schema === UpdateTranslationBatchSchema) {
+          return {
+            data: { items: [{ id: 'cm-10', titleEs: 'Copilot para Data Factory, disponible', summaryEs: 'Resumen breve.' }] },
+            model: 'claude-opus-5-5',
+            inputTokens: 5,
+            outputTokens: 5,
+          };
+        }
+        if (opts.schema === RoadmapBatchSchema) {
           return {
             data: { items: [{ id: 'rm-r1', nameEs: 'Copia incremental en Copy job', descriptionEs: 'Copy job admite copia incremental.' }] },
             model: 'claude-opus-5-5',
@@ -117,6 +128,8 @@ describe('Traducción y análisis con IA', () => {
     const stats = await enrich({ store, config: config(), issues, client: client as never });
     const item = store.updates.get('cm-10')!;
     expect(stats.succeeded).toBe(1);
+    expect(stats.translated).toBe(1);
+    expect(item.tr?.result?.titleEs).toMatch(/Copilot para Data Factory/);
     expect(stats.roadmapTranslated).toBe(1);
     expect(item.ai.status).toBe('done');
     expect(item.ai.sourceHash).toBe(item.contentHash);
@@ -133,12 +146,13 @@ describe('Traducción y análisis con IA', () => {
     await enrich({ store, config: config(), issues: [], client: client as never });
     expect(calls).toBe(before);
     expect(needsAnalysis(item, 5)).toBe(false);
+    expect(needsTranslation(item, 5)).toBe(false);
   });
 
   it('registra los errores por elemento y los reintenta en ejecuciones posteriores', async () => {
     const store = await makeStore();
     const client = {
-      model: 'm',
+      ...base,
       structured: async () => {
         throw new AiItemError('respuesta incompleta');
       },
@@ -158,7 +172,7 @@ describe('Traducción y análisis con IA', () => {
   it('un error de credenciales detiene la fase de IA sin penalizar los elementos', async () => {
     const store = await makeStore();
     const client = {
-      model: 'm',
+      ...base,
       structured: async () => {
         throw new AiFatalError('Credenciales de IA no válidas');
       },
@@ -167,5 +181,76 @@ describe('Traducción y análisis con IA', () => {
     await enrich({ store, config: config(), issues, client: client as never });
     expect(store.updates.get('cm-10')!.ai.attempts).toBe(0);
     expect(issues.some((i) => /Credenciales/.test(i.message))).toBe(true);
+  });
+});
+
+describe('Lotes de traducción', () => {
+  it('agrupa respetando el número de elementos y el tamaño', () => {
+    const items = Array.from({ length: 7 }, (_, i) => ({ id: i, size: 100 }));
+    expect(batchBySize(items, (x) => x.size, 250, 10).map((b) => b.length)).toEqual([2, 2, 2, 1]);
+    expect(batchBySize(items, (x) => x.size, 10_000, 3).map((b) => b.length)).toEqual([3, 3, 1]);
+    // Un elemento mayor que el límite va solo en su lote
+    expect(batchBySize([{ size: 500 }], (x) => x.size, 100, 3)).toHaveLength(1);
+  });
+
+  it('respeta el presupuesto de peticiones por ejecución', async () => {
+    const store = await makeStore();
+    let calls = 0;
+    const client = {
+      ...base,
+      structured: async () => {
+        calls++;
+        throw new AiItemError('x');
+      },
+    };
+    await enrich({ store, config: config({ aiMaxRequestsPerRun: 1 }), issues: [], client: client as never });
+    expect(calls).toBe(1);
+  });
+});
+
+describe('GitHub Models (IA incluida en GitHub)', () => {
+  const cfg = () => ({ ...loadConfig(), aiProvider: 'github' as const, githubToken: 't', githubModel: 'openai/gpt-4.1-mini' });
+  const okBody = (content: unknown) =>
+    new Response(JSON.stringify({ model: 'openai/gpt-4.1-mini', choices: [{ message: { content: JSON.stringify(content) }, finish_reason: 'stop' }], usage: { prompt_tokens: 3, completion_tokens: 4 } }), { status: 200 });
+  const req = { system: 's', user: 'u', schema: UpdateTranslationBatchSchema, effort: 'low' as const, maxTokens: 9000 };
+
+  it('envía el esquema JSON y valida la respuesta', async () => {
+    let sent: Record<string, any> = {};
+    const fetchImpl = (async (_u: string, init: RequestInit) => {
+      sent = JSON.parse(String(init.body));
+      return okBody({ items: [{ id: 'a', titleEs: 'Hola', summaryEs: 'Resumen' }] });
+    }) as unknown as typeof fetch;
+    const c = new GitHubModelsClient(cfg(), fetchImpl, async () => {});
+    const res = await c.structured(req);
+    expect(res.data.items[0]!.titleEs).toBe('Hola');
+    expect(res.model).toBe('github:openai/gpt-4.1-mini');
+    expect(sent.response_format.type).toBe('json_schema');
+    expect(sent.max_tokens).toBe(4000);
+    expect(c.limits).toBe(GITHUB_LIMITS);
+  });
+
+  it('pasa a modo JSON simple si el modelo no admite esquemas', async () => {
+    const formats: string[] = [];
+    const fetchImpl = (async (_u: string, init: RequestInit) => {
+      const body = JSON.parse(String(init.body));
+      formats.push(body.response_format.type);
+      if (body.response_format.type === 'json_schema') return new Response('{"error":"response_format json_schema not supported"}', { status: 400 });
+      return okBody({ items: [] });
+    }) as unknown as typeof fetch;
+    const c = new GitHubModelsClient(cfg(), fetchImpl, async () => {});
+    await c.structured(req);
+    expect(formats).toEqual(['json_schema', 'json_object']);
+  });
+
+  it('el límite diario detiene la fase de IA hasta la próxima ejecución', async () => {
+    const fetchImpl = (async () => new Response('limit', { status: 429, headers: { 'retry-after': '86400' } })) as unknown as typeof fetch;
+    const c = new GitHubModelsClient(cfg(), fetchImpl, async () => {});
+    await expect(c.structured(req)).rejects.toBeInstanceOf(AiFatalError);
+  });
+
+  it('rechaza respuestas que no cumplen el esquema', async () => {
+    const fetchImpl = (async () => okBody({ nada: true })) as unknown as typeof fetch;
+    const c = new GitHubModelsClient(cfg(), fetchImpl, async () => {});
+    await expect(c.structured(req)).rejects.toBeInstanceOf(AiItemError);
   });
 });

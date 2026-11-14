@@ -27,6 +27,7 @@ function u(overrides: Partial<UpdateSummary>): UpdateSummary {
     audiences: [],
     image: null,
     aiStatus: 'pending',
+    translated: false,
     originalLanguage: 'en',
     ...overrides,
   };

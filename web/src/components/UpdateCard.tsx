@@ -70,7 +70,7 @@ export function UpdateCard({ u, index = 0 }: { u: UpdateSummary; index?: number 
           <div className="mb-2.5 flex flex-wrap items-center gap-1.5">
             <Badge>{TYPE_SHORT[u.type]}</Badge>
             <Badge>{SOURCE_SHORT[u.source]}</Badge>
-            <AiBadge status={u.aiStatus} original={u.originalLanguage} />
+            <AiBadge status={u.aiStatus} original={u.originalLanguage} translated={u.translated} />
           </div>
           <div className="flex items-center justify-between gap-2 border-t border-line pt-3">
             <DateMeta u={u} compact />
@@ -97,7 +97,7 @@ export function UpdateRow({ u, rank, showImpact = true }: { u: UpdateSummary; ra
         <div className="mb-1 flex flex-wrap items-center gap-1.5">
           <CategoryChip id={u.primaryCategory} link={false} />
           <StageBadge stage={u.stage} />
-          <AiBadge status={u.aiStatus} original={u.originalLanguage} />
+          <AiBadge status={u.aiStatus} original={u.originalLanguage} translated={u.translated} />
         </div>
         <p className="line-clamp-2 text-[0.92rem] font-medium leading-snug text-fg group-hover:text-brand-ink">{displayTitle(u)}</p>
         <div className="mt-1.5">

@@ -14,14 +14,15 @@ import { Store } from '../core/store';
 
 export function toSummary(item: UpdateItem): UpdateSummary {
   const analysis = item.ai.status === 'done' || item.ai.result ? item.ai.result : undefined;
+  const tr = item.tr?.status === 'done' && item.tr.sourceHash === item.contentHash ? item.tr.result : undefined;
   return {
     id: item.id,
     kind: item.kind,
     source: item.source,
     url: item.url,
-    titleEs: analysis?.titleEs ?? null,
+    titleEs: analysis?.titleEs ?? tr?.titleEs ?? null,
     titleOriginal: item.title,
-    summaryEs: analysis?.executiveSummary ?? null,
+    summaryEs: analysis?.executiveSummary ?? tr?.summaryEs ?? null,
     excerptOriginal: item.content.excerpt,
     publishedAt: item.publishedAt,
     datePrecision: item.datePrecision,
@@ -38,6 +39,7 @@ export function toSummary(item: UpdateItem): UpdateSummary {
     audiences: item.impact.audiences,
     image: item.content.images[0]?.src ?? null,
     aiStatus: item.ai.status,
+    translated: Boolean(analysis?.titleEs ?? tr?.titleEs),
     originalLanguage: item.originalLanguage,
   };
 }

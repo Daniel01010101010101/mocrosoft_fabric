@@ -119,8 +119,9 @@ export function CategoryChip({ id, link = true, size = 'sm' }: { id: CategoryId;
   );
 }
 
-export function AiBadge({ status, original }: { status: AiStatus; original?: string }) {
-  if (status === 'done') return null;
+export function AiBadge({ status, original, translated = false }: { status: AiStatus; original?: string; translated?: boolean }) {
+  // Si título y resumen ya están en español no se muestra aviso: el análisis completo se completa en segundo plano.
+  if (status === 'done' || translated) return null;
   return (
     <Badge tone={status === 'error' ? 'red' : 'amber'} title="El texto se muestra en su idioma original hasta que se complete la traducción automática.">
       <Languages className="size-3" />

@@ -2,12 +2,11 @@ import * as cheerio from 'cheerio';
 import { CATEGORY_BY_ID } from '../../../shared/categories';
 import { SOURCES, type UpdateItem } from '../../../shared/types';
 import type { PipelineConfig } from '../config';
+import { ANTHROPIC_LIMITS, type ProviderLimits } from './client';
 import { fetchText } from '../core/http';
 import type { Store } from '../core/store';
 import { collapseWhitespace, extractLearnArticle } from '../core/text';
 
-const MAX_SOURCE_CHARS = 40_000;
-const MAX_DOC_CHARS = 6_000;
 const DOC_CACHE_DAYS = 30;
 
 /** Descarga (con caché de 30 días) el texto de una página de Microsoft Learn. */
@@ -59,7 +58,7 @@ export function extractSectionByAnchor(html: string, anchorUrl: string): string 
     node = node.next();
   }
   const text = collapseWhitespace(parts.join('\n'));
-  return text.length > 40 ? text.slice(0, MAX_DOC_CHARS) : null;
+  return text.length > 40 ? text.slice(0, 6_000) : null;
 }
 
 function dateLabel(item: UpdateItem): string {
@@ -74,7 +73,15 @@ function dateLabel(item: UpdateItem): string {
   }
 }
 
-export async function buildUpdatePrompt(item: UpdateItem, store: Store, config: PipelineConfig): Promise<string> {
+export async function buildUpdatePrompt(
+  item: UpdateItem,
+  store: Store,
+  config: PipelineConfig,
+  limits: ProviderLimits = ANTHROPIC_LIMITS,
+  extraInstruction = '',
+): Promise<string> {
+  const MAX_SOURCE_CHARS = limits.maxSourceChars;
+  const MAX_DOC_CHARS = limits.maxDocChars;
   const parts: string[] = [];
   parts.push('# Publicación oficial a analizar');
   parts.push(
@@ -115,7 +122,7 @@ export async function buildUpdatePrompt(item: UpdateItem, store: Store, config: 
     const mid = /\/ba-p\/(\d+)/.exec(blogUrl)?.[1];
     const blog = mid ? store.updates.get(`cm-${mid}`) : undefined;
     const section = blog ? extractSectionByAnchor(blog.content.html, blogUrl) : null;
-    if (section) parts.push(`## Extracto del anuncio oficial en el blog de Fabric\n${section}`);
+    if (section) parts.push(`## Extracto del anuncio oficial en el blog de Fabric\n${section.slice(0, MAX_DOC_CHARS)}`);
   }
 
   // Contexto: documentación oficial de Microsoft Learn enlazada
@@ -125,7 +132,7 @@ export async function buildUpdatePrompt(item: UpdateItem, store: Store, config: 
   ].filter((u, i, arr): u is string => Boolean(u) && arr.indexOf(u) === i && !u!.includes('/whats-new'));
   let docsAdded = 0;
   for (const url of docUrls.slice(0, 3)) {
-    if (docsAdded >= 2) break;
+    if (docsAdded >= limits.maxDocs) break;
     const doc = await getLearnDoc(store, config, url);
     if (!doc || doc.text.length < 80) continue;
     parts.push(`## Documentación oficial relacionada: ${doc.title}\nURL: ${url}\n${doc.text.slice(0, MAX_DOC_CHARS)}`);
@@ -133,7 +140,7 @@ export async function buildUpdatePrompt(item: UpdateItem, store: Store, config: 
   }
 
   parts.push(
-    '## Tarea\nElabora la ficha de análisis en español siguiendo las reglas. Si el contenido ya está en español, no lo traduzcas: resúmelo y analízalo.',
+    `## Tarea\nElabora la ficha de análisis en español siguiendo las reglas. Si el contenido ya está en español, no lo traduzcas: resúmelo y analízalo.${extraInstruction ? `\n${extraInstruction}` : ''}`,
   );
   return parts.join('\n\n');
 }

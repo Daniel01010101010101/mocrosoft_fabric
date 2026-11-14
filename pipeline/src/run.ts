@@ -19,8 +19,9 @@ export interface RunOptions {
 
 function emptyAiStats(config: PipelineConfig): AiRunStats {
   return {
-    configured: config.anthropicApiKeyPresent,
-    model: config.anthropicApiKeyPresent ? config.aiModel : null,
+    configured: config.aiProvider !== 'none',
+    provider: config.aiProvider,
+    model: null,
     attempted: 0,
     succeeded: 0,
     failed: 0,
@@ -178,7 +179,7 @@ export async function runPipeline(opts: RunOptions): Promise<RunRecord> {
   let ai = emptyAiStats(config);
   if (opts.ai) {
     try {
-      ai = await enrich({ store, config, issues });
+      ai = await enrich({ store, config, issues, log });
       log(`· IA: ${ai.succeeded} análisis, ${ai.roadmapTranslated} traducciones de roadmap, ${ai.failed} errores, pendientes ${ai.pendingUpdates}/${ai.pendingRoadmap}`);
     } catch (err) {
       issues.push({ level: 'error', stage: 'ai', message: `Fase de IA interrumpida: ${(err as Error).message}`, at: new Date().toISOString() });
@@ -243,7 +244,12 @@ export async function buildStatus(store: Store, run: RunRecord, config: Pipeline
       aiErrorUpdates: updates.filter((u) => u.ai.status === 'error').length,
       aiDoneRoadmap: roadmap.filter((r) => r.ai.status === 'done').length,
       aiPendingRoadmap: roadmap.filter((r) => r.ai.status !== 'done').length,
+      translatedUpdates: updates.filter((u) => u.ai.status === 'done' || u.tr?.status === 'done').length,
     },
-    ai: { configured: config.anthropicApiKeyPresent, model: config.anthropicApiKeyPresent ? config.aiModel : null },
+    ai: {
+      configured: run.ai.configured || config.aiProvider !== 'none',
+      provider: run.ai.provider ?? config.aiProvider,
+      model: run.ai.model ?? (config.aiProvider === 'anthropic' ? config.aiModel : null),
+    },
   };
 }

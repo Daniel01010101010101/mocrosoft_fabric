@@ -45,6 +45,7 @@ export interface Kpis {
   ga: number;
   transformative: number;
   aiDone: number;
+  translated: number;
 }
 
 export function computeKpis(updates: UpdateSummary[]): Kpis {
@@ -59,6 +60,7 @@ export function computeKpis(updates: UpdateSummary[]): Kpis {
     ga: updates.filter((u) => u.stage === 'ga').length,
     transformative: updates.filter((u) => u.transformative).length,
     aiDone: updates.filter((u) => u.aiStatus === 'done').length,
+    translated: updates.filter((u) => u.translated).length,
   };
 }
 

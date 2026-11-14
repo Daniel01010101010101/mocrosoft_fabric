@@ -64,3 +64,15 @@ export const RoadmapBatchSchema = z.object({
 });
 
 export type RoadmapBatchOutput = z.infer<typeof RoadmapBatchSchema>;
+
+export const UpdateTranslationBatchSchema = z.object({
+  items: z.array(
+    z.object({
+      id: z.string(),
+      titleEs: z.string(),
+      summaryEs: z.string(),
+    }),
+  ),
+});
+
+export type UpdateTranslationBatchOutput = z.infer<typeof UpdateTranslationBatchSchema>;

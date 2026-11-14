@@ -20,11 +20,17 @@ on:
         description: 'Máximo de lotes de traducción del roadmap en esta ejecución'
         required: false
         default: ''
+      ai_max_requests:
+        description: 'Máximo de peticiones al servicio de IA en esta ejecución'
+        required: false
+        default: ''
 
 permissions:
   contents: write
   # Necesario para lanzar el despliegue en GitHub Pages al terminar.
   actions: write
+  # Traducción con GitHub Models (IA incluida en GitHub) cuando no hay clave de Anthropic.
+  models: read
 
 # Nunca dos ingestas a la vez (evita conflictos en la base de datos).
 concurrency:
@@ -38,6 +44,10 @@ jobs:
     timeout-minutes: 50
     env:
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      GH_MODELS_TOKEN: ${{ github.token }}
+      GH_MODELS_MODEL: ${{ vars.GH_MODELS_MODEL }}
+      AI_PROVIDER: ${{ vars.AI_PROVIDER }}
+      AI_MAX_REQUESTS_PER_RUN: ${{ inputs.ai_max_requests || vars.AI_MAX_REQUESTS_PER_RUN }}
       AI_MODEL: ${{ vars.AI_MODEL }}
       AI_EFFORT: ${{ vars.AI_EFFORT }}
       AI_ROADMAP_EFFORT: ${{ vars.AI_ROADMAP_EFFORT }}

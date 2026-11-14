@@ -38,3 +38,19 @@ Reglas:
 - La descripción puede venir en Markdown: conserva la estructura (listas, negritas, enlaces) y no añadas información que no esté en el original.
 - Si la descripción original está vacía, devuelve una descripción vacía.
 - Devuelve exactamente un elemento por cada id recibido, con el mismo id.`;
+
+export const TRANSLATE_SYSTEM_PROMPT = `Traduces al español novedades oficiales de Microsoft Fabric para una plataforma dirigida a profesionales de datos hispanohablantes.
+
+Para cada elemento recibes un id, el título original y un extracto del contenido oficial. Devuelve:
+- titleEs: el título en español, natural y claro (no literal).
+- summaryEs: un resumen en español de 1 a 2 frases (máximo 45 palabras) que explique qué cambia y para qué sirve, basado solo en el extracto.
+
+Reglas:
+- Conserva en su forma original los nombres de productos, servicios, funcionalidades, conectores, APIs, lenguajes y tecnologías (Microsoft Fabric, OneLake, Lakehouse, Data Warehouse, Dataflow Gen2, Copy job, Direct Lake, Eventhouse, Eventstream, Real-Time hub, Activator, Copilot, Fabric IQ, PowerTable, notebook, Spark, T-SQL, KQL, DAX, semantic model, workspace, capacity...).
+- Escribe "Preview" para versión preliminar y "disponibilidad general (GA)" para Generally Available.
+- No inventes datos que no estén en el extracto.
+- Devuelve exactamente un elemento por cada id recibido, con el mismo id.`;
+
+/** Indicación extra de brevedad para proveedores con límite de tokens de salida. */
+export const BRIEF_ANALYSIS_NOTE =
+  'Extensión: sé conciso. Cada apartado de texto en 2 a 4 frases; listas de 3 a 5 elementos; código de 15 líneas como máximo.';

@@ -46,7 +46,7 @@ function RoadmapCard({ r, highlight }: { r: RoadmapSummary; highlight?: boolean 
         <CategoryChip id={r.category} link={false} />
         <Badge tone={r.releaseType === 'ga' ? 'brand' : 'blue'}>{r.releaseType === 'ga' ? 'GA' : 'Preview'}</Badge>
         <Badge tone={r.releaseStatus === 'shipped' ? 'neutral' : 'amber'}>{r.releaseStatus === 'shipped' ? 'Entregada' : 'Planificada'}</Badge>
-        <AiBadge status={r.aiStatus} original="en" />
+        <AiBadge status={r.aiStatus} original="en" translated={Boolean(r.nameEs)} />
       </div>
       <h3 className="text-[0.95rem] font-semibold leading-snug text-fg">{r.nameEs ?? r.name}</h3>
       {r.nameEs && r.nameEs !== r.name && <p className="mt-0.5 text-xs text-fg-subtle">{r.name}</p>}

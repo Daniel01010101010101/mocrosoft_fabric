@@ -162,6 +162,12 @@ export interface Analysis {
 
 export type AiStatus = 'pending' | 'done' | 'error' | 'skipped';
 
+/** Traducción rápida (título y resumen) generada en lote antes del análisis completo. */
+export interface UpdateTranslation {
+  titleEs: string;
+  summaryEs: string;
+}
+
 export interface AiState<T> {
   status: AiStatus;
   /** Hash del contenido fuente con el que se generó (evita retraducir sin cambios). */
@@ -219,6 +225,8 @@ export interface UpdateItem {
   technologies: string[];
   impact: Impact;
   ai: AiState<Analysis>;
+  /** Traducción rápida de título y resumen (independiente del análisis completo). */
+  tr?: AiState<UpdateTranslation>;
   /** Datos específicos de la fuente (sección de Learn, mes, etc.). */
   meta: Record<string, string>;
 }
@@ -296,7 +304,12 @@ export interface RunIssue {
 
 export interface AiRunStats {
   configured: boolean;
+  provider?: 'anthropic' | 'github' | 'none';
   model: string | null;
+  /** Novedades con título y resumen traducidos en esta ejecución. */
+  translated?: number;
+  /** Peticiones realizadas al servicio de IA. */
+  requests?: number;
   attempted: number;
   succeeded: number;
   failed: number;
@@ -344,8 +357,10 @@ export interface SystemStatus {
     aiErrorUpdates: number;
     aiDoneRoadmap: number;
     aiPendingRoadmap: number;
+    /** Novedades con título y resumen en español (por análisis o traducción rápida). */
+    translatedUpdates?: number;
   };
-  ai: { configured: boolean; model: string | null };
+  ai: { configured: boolean; model: string | null; provider?: 'anthropic' | 'github' | 'none' };
 }
 
 /* ------------------------------------------------------------------ */
@@ -377,6 +392,8 @@ export interface UpdateSummary {
   audiences: Audience[];
   image: string | null;
   aiStatus: AiStatus;
+  /** true si el título y el resumen ya están en español. */
+  translated: boolean;
   originalLanguage: UpdateItem['originalLanguage'];
 }
 

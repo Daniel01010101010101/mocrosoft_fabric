@@ -104,7 +104,7 @@ export default function Highlights() {
                             <Sparkles className="size-3 text-brand" /> Transformadora
                           </Badge>
                         )}
-                        <AiBadge status={u.aiStatus} original={u.originalLanguage} />
+                        <AiBadge status={u.aiStatus} original={u.originalLanguage} translated={u.translated} />
                       </div>
                       <h3 className="text-[1rem] font-semibold leading-snug text-fg group-hover:text-brand-ink">{displayTitle(u)}</h3>
                       <p className="mt-1 line-clamp-2 text-sm text-fg-muted">{displaySummary(u)}</p>
