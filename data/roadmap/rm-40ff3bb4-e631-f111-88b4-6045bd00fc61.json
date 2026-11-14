@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=40ff3bb4-e631-f111-88b4-6045bd00fc61",
   "contentHash": "3dc0fbad6f2ab8edd6d836ec7e3a739e53e09a79c3261d5191dd88062b86261f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: My Queries",
+      "descriptionEs": ""
+    }
   }
 }

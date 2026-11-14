@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=fa80d3f3-0e98-f111-8075-70a8a5aee129",
   "contentHash": "727091f71ed22e02b36711e452c0fb50b61c63da0e072d7836c59761dd3fa97a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Vista previa de datos de Business Events",
+      "descriptionEs": ""
+    }
   }
 }

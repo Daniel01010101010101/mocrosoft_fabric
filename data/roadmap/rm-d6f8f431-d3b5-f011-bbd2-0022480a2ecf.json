@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricecosystem&releaseItem=d6f8f431-d3b5-f011-bbd2-0022480a2ecf",
   "contentHash": "27355ea9d2b40ffce8d6e12f2f44ca7b6c135212884b527e159dd6e323885fb9",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Integración sin copias con ServiceNow",
+      "descriptionEs": ""
+    }
   }
 }

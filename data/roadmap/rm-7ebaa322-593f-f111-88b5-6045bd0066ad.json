@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=7ebaa322-593f-f111-88b5-6045bd0066ad",
   "contentHash": "51aa3652beac7a6cd153ac6281b32cdfae36cd16877d064c63a6b6949cbdb0cb",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Migrar a Fabric DW con archivos SQL",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=46b875fc-433d-f111-88b5-002248085b3f",
   "contentHash": "4c7d0bc3a55a9a07c6084b59ec263cb2bbd7c0466ad242828618de798db003de",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "4c7d0bc3a55a9a07c6084b59ec263cb2bbd7c0466ad242828618de798db003de",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Copy job: replicación basada en CDC desde Salesforce",
+      "descriptionEs": "Copy job incorporará un conector CDC de Salesforce para capturar inserciones, actualizaciones y borrados a nivel de fila y replicarlos en cualquier destino compatible."
+    }
   }
 }

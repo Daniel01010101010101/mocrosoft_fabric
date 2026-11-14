@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=aa94dc1e-14b9-f011-bbd2-0022480a2ecf",
   "contentHash": "f7cd06d3dd1404017a325ca4aba9bc85440ded0365993cf9d8b375605a8a26fa",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "f7cd06d3dd1404017a325ca4aba9bc85440ded0365993cf9d8b375605a8a26fa",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "COPY INTO: compatibilidad con Workspace Identity",
+      "descriptionEs": "COPY INTO admitirá la workspace identity como credencial para acceder de forma segura al almacenamiento sin gestionar credenciales."
+    }
   }
 }

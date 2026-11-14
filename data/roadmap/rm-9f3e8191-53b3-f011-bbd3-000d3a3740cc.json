@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=9f3e8191-53b3-f011-bbd3-000d3a3740cc",
   "contentHash": "d84b0248bbe4b6b30c3bdec298b6e3bee9ff10c77ae399fb49ef4b552bfb7398",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "AI Functions para enriquecer y transformar texto con LLM (disponibilidad general)",
+      "descriptionEs": ""
+    }
   }
 }

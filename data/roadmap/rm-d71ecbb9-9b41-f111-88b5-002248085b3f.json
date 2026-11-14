@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=d71ecbb9-9b41-f111-88b5-002248085b3f",
   "contentHash": "bf0ba7d1d1545a89f08cebc1103b9c8a12b41c2e9a7cf4a359640f24b0ae0899",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Procesamiento en streaming de los feeds de cambios de bases replicadas en Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=2774e8e2-ed5a-f111-bec7-000d3a376137",
   "contentHash": "f91d200bf072694a61edf92b00ac8a9b51f09e725e0cff09489c5f12a4d76231",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "URLs de archivos de OneLake en los visuales de informes",
+      "descriptionEs": ""
+    }
   }
 }

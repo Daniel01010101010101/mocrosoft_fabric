@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=5f0a14b7-1d3c-f111-88b5-002248085b3f",
   "contentHash": "13a74e6433af18973b1236bc3129fea396852476d6202b74eb6f8b0178464e46",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "API REST para crear, obtener y actualizar la definición del warehouse",
+      "descriptionEs": ""
+    }
   }
 }

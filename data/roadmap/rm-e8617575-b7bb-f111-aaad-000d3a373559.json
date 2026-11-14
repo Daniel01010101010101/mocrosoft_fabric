@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=e8617575-b7bb-f111-aaad-000d3a373559",
   "contentHash": "fd04c1457aeae0a489237032474ab7625c75939a177ecce9461e3f81d08bbeae",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "fd04c1457aeae0a489237032474ab7625c75939a177ecce9461e3f81d08bbeae",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Botón de acción para ordenar desde el visual",
+      "descriptionEs": "Un nuevo botón en el título del visual llevará las opciones de ordenación al propio visual."
+    }
   }
 }

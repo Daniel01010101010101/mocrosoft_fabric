@@ -9,7 +9,7 @@
   "publishedAt": "2025-07-15T18:15:05.614Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,5 +56,16 @@
     "tags": "Features",
     "gaDate": "2025-07",
     "modified": "2025-07-15T18:15:05.6141334Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "0f69ade356cd2e29c8dd1b89a0b1efa88256a22332cf2a056fbb08ba2ebcf760",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Disponibilidad general: mirroring de Azure Databricks Unity Catalog en OneLake de Fabric",
+      "summaryEs": "El mirroring de Unity Catalog de Azure Databricks da acceso seguro y de alto rendimiento a las tablas de Databricks desde Fabric sin copiar datos."
+    }
   }
 }

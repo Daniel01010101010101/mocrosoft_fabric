@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,12 +57,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/microsoft-odbc-driver-for-microsoft-fabric-data-engineering-preview",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:122"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.004Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "398f4eea696770cd55760f6557cac8d1008a23ef22b23b4cc9334672af8d6f63",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Microsoft controlador ODBC (versión preliminar)",
+      "summaryEs": "El controlador ODBC de Microsoft para Fabric Data Engineering (versión preliminar) permite .NET, Python y otras herramientas de BI y aplicaciones compatibles con ODBC para conectarse a Spark SQL en Fabric a través de las API de Livy con autenticación Microsoft Entra ID, reutilización de sesiones y captura previa asincrónica. Para más información, consulte el controlador Microsoft ODBC para Microsoft Fabric Data Engineering (Vista previa)."
+    }
   }
 }

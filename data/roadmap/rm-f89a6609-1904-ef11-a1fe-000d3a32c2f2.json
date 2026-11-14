@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=f89a6609-1904-ef11-a1fe-000d3a32c2f2",
   "contentHash": "393c0ff951aa35c9f2fbed07f16740b23ad31ccd0ce727416e27623c300c8ff2",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Usar Real-Time hub para obtener datos en una base de datos KQL de Eventhouse",
+      "descriptionEs": ""
+    }
   }
 }

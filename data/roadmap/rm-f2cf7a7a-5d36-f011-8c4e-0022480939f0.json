@@ -14,10 +14,16 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=f2cf7a7a-5d36-f011-8c4e-0022480939f0",
   "contentHash": "e3676cb0737bc87dcbb19e73c22e4b8379b97b2dd65d32ae59c60b375b0e72a7",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "e3676cb0737bc87dcbb19e73c22e4b8379b97b2dd65d32ae59c60b375b0e72a7",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Job Events (disponibilidad general)"
+    }
   }
 }

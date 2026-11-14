@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=fb13dc63-5b07-ef11-9f89-000d3a34b75c",
   "contentHash": "536335a72b50291882d37e57e8cc80180a020be8fabfb36526c30f3d3197b082",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Notificaciones por correo mejoradas para errores de actualización",
+      "descriptionEs": ""
+    }
   }
 }

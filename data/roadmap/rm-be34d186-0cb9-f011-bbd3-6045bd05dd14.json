@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=be34d186-0cb9-f011-bbd3-6045bd05dd14",
   "contentHash": "5f4ad8aa875e6706adfa729969854d0b2ac1ce8e6123c4e5e7884b5bba2ac4a4",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "5f4ad8aa875e6706adfa729969854d0b2ac1ce8e6123c4e5e7884b5bba2ac4a4",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Conexiones con nombres de workspace legibles",
+      "descriptionEs": "Podrás configurar un nombre de servidor legible para cada workspace, en lugar de los nombres codificados y complejos de las cadenas de conexión actuales, para gestionar las conexiones con más facilidad."
+    }
   }
 }

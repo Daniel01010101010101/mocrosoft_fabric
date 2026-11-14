@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=780616b3-1204-ef11-a1ff-000d3a34140d",
   "contentHash": "73e26c0810d3bc4fee8d34e8cb5ffd3655dbc03d7801bdd744698ecbfee0f302",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Nuevos conectores de streaming para clústeres públicos de Kafka y más instancias de SQL Server CDC",
+      "descriptionEs": ""
+    }
   }
 }

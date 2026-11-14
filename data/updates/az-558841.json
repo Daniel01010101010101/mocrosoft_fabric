@@ -10,7 +10,7 @@
   "publishedAt": "2026-03-25T17:45:33.542Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -55,5 +55,16 @@
     "tags": "Features",
     "previewDate": "2026-03",
     "modified": "2026-03-25T17:45:33.5422578Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "1b39e0f8b772eacee033bc65e1081f12fab6886b1c16c99f8c3f2aceb3b391db",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Preview pública: integración de Fabric Mirroring con Azure Database for MySQL",
+      "summaryEs": "Replica datos de Azure Database for MySQL – Flexible Server en Fabric casi en tiempo real, sin pipelines ETL. Los datos llegan a OneLake en formato Delta Parquet."
+    }
   }
 }

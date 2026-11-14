@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=d2e07536-32b3-f011-bbd3-00224808fcf0",
   "contentHash": "c0f6ec267e7f0a25e9657491128d97a5a77ad216e28d65c69e21fc9dc8cdbc83",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "OneLake catalog de Fabric en Obtener datos de Excel",
+      "descriptionEs": ""
+    }
   }
 }

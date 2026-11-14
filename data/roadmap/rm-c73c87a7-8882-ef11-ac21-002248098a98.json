@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=c73c87a7-8882-ef11-ac21-002248098a98",
   "contentHash": "5138dbbc43a4e79bda1ec1ed0eadf5b613346727b6f785953515c315931bdfaa",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Compatibilidad del on-premises data gateway (OPDG) con pipelines",
+      "descriptionEs": ""
+    }
   }
 }

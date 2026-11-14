@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=6aa6c918-e3b8-f011-bbd3-6045bd05dd14",
   "contentHash": "6b875c59d878cbc39d7d17a9fcfd3e6372aea763a5e97cbc2b8be2a5d11fa944",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Compatibilidad de SSMS 22.3 con Fabric Warehouse",
+      "descriptionEs": ""
+    }
   }
 }

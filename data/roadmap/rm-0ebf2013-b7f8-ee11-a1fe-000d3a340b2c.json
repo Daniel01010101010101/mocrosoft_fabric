@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=0ebf2013-b7f8-ee11-a1fe-000d3a340b2c",
   "contentHash": "40ea86c9a5c7ec97bcfafbf05b1419fecbaa22bfb4d03a392d70a7e2d7e07cc6",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Metadatos de shortcuts de Lakehouse en Git y deployment pipelines",
+      "descriptionEs": ""
+    }
   }
 }

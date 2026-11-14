@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=efd5c877-8f3f-f111-88b5-6045bd00f798",
   "contentHash": "c3b8580f3a1d19628af39c570b37c9d8648f01f24038c4e972485b5eeeda2312",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Conectividad local y de red virtual para los conectores de Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

@@ -6,7 +6,6 @@ import type { Store } from '../core/store';
 import { truncate } from '../core/text';
 import { AiClient, AiFatalError, type StructuredClient } from './client';
 import { buildUpdatePrompt } from './context';
-import { GitHubModelsClient } from './githubModels';
 import { ANALYSIS_SYSTEM_PROMPT, BRIEF_ANALYSIS_NOTE, ROADMAP_SYSTEM_PROMPT, TRANSLATE_SYSTEM_PROMPT } from './prompts';
 import { AnalysisSchema, RoadmapBatchSchema, UpdateTranslationBatchSchema, type AnalysisOutput } from './schema';
 
@@ -173,21 +172,15 @@ export async function enrich({ store, config, issues, client, log = () => {} }: 
         level: 'warning',
         stage: 'config',
         message:
-          'Traducción y análisis con IA pendientes: no hay ningún servicio de IA disponible (ni ANTHROPIC_API_KEY ni el token de GitHub Models). Las novedades se guardan y se traducirán en cuanto haya uno.',
+          'Análisis con IA pendiente: falta configurar el secreto ANTHROPIC_API_KEY. Mientras tanto se usan las traducciones oficiales de Microsoft Learn y las traducciones ya guardadas; el resto se traducirá automáticamente en cuanto se configure la clave.',
         at: new Date().toISOString(),
       });
     }
     return stats;
   }
 
-  let ai: StructuredClient;
-  if (client) ai = client;
-  else if (provider === 'github') {
-    const gh = new GitHubModelsClient(config);
-    await gh.init(log);
-    ai = gh;
-  } else ai = new AiClient(config);
-  stats.model = provider === 'github' ? `github:${ai.model}` : ai.model;
+  const ai: StructuredClient = client ?? new AiClient(config);
+  stats.model = ai.model;
   const limits = ai.limits;
 
   const deadline = Date.now() + config.aiTimeBudgetMs;

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=2d795c03-a033-f111-88b4-6045bd0a886d",
   "contentHash": "0c4958fd764a7f3f19a53738161ec62533aefc049e94d89a2b607cc993b347d1",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: nuevo destino libros de Excel (XLSX)",
+      "descriptionEs": ""
+    }
   }
 }

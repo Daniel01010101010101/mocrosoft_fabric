@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=562778a0-f6d6-ee11-9079-000d3a341a60",
   "contentHash": "67d2915a9209e8712de72d9250cb3f48c73461f6efe1ba471dd5a15c29d9d5d0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mejoras de los destinos de salida de Dataflow Gen2 (esquema de consulta)",
+      "descriptionEs": ""
+    }
   }
 }

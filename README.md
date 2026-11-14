@@ -14,7 +14,8 @@ Plataforma web en español que **consulta automáticamente las fuentes oficiales
 |---|---|
 | Consulta automática 5 veces al día | Workflow programado de GitHub Actions (`.github/workflows/ingest.yml`) a las 06:17, 11:17, 16:47, 19:47 y 23:17 UTC. No depende de que nadie abra la página. |
 | Fuentes oficiales | Microsoft Fabric Updates Blog (RSS), Power BI Updates Blog (RSS), Microsoft Learn *What's new in Microsoft Fabric*, Azure Updates (API oficial, filtrada a Fabric/OneLake) y Microsoft Fabric Roadmap (endpoint JSON del roadmap oficial). |
-| Todo en español | Detección automática de idioma + traducción y análisis con Claude, conservando los nombres técnicos originales. Siempre se mantiene el enlace a la publicación original. |
+| Todo en español | Tres capas: (1) la **versión oficial en español de Microsoft Learn** (`es-es`) se empareja fila a fila con la inglesa; (2) **traducciones guardadas** en `data/translations/` para el blog, Azure Updates y el roadmap; (3) traducción y análisis con Claude para todo lo nuevo (requiere `ANTHROPIC_API_KEY`). Se conservan los nombres técnicos y siempre el enlace a la publicación original. |
+| Sección PowerTable | Página `/powertable` con una guía completa para empezar desde cero (qué es, requisitos, costes con calculadora, primera app paso a paso, diseño de datos, seguridad, automatizaciones, límites, errores frecuentes, plan de implantación, checklist y FAQ) y las novedades y elementos del roadmap de PowerTable/Planning detectados automáticamente. |
 | Análisis detallado | Cada novedad tiene una ficha con: nombre, fecha, categoría, resumen ejecutivo, qué es, cómo funciona (con diagrama de flujo), qué problema resuelve, ventajas, cómo implementarla, casos de uso, impacto, ejemplo de código, documentación oficial y publicación original. |
 | Histórico por días, semanas y meses | Secciones *Últimas novedades*, *Últimas semanas* (7/15/30 días), *Histórico* (agrupado por mes, filtros por fecha, categoría y tecnología, buscador) y *Roadmap*. |
 | Dashboard | Totales, hoy, semana, mes, funcionalidades nuevas, Preview, GA, categorías más activas, evolución mensual, top 5 y novedades transformadoras. |
@@ -71,7 +72,7 @@ Plataforma web en español que **consulta automáticamente las fuentes oficiales
 
 A partir de ahí todo es automático: cada ejecución consulta las fuentes, actualiza la base de datos, la guarda en `main` y publica el sitio.
 
-> Sin `ANTHROPIC_API_KEY` la plataforma funciona igualmente (consulta, almacena y muestra las novedades), pero los textos se ven en su idioma original con la etiqueta «Traducción pendiente»; se traducen solos en cuanto se configura la clave.
+> Sin `ANTHROPIC_API_KEY` la plataforma funciona igualmente: consulta, almacena y muestra las novedades, y las enseña en español usando la traducción oficial de Microsoft Learn y las traducciones guardadas en `data/translations/`. Lo que se publique nuevo en el blog o en Azure Updates, y las fichas de análisis completas, aparecerán con la etiqueta «Traducción pendiente» hasta que se configure la clave. Nota: GitHub Models no se usa porque GitHub lo retiró el 30 de julio de 2026.
 
 ### Variables opcionales (*Settings → Secrets and variables → Actions → Variables*)
 
@@ -102,14 +103,17 @@ npm run build           # API estática + build de producción en web/dist
 .github/workflows/   ingest.yml (cron 5×/día + publicación), pages.yml (despliegue), ci.yml
 pipeline/src/
   sources/           rss.ts, learnWhatsNew.ts, azureUpdates.ts, roadmap.ts
-  core/              http.ts, store.ts, ingest.ts, classify.ts, language.ts, validate.ts, text.ts
+  core/              http.ts, store.ts, ingest.ts, classify.ts, language.ts, validate.ts, text.ts,
+                     learnSpanish.ts (traducción oficial es-es), storedTranslations.ts
   ai/                client.ts, prompts.ts, schema.ts, context.ts, enrich.ts
   export/buildApi.ts API JSON estática para el frontend
   run.ts, cli.ts     orquestación de una ejecución y CLI
 pipeline/test/       tests de fuentes, ingesta, IA, calendario y estado
 shared/              tipos, categorías y calendario compartidos por pipeline y frontend
 web/src/             frontend (páginas, componentes, gráficos, búsqueda)
+web/src/content/     contenido editorial (guía de PowerTable)
 data/                base de datos persistente (generada por el pipeline)
+data/translations/   traducciones guardadas (se aplican solo si el texto original no ha cambiado)
 ```
 
 ## Categorías

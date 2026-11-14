@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=bfd0bc17-7dba-f011-bbd2-0022480a2ecf",
   "contentHash": "78981154dc3b051e703edf217a473205c78bf105c140d03ce7e49467e68c2518",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "78981154dc3b051e703edf217a473205c78bf105c140d03ce7e49467e68c2518",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Compatibilidad con CSV en el Native Execution Engine",
+      "descriptionEs": "El Native Execution Engine de Spark en Fabric leerá CSV de forma nativa, reduciendo los retornos a la JVM de Spark y mejorando el rendimiento, el coste y la latencia de la ingesta, sobre todo en cargas Delta con muchas escrituras."
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=a01bdd91-f480-f111-ab0f-6045bd00f506",
   "contentHash": "9fe0b5608df0e8a9d9d2fa8b90c1c274256d69761c65cc65b317f8f5ca94fc1d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Proveedor de Terraform para Fabric v1.12.0",
+      "descriptionEs": ""
+    }
   }
 }

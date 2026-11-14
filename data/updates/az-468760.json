@@ -9,7 +9,7 @@
   "publishedAt": "2024-11-19T16:00:37.593Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -50,5 +50,16 @@
     "tags": "Microsoft Ignite, Security, Management, Compliance, Features",
     "gaDate": "2024-11",
     "modified": "2024-11-19T16:00:37.5936893Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "921f0e653a7b562e536dbdf2ecd7a8b44ab17246d450556b1ebb2715165da90b",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Disponibilidad general: OneLake catalog, un catálogo completo para descubrir, gestionar y gobernar datos",
+      "summaryEs": "OneLake catalog, con sus pestañas Explore y Govern, permite descubrir datos de confianza en todo Fabric y da a los responsables herramientas, recomendaciones y métricas de gobierno."
+    }
   }
 }

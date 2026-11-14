@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=78b6ff36-22f3-f011-8407-000d3a33bffb",
   "contentHash": "ca604a47915c8c774f7ad298cd295620540ef40a4ea6ec77da266433bde0295d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mirroring: Oracle",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=c9992756-086f-f011-bec2-00224804b6c3",
   "contentHash": "5e4fb6c007340cd2b9d111cb60006e1c9067bddb53918f85dddc366001fef2d6",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Airflow: añade fácilmente un proveedor de Fabric Notebook a tu código DAG",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricecosystem&releaseItem=ab5d87c7-f86e-f011-bec3-0022480939f0",
   "contentHash": "6d2410dcf66e3183b569384b1b25789be3f0819f42c16aa878c41894719a9b7a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Fusion Data Hub",
+      "descriptionEs": ""
+    }
   }
 }

@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-09T15:58:55.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -85,9 +85,14 @@
   },
   "meta": {},
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.888Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "a76527f0da69b8eb552efd39e8ba66e7f14b8209fb10ac897b5b14956d984b78",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Líder en integración de datos por sexto año consecutivo",
+      "summaryEs": "Microsoft es reconocida como Líder en el Gartner Magic Quadrant 2026 de herramientas de integración de datos por sexto año seguido."
+    }
   }
 }

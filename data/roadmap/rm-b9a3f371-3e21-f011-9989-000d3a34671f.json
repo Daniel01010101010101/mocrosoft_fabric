@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=b9a3f371-3e21-f011-9989-000d3a34671f",
   "contentHash": "4db92897a5eac4909983aa028673defebb4c0f60c564ea93e6cba91da74aab0e",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: historial de actualizaciones con estadísticas del motor M",
+      "descriptionEs": ""
+    }
   }
 }

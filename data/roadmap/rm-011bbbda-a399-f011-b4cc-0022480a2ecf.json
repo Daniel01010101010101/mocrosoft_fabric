@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=011bbbda-a399-f011-b4cc-0022480a2ecf",
   "contentHash": "fa27ab4c2f61e5fdaaa6f62c71a890d23f1da487f6819d10550cddfbc477cddb",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Power Query para semantic models Import en la web",
+      "descriptionEs": ""
+    }
   }
 }

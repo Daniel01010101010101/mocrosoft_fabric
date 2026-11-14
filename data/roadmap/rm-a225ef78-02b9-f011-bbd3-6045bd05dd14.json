@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=a225ef78-02b9-f011-bbd3-6045bd05dd14",
   "contentHash": "b948eb1b51726e84fe408b7037f3f3cb425d755de3301cbb6f452dba8f975ea1",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Claves administradas por el cliente para SQL database",
+      "descriptionEs": ""
+    }
   }
 }

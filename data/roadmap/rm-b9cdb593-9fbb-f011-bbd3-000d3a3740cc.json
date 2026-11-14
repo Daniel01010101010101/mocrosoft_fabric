@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=b9cdb593-9fbb-f011-bbd3-000d3a3740cc",
   "contentHash": "78313fbe05ba4717ed62ff59959c74a12c4c26b84f0686760939e4bfce52bc89",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Outbound access protection para Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

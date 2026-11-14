@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,12 +58,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Evaluate-Fabric-workload-performance-with-the-modern-evaluation/ba-p/5330293",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:126"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.965Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "1c58ad0d8f49eae5cdd25b1f5a35de8752114844e2ebdb187fa8a16266a7ec51",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Motor moderno de evaluación para pasarelas de datos VNet (Vista previa)",
+      "summaryEs": "El motor de evaluación moderno para pasarelas de datos VNet (Preview) ofrece una ruta de ejecución opt-in para evaluaciones mashup soportadas, de modo que puedas probar la actualización semántica del modelo, la actualización de Dataflow Gen2 y el rendimiento de DirectQuery sin cambiar la arquitectura de tu red privada. Para más información, consulte Motor de evaluación moderno para pasarelas de datos VNet."
+    }
   }
 }

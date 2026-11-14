@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=8680dd77-9cfc-ee11-a1ff-000d3a341a60",
   "contentHash": "0634b6ef6ea8ed7fa8f76d8bf4de0db8ec4126abf18891057ad5d19adb5e5ab9",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Conectar con nuevos orígenes y crear informes paginados en Power BI Report Builder",
+      "descriptionEs": ""
+    }
   }
 }

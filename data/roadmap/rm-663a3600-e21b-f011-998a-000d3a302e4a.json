@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=663a3600-e21b-f011-998a-000d3a302e4a",
   "contentHash": "f04dc74bd697e310df25378c4c8fec1781b5109d37df223c6d2800e69a44437b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Editor de SQL database en Fabric",
+      "descriptionEs": ""
+    }
   }
 }

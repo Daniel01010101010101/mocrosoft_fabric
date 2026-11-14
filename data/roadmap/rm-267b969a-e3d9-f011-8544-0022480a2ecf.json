@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=267b969a-e3d9-f011-8544-0022480a2ecf",
   "contentHash": "7138c8f0b6e15f63bc6b11f4c30baf985524be92eb4aff69ebad15d6d27d1b04",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "API de importación y exportación de la definición de proyectos de base de datos SQL",
+      "descriptionEs": ""
+    }
   }
 }

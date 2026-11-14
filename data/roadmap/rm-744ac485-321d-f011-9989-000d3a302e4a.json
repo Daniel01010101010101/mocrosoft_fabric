@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=744ac485-321d-f011-9989-000d3a302e4a",
   "contentHash": "b60456cbc6843e2551ed77e67ff549adf5c60f978469b7cd2e2a0e8e920d68c8",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Private Link a nivel de workspace para SQL database",
+      "descriptionEs": ""
+    }
   }
 }

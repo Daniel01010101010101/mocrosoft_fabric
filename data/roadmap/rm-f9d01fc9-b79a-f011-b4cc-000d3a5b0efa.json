@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=f9d01fc9-b79a-f011-b4cc-000d3a5b0efa",
   "contentHash": "92a76b34d52da339a2a2d92afa7b0a666ba709cb69b2b660f0da13238a23b209",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copy job: replicación basada en CDC hacia una tabla de Fabric Lakehouse",
+      "descriptionEs": ""
+    }
   }
 }

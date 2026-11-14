@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=c287226c-6ec2-f111-aaad-70a8a5b19412",
   "contentHash": "7e786779ab94d7cea45e30c908dc77d5a02fe97e5f055190d659d7f72a154c9d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "7e786779ab94d7cea45e30c908dc77d5a02fe97e5f055190d659d7f72a154c9d",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "ALTER COLUMN (disponibilidad general)",
+      "descriptionEs": "ALTER COLUMN a NOT NULL permitirá exigir que una columna tenga siempre valor directamente sobre la tabla existente, sin reconstruirla (CTAS o drop/rename) y conservando su historial. Junto con las restricciones DEFAULT, las filas existentes se rellenan automáticamente, por lo que el cambio es seguro."
+    }
   }
 }

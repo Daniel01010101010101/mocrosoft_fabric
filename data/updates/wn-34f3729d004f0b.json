@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,12 +56,18 @@
     "section": "ga",
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
-    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_140"
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_140",
+    "position": "ga:4"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.058Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "9295e0a1b6189babaa2ddaefd011faaccf98a6a0532d7e604a415241a1a866bf",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "CDC de solo lectura Snowflake (disponibilidad general)",
+      "summaryEs": "El CDC de solo lectura de Snowflake permite que el trabajo de copia ingiera los cambios de las bases de datos de solo lectura de Snowflake. Para más información, consulta Snowflake CDC en Copy job."
+    }
   }
 }

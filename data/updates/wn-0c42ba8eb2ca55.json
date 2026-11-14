@@ -10,7 +10,7 @@
   "publishedAt": "2026-07-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -62,12 +62,18 @@
     "section": "ga",
     "month": "July 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
-    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/See-your-business-as-it-happens-with-Real-Time-Dashboard-in/ba-p/5327997"
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/See-your-business-as-it-happens-with-Real-Time-Dashboard-in/ba-p/5327997",
+    "position": "ga:97"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.143Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "f736187ef5e96043ca1e9e046660eed9713de417d2a5f8b69b72c4dc048be0c6",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Panel de control en tiempo real (Disponibilidad general)",
+      "summaryEs": "Panel en tiempo real (Disponibilidad general) te permite monitorizar los datos de Eventhouse con actualización en vivo, mosaicos creados con Copilot, exploración en profundidad, alertas de Activator y compartir con el equipo. Para más información, consulta ¿Qué es Real-Time Panel de Control? y Crear un Panel de Control Real-Time."
+    }
   }
 }

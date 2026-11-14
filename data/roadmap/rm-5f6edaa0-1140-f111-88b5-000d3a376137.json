@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=5f6edaa0-1140-f111-88b5-000d3a376137",
   "contentHash": "388f573f0db6a15812473ad8271edb85f99c8cc26feccbb431ac276ffcb6e605",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "388f573f0db6a15812473ad8271edb85f99c8cc26feccbb431ac276ffcb6e605",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Mejoras de la cuadrícula de datos en Data Warehouse y SQL endpoint (hito 2)",
+      "descriptionEs": "La cuadrícula de datos de warehouses y SQL analytics endpoints incluirá:\n* Manejo de grandes volúmenes con virtualización.\n* Reordenar, ocultar, agrupar y fijar columnas, columnas dinámicas y selección de varias filas.\n* Ordenación por varias columnas y filtros personalizados por tipo de dato.\n* Búsqueda en todas las columnas.\n* Copiar con o sin encabezados y exportar en varios formatos."
+    }
   }
 }

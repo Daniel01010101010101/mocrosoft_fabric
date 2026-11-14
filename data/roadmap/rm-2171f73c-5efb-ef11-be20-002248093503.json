@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=2171f73c-5efb-ef11-be20-002248093503",
   "contentHash": "f4628d2b4e6a550f7238b5206889eb8e200ba9d49e950c6537f5291a8108f75e",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mirroring para Azure Database for PostgreSQL Flexible Server",
+      "descriptionEs": ""
+    }
   }
 }

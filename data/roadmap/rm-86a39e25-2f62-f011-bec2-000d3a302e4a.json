@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=86a39e25-2f62-f011-bec2-000d3a302e4a",
   "contentHash": "e7d5fef2a3d9430f60465c5ff54d54fa518fe05e66f2b39e4877833304e31497",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "OneLake catalog de Fabric: exploración mejorada",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=1f049b30-a482-ef11-ac21-002248098a98",
   "contentHash": "9d585c589b9c3bd08ad730f77b8708d112f15bde8359f4e30d00050ae24f61b1",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copilot para el SQL analytics endpoint",
+      "descriptionEs": ""
+    }
   }
 }

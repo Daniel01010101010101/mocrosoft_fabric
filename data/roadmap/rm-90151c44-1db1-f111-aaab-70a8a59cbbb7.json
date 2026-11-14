@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=90151c44-1db1-f111-aaab-70a8a59cbbb7",
   "contentHash": "aa1a3717e5618dd534529764aa21f74e70d15336fce0f2317a428fe6196f9461",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Fabric SQL: migración de SQL Server a Fabric SQL (disponibilidad general)",
+      "descriptionEs": ""
+    }
   }
 }

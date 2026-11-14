@@ -11,7 +11,7 @@
   "publishedAt": "2026-08-21T21:06:18.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -217,9 +217,14 @@
   },
   "meta": {},
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.004Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "2355b92e959decc4615e02c7320dcaeacec8d7de735730ec4ee996c2e57535a5",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Resumen de novedades de Power BI: agosto de 2026",
+      "summaryEs": "Actualizaciones de agosto en informes, modelado, conectividad de datos, móvil, análisis integrado y desarrollo, con mejoras ya disponibles de forma general y nuevas funciones en Preview."
+    }
   }
 }

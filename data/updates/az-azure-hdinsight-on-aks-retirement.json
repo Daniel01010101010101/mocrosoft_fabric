@@ -9,7 +9,7 @@
   "publishedAt": "2024-08-29T07:00:00.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -52,5 +52,16 @@
     "products": "Microsoft Fabric",
     "tags": "Retirements",
     "modified": "2024-08-29T07:00:00.0000000Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "35b69252479fbba1200c7cd20ce77de36dfed295e217d3a767f1e7c9621957fd",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Retirada: Azure HDInsight on AKS se retira el 31 de enero de 2025",
+      "summaryEs": "Los clústeres restantes se detendrán y eliminarán; hay que migrar las cargas a Microsoft Fabric o a otro producto equivalente de Azure antes de esa fecha."
+    }
   }
 }

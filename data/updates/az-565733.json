@@ -9,7 +9,7 @@
   "publishedAt": "2026-06-17T18:00:18.767Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,9 +56,14 @@
     "modified": "2026-06-17T18:00:18.7677390Z"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.154Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "a4e80b16d7f10e79935081910b2ab901fdd10bcd1a936f6aea0b0fd54ff84f59",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Disponibilidad general: lectura nativa de Microsoft OneLake desde Azure Databricks",
+      "summaryEs": "Azure Databricks lee datos de OneLake de forma nativa a través de Unity Catalog, sin mover ni copiar datos, simplificando el acceso y el gobierno entre plataformas."
+    }
   }
 }

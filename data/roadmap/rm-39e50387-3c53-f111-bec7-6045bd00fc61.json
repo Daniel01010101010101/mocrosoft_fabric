@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=39e50387-3c53-f111-bec7-6045bd00fc61",
   "contentHash": "4fee0c52468c745ad86d7c49af88ada3f3feeb3f7baf765346a447a7f3258362",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "4fee0c52468c745ad86d7c49af88ada3f3feeb3f7baf765346a447a7f3258362",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "MLflow 3 en Fabric: logged models y trazas",
+      "descriptionEs": "MLflow 3 llega a Fabric con trazas, logged models y una interfaz de seguimiento de experimentos renovada: vista de tabla de trazas, visualización de trazas anidadas, página de detalle de cada traza y API e interfaz para gestionar los artefactos del modelo como objetos de primer nivel."
+    }
   }
 }

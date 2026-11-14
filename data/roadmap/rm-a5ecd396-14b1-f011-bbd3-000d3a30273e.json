@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=a5ecd396-14b1-f011-bbd3-000d3a30273e",
   "contentHash": "2c26a063d73573648d706913e5073bf3d1d1ebb22ef5d50e9d331f22ce9ddf58",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pipelines: actividad para actualizar el SQL endpoint",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=dbfb5522-a703-f111-8406-6045bd00f798",
   "contentHash": "be81260881b88f909317f27fbf91c6ff346f6c654f612a5f695c1894a1cceef3",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Modelado de propiedades sin tipo",
+      "descriptionEs": ""
+    }
   }
 }

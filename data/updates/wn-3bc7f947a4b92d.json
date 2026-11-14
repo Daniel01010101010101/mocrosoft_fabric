@@ -10,7 +10,7 @@
   "publishedAt": "2026-03-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -62,6 +62,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-march-2026-feature-summary/#post-34196-_Toc224559579"
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-march-2026-feature-summary/#post-34196-_Toc224559579",
+    "position": "preview:137"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "7d909c3bfd7c33646bd22f21dc858e371e008411ab720a1ac3674bf31e93ea03",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "API de búsqueda de OneLake Catalog, MCP y herramientas de CLI (versión preliminar)",
+      "summaryEs": "OneLake Catalog search API and MCP tool (Preview) lleva la detección entre áreas de trabajo al código con una única solicitud de búsqueda para buscar elementos coincidentes en el patrimonio accesible en función de los metadatos del catálogo y los permisos de usuario, con la funcionalidad también incluida como una herramienta integrada en el servidor MCP de Fabric Core para agentes de IA. El comando Fabric CLI fab find extiende la búsqueda al terminal para que pueda buscar elementos entre áreas de trabajo, filtrar o excluir por tipo de elemento y canalizar los resultados a través de JMESPath.…"
+    }
   }
 }

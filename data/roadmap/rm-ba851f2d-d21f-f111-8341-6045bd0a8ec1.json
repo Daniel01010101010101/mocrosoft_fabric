@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=ba851f2d-d21f-f111-8341-6045bd0a8ec1",
   "contentHash": "ef6bab08c6e86ff5c11f2d2f3eb303250e706dd512b34d7974bc215cdfd46dd1",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "ef6bab08c6e86ff5c11f2d2f3eb303250e706dd512b34d7974bc215cdfd46dd1",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Segmentación de lista con modo desplegable",
+      "descriptionEs": "Segmentación de lista con modo desplegable y opciones de búsqueda avanzada."
+    }
   }
 }

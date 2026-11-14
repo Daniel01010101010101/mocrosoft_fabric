@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=ca78acee-dddb-ef11-a730-0022480405c9",
   "contentHash": "2e516e92ea1ead029aa372af629b607bf4d3277bc5e7e0c201453a62255c0b9f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Compatibilidad con tipos de orígenes de datos de Azure Monitor",
+      "descriptionEs": ""
+    }
   }
 }

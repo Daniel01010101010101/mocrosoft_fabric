@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=8ab10225-1277-f011-b4cb-000d3a34671f",
   "contentHash": "fe3732b7633607ff2955f02249f97458794b40e21609ee288adcfb0f14638f4a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Creación simplificada de reglas y objetos",
+      "descriptionEs": ""
+    }
   }
 }

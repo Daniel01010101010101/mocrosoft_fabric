@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=0227ebbc-9f1b-f011-998a-0022480939f0",
   "contentHash": "06636eadf7966f027c7e600d5be6b174c038f62d89391ae521337cd3c157560f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Auditoría para Fabric SQL database",
+      "descriptionEs": ""
+    }
   }
 }

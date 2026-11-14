@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=c0f2ed53-f2b8-f011-bbd3-000d3a3740cc",
   "contentHash": "d958c49622df543c3cc7274da7eb139f93825cd7d9ea85f63d6624009a6f14fe",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Variable Library: variables de referencia a elementos",
+      "descriptionEs": ""
+    }
   }
 }

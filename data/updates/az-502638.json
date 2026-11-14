@@ -10,7 +10,7 @@
   "publishedAt": "2025-09-08T12:00:02.744Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -79,5 +79,16 @@
     "tags": "Features",
     "previewDate": "2025-09",
     "modified": "2025-09-08T12:00:02.7446357Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "be5568296a9dcb612c27271a267287d3165cba9a77698fa95885775b5624aa47",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Preview pública: Graph Query Language (GQL) en la semántica de grafos de KQL",
+      "summaryEs": "KQL admite consultas GQL según el estándar ISO en cualquier Eventhouse de Fabric o Azure Data Explorer, para trabajar con grafos con un lenguaje estándar del sector."
+    }
   }
 }

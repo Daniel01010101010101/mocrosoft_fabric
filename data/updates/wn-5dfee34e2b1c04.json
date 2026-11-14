@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -52,12 +52,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:149"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.983Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "f801eaa98f984af4b6b93dad547f97e4c65564494977ad4dcf1121c225ae3b82",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Compatibilidad de paginación con el conector HTTP de Eventstream (versión preliminar)",
+      "summaryEs": "Puedes añadir una fuente HTTP a un event stream (vista previa) para ingerir respuestas paginadas de la API REST mediante paginaciones basadas en páginas o cursores, eliminando la orquestación personalizada al incorporar registros de actividad, registros de auditoría o eventos operativos a Eventstream."
+    }
   }
 }

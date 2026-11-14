@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=4d0a2b79-f3ba-f011-bbd3-000d3a3740cc",
   "contentHash": "f75b1344c36bdc70facc8969e1093d55208d73ec194c7a82de981c6c9d1c97ee",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Shortcut Transformations: CSV a Delta",
+      "descriptionEs": ""
+    }
   }
 }

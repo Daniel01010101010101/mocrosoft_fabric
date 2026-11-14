@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=50f83e60-1f40-f111-88b5-000d3a376137",
   "contentHash": "24b1f9c0bebd6797020bb84baf5dc297dd7698c5b3e071a3ed43f6d496845f74",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "24b1f9c0bebd6797020bb84baf5dc297dd7698c5b3e071a3ed43f6d496845f74",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Claves administradas por el cliente (CMK) para Ontology",
+      "descriptionEs": "Las organizaciones podrán controlar las claves de cifrado que protegen en reposo los datos y metadatos de la ontología:\n* Usar sus propias claves de cifrado.\n* Rotarlas y gobernarlas según sus políticas de cumplimiento.\n* Alinear la ontología con los estándares de cifrado del resto de plataformas de datos."
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=0f4e0001-0933-ef11-8409-000d3a31cfdc",
   "contentHash": "4624866a6e3650db960759362005f75e4971fd67cfcd34ff42a7c71e41a7e908",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Crear paneles en tiempo real con Copilot",
+      "descriptionEs": ""
+    }
   }
 }

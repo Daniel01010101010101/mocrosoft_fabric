@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,12 +58,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-your-Google-Lakehouse-Runtime-Catalog-data-to-OneLake/ba-p/5360492",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:99"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.916Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "9f6b1457f580b972213509c75d777c044070e293d4fb063fa5f7eef3ce776fb8",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Duplicación del catálogo de Google Lakehouse Runtime (Vista previa)",
+      "summaryEs": "El espejo de catálogo de Runtime Lakehouse (Preview) de Google Lakehouse incorpora metadatos del catálogo Iceberg gestionado por Google a OneLake sin copiar datos, para que puedas usar las tablas en las cargas de trabajo de Fabric. Para más información, consulta Google Lakehouse Runtime Catalog mirroring."
+    }
   }
 }

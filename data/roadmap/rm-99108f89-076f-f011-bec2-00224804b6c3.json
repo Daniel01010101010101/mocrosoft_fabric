@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=99108f89-076f-f011-bec2-00224804b6c3",
   "contentHash": "ffe7f168ce84e9bb4507d6c41564a81f754a0e1503ce6511c7b8cf5d78b8a657",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "ffe7f168ce84e9bb4507d6c41564a81f754a0e1503ce6511c7b8cf5d78b8a657",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Pipelines: definir la identidad de ejecución («Run As») desde la programación",
+      "descriptionEs": "Podrás establecer, al programar la ejecución, con qué identidad se ejecuta el pipeline (usuario, service principal o workspace identity), tanto desde la API como desde la interfaz del programador."
+    }
   }
 }

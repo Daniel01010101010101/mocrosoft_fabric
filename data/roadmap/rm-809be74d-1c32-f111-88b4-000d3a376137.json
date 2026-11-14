@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=809be74d-1c32-f111-88b4-000d3a376137",
   "contentHash": "8f0d6d4b3397a2907e702c0f377abfbc595f94c4a39a5353ea27c3dbf64776d1",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copy job: particionado automático de tablas grandes de Oracle, SAP HANA y Lakehouse",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=d6e09340-c39d-f011-b41c-6045bd00f9db",
   "contentHash": "f1431bcf70520e9fbf06d0a9272852c608389c70308ab552a68c87b647a0965c",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pipelines: actividad de aprobaciones",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=f788e85b-d891-ef11-ac21-002248098a98",
   "contentHash": "b2796784e0ffd5500aa2aa654f142c40e3bb6f01b30ad9110da53f6e96cb30f3",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Vista previa de datos en nuevos orígenes: CDC en Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=a7454e43-04bd-ef11-b8e8-6045bd034fed",
   "contentHash": "ecd6163c0c4db9e78c3fbae50edc9f9bf9e02ab9be8bf03f61c8948bd9983e58",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Ingesta continua a Eventhouse desde Azure Storage (Preview)",
+      "descriptionEs": ""
+    }
   }
 }

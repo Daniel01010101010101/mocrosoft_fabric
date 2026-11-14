@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=8d7e4e5e-da0a-ef11-9f89-000d3a34b75c",
   "contentHash": "423e48aa159ae57e08a77f4ad6127e93be15d840bc60aa1da3b35249a1e8e07d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Deployment pipelines: nueva interfaz",
+      "descriptionEs": ""
+    }
   }
 }

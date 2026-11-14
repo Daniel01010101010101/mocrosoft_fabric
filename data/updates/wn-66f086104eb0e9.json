@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -53,12 +53,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/build-end-to-end-fabric-solutions-with-sql-database-skills-preview/5357234",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:171"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.916Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "ddea510640c7e84cd7fccb58bcee76a400f6bc2e3955122f3518e3a251b7767a",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Habilidades en bases de datos SQL (Vista previa)",
+      "summaryEs": "Las habilidades en bases de datos SQL (Preview) ofrecen a los agentes de codificación de IA orientación específica para la carga de trabajo para crear esquemas, consultar datos y operar bases de datos SQL como parte de soluciones Fabric más amplias. Para más información, consulta Trabajar con habilidades en bases de datos SQL en Microsoft Fabric."
+    }
   }
 }

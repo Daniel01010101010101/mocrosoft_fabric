@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=2aaf1457-96b0-f111-aaab-70a8a59cbbb7",
   "contentHash": "fb777603032f83f7bd3abc6187052562a91b392d0fdb2e884238047b5ba22850",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "fb777603032f83f7bd3abc6187052562a91b392d0fdb2e884238047b5ba22850",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Fabric Chargeback app",
+      "descriptionEs": "**Fabric Chargeback app: compatibilidad con etiquetas.** El etiquetado permitirá atribuir y analizar el consumo de capacidad según dimensiones de negocio definidas por el cliente, como proyecto, función, workspace, centro de coste o departamento, para repartir costes y elaborar informes alineados con la estructura financiera de la organización.\n\n**Sobre la app:** Microsoft Fabric Chargeback app ayuda a entender qué equipos, usuarios y cargas de trabajo consumen la capacidad para repartir los costes según el uso real. Los administradores de capacidad pueden:\n* Entender qué impulsa el coste: qué workspaces, usuarios o elementos consumen más.\n* Repartir los costes de forma justa entre departamentos.\n* Optimizar la planificación de capacidad identificando elementos costosos y ajustando asignaciones o autoescalado."
+    }
   }
 }

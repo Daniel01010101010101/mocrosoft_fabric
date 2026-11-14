@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=8d813219-0a72-f011-bec3-00224802d8fd",
   "contentHash": "dca7432614d6bbb1cdc63ba74733a282d1b6d683b427a08ca7fdcccb59ae333f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Outbound Access Protection (OAP) en Fabric Warehouse y SQL endpoints",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=ecdec705-121b-f011-9989-6045bd03a542",
   "contentHash": "2db6da71c699f0f4c802213476ad39e2ffce4e5383b5c92a5e7572f621256821",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Power Query: Obtener datos moderno en Power BI Desktop",
+      "descriptionEs": ""
+    }
   }
 }

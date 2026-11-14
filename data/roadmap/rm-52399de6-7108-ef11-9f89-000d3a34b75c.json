@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=52399de6-7108-ef11-9f89-000d3a34b75c",
   "contentHash": "8094199c80c2f12ed2fc3b32fac759f76d0de10d776547d27a2e84b315f4896a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Directivas de prevención de pérdida de datos de Purview para OneLake: más cargas de trabajo",
+      "descriptionEs": ""
+    }
   }
 }

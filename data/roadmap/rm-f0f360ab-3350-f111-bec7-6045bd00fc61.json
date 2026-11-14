@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=f0f360ab-3350-f111-bec7-6045bd00fc61",
   "contentHash": "0b38dd13dd01acf116a83bd83ff780eebde63e99269a0fd5618f0d056ceb02fe",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "0b38dd13dd01acf116a83bd83ff780eebde63e99269a0fd5618f0d056ceb02fe",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Spark Workspace Monitoring v1",
+      "descriptionEs": "Una experiencia de supervisión de Spark a nivel de workspace para ver y analizar ejecuciones en curso e históricas, filtrar, profundizar y comparar el rendimiento entre elementos, con acceso a registros y métricas mediante KQL para crear consultas y paneles propios."
+    }
   }
 }

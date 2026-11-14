@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=a3c892bc-d7b2-f111-aaab-70a8a59cbac4",
   "contentHash": "961a650258d15c66a155e89d99d0f48b4e3ab9be76469fb0b39e5ee812a34281",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "961a650258d15c66a155e89d99d0f48b4e3ab9be76469fb0b39e5ee812a34281",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Preview de Runtime 2.1 (Spark 4.2 y Delta 4.4)",
+      "descriptionEs": "Fabric Runtime 2.1 actualiza la base a Apache Spark 4.2 y Delta Lake 4.4, con Python 3.14, Scala 2.13 y Java 21. El Native Execution Engine se activa por defecto en las cargas compatibles, con opciones documentadas para desactivarlo. Incluye un conjunto de paquetes integrados más ligero (PySpark y SparkR) y bibliotecas opcionales mediante Library Manager o un Environment. La Preview pública está prevista para el 31 de enero de 2027, con guía de migración y limitaciones conocidas."
+    }
   }
 }

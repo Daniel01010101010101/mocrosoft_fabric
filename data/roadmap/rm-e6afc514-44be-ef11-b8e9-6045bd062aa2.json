@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=e6afc514-44be-ef11-b8e9-6045bd062aa2",
   "contentHash": "daaa26d78e99686d4e7ebecba24b0f59c90816b374671f8e89d042b2eda05c55",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Facturación de Fabric Events",
+      "descriptionEs": ""
+    }
   }
 }

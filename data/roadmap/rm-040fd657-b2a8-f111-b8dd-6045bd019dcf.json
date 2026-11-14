@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=040fd657-b2a8-f111-b8dd-6045bd019dcf",
   "contentHash": "910b84524552305327c1d8d6a863de7aa75920a5a4a3bcfcb0a4533a2b719db4",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: generador de documentos Excel para el destino XLSX",
+      "descriptionEs": ""
+    }
   }
 }

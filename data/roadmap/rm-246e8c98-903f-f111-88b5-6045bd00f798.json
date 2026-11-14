@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=246e8c98-903f-f111-88b5-6045bd00f798",
   "contentHash": "6da5c8df923e5caa9f0a610bc893deb059d55696646a3d54a6d1de7f0406b543",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Autenticación con Workspace Identity en el origen Event Hub de Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=5db8bce1-2b43-f111-88b5-6045bd00fc61",
   "contentHash": "f7a1912e0ae24ad7308e42cae2ccc0536d16de803ed9250f9c701ef4c04ff629",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "f7a1912e0ae24ad7308e42cae2ccc0536d16de803ed9250f9c701ef4c04ff629",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Supervisión de Data Agent: retroalimentación de usuarios a creadores",
+      "descriptionEs": "Los creadores de Data Agents podrán ver cómo interactúan los usuarios con sus agentes y acceder a la valoración que dejan en canales como Microsoft 365 Copilot, Fabric u Org App, para mejorarlos. La primera versión cubrirá Microsoft 365 Copilot y después se ampliará a otros canales."
+    }
   }
 }

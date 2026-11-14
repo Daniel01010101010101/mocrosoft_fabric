@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=cbd7f1b7-9d9d-ef11-8a6a-002248098a98",
   "contentHash": "0999b2d075375ebf0edecbf63bd01c7ff150464b8d89bc4e53683991db5dd977",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Supervisión del Native Execution Engine",
+      "descriptionEs": ""
+    }
   }
 }

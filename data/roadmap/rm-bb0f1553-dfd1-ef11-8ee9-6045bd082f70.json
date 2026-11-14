@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=bb0f1553-dfd1-ef11-8ee9-6045bd082f70",
   "contentHash": "cd5e6fca34813c43df63f72c6dc34b67289bfac420de5de592eb151184205aba",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Los elementos de workloads de socios pueden guardar datos en sus propias carpetas de OneLake",
+      "descriptionEs": ""
+    }
   }
 }

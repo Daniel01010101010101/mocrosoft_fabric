@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=409987af-d649-f111-bec7-6045bd00f506",
   "contentHash": "eb617a4c90f2184fb2b5d2e5cdf817ea937020009e4540cc1f3b463e01f0920a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "eb617a4c90f2184fb2b5d2e5cdf817ea937020009e4540cc1f3b463e01f0920a",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Conector del change feed de tablas Delta de Lakehouse para Eventstream",
+      "descriptionEs": "Eventstream leerá los cambios de las tablas Delta con change feed de un Lakehouse y los transmitirá en tiempo real:\n* Inserciones, actualizaciones y borrados en Eventstream.\n* Análisis y paneles incrementales sobre los cambios.\n* Alertas y acciones basadas en eventos."
+    }
   }
 }

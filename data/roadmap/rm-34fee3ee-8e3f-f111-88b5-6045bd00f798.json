@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=34fee3ee-8e3f-f111-88b5-6045bd00f798",
   "contentHash": "6ba615cab8d523134bf1664dd4fc6602f62d689c10faec79a46c67fb0de94f14",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "6ba615cab8d523134bf1664dd4fc6602f62d689c10faec79a46c67fb0de94f14",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Conector de origen de Azure Data Explorer para Eventstream",
+      "descriptionEs": "El conector de Azure Data Explorer para Eventstream amplía los límites de ingesta y permite transmitir el resultado de una consulta personalizada para seguir procesándolo en tiempo real en Fabric."
+    }
   }
 }

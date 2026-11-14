@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=d7638308-5020-f011-998a-0022480939f0",
   "contentHash": "2ab6dacab170d543e3ae4b03738f4412bad37b2cc910fa2c2733095ba6d9f4cd",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "OneLake catalog: Copilot para resumir semantic models",
+      "descriptionEs": ""
+    }
   }
 }

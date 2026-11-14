@@ -20,6 +20,7 @@ const Categories = lazy(() => import('./pages/Categories'));
 const CategoryDetail = lazy(() => import('./pages/CategoryDetail'));
 const UpdateDetail = lazy(() => import('./pages/UpdateDetail'));
 const Status = lazy(() => import('./pages/Status'));
+const PowerTable = lazy(() => import('./pages/PowerTable'));
 
 const queryClient = new QueryClient({
   defaultOptions: {
@@ -47,6 +48,7 @@ createRoot(document.getElementById('root')!).render(
                 <Route path="/categorias/:id" element={<CategoryDetail />} />
                 <Route path="/novedad/:id" element={<UpdateDetail />} />
                 <Route path="/estado" element={<Status />} />
+                <Route path="/powertable" element={<PowerTable />} />
                 <Route path="*" element={<NotFound />} />
               </Routes>
             </Suspense>

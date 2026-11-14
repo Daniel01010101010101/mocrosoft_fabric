@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=dd54c7b8-5ffb-ef11-be20-002248093503",
   "contentHash": "a636e1d0cf59a24f41c3c372d9874f47406dbfda4fded93cd78061c8b73e3a79",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mirroring de bases de datos detrás de firewall",
+      "descriptionEs": ""
+    }
   }
 }

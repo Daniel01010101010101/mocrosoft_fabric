@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricecosystem&releaseItem=ce1e0ca7-2070-f111-ab0d-6045bd0a886d",
   "contentHash": "8504ac2278353a1e7e908c183c35de9feec8d698fb27edfbff7185f5240b681a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "8504ac2278353a1e7e908c183c35de9feec8d698fb27edfbff7185f5240b681a",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Salesforce Data Cloud 360 lee datos de OneLake",
+      "descriptionEs": "Los clientes de Salesforce Data Cloud podrán acceder a los datos de OneLake sin copiarlos. Guía de configuración: https://developer.salesforce.com/docs/data/data-cloud-int/guide/c360-a-set-up-microsoftfabriconelake-connection.html"
+    }
   }
 }

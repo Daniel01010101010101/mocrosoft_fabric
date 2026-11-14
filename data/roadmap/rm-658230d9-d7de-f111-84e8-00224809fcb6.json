@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=658230d9-d7de-f111-84e8-00224809fcb6",
   "contentHash": "3b3e0b5503222b9187c6ae74e051fd48eaa5da6d1dfc85dd7202993447eb0c8c",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "3b3e0b5503222b9187c6ae74e051fd48eaa5da6d1dfc85dd7202993447eb0c8c",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Mirroring: función para asumir la propiedad",
+      "descriptionEs": ""
+    }
   }
 }

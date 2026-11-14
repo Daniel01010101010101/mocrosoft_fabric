@@ -53,9 +53,9 @@ export interface ProviderLimits {
   concurrency: number;
 }
 
-/** Interfaz común a los proveedores de IA (Claude y GitHub Models). */
+/** Interfaz del proveedor de IA (permite simularlo en los tests). */
 export interface StructuredClient {
-  readonly provider: 'anthropic' | 'github';
+  readonly provider: 'anthropic';
   readonly model: string;
   readonly limits: ProviderLimits;
   structured<S extends z.ZodType>(opts: StructuredRequest<S>): Promise<StructuredCallResult<z.infer<S>>>;

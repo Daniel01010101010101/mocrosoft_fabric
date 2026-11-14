@@ -304,7 +304,7 @@ export interface RunIssue {
 
 export interface AiRunStats {
   configured: boolean;
-  provider?: 'anthropic' | 'github' | 'none';
+  provider?: 'anthropic' | 'none';
   model: string | null;
   /** Novedades con título y resumen traducidos en esta ejecución. */
   translated?: number;
@@ -360,7 +360,7 @@ export interface SystemStatus {
     /** Novedades con título y resumen en español (por análisis o traducción rápida). */
     translatedUpdates?: number;
   };
-  ai: { configured: boolean; model: string | null; provider?: 'anthropic' | 'github' | 'none' };
+  ai: { configured: boolean; model: string | null; provider?: 'anthropic' | 'none' };
 }
 
 /* ------------------------------------------------------------------ */

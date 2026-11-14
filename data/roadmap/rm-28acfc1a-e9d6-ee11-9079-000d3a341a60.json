@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=28acfc1a-e9d6-ee11-9079-000d3a341a60",
   "contentHash": "0781c0524ba54787cc7c2955192b6ac440bc8755c4bc7c192d4f5b5b5ecef568",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Directivas de prevención de pérdida de datos de Microsoft Purview para Lakehouses en OneLake",
+      "descriptionEs": ""
+    }
   }
 }

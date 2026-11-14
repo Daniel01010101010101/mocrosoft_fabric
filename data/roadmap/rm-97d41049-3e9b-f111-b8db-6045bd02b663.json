@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=97d41049-3e9b-f111-b8db-6045bd02b663",
   "contentHash": "b6799ca0d051bb394b2ed5a8d61b8c3120df05bd5d24b9335d7dfb9bae2538d6",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: copia de seguridad de resultados entre actualizaciones",
+      "descriptionEs": ""
+    }
   }
 }

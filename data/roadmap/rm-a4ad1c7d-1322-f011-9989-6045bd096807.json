@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=a4ad1c7d-1322-f011-9989-6045bd096807",
   "contentHash": "7e2c25ca1f1cf521651a7e47d5f5ec986e03a37d097f7e13b251e7436d42d337",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Versionado en vivo de notebooks",
+      "descriptionEs": ""
+    }
   }
 }

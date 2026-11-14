@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=51063ee7-4b31-ef11-8409-000d3a31cfdc",
   "contentHash": "2683bcb93793f4c04155ec857748760180d7b79fa1b633fd1757d97a45609e85",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copilot para Real-Time Intelligence",
+      "descriptionEs": ""
+    }
   }
 }

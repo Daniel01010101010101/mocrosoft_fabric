@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=dbee8e7c-c29a-f011-b4cc-000d3a5b0efa",
   "contentHash": "c6d5804dad06dfd97712bfdd53306cfb62400a5d40c4d199b8f0a3997ca26148",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copy job: SAP con complemento ABAP",
+      "descriptionEs": ""
+    }
   }
 }

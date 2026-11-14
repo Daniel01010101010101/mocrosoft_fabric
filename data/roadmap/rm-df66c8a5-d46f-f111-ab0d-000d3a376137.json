@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=df66c8a5-d46f-f111-ab0d-000d3a376137",
   "contentHash": "b05b10b053308d0a0d93ee43aed02846702d0addf6a793d62cb2cae18b656af7",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "b05b10b053308d0a0d93ee43aed02846702d0addf6a793d62cb2cae18b656af7",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Visual de tarjeta: gráfico de tendencia",
+      "descriptionEs": "Muestra un gráfico de tendencia integrado (de líneas o columnas) dentro de los visuales de tarjeta para ver cómo cambian los valores en el tiempo, sin SVG ni visuales adicionales."
+    }
   }
 }

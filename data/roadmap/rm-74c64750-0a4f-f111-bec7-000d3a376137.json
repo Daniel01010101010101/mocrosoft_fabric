@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=74c64750-0a4f-f111-bec7-000d3a376137",
   "contentHash": "da818b84d158c2a1f5aeeab3fb6a5329c24cd27e57621b01c37171af5dc02404",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "da818b84d158c2a1f5aeeab3fb6a5329c24cd27e57621b01c37171af5dc02404",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Asociar una identidad a elementos y programaciones de Fabric",
+      "descriptionEs": "Hoy los elementos y sus programaciones se ejecutan con la identidad del propietario o creador, por lo que pipelines, copy jobs o shortcuts fallan si esa persona se va o su token caduca. Fabric introduce la identidad asociada: una identidad de ejecución duradera (empezando por Workspace Identity y Schedule Run-as) que se asigna con nuevas APIs e interfaz. Separa la ejecución de la propiedad, reduce la gestión de secretos y refuerza la seguridad."
+    }
   }
 }

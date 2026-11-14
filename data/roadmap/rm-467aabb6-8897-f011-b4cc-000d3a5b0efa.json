@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=467aabb6-8897-f011-b4cc-000d3a5b0efa",
   "contentHash": "8f4f4bb627b7f568eaff47e7aa6545d58dfff5ca14cfe513f057d4b524afcecb",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Atajos de teclado para navegar rápido",
+      "descriptionEs": ""
+    }
   }
 }

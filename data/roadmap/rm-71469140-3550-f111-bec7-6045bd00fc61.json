@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=71469140-3550-f111-bec7-6045bd00fc61",
   "contentHash": "41bd63991dd5fdc91835f78c0d1c48f1d1df63dd2db45a2004c9c87461790473",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "41bd63991dd5fdc91835f78c0d1c48f1d1df63dd2db45a2004c9c87461790473",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Seguimiento de dependencias y vista de linaje de las ejecuciones de notebooks",
+      "descriptionEs": "Una experiencia de linaje de ejecuciones de notebooks para Spark que muestra de un vistazo el estado de todas las ejecuciones, ayuda a encontrar la causa raíz de los fallos en ejecuciones anidadas y señala cuellos de botella, con filtros, detalle de errores y resúmenes de salud y uso de recursos."
+    }
   }
 }

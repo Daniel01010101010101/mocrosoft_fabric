@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=e648f127-86d7-ee11-9079-000d3a310f67",
   "contentHash": "689f4e35103a648349ba7b79e19af6352e693c4e0d60241dac9e4e5ecf6b6d8d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Autoescalado de Eventstreams",
+      "descriptionEs": ""
+    }
   }
 }

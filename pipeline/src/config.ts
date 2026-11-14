@@ -22,21 +22,17 @@ function intEnv(name: string, fallback: number): number {
   return Number.isFinite(n) && n >= 0 ? n : fallback;
 }
 
-export type AiProvider = 'anthropic' | 'github' | 'none';
+export type AiProvider = 'anthropic' | 'none';
 
 export interface PipelineConfig {
   anthropicApiKeyPresent: boolean;
   /**
    * Proveedor de IA para traducir y analizar:
-   *  - anthropic: Claude (si existe ANTHROPIC_API_KEY). Máxima calidad.
-   *  - github: GitHub Models con el token del workflow (sin claves ni configuración).
-   *  - none: sin IA (las novedades se guardan y quedan pendientes de traducción).
+   *  - anthropic: Claude (si existe ANTHROPIC_API_KEY).
+   *  - none: sin IA (se usan las traducciones oficiales de Microsoft Learn y las ya guardadas).
    */
   aiProvider: AiProvider;
-  githubToken?: string;
-  /** Modelo preferido en GitHub Models (si no está disponible se elige otro del catálogo). */
-  githubModel: string;
-  /** Peticiones de IA como máximo por ejecución (respeta el límite diario de GitHub Models). */
+  /** Peticiones de IA como máximo por ejecución (control de coste). */
   aiMaxRequestsPerRun: number;
   aiModel: string;
   aiEffort: 'low' | 'medium' | 'high' | 'xhigh' | 'max';
@@ -64,18 +60,12 @@ export function loadConfig(): PipelineConfig {
   const repo = process.env.GITHUB_REPOSITORY;
   const runId = process.env.GITHUB_RUN_ID;
   const anthropicApiKeyPresent = Boolean(process.env.ANTHROPIC_API_KEY && process.env.ANTHROPIC_API_KEY.trim().length > 0);
-  const githubToken = (process.env.GH_MODELS_TOKEN ?? '').trim() || undefined;
   const requested = (process.env.AI_PROVIDER ?? 'auto').trim().toLowerCase();
-  let aiProvider: AiProvider = 'none';
-  if (requested === 'anthropic') aiProvider = anthropicApiKeyPresent ? 'anthropic' : 'none';
-  else if (requested === 'github') aiProvider = githubToken ? 'github' : 'none';
-  else if (requested !== 'none') aiProvider = anthropicApiKeyPresent ? 'anthropic' : githubToken ? 'github' : 'none';
+  const aiProvider: AiProvider = requested !== 'none' && anthropicApiKeyPresent ? 'anthropic' : 'none';
   return {
     anthropicApiKeyPresent,
     aiProvider,
-    githubToken,
-    githubModel: (process.env.GH_MODELS_MODEL ?? '').trim() || 'openai/gpt-4.1-mini',
-    aiMaxRequestsPerRun: intEnv('AI_MAX_REQUESTS_PER_RUN', aiProvider === 'github' ? 28 : 400),
+    aiMaxRequestsPerRun: intEnv('AI_MAX_REQUESTS_PER_RUN', 400),
     // Modelo por defecto: Claude Opus 5.5. Se puede cambiar con la variable AI_MODEL.
     aiModel: (process.env.AI_MODEL ?? '').trim() || 'claude-opus-5-5',
     aiEffort: ['low', 'medium', 'high', 'xhigh', 'max'].includes(effort) ? effort : 'medium',

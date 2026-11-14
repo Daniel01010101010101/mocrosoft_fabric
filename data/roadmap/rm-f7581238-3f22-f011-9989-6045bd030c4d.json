@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=f7581238-3f22-f011-9989-6045bd030c4d",
   "contentHash": "7ea9a907a34f3f22e8482e97f9011a701dedf6d22b9bd0a0593c3c390cb1a69f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "TMDL View",
+      "descriptionEs": ""
+    }
   }
 }

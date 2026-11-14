@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=eb5a5641-83f4-ef11-be21-6045bd077c18",
   "contentHash": "880aa088a413d9485415b67f41a414547f9cc54844a37e3e6615c2a83f3645ec",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Disparadores de pipelines de Fabric Data Factory (disponibilidad general)",
+      "descriptionEs": ""
+    }
   }
 }

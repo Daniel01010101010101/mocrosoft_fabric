@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=68f476e0-9f44-ef11-8409-0022480a694f",
   "contentHash": "f2e100c4879e8d2afc2b2a207694b8381800a44865d1dfcad4e9e9f69396f774",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Fast Copy en Dataflow Gen2",
+      "descriptionEs": ""
+    }
   }
 }

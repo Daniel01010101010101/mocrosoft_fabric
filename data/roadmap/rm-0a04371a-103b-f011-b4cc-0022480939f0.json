@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=0a04371a-103b-f011-b4cc-0022480939f0",
   "contentHash": "58c83def14639e61370eba045bedcdb2193e24a0a5404fc63853079c173968f6",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Ejemplo de Workspace Monitoring",
+      "descriptionEs": ""
+    }
   }
 }

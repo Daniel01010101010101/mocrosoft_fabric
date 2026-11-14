@@ -10,7 +10,7 @@
   "publishedAt": "2026-08-04T21:00:00.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -44,9 +44,14 @@
   },
   "meta": {},
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.022Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "cca9943cf70a5cf4ee4a99786991fb57c7da402d145f54d5145280a7bb3d871a",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "A fondo: formato condicional en líneas y leyendas",
+      "summaryEs": "Cómo dar vida a los informes de Power BI con formato condicional dinámico en líneas y leyendas, que se mantiene coherente y se actualiza automáticamente cuando cambian los datos."
+    }
   }
 }

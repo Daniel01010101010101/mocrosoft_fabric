@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=35cac4f3-85d7-ee11-9079-000d3a310f67",
   "contentHash": "6eb5c32352fc54f93a638d9f1283ced1d7db9ce216215710a5cbd86a9435c399",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pausar, detener o reiniciar flujos de Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=26b7e462-542e-f011-8c4e-0022480939f0",
   "contentHash": "f045bf1643c312746801af74864a2614d9433247a7375fc38a83e86f1d8109d4",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Digital Twin Builder",
+      "descriptionEs": ""
+    }
   }
 }

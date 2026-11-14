@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=653e4f5f-d01f-f111-8341-6045bd0a8ec1",
   "contentHash": "f03821ef5a1260c1975cce20a2e6dfe6ac335dcaa7ac0eb30236c66fb456e949",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Establecer como página de inicio en informes de Power BI",
+      "descriptionEs": ""
+    }
   }
 }

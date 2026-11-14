@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=1c90397d-1d93-ef11-ac21-6045bd062aa2",
   "contentHash": "d3c3ec0733737d7a13095821f56c386468e9165dd9bf5c8da4d8e8f5e3eb5a77",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Asumir la propiedad de elementos de Fabric",
+      "descriptionEs": ""
+    }
   }
 }

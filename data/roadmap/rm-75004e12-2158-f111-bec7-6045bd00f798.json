@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=75004e12-2158-f111-bec7-6045bd00f798",
   "contentHash": "a84fb4c1ad88560ba828093539ef7cb989123e9bff3a847a8cd5923ab11d8be8",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "a84fb4c1ad88560ba828093539ef7cb989123e9bff3a847a8cd5923ab11d8be8",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Feature Store",
+      "descriptionEs": "El feature store de Fabric será un sistema centralizado para definir, almacenar, servir y descubrir las características (features) que alimentan los modelos de machine learning, evitando que cada equipo construya sus propios pipelines."
+    }
   }
 }

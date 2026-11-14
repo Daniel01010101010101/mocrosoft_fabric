@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=8f28de71-0eb1-f011-bbd3-000d3a30273e",
   "contentHash": "44b5f5b4c8b8b4d3ed4291d3d77ade28566d917a9c397cdb3a3dacfd6141883d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Airflow: subir archivos a proyectos de Apache Airflow job",
+      "descriptionEs": ""
+    }
   }
 }

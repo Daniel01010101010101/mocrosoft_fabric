@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=d569f830-2abb-f011-bbd3-000d3a30273e",
   "contentHash": "32788bae4cfa27bb7ee3c8200ad11e482dabc914694bde7898b1104d457db452",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Fabric Remote MCP (Preview pública)",
+      "descriptionEs": ""
+    }
   }
 }

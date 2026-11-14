@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=c265c7b8-09b9-f011-bbd3-6045bd00f9db",
   "contentHash": "9182c8c0e2b1b790696b313c04df8cb82daba7b0328294afc2c5f7769e670d1b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "OneLake file explorer (disponibilidad general)",
+      "descriptionEs": ""
+    }
   }
 }

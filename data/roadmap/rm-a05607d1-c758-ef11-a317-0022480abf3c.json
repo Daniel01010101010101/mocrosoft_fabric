@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=a05607d1-c758-ef11-a317-0022480abf3c",
   "contentHash": "5bbe842299244c7efc8c3bdd05e0f58fde1c694dc19805f969150b9c971eee44",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "AutoML con poco código",
+      "descriptionEs": ""
+    }
   }
 }

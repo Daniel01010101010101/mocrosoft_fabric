@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=97bef576-3550-f111-bec7-6045bd00fc61",
   "contentHash": "e08dc4af212dcf51daa5f170d4fbb32511cf7ed1fe4a0429a582ce888336280f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "e08dc4af212dcf51daa5f170d4fbb32511cf7ed1fe4a0429a582ce888336280f",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Spark Diagnostic Emitter para Spark 4.1",
+      "descriptionEs": "El emisor de diagnósticos de Spark se actualiza para la próxima versión Spark 4.1 manteniendo la compatibilidad con Log Analytics (APIs antiguas y nuevas), Event Hub y Blob Storage."
+    }
   }
 }

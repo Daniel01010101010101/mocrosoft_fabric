@@ -11,7 +11,7 @@
   "publishedAt": "2026-08-24T16:14:20.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -59,9 +59,14 @@
   },
   "meta": {},
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.022Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "a6e09ab151be496743a0b73716e539d5e06b9ac6d67a65c84c0697e2e19d07ad",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Columnas calculadas en Direct Lake (Preview)",
+      "summaryEs": "Los semantic models Direct Lake on OneLake admiten columnas calculadas con DAX en Preview, una de las peticiones más solicitadas, que cierra la brecha con los modos Import y DirectQuery."
+    }
   }
 }

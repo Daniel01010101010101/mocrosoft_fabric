@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=2650603c-6fc2-f111-aaad-70a8a5b194d8",
   "contentHash": "36539e6a5d0257450732f14c63692a0bbe84783fbb3b4ae29d4368ed814e6d0a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "36539e6a5d0257450732f14c63692a0bbe84783fbb3b4ae29d4368ed814e6d0a",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Dataflows: envío de correo con formato HTML",
+      "descriptionEs": "La acción Send Email de Dataflow Gen2 admitirá formato HTML enriquecido para incluir resultados de consultas, como tablas, dentro del cuerpo del mensaje. Así podrás enviar resúmenes operativos y actualizaciones de estado legibles sin copiar datos a mano. Estará disponible en Preview."
+    }
   }
 }

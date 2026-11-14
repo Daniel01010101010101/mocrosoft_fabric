@@ -10,7 +10,7 @@
   "publishedAt": "2025-06-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,6 +58,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-june-2025-feature-summary?ft=All#post-24333-_Toc1711112236"
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-june-2025-feature-summary?ft=All#post-24333-_Toc1711112236",
+    "position": "preview:133"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "2f62f04504ea566b0b7612c8daba7efba2a4e84ff7add13469a3c798844ed343",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Notebook Copilot finalización de código insertado (versión preliminar)",
+      "summaryEs": "Ahora en versión preliminar, Copilot Finalización de código en línea (versión preliminar) es una característica de inteligencia artificial que ayuda a los científicos de datos e ingenieros a escribir código Python de forma más rápida y sencilla. Para obtener más información, vea Notebook Copilot finalización de código insertado (versión preliminar)."
+    }
   }
 }

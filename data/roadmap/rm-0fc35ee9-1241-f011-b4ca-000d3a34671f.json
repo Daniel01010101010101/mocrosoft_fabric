@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=0fc35ee9-1241-f011-b4ca-000d3a34671f",
   "contentHash": "0552f78b893517bb0cf5f1d18d9c3ec8b9be9a81c85fa48959f8e43258b8adf6",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Workloads de extensión: estado de los elementos guardado en Fabric",
+      "descriptionEs": ""
+    }
   }
 }

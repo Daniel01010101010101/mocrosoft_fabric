@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=3c983a47-9840-f011-b4ca-000d3a302e4a",
   "contentHash": "fc12191ee3b3ce1c428524f97616db489351c3dff2f0fc3786af5dd047d1e9f1",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Galería de ejemplos en la página del semantic model",
+      "descriptionEs": ""
+    }
   }
 }

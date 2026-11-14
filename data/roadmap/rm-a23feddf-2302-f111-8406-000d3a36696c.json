@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=a23feddf-2302-f111-8406-000d3a36696c",
   "contentHash": "87b1690b5deaeff5bfc515d1f6d6ec2521d4e5ca7d3942192c3602f73f2d8103",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Fabric Graph aplica OneLake security para un acceso gobernado a los grafos",
+      "descriptionEs": ""
+    }
   }
 }

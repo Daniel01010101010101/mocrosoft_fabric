@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=05a34653-7091-ef11-ac21-002248098a98",
   "contentHash": "81c943c28d67fdb17309cb9faa527f2203968983c4d138a63bcc3676ecc50688",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pipelines: compatibilidad con variables del workspace de Fabric",
+      "descriptionEs": ""
+    }
   }
 }

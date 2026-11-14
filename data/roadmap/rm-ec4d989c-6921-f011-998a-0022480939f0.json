@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=ec4d989c-6921-f011-998a-0022480939f0",
   "contentHash": "941ebf6676200a399ec7f979c2074a7ced10e1a2cbb905a4fb0e09b9d6359e8a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copy job: columna de auditoría",
+      "descriptionEs": ""
+    }
   }
 }

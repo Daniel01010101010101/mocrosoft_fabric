@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=e5bc7caf-294e-f111-bec7-000d3a376137",
   "contentHash": "91005ad2c5a1a16e802ad33eee1039026472f4cf53df9951dd63912ab0408c35",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Ventana de consultas de Lakehouse",
+      "descriptionEs": ""
+    }
   }
 }

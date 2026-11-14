@@ -10,7 +10,7 @@
   "publishedAt": "2023-09-13T15:00:13.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -51,5 +51,16 @@
     "tags": "Features",
     "gaDate": "2023-09",
     "modified": "2023-09-13T15:00:13.0000000Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "fab1b32b4693f30948959749077b11da9e272002284337b7b851ef813e4f80a4",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Novedad en Kusto: comando `.show databases entities` para ver tablas, funciones y más",
+      "summaryEs": "El nuevo comando muestra las entidades de todas las bases de datos a las que tienes acceso: tablas, vistas materializadas, tablas externas, funciones y grupos de entidades."
+    }
   }
 }

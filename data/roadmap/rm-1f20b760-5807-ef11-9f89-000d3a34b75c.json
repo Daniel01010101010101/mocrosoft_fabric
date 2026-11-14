@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=1f20b760-5807-ef11-9f89-000d3a34b75c",
   "contentHash": "1d8eda4f807f2cf74aea1dd8e8c2060173ed4503f853862a0eb12f7b29109e07",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Conexiones: gestión de identidades de orígenes de datos (Azure Key Vault)",
+      "descriptionEs": ""
+    }
   }
 }

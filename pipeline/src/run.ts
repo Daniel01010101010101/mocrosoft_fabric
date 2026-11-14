@@ -4,7 +4,9 @@ import { DATA_DIR, loadConfig, type PipelineConfig } from './config';
 import { linkDuplicates, markRemoved, markRoadmapRemoved, upsertRoadmap, upsertUpdate } from './core/ingest';
 import { Store } from './core/store';
 import { fetchAzureUpdates } from './sources/azureUpdates';
-import { fetchWhatsNew } from './sources/learnWhatsNew';
+import { fetchWhatsNew, fetchWhatsNewSpanish, WHATS_NEW_URL } from './sources/learnWhatsNew';
+import { applyLearnSpanish } from './core/learnSpanish';
+import { applyStoredTranslations } from './core/storedTranslations';
 import { fetchRoadmap } from './sources/roadmap';
 import { fetchRssFeed, RSS_FEEDS } from './sources/rss';
 import type { FetchContext, RawUpdate, SourceFetchResult } from './sources/types';
@@ -122,7 +124,25 @@ export async function runPipeline(opts: RunOptions): Promise<RunRecord> {
   /* ------------------------------ 1) Fuentes ------------------------------ */
   // El orden importa: los blogs primero para que Learn/Azure puedan vincularse a ellos.
   for (const feed of RSS_FEEDS) await ingestUpdates(feed.source, () => fetchRssFeed(feed, ctx));
+  // Si alguna entrada de Learn aún no tiene su posición registrada, se fuerza la lectura completa.
+  if ([...store.updates.values()].some((u) => u.source === 'learn-whats-new' && !u.removedFromSourceAt && !u.meta.position)) {
+    delete store.httpCache[WHATS_NEW_URL];
+  }
   await ingestUpdates('learn-whats-new', () => fetchWhatsNew(ctx));
+  // Traducción oficial de Microsoft Learn al español (sin claves ni IA).
+  try {
+    const esRows = await fetchWhatsNewSpanish(ctx);
+    const applied = applyLearnSpanish(store.updates, esRows, now);
+    log(`· learn-whats-new (es-es): ${esRows.length} filas oficiales en español, ${applied} traducciones aplicadas`);
+  } catch (err) {
+    issues.push({
+      level: 'warning',
+      stage: 'fetch',
+      source: 'learn-whats-new',
+      message: `No se pudo leer la versión en español de Microsoft Learn: ${(err as Error).message}`,
+      at: now,
+    });
+  }
   await ingestUpdates('azure-updates', () => fetchAzureUpdates(ctx));
 
   {
@@ -174,6 +194,14 @@ export async function runPipeline(opts: RunOptions): Promise<RunRecord> {
 
   /* ---------------------------- 2) Duplicados ---------------------------- */
   totals.duplicatesLinked = linkDuplicates(store.updates, now);
+
+  /* -------------------- Traducciones guardadas en el repositorio -------------------- */
+  try {
+    const stored = await applyStoredTranslations(dataDir, store.updates, store.roadmap, now);
+    log(`· traducciones guardadas aplicadas: ${stored.updates} novedades, ${stored.roadmap} elementos de roadmap`);
+  } catch (err) {
+    issues.push({ level: 'warning', stage: 'store', message: `No se pudieron aplicar las traducciones guardadas: ${(err as Error).message}`, at: now });
+  }
 
   /* ----------------------- 3) Traducción y análisis ----------------------- */
   let ai = emptyAiStats(config);

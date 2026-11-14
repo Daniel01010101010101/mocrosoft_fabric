@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=a3b61e19-5da0-ef11-8a6a-00224804e9b4",
   "contentHash": "7a309db4bcc668858bf323d134d3c2a1c813a78c98aa389d64ea666c04668f8d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Endpoints en tiempo real para modelos de machine learning (Preview pública)",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=b918794e-059e-f011-b41c-00224808fcf0",
   "contentHash": "4a6ad66e34e9daf3e68c605f051f0464bf9b453f1aaf081913e5d4a0296ed414",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "4a6ad66e34e9daf3e68c605f051f0464bf9b453f1aaf081913e5d4a0296ed414",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Copy job y actividades: mejor rendimiento de lectura de un único archivo Parquet grande",
+      "descriptionEs": "La lectura de un único archivo Parquet grande en Copy job y en actividades de pipeline (Copy, Lookup, GetMetadata y Delete) usará varios hilos para ser más rápida."
+    }
   }
 }

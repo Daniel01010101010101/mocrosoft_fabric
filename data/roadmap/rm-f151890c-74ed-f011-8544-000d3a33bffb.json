@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=f151890c-74ed-f011-8544-000d3a33bffb",
   "contentHash": "e2a41ef346c1861c061350371480a23d071f2cbabc8d746e91cf7b83c716166c",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "e2a41ef346c1861c061350371480a23d071f2cbabc8d746e91cf7b83c716166c",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "API REST para obtener el esquema del warehouse",
+      "descriptionEs": "La API REST permitirá exportar la definición completa del warehouse (esquemas, tablas, vistas, funciones y procedimientos almacenados), con filtros para exportar solo una parte."
+    }
   }
 }

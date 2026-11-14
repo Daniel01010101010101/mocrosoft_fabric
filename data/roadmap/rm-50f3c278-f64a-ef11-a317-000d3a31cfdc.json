@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=50f3c278-f64a-ef11-a317-000d3a31cfdc",
   "contentHash": "9c386d6511feccf2f8d0020de33cc29b1da61b100741998366df83e98e5c42e0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Compatibilidad con ALM en Eventhouse",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=8718f950-76b0-f111-aaab-70a8a59cb855",
   "contentHash": "261debbdfc15efc671f63e8338463cb947ce71b1a2802e8cb30b3ed8f574509d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "261debbdfc15efc671f63e8338463cb947ce71b1a2802e8cb30b3ed8f574509d",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Activar o desactivar que el contexto de Fabric se comparta entre pestañas del navegador",
+      "descriptionEs": "Hoy los elementos abiertos, el orden de pestañas, los fijados y los grupos se trasladan a cada nueva pestaña de Fabric del mismo perfil del navegador. Una nueva opción permitirá elegir si una pestaña nueva continúa ese contexto o se abre limpia, lo que también ayuda a no alcanzar el límite de 20 elementos abiertos."
+    }
   }
 }

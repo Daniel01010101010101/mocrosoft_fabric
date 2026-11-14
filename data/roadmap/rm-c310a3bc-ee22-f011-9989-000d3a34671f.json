@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=c310a3bc-ee22-f011-9989-000d3a34671f",
   "contentHash": "0de06d10e38bf5b9542a8a8a3150bad4c7d0fadb4c6bc2fd7cea56bab87935f9",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Cifrado SSL en la transmisión de datos de los conectores de Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

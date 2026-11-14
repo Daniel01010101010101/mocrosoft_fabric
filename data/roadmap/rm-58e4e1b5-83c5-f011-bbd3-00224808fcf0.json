@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=58e4e1b5-83c5-f011-bbd3-00224808fcf0",
   "contentHash": "159543488ae9a2e5ae6ae12c3deabb8466d34f95ed93b11f204152d6f6e958f3",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "159543488ae9a2e5ae6ae12c3deabb8466d34f95ed93b11f204152d6f6e958f3",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "TMDL View en la web",
+      "descriptionEs": "TMDL View llega a la versión web de Power BI."
+    }
   }
 }

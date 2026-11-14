@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=aed2bded-61d6-ef11-8ee9-6045bd082f70",
   "contentHash": "c71131a50dae56197edd008218eb219155640cbe0de2ed1eb5c857d1954ae1ba",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Kusto Detective Agency: edición especial de Fabric",
+      "descriptionEs": ""
+    }
   }
 }

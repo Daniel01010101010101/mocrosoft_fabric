@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=7c9a04b4-0997-ef11-8a6a-6045bd062aa2",
   "contentHash": "4c81ae19314eb2901c415cef3be2acac31e1c78ce460786ab58a765460a0c14e",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Base de datos KQL como nuevo origen de datos en AI Skill",
+      "descriptionEs": ""
+    }
   }
 }

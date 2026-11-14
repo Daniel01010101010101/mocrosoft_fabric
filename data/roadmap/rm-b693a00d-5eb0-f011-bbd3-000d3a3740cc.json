@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=b693a00d-5eb0-f011-bbd3-000d3a3740cc",
   "contentHash": "b826531b5a14105c07bd6b5ffc72074ff32c40a8454145bf2a47949e89410286",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Capacity Metrics App: estado de salud",
+      "descriptionEs": ""
+    }
   }
 }

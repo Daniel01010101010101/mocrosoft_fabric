@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=4eb2c1c2-41c4-f011-bbd3-6045bd00f9db",
   "contentHash": "90a7b3546ed0e41c2d7e388de527bebd2afe2dfdc53dc8d7f07c547554f60ad0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Cálculos visuales (disponibilidad general)",
+      "descriptionEs": ""
+    }
   }
 }

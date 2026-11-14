@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=318af3b0-6c4b-f011-8779-000d3a302e4a",
   "contentHash": "73002489e9cf2d83f15ce0c359c5f03b2ba88b8de6b5cf381cb1baf23c7bee69",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Explorador de objetos para reducir los cambios de contexto al navegar",
+      "descriptionEs": ""
+    }
   }
 }

@@ -10,7 +10,7 @@
   "publishedAt": "2024-01-24T17:00:22.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -78,5 +78,16 @@
     "tags": "Features",
     "previewDate": "2024-01",
     "modified": "2024-01-24T17:00:22.0000000Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "3441a29cd6b4aac998aee9aeed9d4ba31d58aa1c8b32fb34ab9fb9087e6e8e60",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Nuevas funciones del operador graph-match de KQL: patrones más potentes y control de ciclos",
+      "summaryEs": "graph-match permite expresar patrones más complejos y controlar cómo se tratan los ciclos (caminos cerrados) al buscar coincidencias en grafos."
+    }
   }
 }

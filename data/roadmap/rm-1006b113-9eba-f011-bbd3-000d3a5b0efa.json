@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=1006b113-9eba-f011-bbd3-000d3a5b0efa",
   "contentHash": "0acc625c9106b4e3b691bf7ad0004b4083d0f4eb653e4e59aef670d8889e3eea",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Outbound access protection para bases de datos replicadas",
+      "descriptionEs": ""
+    }
   }
 }

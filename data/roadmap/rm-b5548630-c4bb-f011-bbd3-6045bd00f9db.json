@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=b5548630-c4bb-f011-bbd3-6045bd00f9db",
   "contentHash": "c4db3c5af261280280543dd368d89efc13768747903d6428004e92ae558598b0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Outbound Access Protection para experimentos de ML",
+      "descriptionEs": ""
+    }
   }
 }

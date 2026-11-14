@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=81643458-b721-f011-9989-000d3a34671f",
   "contentHash": "d3caaeaf5d98d0fcaeab6de9e1c525e4c2716542a345458eb438e2d9b153afb7",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Materialized Lake Views de Fabric: actualización óptima",
+      "descriptionEs": ""
+    }
   }
 }

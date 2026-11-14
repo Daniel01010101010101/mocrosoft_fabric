@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=b7e155c6-94bf-f011-bbd3-000d3a5b0efa",
   "contentHash": "4b8240712a34d02e85cbc5620a070f85233041fd0dd3aa83ef0c20df0b01ed68",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "4b8240712a34d02e85cbc5620a070f85233041fd0dd3aa83ef0c20df0b01ed68",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Detección de conflictos de escritura a nivel de archivo (disponibilidad general)",
+      "descriptionEs": "Fabric Warehouse detectará los conflictos de escritura a nivel de archivo: las actualizaciones y borrados simultáneos que afectan a archivos distintos de la misma tabla podrán confirmarse sin conflictos innecesarios, con menos fallos y reintentos."
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=5c1d6f03-7320-f011-998a-0022480939f0",
   "contentHash": "9e880f6e844224fa5890b37b62ffdbba0db02add57afd19908a20985a3b11214",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Seguridad: protección contra la exfiltración de datos del workspace (DEP)",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=e1cbba8d-e9d6-ee11-9079-000d3a341a60",
   "contentHash": "c50b5abae38bd139eb6ca7e873ccc12fbfcf49b63de9099cad2b2339aca8e819",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Reservas de Microsoft Fabric en Azure",
+      "descriptionEs": ""
+    }
   }
 }

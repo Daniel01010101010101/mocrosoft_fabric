@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=90eb7896-87d7-ee11-9079-000d3a310f67",
   "contentHash": "14dfd482db6666274d7f8ca16f94d24326b5f3116edfb534f1852e0968cbba18",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Diseñador de procesamiento de flujos sin código mejorado",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=3876cd93-2aa6-f011-bbd3-000d3a5b0efa",
   "contentHash": "ebfb58dfead893b637fbb49204976433002537228212e72e8c5a9f3eb2d2b3d6",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Origen de Eventstream: espacio de nombres de Event Grid",
+      "descriptionEs": ""
+    }
   }
 }

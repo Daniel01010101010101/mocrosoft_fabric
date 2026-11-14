@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=96d3bf2a-6921-f011-998a-0022480939f0",
   "contentHash": "afb478fe1ba9c54638eed9954e1443672b5c728f5b3e85aaedca93f67791e786",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copy job: upsert en más destinos",
+      "descriptionEs": ""
+    }
   }
 }

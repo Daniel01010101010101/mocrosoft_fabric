@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=b0dea050-a0af-f111-aaab-70a8a59cb884",
   "contentHash": "69b6ad3e24304331163b9dd0f49b2a124de13d8831b29a8559201b762854b25b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "69b6ad3e24304331163b9dd0f49b2a124de13d8831b29a8559201b762854b25b",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Cinta de opciones de informes en la web",
+      "descriptionEs": "La nueva cinta de opciones de informes en la web lleva al navegador la experiencia de la cinta de Power BI Desktop, con un acceso más intuitivo, organizado y coherente a las acciones de creación de informes."
+    }
   }
 }

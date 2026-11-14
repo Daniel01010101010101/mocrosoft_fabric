@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=d1f84414-4621-f011-998a-000d3a341dd9",
   "contentHash": "4a3cd6eb0a0d73648f2a5d2dc660f61f55cb251bdf794bcc95d4193ff8009928",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: destinos de salida recientes",
+      "descriptionEs": ""
+    }
   }
 }

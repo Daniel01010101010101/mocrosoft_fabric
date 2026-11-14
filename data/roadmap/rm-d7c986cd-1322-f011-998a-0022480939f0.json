@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=d7c986cd-1322-f011-998a-0022480939f0",
   "contentHash": "3348230abd55d7db70f012dcd112ab71eea154a5dac1381baa923da075d2032b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Columnas de identidad",
+      "descriptionEs": ""
+    }
   }
 }

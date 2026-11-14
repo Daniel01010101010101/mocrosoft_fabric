@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=995d66e7-0422-f011-9989-000d3a34671f",
   "contentHash": "bf50bceaab5348746a23f5b3cbc954a61237049c15cbbfec7c867cb49accb3e7",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mirroring: kits de inicio de Open Mirroring (SDK de Python)",
+      "descriptionEs": ""
+    }
   }
 }

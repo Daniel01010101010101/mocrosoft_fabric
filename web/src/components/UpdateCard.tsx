@@ -58,11 +58,6 @@ export function UpdateCard({ u, index = 0 }: { u: UpdateSummary; index?: number 
         <h3 className="line-clamp-3 text-[1rem] font-semibold leading-snug tracking-tight text-fg group-hover:text-brand-ink">
           {displayTitle(u)}
         </h3>
-        {u.titleEs && u.titleEs !== u.titleOriginal && (
-          <p className="mt-1 line-clamp-1 text-xs text-fg-subtle" lang="en">
-            {u.titleOriginal}
-          </p>
-        )}
         <p className="mt-2.5 line-clamp-3 text-sm leading-relaxed text-fg-muted" lang={u.summaryEs ? 'es' : u.originalLanguage}>
           {displaySummary(u)}
         </p>

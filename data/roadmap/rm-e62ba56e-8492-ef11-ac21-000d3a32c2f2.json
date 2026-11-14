@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=e62ba56e-8492-ef11-ac21-000d3a32c2f2",
   "contentHash": "0fd322e11eed7b60f4daccea13182bd092cfa4f2da5c8dd9fa1eb47f6a5c2c14",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "«Get Events» desde Activator",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=ad15fc14-4196-ef11-8a6a-00224804e9b4",
   "contentHash": "c6f55955a66bc544598c82878847a562877d195f39e14b55056157cbae8ff58d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copy activity de los pipelines: más orígenes compatibles",
+      "descriptionEs": ""
+    }
   }
 }

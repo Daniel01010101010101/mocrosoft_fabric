@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=e22ba56e-8492-ef11-ac21-000d3a32c2f2",
   "contentHash": "526242793310d2b9271d61ac3be35b6348f05e5669fca1e4ae49e251a3bcac5a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Activator: mejoras de rendimiento y escala",
+      "descriptionEs": ""
+    }
   }
 }

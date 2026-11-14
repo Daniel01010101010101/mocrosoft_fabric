@@ -10,7 +10,7 @@
   "publishedAt": "2026-07-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -55,12 +55,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId-628579680"
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId-628579680",
+    "position": "preview:27"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.154Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "8264996f975af0e22f3e9091fd4594bbb6188025f04d0e4bc0206c701ebe9fe8",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Cambiar la rama Git con el rol de Colaborador (Vista previa)",
+      "summaryEs": "Cambiar la rama Git con el rol Contributor permite que los Colaboradores y Miembros del espacio de trabajo cambien la rama Git conectada sin permisos de administrador del espacio de trabajo. Para obtener más información, vea Permitir que colaboradores y miembros cambien las ramas."
+    }
   }
 }

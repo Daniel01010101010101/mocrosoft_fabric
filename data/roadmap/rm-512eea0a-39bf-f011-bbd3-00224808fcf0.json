@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=512eea0a-39bf-f011-bbd3-00224808fcf0",
   "contentHash": "3d85298bdb5cb45553bd8803ad86d6048f3ad60a53e833ef31256190710f7c6b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "3d85298bdb5cb45553bd8803ad86d6048f3ad60a53e833ef31256190710f7c6b",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Comportamiento de las conexiones a Fabric Warehouse",
+      "descriptionEs": "Las conexiones TDS a Fabric Warehouse respetarán siempre el valor de Initial Catalog: si la base de datos no existe o el nombre está vacío, se devolverá un error de validación en lugar de redirigir a un warehouse cualquiera."
+    }
   }
 }

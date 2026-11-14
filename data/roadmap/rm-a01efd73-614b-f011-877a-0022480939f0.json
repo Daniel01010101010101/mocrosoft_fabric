@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=a01efd73-614b-f011-877a-0022480939f0",
   "contentHash": "35a9c98837fadf769b175845abca9a149a50d4d27e5f52d73f247376987d57f3",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pestañas horizontales para los elementos abiertos y varios workspaces abiertos a la vez",
+      "descriptionEs": ""
+    }
   }
 }

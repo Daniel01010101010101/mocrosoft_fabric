@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=4ec2618a-d849-f111-bec7-6045bd0a886d",
   "contentHash": "671f5566044b65d056a9d35db987020cd1db9500355dfc634e49ec75062c4f9c",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Nuevo origen de Eventstream: SAP Datasphere",
+      "descriptionEs": ""
+    }
   }
 }

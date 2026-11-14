@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=7bf12c7a-3332-f011-8c4d-00224804b6c3",
   "contentHash": "1c32fe0f90d33ddc9035068758d27640b6f1f5b468deca5498950aa6ace4ba12",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mejoras del panel de rendimiento en Fabric",
+      "descriptionEs": ""
+    }
   }
 }

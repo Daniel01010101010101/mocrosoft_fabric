@@ -52,7 +52,7 @@ export function toRoadmapSummary(item: RoadmapItem): RoadmapSummary {
     name: item.name,
     nameEs: item.ai.result?.nameEs ?? null,
     description: item.description,
-    descriptionEs: item.ai.result?.descriptionEs ?? null,
+    descriptionEs: item.ai.result?.descriptionEs || null,
     releaseType: item.releaseType,
     releaseStatus: item.releaseStatus,
     releaseDate: item.releaseDate,

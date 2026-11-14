@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=61dd158c-ec21-f011-998a-0022480939f0",
   "contentHash": "bfc473238b23140106e9d73f2a86059bcb15446da0d4b7e2f4420934eac19d5d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mirroring: nuevo origen Azure SQL Managed Instance",
+      "descriptionEs": ""
+    }
   }
 }

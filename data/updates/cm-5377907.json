@@ -11,7 +11,7 @@
   "publishedAt": "2026-11-05T22:00:00.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -61,9 +61,14 @@
   },
   "meta": {},
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.888Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "b0190d562e9e110b6b69913c8f521ee954f2a9dcb30746d45ab0ddec4a128731",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Los informes de Power BI admiten excepciones de OAP para semantic models de otros workspaces (Preview)",
+      "summaryEs": "Con workspace outbound access protection (OAP), un informe de un workspace protegido ya puede usar un semantic model de otro workspace mediante excepciones controladas."
+    }
   }
 }

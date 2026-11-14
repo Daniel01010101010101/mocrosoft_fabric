@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -72,12 +72,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/prebuilt-azure-ai-services-in-fabric-2",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:153"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.949Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "668d2053f121246bf2bbb67aa79c018d7bbd12453145d8676333f5af1b456ab5",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Herramientas Foundry preconstruidas en vista previa de Fabric",
+      "summaryEs": "El avance de las herramientas Foundry preconstruidas en Fabric es una integración con Foundry Tools, anteriormente conocido como servicios de Azure AI. Foundry Tools (vista previa) permite mejorar fácilmente los datos con modelos de IA preconstruidos sin necesidad de requisitos previos. Actualmente, las herramientas de Foundry precompiladas se encuentran en versión preliminar e incluyen compatibilidad con el Microsoft Azure OpenAI Service, Azure Language in Foundry Tools y Azure Translator in Foundry Tools."
+    }
   }
 }

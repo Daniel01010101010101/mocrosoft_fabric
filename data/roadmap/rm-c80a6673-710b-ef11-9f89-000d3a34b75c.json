@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=c80a6673-710b-ef11-9f89-000d3a34b75c",
   "contentHash": "173b4163016c6c93a289c30706865ffb1d3119e8be2c2c3537ddb6ed1576c84a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Compatibilidad con GitHub y GitHub Enterprise",
+      "descriptionEs": ""
+    }
   }
 }

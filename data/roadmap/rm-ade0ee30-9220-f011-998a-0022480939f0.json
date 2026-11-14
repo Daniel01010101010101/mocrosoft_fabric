@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=ade0ee30-9220-f011-998a-0022480939f0",
   "contentHash": "2c0ed7c66a964ede087a706ac7be097cf20862d0008e55c44685f82767bd692a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: explorar SharePoint",
+      "descriptionEs": ""
+    }
   }
 }

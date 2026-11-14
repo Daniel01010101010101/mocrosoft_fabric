@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=d52b1f9e-3e40-f111-88b4-000d3a308b7b",
   "contentHash": "b3967aa5eba48fadd40be8047c4a64c0e6adddb5927893dff142c325336aad4f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "[Ontology para Copilot Studio] Integración de Ontology con Copilot Studio",
+      "descriptionEs": ""
+    }
   }
 }

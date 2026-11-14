@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=4e35a12f-5092-ef11-ac21-002248098a98",
   "contentHash": "3617b222d168a35c8b7297683add18c8879133af19c293ccdcca2776f4274b55",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Eventos de diagnóstico del plano de datos de OneLake",
+      "descriptionEs": ""
+    }
   }
 }

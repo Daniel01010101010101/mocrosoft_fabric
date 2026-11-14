@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=704213db-f23f-f111-88b5-6045bd00f798",
   "contentHash": "768707dafa77b5964cefbecfb8b46cc7f11a95b2302d2f093249c27e5e5e7fb7",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "768707dafa77b5964cefbecfb8b46cc7f11a95b2302d2f093249c27e5e5e7fb7",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Copy job como origen en Eventstream y Real-Time Hub",
+      "descriptionEs": "Eventstream podrá usar los conectores de Copy job como origen, descubiertos desde Real-Time Hub, ampliando los orígenes que se pueden transmitir a Fabric."
+    }
   }
 }

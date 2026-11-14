@@ -9,7 +9,7 @@
   "publishedAt": "2025-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -49,6 +49,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "blogUrl": "https://blog.fabric.microsoft.com/blog/september-2025-fabric-feature-summary?ft=All#post-28106-_Toc208595416"
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/september-2025-fabric-feature-summary?ft=All#post-28106-_Toc208595416",
+    "position": "preview:57"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "76315474e90cf2ce62fa0f8ce8eb8c0ab73c523c052393417ca4955c81309ea7",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Replicación de datos desde Lakehouse con Delta Change Feed (Preview)",
+      "summaryEs": "El conector de la tabla Fabric Lakehouse proporciona cambios de datos de un Fabric Lakehouse a través de Delta Change Data Feed (CDF) a los destinos admitidos. Para obtener más información, consulte la replicación de datos desde Fabric Lakehouse con el feed de datos de cambios de Delta (versión preliminar) ."
+    }
   }
 }

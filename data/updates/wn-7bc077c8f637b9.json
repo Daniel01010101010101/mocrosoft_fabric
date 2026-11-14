@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -55,12 +55,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/A-new-analytics-frontier-GPU-accelerated-Fabric-Data-Warehouse/ba-p/5191598",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:87"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.949Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "4d309de86c9a6fc25946f680e2da17b7be95a8fe508162ca73461b5842ee11f4",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Aceleración de consultas con GPU de Fabric Data Warehouse (Vista previa)",
+      "summaryEs": "Fabric Data Warehouse con aceleración por GPU (Early Versión preliminar de Access) usa la computación acelerada de NVIDIA para ejecutar consultas T-SQL compatibles en GPU sin necesidad de reescribirlas, lo que ofrece hasta 7 veces más rendimiento con alta concurrencia en todos los puntos de conexión de análisis SQL y almacenes de un área de trabajo una vez que lo habilites en la configuración del área de trabajo. Para más información, consulte Aceleración de consultas en Fabric Data Warehouse (vista previa)."
+    }
   }
 }

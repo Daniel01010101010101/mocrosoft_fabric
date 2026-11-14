@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=de4682f1-ad90-ef11-ac21-002248098a98",
   "contentHash": "b5400939d3a428d432c7b02064268db2c7f80bd086181fa45996356616fabf65",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflow Gen2: guardar como nuevo elemento",
+      "descriptionEs": ""
+    }
   }
 }

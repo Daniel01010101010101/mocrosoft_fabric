@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=c4d21eae-7320-f011-998a-0022480939f0",
   "contentHash": "a6b85fba8ed1cfb30c379a7bff934cf50f84b7f3b78dd8d47ef6af652eca9d06",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pipelines: compatibilidad con VNet gateway",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=11c809b6-6563-f111-a826-6045bd0a8ec1",
   "contentHash": "f7384541500fab3e37c86d5b4c0fb4c13c7c4449333958574597c1e2e6ee4bde",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "f7384541500fab3e37c86d5b4c0fb4c13c7c4449333958574597c1e2e6ee4bde",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "dbt job: compatibilidad con el runtime dbt Fusion",
+      "descriptionEs": "Además del runtime basado en dbt Core, podrás elegir el runtime **dbt Fusion** al crear o configurar un dbt job y ejecutar las transformaciones con el motor de nueva generación de forma nativa en Fabric, sin herramientas locales ni orquestación externa."
+    }
   }
 }

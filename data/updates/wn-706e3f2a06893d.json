@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -48,12 +48,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:13"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.916Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "110ecec61193c259d3810ecd951f74d4f5a267be143562d707a7c5ede5dcc6e1",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Compactación automática de índices en SQL Database",
+      "summaryEs": "La compactación automática de índices le ayuda a reducir el consumo de espacio de almacenamiento, E/S de disco, memoria y mejorar el rendimiento de la carga de trabajo sin invertir tiempo y esfuerzo en trabajos de mantenimiento de índices."
+    }
   }
 }

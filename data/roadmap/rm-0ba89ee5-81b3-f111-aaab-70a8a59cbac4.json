@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=0ba89ee5-81b3-f111-aaab-70a8a59cbac4",
   "contentHash": "e00f39bc3bbcd5becf4c26f95c97e7139ebf6176474a94ab0dd8c30576492ebd",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Restauración a un momento dado de bases de datos eliminadas",
+      "descriptionEs": ""
+    }
   }
 }

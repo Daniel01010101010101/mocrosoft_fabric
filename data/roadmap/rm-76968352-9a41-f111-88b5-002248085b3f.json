@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=76968352-9a41-f111-88b5-002248085b3f",
   "contentHash": "c97cd767a5b5ee19f7f134f0ca236ccb411d95da804afd1da50171324be2943f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "c97cd767a5b5ee19f7f134f0ca236ccb411d95da804afd1da50171324be2943f",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "DeltaFlow: feeds CDC listos para analítica en Eventstream",
+      "descriptionEs": "Eventstream convertirá automáticamente los eventos de cambio (CDC) en tablas estructuradas con el esquema del origen, para crear paneles operativos y aplicaciones basadas en eventos sin interpretar la semántica CDC."
+    }
   }
 }

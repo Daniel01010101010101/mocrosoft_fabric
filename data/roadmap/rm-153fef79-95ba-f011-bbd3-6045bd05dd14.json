@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=153fef79-95ba-f011-bbd3-6045bd05dd14",
   "contentHash": "1646e0a908973b163573e03424de86d28823a597be66388f543d246be094ef7d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Fabric Extensibility Toolkit: asignación de workloads por workspace (disponibilidad general)",
+      "descriptionEs": ""
+    }
   }
 }

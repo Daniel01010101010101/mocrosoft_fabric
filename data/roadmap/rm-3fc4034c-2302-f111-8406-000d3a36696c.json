@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=3fc4034c-2302-f111-8406-000d3a36696c",
   "contentHash": "e786a43314d6740aefea8ca868d7a6431b6b80c2c271f5e4f73c159847a37041",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Fabric Graph acerca los datos conectados mediante agentes de datos en lenguaje natural",
+      "descriptionEs": ""
+    }
   }
 }

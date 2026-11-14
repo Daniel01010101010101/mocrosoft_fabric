@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -50,12 +50,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:143"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.948Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "698f955f4f1d8c1745327b989e7c87904d8198777a16480b5007e7813296da36",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Elemento ontología (versión preliminar)",
+      "summaryEs": "Ontology (versión preliminar) en Fabric IQ le permite definir tipos de entidad, relaciones, propiedades y otras restricciones para organizar los datos según el vocabulario empresarial. Para obtener más información, consulte ¿Qué es la ontología (versión preliminar)?"
+    }
   }
 }

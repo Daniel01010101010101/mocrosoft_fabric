@@ -11,7 +11,7 @@
   "publishedAt": "2026-09-17T16:00:00.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -61,9 +61,14 @@
   },
   "meta": {},
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.004Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "4b686648723704349f2b3306086c00b19a91c005068b4134032bfc81fa137633",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Gestiona la configuración de los semantic models en contexto con el nuevo panel (Preview)",
+      "summaryEs": "El panel de configuración de semantic models pasa a ser la opción por defecto en el servicio de Power BI: se abre junto al workspace y ofrece los mismos ajustes sin salir de la página."
+    }
   }
 }

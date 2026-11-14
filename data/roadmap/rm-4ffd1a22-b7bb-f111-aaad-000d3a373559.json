@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=4ffd1a22-b7bb-f111-aaad-000d3a373559",
   "contentHash": "b83892ba10f836e64931979c041204791b8a9e728b9519a9865230ecd73c142e",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "b83892ba10f836e64931979c041204791b8a9e728b9519a9865230ecd73c142e",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Botón de acción para mostrar los filtros en el visual",
+      "descriptionEs": "Un nuevo botón en el título del visual llevará las opciones del panel de filtros al propio visual."
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=83266d3d-873f-f111-88b5-6045bd00f798",
   "contentHash": "042be6b2f7ba80fa17dce2d08df852b0a472fabcdaaa365883ecd99e5cec2d17",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Funciones ampliadas del conector de IoT Hub",
+      "descriptionEs": ""
+    }
   }
 }

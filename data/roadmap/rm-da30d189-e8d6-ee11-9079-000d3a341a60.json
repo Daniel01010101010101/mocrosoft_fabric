@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=da30d189-e8d6-ee11-9079-000d3a341a60",
   "contentHash": "198c83680cde0c19e8f82d8a49ab90574e9465cd27c80e4d4a2d7fdab5694f10",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Más usuarios pueden editar y volver a publicar archivos PBIX protegidos en Power BI Desktop",
+      "descriptionEs": ""
+    }
   }
 }

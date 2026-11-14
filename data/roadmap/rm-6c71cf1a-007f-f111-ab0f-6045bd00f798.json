@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=6c71cf1a-007f-f111-ab0f-6045bd00f798",
   "contentHash": "5d25bd5200822b8c4cd626265ec9f4d8240ff4971a2759ddf896f7311b887947",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "5d25bd5200822b8c4cd626265ec9f4d8240ff4971a2759ddf896f7311b887947",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Pipelines: dependencias entre pipelines",
+      "descriptionEs": "Para automatizar pipelines en ecosistemas complejos conviene ejecutarlos solo cuando se cumplen ciertos requisitos. Con las «pipeline dependencies» de Fabric Data Factory podrás definir reglas independientes para cada pipeline basadas en la presencia de datos, el estado de los disparadores y el estado de otros pipelines."
+    }
   }
 }

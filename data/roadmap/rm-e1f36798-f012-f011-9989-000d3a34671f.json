@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=e1f36798-f012-f011-9989-000d3a34671f",
   "contentHash": "f59ecc4e0a80717512ee15636a4714984f6974b7c3b6703f1f05bb1ce2d5beb3",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Service principal para Azure DevOps",
+      "descriptionEs": ""
+    }
   }
 }

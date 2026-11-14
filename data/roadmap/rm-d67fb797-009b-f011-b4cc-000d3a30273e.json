@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=d67fb797-009b-f011-b4cc-000d3a30273e",
   "contentHash": "8025e68a3f4387b59c64f88e4905b53d7eea3fb592cd4fcc31357b86203039ed",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mirroring para SAP mediante SAP Datasphere",
+      "descriptionEs": ""
+    }
   }
 }

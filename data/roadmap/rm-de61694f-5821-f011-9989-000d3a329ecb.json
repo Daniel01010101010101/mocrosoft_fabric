@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=de61694f-5821-f011-9989-000d3a329ecb",
   "contentHash": "a26091acebc2831410af70b5ef1f0aade667d19538511ef7992a9fe858281b70",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pipelines: panel de gestión de disparadores",
+      "descriptionEs": ""
+    }
   }
 }

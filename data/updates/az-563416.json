@@ -10,7 +10,7 @@
   "publishedAt": "2026-06-04T19:15:11.385Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -53,5 +53,16 @@
     "tags": "Microsoft Build, Feature",
     "previewDate": "2026-06",
     "modified": "2026-06-04T19:15:11.3851002Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "6ed386839193553257124e86fcbfedf5bd9f357dae7115e13c0fc092bb8f858a",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Preview pública: Ontology de Fabric IQ como fuente de conocimiento en Microsoft Foundry IQ",
+      "summaryEs": "Foundry IQ usa una Ontology de Fabric como fuente de conocimiento federada y traduce preguntas en lenguaje natural a consultas sobre entidades y relaciones."
+    }
   }
 }

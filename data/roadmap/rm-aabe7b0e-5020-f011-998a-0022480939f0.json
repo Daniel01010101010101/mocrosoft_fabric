@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=aabe7b0e-5020-f011-998a-0022480939f0",
   "contentHash": "e79c5a93a96f074b7e8307d6ceaca4936149512a6ac9e66a89b5b9491a5f5028",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Integración de notebooks con la gestión de orígenes de datos",
+      "descriptionEs": ""
+    }
   }
 }

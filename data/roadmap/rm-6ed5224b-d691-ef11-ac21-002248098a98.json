@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=6ed5224b-d691-ef11-ac21-002248098a98",
   "contentHash": "4fc08fc3944703bd915ddf8e3f5e42c2cc9b41bda9b3d6f6268f4c600a55dade",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Registros de ejecución de los orígenes de conectores en Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

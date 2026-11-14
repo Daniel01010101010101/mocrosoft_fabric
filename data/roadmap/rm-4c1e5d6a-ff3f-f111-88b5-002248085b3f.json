@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=4c1e5d6a-ff3f-f111-88b5-002248085b3f",
   "contentHash": "a36933929b2e802caff53ede7636170720f31b83bf318fa734e0fc2fe07d0a44",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Eventhouse: referenciar shortcuts acelerados en directivas de actualización",
+      "descriptionEs": ""
+    }
   }
 }

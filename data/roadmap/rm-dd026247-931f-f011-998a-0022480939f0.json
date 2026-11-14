@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=dd026247-931f-f011-998a-0022480939f0",
   "contentHash": "88d700224942d7d5d306ce47f522b49c6e0e6e67e5fcfe51b52c390688d77035",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "88d700224942d7d5d306ce47f522b49c6e0e6e67e5fcfe51b52c390688d77035",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "OneLake security: RLS dinámica y entre varias tablas",
+      "descriptionEs": "OneLake security admitirá seguridad por filas dinámica, que filtra los datos de forma distinta para cada usuario, y RLS entre varias tablas, basada en valores de una tabla de consulta. Al principio funcionará con el SQL endpoint, Power BI y Fabric Spark."
+    }
   }
 }

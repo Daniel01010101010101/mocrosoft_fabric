@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=b5b2f6a7-63a2-ef11-8a6a-002248098a98",
   "contentHash": "718f2430f80ebe7013b619cadd1d297716561d016ce8fbd1c8030736e9d64969",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Variable Library para el workspace",
+      "descriptionEs": ""
+    }
   }
 }

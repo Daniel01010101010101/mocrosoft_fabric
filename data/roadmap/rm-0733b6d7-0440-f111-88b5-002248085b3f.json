@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=0733b6d7-0440-f111-88b5-002248085b3f",
   "contentHash": "fbd33bb8aeab2cfa76edabac400df8a5de0a194b51378b0c531e1967206b6f7d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Análisis de causa raíz en Operations Agent",
+      "descriptionEs": ""
+    }
   }
 }

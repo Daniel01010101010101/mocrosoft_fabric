@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=25c46393-1fbf-f011-bbd3-000d3a3740cc",
   "contentHash": "fc2575cd20c4e48bf16ba835854c5da7c4ea63d6e4161be9847e5ca80a7a4373",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Materialized Lake Views de Fabric: varias programaciones",
+      "descriptionEs": ""
+    }
   }
 }

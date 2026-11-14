@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=4a26c768-1ea4-f011-bbd3-6045bd00f9db",
   "contentHash": "16682bf18bdb8c07e18b04bfd3526d270e77de203ca48d53f064992892d072ce",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Más descubrimiento en OneLake catalog con tablas y columnas de datos",
+      "descriptionEs": ""
+    }
   }
 }

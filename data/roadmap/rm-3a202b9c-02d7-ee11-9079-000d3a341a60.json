@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=3a202b9c-02d7-ee11-9079-000d3a341a60",
   "contentHash": "0eb6d16818beb011dee865940f260eec343ebd3fc75b07788ec0abfb5d29d0a8",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Elementos primarios y secundarios en los workspaces",
+      "descriptionEs": ""
+    }
   }
 }

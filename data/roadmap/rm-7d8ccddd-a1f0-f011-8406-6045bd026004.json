@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=7d8ccddd-a1f0-f011-8406-6045bd026004",
   "contentHash": "d7a609ffa4ca2511558152929c3e2a0bc96cbf9450109c568e5d79f02cacf175",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Experiencias NL2SQL mejoradas",
+      "descriptionEs": ""
+    }
   }
 }

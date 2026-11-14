@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=4f110cb5-98b3-f011-bbd3-000d3a30273e",
   "contentHash": "dfcb10f5a2425bef6238a7308143a6d4c5babf678ac82f8400116e511b8d3e00",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: compatibilidad con variables del workspace de Fabric",
+      "descriptionEs": ""
+    }
   }
 }

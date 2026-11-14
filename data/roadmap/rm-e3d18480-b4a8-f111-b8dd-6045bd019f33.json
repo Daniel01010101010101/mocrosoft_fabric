@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=e3d18480-b4a8-f111-b8dd-6045bd019f33",
   "contentHash": "25c118b5593e3abfd2aafe83a999df16ef38a843b4f0d546bb4c1d8e70bbe352",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: detalles de actualización en el Monitoring hub de Fabric",
+      "descriptionEs": ""
+    }
   }
 }

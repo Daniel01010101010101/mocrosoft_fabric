@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=13a80108-ac90-ef11-ac21-002248098a98",
   "contentHash": "f7334d1262756727fb1bc469a3e6fb24f2d1295da8315538813b44a4b986f71e",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: compatibilidad con CI/CD en Dataflow Gen2",
+      "descriptionEs": ""
+    }
   }
 }

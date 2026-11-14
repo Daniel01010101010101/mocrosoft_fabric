@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=1411f167-ad90-ef11-ac21-002248098a98",
   "contentHash": "32fe5f0cd1b6d10f59bd3aba40fc16a4e5d21773a96b01db3c2bf9286f408341",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Actualización incremental en Dataflow Gen2",
+      "descriptionEs": ""
+    }
   }
 }

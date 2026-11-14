@@ -11,7 +11,7 @@
   "publishedAt": "2026-11-03T20:00:00.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -60,9 +60,14 @@
   },
   "meta": {},
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.888Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "afc4d5191c897e09ed1c23996dfaf5db3fd64b1c5def2e8deb3eab020ea04d3d",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Vistas materializadas y streaming tables en el catálogo replicado de Azure Databricks",
+      "summaryEs": "Los catálogos replicados de Azure Databricks en Fabric admiten vistas materializadas y streaming tables además de tablas; siguen gestionándose en Databricks y Fabric las lee."
+    }
   }
 }

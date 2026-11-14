@@ -11,7 +11,7 @@
   "publishedAt": "2026-11-04T20:00:00.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -79,9 +79,14 @@
   },
   "meta": {},
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.888Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "376ffb00d1917a01e12ce2e88d2a878b0638edf0f3a389d8a8c772628a3bfdd4",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "APIs de tablas de OneLake: escritura Iceberg y metadatos de tabla más completos (Preview)",
+      "summaryEs": "El endpoint de tablas de OneLake admite escrituras mediante Iceberg REST Catalog y una nueva API, en Preview, para añadir descripciones y etiquetas a las tablas."
+    }
   }
 }

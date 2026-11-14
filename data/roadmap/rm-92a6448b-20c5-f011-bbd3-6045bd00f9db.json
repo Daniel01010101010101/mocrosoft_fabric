@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=92a6448b-20c5-f011-bbd3-6045bd00f9db",
   "contentHash": "eff2d9a03c6e0c197064cbb3f58cbbae6ed12d665a9b8e073047938d7ce47e2a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "eff2d9a03c6e0c197064cbb3f58cbbae6ed12d665a9b8e073047938d7ce47e2a",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Visual Narrative en informes incrustados (PaaS)",
+      "descriptionEs": "El visual Narrative será compatible con la incrustación de informes en modo PaaS."
+    }
   }
 }

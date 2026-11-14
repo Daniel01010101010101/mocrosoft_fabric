@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=e7abebd0-9aa5-f111-b8dd-6045bd0194ef",
   "contentHash": "4e5a06d0cd5d310e91c18a803e80b5c94f091861d78064f42fdbeaca3022dc93",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "4e5a06d0cd5d310e91c18a803e80b5c94f091861d78064f42fdbeaca3022dc93",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Outbound Access Protection para dbt job",
+      "descriptionEs": "Los dbt jobs respetarán la outbound access protection (OAP) del workspace: sus llamadas de red salientes se bloquean salvo que se permitan expresamente. Limitación en Preview: no se admiten paquetes públicos; se añadirán en la disponibilidad general."
+    }
   }
 }

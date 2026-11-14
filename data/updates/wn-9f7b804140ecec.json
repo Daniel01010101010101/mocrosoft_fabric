@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -48,12 +48,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:45"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.933Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "e0e33de8996436ce0e60f871f96ae69bb2da85d10aa0b8030bee315be16fc6e4",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Optimización del rendimiento adaptable de Data Factory (versión preliminar)",
+      "summaryEs": "El ajuste de rendimiento adaptable está diseñado para optimizar de forma inteligente el rendimiento del movimiento de datos en función de la configuración y el contexto en tiempo de ejecución. Esta funcionalidad de vista previa simplifica la optimización de Data Factory, haciéndola más segura y eficaz, sin necesidad de tener experiencia manual profunda ni de realizar ajustes por prueba y error. Para habilitarlo, consulte la propiedad adaptivePerformanceTuning al usar la actividad de copia."
+    }
   }
 }

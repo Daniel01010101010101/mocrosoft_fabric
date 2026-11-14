@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=303d924a-8d20-f011-998a-0022480939f0",
   "contentHash": "c9729c22579c887cb4c7a78e7af2d709fcc061bf8e366f1a2d117e8b59061ed7",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Conexiones: compatibilidad con elementos basados en código",
+      "descriptionEs": ""
+    }
   }
 }

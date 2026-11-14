@@ -10,7 +10,7 @@
   "publishedAt": "2026-07-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -59,12 +59,18 @@
     "section": "ga",
     "month": "July 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
-    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Controlling-storage-costs-with-OneLake-lifecycle-management/ba-p/5295135"
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Controlling-storage-costs-with-OneLake-lifecycle-management/ba-p/5295135",
+    "position": "ga:102"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.154Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "79a935796ccec5eea8fedc5a89fddd8e64ab354494d7bab4b8e70d84c54e6c03",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Niveles de almacenamiento de OneLake y gestión del ciclo de vida (Generalmente disponible)",
+      "summaryEs": "Los niveles de almacenamiento de OneLake y la gestión del ciclo de vida te permiten mantener los datos activos en el nivel caliente y mover los datos menos usados a niveles fríos o fríos con políticas de ciclo de vida. Para más información, consulta Obtener el tamaño de los elementos de OneLake y Diagnóstico de OneLake."
+    }
   }
 }

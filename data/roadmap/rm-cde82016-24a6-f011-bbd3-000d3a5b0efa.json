@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=cde82016-24a6-f011-bbd3-000d3a5b0efa",
   "contentHash": "b107b0b2844473a5c6b90b1f2611f51a5a8b919ef89bcd4108cae8e67dbf4dad",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "b107b0b2844473a5c6b90b1f2611f51a5a8b919ef89bcd4108cae8e67dbf4dad",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Workspace Private Link para orígenes y destinos de Eventstream",
+      "descriptionEs": "Private Link ofrece conectividad privada entre tu red virtual y Fabric sin exposición a internet. Su integración con Eventstream a nivel de workspace añade control de acceso granular y reduce el riesgo de accesos no autorizados."
+    }
   }
 }

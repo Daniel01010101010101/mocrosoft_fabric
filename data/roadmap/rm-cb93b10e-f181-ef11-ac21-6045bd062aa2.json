@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=cb93b10e-f181-ef11-ac21-6045bd062aa2",
   "contentHash": "31f5fbaec2eb780796680ac3c288d1aa0ae21191606c0358732d1348ca192120",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Registros de auditoría de SQL",
+      "descriptionEs": ""
+    }
   }
 }

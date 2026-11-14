@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=8e73b44d-97b0-f111-aaab-70a8a59cbbb7",
   "contentHash": "2889fae77503f9f49182359578993cd32501c7276fcce69ec9716cce87f7ec56",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "App Capacity Metrics",
+      "descriptionEs": ""
+    }
   }
 }

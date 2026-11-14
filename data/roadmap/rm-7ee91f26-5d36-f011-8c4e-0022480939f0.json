@@ -14,10 +14,16 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=7ee91f26-5d36-f011-8c4e-0022480939f0",
   "contentHash": "32424790b7a7759a1677857b5ef2590aed728c2ae211c935116aab1d45bcab81",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "32424790b7a7759a1677857b5ef2590aed728c2ae211c935116aab1d45bcab81",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Eventos de elementos del workspace"
+    }
   }
 }

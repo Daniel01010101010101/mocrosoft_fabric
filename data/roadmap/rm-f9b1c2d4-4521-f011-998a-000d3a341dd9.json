@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=f9b1c2d4-4521-f011-998a-000d3a341dd9",
   "contentHash": "904c21d28876ef6c06bc13300c7716a8d10651ec7f620279990ea4b0754cf0b3",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: destinos de salida desde OneLake Catalog",
+      "descriptionEs": ""
+    }
   }
 }

@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -55,12 +55,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Configurable-Data-Retention-in-Microsoft-Fabric-Warehouse/ba-p/5181211",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:30"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.983Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "c70899cee67f0c0cf0ef415daa2ea13f9918bf770f012ad7606243ca1ad1eebe",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Retención de datos configurable en Fabric Data Warehouse (versión preliminar)",
+      "summaryEs": "Retención de datos configurable (versión preliminar) en Fabric Data Warehouse permite establecer la ventana de retención del historial de datos de un almacén de datos entre 1 y 120 días con un solo comando T-SQL. Este período de retención rige el viaje en el tiempo, los clones a un momento dado, los puntos de restauración y las instantáneas de almacenamiento. Para más información, consulte Retención de datos en Fabric Data Warehouse (Vista previa)."
+    }
   }
 }

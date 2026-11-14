@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=4d814d44-99fc-ee11-a1ff-000d3a341a60",
   "contentHash": "4ba858807aaea195cfd0da425669e649f0d0ac6f7f31728097dfc1a8de4ed7ed",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Diseño automático de informes para móvil en Power BI Desktop",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=b18efefe-e55a-f111-bec7-6045bd006301",
   "contentHash": "9e53ebd4ec4920e19091679a1bf0658f90779a67448bc3336b62d56a072c6d42",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "DirectQuery al editar semantic models en el servicio de Power BI",
+      "descriptionEs": ""
+    }
   }
 }

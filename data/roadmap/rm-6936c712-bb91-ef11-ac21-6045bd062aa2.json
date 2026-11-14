@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=6936c712-bb91-ef11-ac21-6045bd062aa2",
   "contentHash": "a59b13defb0e21b7d53cc863b45a2dd098bcc571e3630f3eda064fe03b7a0331",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Creación de paneles en tiempo real asistida por Copilot para tablas KQL en Real-Time Hub",
+      "descriptionEs": ""
+    }
   }
 }

@@ -10,7 +10,7 @@
   "publishedAt": "2025-01-16T18:00:34.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -55,5 +55,16 @@
     "products": "Azure Data Factory, Azure Synapse Analytics, Power BI Embedded, Microsoft Fabric",
     "tags": "Retirements",
     "modified": "2025-01-17T14:00:13.6141153Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "6d57c1c183d6a6c621326f944ef3ceb72ea49bb422e37a1bf5b03628d8ac15a6",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Retirada: fin del soporte de Microsoft Fabric Runtime 1.1",
+      "summaryEs": "Fabric Runtime 1.1 ya no tiene soporte. Se recomienda actualizar workspaces y entornos a Runtime 1.3 (Apache Spark 3.5 y Delta Lake 3.2), que incluye el Native Execution Engine sin coste adicional."
+    }
   }
 }

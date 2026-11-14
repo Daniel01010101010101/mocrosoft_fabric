@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=a1de82b7-b8bb-f111-aaad-000d3a373559",
   "contentHash": "2cbf76b0b0e665d5b1722c615e8bc7edf821ec7729bf7c096379250eae58a13e",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "2cbf76b0b0e665d5b1722c615e8bc7edf821ec7729bf7c096379250eae58a13e",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Azure Maps: varias capas de datos",
+      "descriptionEs": "Añade datos diferentes en cada capa del visual Azure Maps de Power BI."
+    }
   }
 }

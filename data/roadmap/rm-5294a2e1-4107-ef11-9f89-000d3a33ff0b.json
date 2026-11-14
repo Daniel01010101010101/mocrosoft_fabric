@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=5294a2e1-4107-ef11-9f89-000d3a33ff0b",
   "contentHash": "b390eefbc78d1176a4b3fc8896dda016bda8e8b6dae44c12951133e00cfb641e",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Apps organizativas para Fabric",
+      "descriptionEs": ""
+    }
   }
 }

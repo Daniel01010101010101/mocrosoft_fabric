@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=ac3295f6-95ba-f011-bbd3-00224808fcf0",
   "contentHash": "dd005aea9e957391ca53dcf293a8a836f187b28185fe5e5be5b639e1b4992001",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Fabric Runtime 2.0: disponibilidad general",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=a2562580-fd21-f011-9989-6045bd06bb0b",
   "contentHash": "18bffec431b4751641f71c62f632b726fecc391d0feb80f072abf29fd113cf56",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mirroring: experiencia mejorada y coherente entre orígenes",
+      "descriptionEs": ""
+    }
   }
 }

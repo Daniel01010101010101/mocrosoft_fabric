@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=bbc79463-89d7-ee11-9079-000d3a310f67",
   "contentHash": "440af0ab80c46995909e73a9a7b5bdf0b6e7a7aa181d6e1c6a29ff431ca3e6ec",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Retención personalizable de los datos de eventos en Eventstreams",
+      "descriptionEs": ""
+    }
   }
 }

@@ -1,0 +1,412 @@
+{
+  "az-467768": {
+    "en": "Public Preview: Azure SQL Managed Instance mirroring to Microsoft Fabric",
+    "titleEs": "Preview pública: mirroring de Azure SQL Managed Instance a Microsoft Fabric",
+    "summaryEs": "Ya puedes replicar con mirroring los datos de Azure SQL Managed Instance en OneLake casi en tiempo real, sin procesos ETL complejos y con menor coste total."
+  },
+  "az-468760": {
+    "en": "Generally Available: OneLake catalog—a complete catalog for discovery, management, and governance",
+    "titleEs": "Disponibilidad general: OneLake catalog, un catálogo completo para descubrir, gestionar y gobernar datos",
+    "summaryEs": "OneLake catalog, con sus pestañas Explore y Govern, permite descubrir datos de confianza en todo Fabric y da a los responsables herramientas, recomendaciones y métricas de gobierno."
+  },
+  "az-468765": {
+    "en": "Public Preview: Monitor your Fabric workspaces",
+    "titleEs": "Preview pública: supervisión de workspaces de Fabric",
+    "summaryEs": "Workspace monitoring ofrece a administradores y desarrolladores registros de diagnóstico y métricas de sus workspaces en una base de datos KQL de Eventhouse para resolver problemas de rendimiento y capacidad."
+  },
+  "az-470309": {
+    "en": "Public Preview: New graph operators in Kusto",
+    "titleEs": "Preview pública: nuevos operadores de grafos en Kusto",
+    "summaryEs": "Kusto incorpora graph-shortest-paths, para encontrar los caminos más cortos entre nodos, y graph-mark-components, para identificar componentes conectados en un grafo."
+  },
+  "az-470314": {
+    "en": "Generally Available: Star pattern and default node identifier in Kusto",
+    "titleEs": "Disponibilidad general: patrón en estrella e identificador de nodo predeterminado en Kusto",
+    "summaryEs": "La semántica de grafos de Kusto admite ya patrones no lineales mediante secuencias separadas por comas y un identificador de nodo predeterminado."
+  },
+  "az-476389": {
+    "en": "Retirement: Microsoft Fabric Runtime 1.1 End of Support",
+    "titleEs": "Retirada: fin del soporte de Microsoft Fabric Runtime 1.1",
+    "summaryEs": "Fabric Runtime 1.1 ya no tiene soporte. Se recomienda actualizar workspaces y entornos a Runtime 1.3 (Apache Spark 3.5 y Delta Lake 3.2), que incluye el Native Execution Engine sin coste adicional."
+  },
+  "az-487464": {
+    "en": "Public Preview: Fabric Mirroring for Azure Database for PostgreSQL - flexible server",
+    "titleEs": "Preview pública: Fabric Mirroring para Azure Database for PostgreSQL - flexible server",
+    "summaryEs": "El mirroring de Azure Database for PostgreSQL flexible server unifica tus datos operacionales en OneLake con integración en un clic y sin construir pipelines ETL."
+  },
+  "az-490047": {
+    "en": "Retirement: Microsoft Fabric Runtime 1.2",
+    "titleEs": "Retirada: Microsoft Fabric Runtime 1.2",
+    "summaryEs": "Fabric Runtime 1.2 quedará obsoleto y se deshabilitará el 31 de marzo de 2026. Actualiza workspaces y entornos a Runtime 1.3 (Apache Spark 3.5 y Delta Lake 3.2)."
+  },
+  "az-495145": {
+    "en": "Generally Available: Upsert and Script activity in data factory in Microsoft Fabric for Azure Database for PostgreSQL",
+    "titleEs": "Disponibilidad general: Upsert y Script activity de Data Factory en Fabric para Azure Database for PostgreSQL",
+    "summaryEs": "Los pipelines de Fabric admiten el método Upsert y la Script activity con Azure Database for PostgreSQL, para combinar datos y ejecutar transformaciones declarativas de forma eficiente."
+  },
+  "az-498185": {
+    "en": "Public Preview: Cosmos DB in Microsoft Fabric",
+    "titleEs": "Preview pública: Cosmos DB en Microsoft Fabric",
+    "summaryEs": "Cosmos DB en Fabric unifica datos operacionales y analítica en OneLake con Real-Time Intelligence, Power BI con Copilot y consultas SQL, sin integrar servicios por separado."
+  },
+  "az-498573": {
+    "en": "Generally Available: Mirroring Azure Databricks Unity Catalog to Microsoft OneLake in Fabric",
+    "titleEs": "Disponibilidad general: mirroring de Azure Databricks Unity Catalog en OneLake de Fabric",
+    "summaryEs": "El mirroring de Unity Catalog de Azure Databricks da acceso seguro y de alto rendimiento a las tablas de Databricks desde Fabric sin copiar datos."
+  },
+  "az-502602": {
+    "en": "Retirement: Spark Native Connector for Semantic Link",
+    "titleEs": "Retirada: conector nativo de Spark para Semantic Link",
+    "summaryEs": "El conector nativo de Spark se retira el 1 de octubre de 2025 por su bajo uso, su coste de mantenimiento y riesgos de seguridad. Se recomienda migrar al Semantic Python SDK."
+  },
+  "az-502638": {
+    "en": "Public Preview: Graph Query Language (GQL) in KQL graph semantics",
+    "titleEs": "Preview pública: Graph Query Language (GQL) en la semántica de grafos de KQL",
+    "summaryEs": "KQL admite consultas GQL según el estándar ISO en cualquier Eventhouse de Fabric o Azure Data Explorer, para trabajar con grafos con un lenguaje estándar del sector."
+  },
+  "az-503646": {
+    "en": "Public Preview: MSSQL extension integration with Microsoft Fabric",
+    "titleEs": "Preview pública: integración de la extensión MSSQL con Microsoft Fabric",
+    "summaryEs": "La extensión MSSQL de VS Code permite iniciar sesión con Microsoft Entra ID, explorar tus workspaces de Fabric y conectarte a SQL database in Fabric desde el editor."
+  },
+  "az-523177": {
+    "en": "Generally Available: Mirroring in Fabric for PostgreSQL Flexible Server",
+    "titleEs": "Disponibilidad general: mirroring en Fabric para PostgreSQL Flexible Server",
+    "summaryEs": "El mirroring de Azure Database for PostgreSQL flexible server ya es GA y admite servidores aislados en red (redes virtuales o private endpoints) y de alta disponibilidad."
+  },
+  "az-523768": {
+    "en": "Generally Available: Cosmos DB in Microsoft Fabric",
+    "titleEs": "Disponibilidad general: Cosmos DB en Microsoft Fabric",
+    "summaryEs": "Cosmos DB en Fabric permite crear cargas operacionales y analíticas en Fabric, consultar JSON con SQL y aplicar Real-Time Intelligence sobre datos transaccionales."
+  },
+  "az-523773": {
+    "en": "Generally Available: Azure Cosmos DB Mirroring in Microsoft Fabric",
+    "titleEs": "Disponibilidad general: mirroring de Azure Cosmos DB en Microsoft Fabric",
+    "summaryEs": "El mirroring de Azure Cosmos DB integra tus cargas operacionales existentes con la analítica de Fabric, con consultas SQL sobre JSON y análisis en tiempo real."
+  },
+  "az-525388": {
+    "en": "Generally Available: SQL database in Microsoft Fabric",
+    "titleEs": "Disponibilidad general: SQL database en Microsoft Fabric",
+    "summaryEs": "SQL database in Fabric, basada en el motor de SQL Server y Azure SQL Database, unifica cargas operacionales y analíticas como servicio SaaS, con aprovisionamiento rápido y capacidades de IA."
+  },
+  "az-526881": {
+    "en": "Generally Available: Azure MCP Server",
+    "titleEs": "Disponibilidad general: Azure MCP Server",
+    "summaryEs": "Azure MCP Server, basado en Model Context Protocol, conecta de forma segura servicios de Azure como Cosmos DB, SQL, Microsoft Foundry y Fabric con herramientas de IA como GitHub Copilot."
+  },
+  "az-558836": {
+    "en": "Generally Available: Cosmos DB Mirroring in Microsoft Fabric with private endpoints",
+    "titleEs": "Disponibilidad general: mirroring de Cosmos DB en Microsoft Fabric con private endpoints",
+    "summaryEs": "El mirroring de Azure Cosmos DB admite private endpoints y restricciones de red virtual, para analizar datos operacionales sin renunciar a la seguridad de red."
+  },
+  "az-558841": {
+    "en": "Public Preview: Fabric Mirroring integration for Azure Database for MySQL",
+    "titleEs": "Preview pública: integración de Fabric Mirroring con Azure Database for MySQL",
+    "summaryEs": "Replica datos de Azure Database for MySQL – Flexible Server en Fabric casi en tiempo real, sin pipelines ETL. Los datos llegan a OneLake en formato Delta Parquet."
+  },
+  "az-558927": {
+    "en": "Public Preview: Azure Databricks OneLake Catalog Federation",
+    "titleEs": "Preview pública: federación de OneLake catalog en Azure Databricks",
+    "summaryEs": "Azure Databricks puede consultar datos de OneLake sin copiarlos conectando Unity Catalog a OneLake catalog; los Lakehouse de Fabric aparecen junto a tus datos de Databricks."
+  },
+  "az-560293": {
+    "en": "Generally Available: Enhanced Mirroring Azure Database for PostgreSQL in Microsoft Fabric",
+    "titleEs": "Disponibilidad general: mirroring mejorado de Azure Database for PostgreSQL en Microsoft Fabric",
+    "summaryEs": "Nuevas capacidades facilitan replicar cargas reales de PostgreSQL a escala, incluidos tipos nativos como JSON y JSONB, sin soluciones alternativas."
+  },
+  "az-563227": {
+    "en": "Public Preview: OneLake Catalog integration for Foundry IQ Knowledge Sources",
+    "titleEs": "Preview pública: integración de OneLake catalog con fuentes de conocimiento de Foundry IQ",
+    "summaryEs": "Foundry IQ admite OneLake catalog como fuente de conocimiento: los agentes basan sus respuestas en tablas, archivos y shortcuts gobernados en Fabric, respetando sus permisos."
+  },
+  "az-563416": {
+    "en": "Public Preview: Fabric IQ Ontology Knowledge Source in Microsoft Foundry IQ",
+    "titleEs": "Preview pública: Ontology de Fabric IQ como fuente de conocimiento en Microsoft Foundry IQ",
+    "summaryEs": "Foundry IQ usa una Ontology de Fabric como fuente de conocimiento federada y traduce preguntas en lenguaje natural a consultas sobre entidades y relaciones."
+  },
+  "az-564407": {
+    "en": "Generally Available: OneLake catalog integration for Azure AI Search knowledge sources",
+    "titleEs": "Disponibilidad general: integración de OneLake catalog en las fuentes de conocimiento de Azure AI Search",
+    "summaryEs": "Azure AI Search permite registrar un elemento de OneLake una vez y reutilizarlo en varias fuentes de conocimiento y agentes, respetando permisos, etiquetas de confidencialidad y linaje."
+  },
+  "az-565706": {
+    "en": "Public Preview: Azure Databricks natively storing data in Microsoft OneLake",
+    "titleEs": "Preview pública: Azure Databricks guarda datos de forma nativa en Microsoft OneLake",
+    "summaryEs": "Azure Databricks puede escribir tablas Delta administradas directamente en OneLake, que pasa a ser la capa de almacenamiento unificada sin cuentas de almacenamiento separadas."
+  },
+  "az-565733": {
+    "en": "Generally Available: Azure Databricks native read access to Microsoft OneLake",
+    "titleEs": "Disponibilidad general: lectura nativa de Microsoft OneLake desde Azure Databricks",
+    "summaryEs": "Azure Databricks lee datos de OneLake de forma nativa a través de Unity Catalog, sin mover ni copiar datos, simplificando el acceso y el gobierno entre plataformas."
+  },
+  "az-568322": {
+    "en": "Public Preview: Azure Monitor Logs mirroring into Microsoft Fabric",
+    "titleEs": "Preview pública: mirroring de Azure Monitor Logs en Microsoft Fabric",
+    "summaryEs": "Los datos de Log Analytics de Azure Monitor llegan a OneLake en formato Delta Parquet casi en tiempo real y sin duplicarse, en todos los niveles de registros."
+  },
+  "az-569140": {
+    "en": "Announcing: Microsoft Fabric Item Recovery will be enabled by default for tenants without an explicit setting",
+    "titleEs": "Anuncio: Item Recovery de Microsoft Fabric se activará por defecto en tenants sin configuración explícita",
+    "summaryEs": "Desde el 23 de agosto de 2026, Fabric activa por defecto la recuperación de elementos (3 días) en los tenants que no la hayan configurado. Se cambia en Tenant settings > Item Recovery."
+  },
+  "az-573875": {
+    "en": "Announcing: Table discovery in OneLake Catalog search",
+    "titleEs": "Anuncio: búsqueda de tablas en OneLake catalog",
+    "summaryEs": "Desde el 15 de octubre de 2026, la búsqueda de Fabric devuelve tablas de semantic models, lakehouses y bases de datos replicadas como resultados individuales, por nombre, descripción o columna."
+  },
+  "az-azure-hdinsight-on-aks-retirement": {
+    "en": "Retirement: Azure HDInsight on AKS will retire on January 31, 2025",
+    "titleEs": "Retirada: Azure HDInsight on AKS se retira el 31 de enero de 2025",
+    "summaryEs": "Los clústeres restantes se detendrán y eliminarán; hay que migrar las cargas a Microsoft Fabric o a otro producto equivalente de Azure antes de esa fecha."
+  },
+  "az-general-availability-fabric-capacity-reservations": {
+    "en": "General availability: Reservations for Microsoft Fabric",
+    "titleEs": "Disponibilidad general: reservas para Microsoft Fabric",
+    "summaryEs": "Las reservas de Fabric permiten comprometer Capacity Units por un año y ahorrar hasta un 40,5 % frente al pago por uso (sin incluir SKU de capacidad de Power BI)."
+  },
+  "az-kusto-adds-new-geospatial-capabilities-angleazimuthpolyh3": {
+    "en": "General availability: Azure Data Explorer adds new geospatial capabilities",
+    "titleEs": "Disponibilidad general: Azure Data Explorer añade nuevas capacidades geoespaciales",
+    "summaryEs": "Kusto incorpora geo_polygon_to_h3cells(), geo_angle() y geo_azimuth() para indexar polígonos en celdas H3 y calcular ángulos y acimuts."
+  },
+  "az-kusto-graph-cycles-nonlinear-patterns": {
+    "en": "New Features for graph-match KQL Operator: Enhanced Pattern Matching and Cycle Control",
+    "titleEs": "Nuevas funciones del operador graph-match de KQL: patrones más potentes y control de ciclos",
+    "summaryEs": "graph-match permite expresar patrones más complejos y controlar cómo se tratan los ciclos (caminos cerrados) al buscar coincidencias en grafos."
+  },
+  "az-kusto-graph-ga": {
+    "en": "Announcing General Availability of Graph Semantics in Kusto",
+    "titleEs": "Disponibilidad general de la semántica de grafos en Kusto",
+    "summaryEs": "La extensión de grafos de Kusto, el motor de Fabric Real-Time Intelligence y Azure Data Explorer, ya está lista para producción."
+  },
+  "az-kusto-graph-public-preview": {
+    "en": "Introducing Graph Semantics in Kusto, a new way to contextualize time series data",
+    "titleEs": "Semántica de grafos en Kusto: una nueva forma de contextualizar series temporales",
+    "summaryEs": "Preview pública de la extensión de grafos de Kusto para modelar relaciones entre datos y contextualizar series temporales en Azure Data Explorer y Fabric."
+  },
+  "az-kusto-show-databases-entities": {
+    "en": "New in Kusto: `.show databases entities` command for viewing tables, functions, and more",
+    "titleEs": "Novedad en Kusto: comando `.show databases entities` para ver tablas, funciones y más",
+    "summaryEs": "El nuevo comando muestra las entidades de todas las bases de datos a las que tienes acceso: tablas, vistas materializadas, tablas externas, funciones y grupos de entidades."
+  },
+  "az-kusto-tds-nbcrow": {
+    "en": "Announcing NBCROW Compression in Kusto's TDS Implementation",
+    "titleEs": "Compresión NBCROW en la implementación TDS de Kusto",
+    "summaryEs": "Kusto admite NBCROW (Null Bitmap Compressed Row) en el protocolo TDS, que comprime las filas con valores nulos al devolver resultados a clientes MSSQL."
+  },
+  "az-public-preview-azure-sql-database-mirroring-in-microsoft-fabric": {
+    "en": "Generally Available: Mirroring Azure SQL Database in Fabric",
+    "titleEs": "Disponibilidad general: mirroring de Azure SQL Database en Fabric",
+    "summaryEs": "El mirroring replica de forma sencilla y gratuita los cambios incrementales de Azure SQL Database en OneLake, con tablas Delta sincronizadas casi en tiempo real."
+  },
+  "az-public-preview-mirroring-azure-cosmos-db-in-microsoft-fabric": {
+    "en": "Public Preview: Mirroring Azure Cosmos DB in Microsoft Fabric",
+    "titleEs": "Preview pública: mirroring de Azure Cosmos DB en Microsoft Fabric",
+    "summaryEs": "Replica de forma incremental tus datos de Azure Cosmos DB en OneLake en formato Delta Parquet para analizarlos casi en tiempo real sin afectar a las cargas transaccionales."
+  },
+  "cm-5303533": {
+    "en": "Power BI July 2026 Feature Summary",
+    "titleEs": "Resumen de novedades de Power BI: julio de 2026",
+    "summaryEs": "Novedades de julio en informes, modelado, móvil y análisis integrado: estilos visuales modernos por defecto, formato condicional en líneas y leyendas, nuevas capacidades y APIs de org apps y Model Options."
+  },
+  "cm-5325831": {
+    "en": "Power BI September 2026 Feature Summary",
+    "titleEs": "Resumen de novedades de Power BI: septiembre de 2026",
+    "summaryEs": "Edición especial coincidiendo con la conferencia europea de Fabric y SQL en Barcelona: nuevas experiencias de Copilot e IA, informes, modelado, conectividad de datos, mejoras para desarrolladores y móvil."
+  },
+  "cm-5331078": {
+    "en": "Deep dive into conditional formatting for lines and legends",
+    "titleEs": "A fondo: formato condicional en líneas y leyendas",
+    "summaryEs": "Cómo dar vida a los informes de Power BI con formato condicional dinámico en líneas y leyendas, que se mantiene coherente y se actualiza automáticamente cuando cambian los datos."
+  },
+  "cm-5332653": {
+    "en": "TMDL View on the web: Edit semantic models as code in your browser (Preview)",
+    "titleEs": "TMDL View en la web: edita semantic models como código desde el navegador (Preview)",
+    "summaryEs": "TMDL View on the Web permite ver y editar semantic models como código TMDL directamente en el navegador, con un editor completo que da a los desarrolladores total transparencia sobre el modelo."
+  },
+  "cm-5348434": {
+    "en": "Power BI August 2026 Feature Summary",
+    "titleEs": "Resumen de novedades de Power BI: agosto de 2026",
+    "summaryEs": "Actualizaciones de agosto en informes, modelado, conectividad de datos, móvil, análisis integrado y desarrollo, con mejoras ya disponibles de forma general y nuevas funciones en Preview."
+  },
+  "cm-5357159": {
+    "en": "Direct Lake Calculated Columns (Preview)",
+    "titleEs": "Columnas calculadas en Direct Lake (Preview)",
+    "summaryEs": "Los semantic models Direct Lake on OneLake admiten columnas calculadas con DAX en Preview, una de las peticiones más solicitadas, que cierra la brecha con los modos Import y DirectQuery."
+  },
+  "cm-5359136": {
+    "en": "Edit your Power BI projects anywhere and reload them instantly in Power BI Desktop (Preview)",
+    "titleEs": "Edita tus proyectos de Power BI desde cualquier editor y recárgalos al instante en Power BI Desktop (Preview)",
+    "summaryEs": "Los cambios hechos fuera de Power BI Desktop en archivos de Power BI Project (PBIP), con un editor de código o herramientas externas, ahora se recargan al instante sin reiniciar la aplicación."
+  },
+  "cm-5360197": {
+    "en": "The AI Semantic Layer You Probably Already Have",
+    "titleEs": "La capa semántica para IA que probablemente ya tienes",
+    "summaryEs": "Los semantic models de Power BI que sostienen cada informe son la capa semántica que muchas empresas intentan construir para la IA: definiciones de negocio gobernadas y reutilizables por agentes y Copilot."
+  },
+  "cm-5360422": {
+    "en": "Upgrade Power BI Dataflows Gen1 to Fabric Dataflows Gen2 with the Upgrade Wizard (Preview)",
+    "titleEs": "Actualiza Dataflows Gen1 de Power BI a Dataflows Gen2 de Fabric con el asistente (Preview)",
+    "summaryEs": "El Dataflows Upgrade Wizard guía la actualización de Dataflows Gen1 a Dataflows Gen2 (CI/CD) en workspaces con capacidad de Fabric, conservando las propiedades clave del dataflow original."
+  },
+  "cm-5363807": {
+    "en": "Power BI sample reports, refreshed with modern visual defaults",
+    "titleEs": "Informes de ejemplo de Power BI renovados con los estilos visuales modernos",
+    "summaryEs": "Microsoft actualiza sus informes de ejemplo con estilos visuales modernos, semantic models más sólidos, diseños optimizados para móvil y funciones de creación recientes."
+  },
+  "cm-5364286": {
+    "en": "Modern Power BI architecture choices for reporting on Azure Databricks: A performance benchmark for Power BI storage modes",
+    "titleEs": "Arquitectura moderna de Power BI sobre Azure Databricks: comparativa de rendimiento de los modos de almacenamiento",
+    "summaryEs": "Prueba de rendimiento que ayuda a elegir el modo de almacenamiento de los semantic models de Power BI que usan Azure Databricks como origen, considerando coste, seguridad y facilidad de desarrollo."
+  },
+  "cm-5365841": {
+    "en": "Power BI Q&A retirement reminder: February 2027 timeline update",
+    "titleEs": "Recordatorio de la retirada de Power BI Q&A: nueva fecha en febrero de 2027",
+    "summaryEs": "La retirada de Q&A, la experiencia clásica de preguntas en lenguaje natural, se amplía de diciembre de 2026 a febrero de 2027 para facilitar la transición a las soluciones basadas en Copilot."
+  },
+  "cm-5366792": {
+    "en": "Manage semantic model settings in context with the default settings pane (Preview)",
+    "titleEs": "Gestiona la configuración de los semantic models en contexto con el nuevo panel (Preview)",
+    "summaryEs": "El panel de configuración de semantic models pasa a ser la opción por defecto en el servicio de Power BI: se abre junto al workspace y ofrece los mismos ajustes sin salir de la página."
+  },
+  "cm-5369131": {
+    "en": "Power BI’s next chapter: The evolution of business intelligence",
+    "titleEs": "El siguiente capítulo de Power BI: la evolución de la inteligencia de negocio",
+    "summaryEs": "Reflexión sobre cómo evoluciona Power BI en la era de los agentes y Copilot, presentada junto a los anuncios de FabCon y SQLCon 2026 en Barcelona."
+  },
+  "cm-5369534": {
+    "en": "Microsoft & Snowflake’s Commitment to Apache Ossie",
+    "titleEs": "El compromiso de Microsoft y Snowflake con Apache Ossie",
+    "summaryEs": "Microsoft y Snowflake impulsan Apache Ossie, una base semántica abierta e interoperable para la analítica basada en IA, anunciada en FabCon Europe 2026."
+  },
+  "cm-5369591": {
+    "en": "Databricks ADBC connector for Power BI and Microsoft Fabric (Generally Available)",
+    "titleEs": "Conector ADBC de Databricks para Power BI y Microsoft Fabric (disponibilidad general)",
+    "summaryEs": "El conector de Databricks basado en ADBC ya es GA dentro de la transición de ODBC a ADBC de los conectores de Power Query; las conexiones existentes siguen funcionando sin cambios."
+  },
+  "cm-5374650": {
+    "en": "Power BI October 2026 Feature Summary",
+    "titleEs": "Resumen de novedades de Power BI: octubre de 2026",
+    "summaryEs": "Nuevas capacidades de octubre en Copilot e IA, informes y semantic models, publicadas sin esperar al siguiente mes tras el intenso resumen de septiembre."
+  },
+  "cm-5377539": {
+    "en": "Securing and governing your medallion layers in Fabric Data Warehouse",
+    "titleEs": "Seguridad y gobierno de las capas medallion en Fabric Data Warehouse",
+    "summaryEs": "Cuarta parte de la serie sobre arquitectura medallion en Fabric Data Warehouse: cómo aplicar la seguridad siguiendo las capas bronce, plata y oro en lugar de luchar contra ellas."
+  },
+  "cm-5377581": {
+    "en": "Modernize data integration strategy with Microsoft Fabric when using Snowflake and Databricks",
+    "titleEs": "Moderniza tu estrategia de integración de datos con Microsoft Fabric si usas Snowflake y Databricks",
+    "summaryEs": "Cómo Microsoft Fabric, como plataforma analítica de extremo a extremo, simplifica la integración de datos en entornos que combinan Snowflake y Azure Databricks."
+  },
+  "cm-5377609": {
+    "en": "Bring your Fabric data into your next app with connectors",
+    "titleEs": "Lleva tus datos de Fabric a tu próxima app con conectores",
+    "summaryEs": "Los conectores permiten crear aplicaciones de negocio sobre datos que ya están en Fabric (SQL database, Lakehouse o Power BI) sin volver a moverlos, convirtiendo datos de confianza en experiencias útiles."
+  },
+  "cm-5377690": {
+    "en": "Bring insights and action together with Fabric Apps in Org apps",
+    "titleEs": "Une análisis y acción con Fabric Apps en Org apps",
+    "summaryEs": "Fabric Apps ofrece experiencias basadas en datos que van más allá de un informe, y Org apps las distribuye junto a informes de Power BI y otro contenido de Fabric en un espacio organizado."
+  },
+  "cm-5377875": {
+    "en": "Eventhouse support for OneLake security (Generally Available)",
+    "titleEs": "Eventhouse admite OneLake security (disponibilidad general)",
+    "summaryEs": "Ya es GA el soporte de OneLake security en Eventhouse: los controles de acceso definidos una vez junto a los datos se aplican también al consultar con KQL."
+  },
+  "cm-5377907": {
+    "en": "Power BI reports support OAP exceptions for semantic models in separate workspaces (Preview)",
+    "titleEs": "Los informes de Power BI admiten excepciones de OAP para semantic models de otros workspaces (Preview)",
+    "summaryEs": "Con workspace outbound access protection (OAP), un informe de un workspace protegido ya puede usar un semantic model de otro workspace mediante excepciones controladas."
+  },
+  "cm-5377911": {
+    "en": "Build more connected workflows with Fabric Actions and Business Actions in Fabric Pipelines (Preview)",
+    "titleEs": "Flujos más conectados con Fabric Actions y Business Actions en los pipelines de Fabric (Preview)",
+    "summaryEs": "Los pipelines pueden lanzar operaciones en Fabric, refrescar semantic models, actualizar aplicaciones de negocio, enviar notificaciones o generar documentos como siguiente paso del proceso."
+  },
+  "cm-5377928": {
+    "en": "Announcing support for Materialized views and streaming tables in Mirrored Azure Databricks catalog",
+    "titleEs": "Vistas materializadas y streaming tables en el catálogo replicado de Azure Databricks",
+    "summaryEs": "Los catálogos replicados de Azure Databricks en Fabric admiten vistas materializadas y streaming tables además de tablas; siguen gestionándose en Databricks y Fabric las lee."
+  },
+  "cm-5377939": {
+    "en": "Use OneLake as native storage for Azure Databricks",
+    "titleEs": "Usa OneLake como almacenamiento nativo para Azure Databricks",
+    "summaryEs": "Ya es GA el soporte de OneLake como ubicación externa de Unity Catalog en Azure Databricks: ambos equipos trabajan sobre una base de datos común sin cuentas de almacenamiento separadas."
+  },
+  "cm-5378764": {
+    "en": "Share data and context across organizations with IQ Share (Preview)",
+    "titleEs": "Comparte datos y contexto entre organizaciones con IQ Share (Preview)",
+    "summaryEs": "IQ Share permite compartir datos y su contexto con proveedores, socios y clientes sin construir pipelines ni mantener copias adicionales."
+  },
+  "cm-5382053": {
+    "en": "Power Query Corner: Finding and connecting to data in the new experience (Preview)",
+    "titleEs": "Power Query Corner: buscar y conectarse a datos en la nueva experiencia (Preview)",
+    "summaryEs": "Primer artículo de una serie de seis sobre la nueva experiencia de Power Query: cómo encontrar datos y conectarse a ellos aunque no sepas el nombre del conector."
+  },
+  "cm-5382230": {
+    "en": "Adding the Context Streaming Events Need: Reference Data Joins with OneLake Delta Tables in Fabric Eventstream",
+    "titleEs": "Contexto para los eventos en streaming: uniones con datos de referencia de tablas Delta de OneLake en Fabric Eventstream",
+    "summaryEs": "Eventstream enriquece eventos en tiempo real uniéndolos con tablas Delta de OneLake, para alertas más relevantes y decisiones más rápidas (por ejemplo, en logística de cadena de frío)."
+  },
+  "cm-5382375": {
+    "en": "Regular expression functions in Microsoft Fabric Data Warehouse (Preview)",
+    "titleEs": "Funciones de expresiones regulares en Microsoft Fabric Data Warehouse (Preview)",
+    "summaryEs": "Fabric Data Warehouse y el SQL analytics endpoint admiten funciones escalares de expresiones regulares para extraer, validar y limpiar información contenida en texto libre."
+  },
+  "cm-5383035": {
+    "en": "OneLake: The file system for agent-first data engineering",
+    "titleEs": "OneLake: el sistema de archivos para la ingeniería de datos con agentes",
+    "summaryEs": "OneLake evoluciona para que los ingenieros de datos trabajen con agentes como en un terminal: programas y datos accesibles como archivos en la era «agent-first»."
+  },
+  "cm-5383656": {
+    "en": "Govern Fabric connections with admin APIs and data connection policies (Preview)",
+    "titleEs": "Gobierna las conexiones de Fabric con APIs de administración y políticas de conexión de datos (Preview)",
+    "summaryEs": "Nuevas APIs de administración y políticas de conexión de datos ayudan a controlar quién gestiona cada conexión, evaluar su riesgo y fijar reglas para todo el tenant."
+  },
+  "cm-5384626": {
+    "en": "Salesforce Data 360 integration with OneLake (Preview)",
+    "titleEs": "Integración de Salesforce Data 360 con OneLake (Preview)",
+    "summaryEs": "Une los datos de clientes de Salesforce con los datos de Microsoft Fabric en OneLake para analizarlos juntos sin exportaciones manuales."
+  },
+  "cm-5391262": {
+    "en": "OneLake table APIs: Now with Iceberg writes, plus richer table metadata (Preview)",
+    "titleEs": "APIs de tablas de OneLake: escritura Iceberg y metadatos de tabla más completos (Preview)",
+    "summaryEs": "El endpoint de tablas de OneLake admite escrituras mediante Iceberg REST Catalog y una nueva API, en Preview, para añadir descripciones y etiquetas a las tablas."
+  },
+  "cm-5393588": {
+    "en": "Find expensive queries from Capacity Metrics (Generally Available)",
+    "titleEs": "Localiza las consultas más costosas desde Capacity Metrics (disponibilidad general)",
+    "summaryEs": "La acción Monitor in warehouse de la app Capacity Metrics enlaza el consumo de capacidad con Warehouse Monitor para identificar qué consultas y qué warehouse provocaron un pico."
+  },
+  "cm-5397390": {
+    "en": "Unifying SQL Pools: Upcoming changes to UI and APIs",
+    "titleEs": "Unificación de SQL Pools: próximos cambios en la interfaz y las APIs",
+    "summaryEs": "Los SQL pools de Fabric Data Warehouse unificarán su configuración entre los modelos integrado y personalizado, con cambios en la interfaz y en las APIs que conviene revisar."
+  },
+  "cm-5400304": {
+    "en": "Join us at FABCON + SQLCON 2027 in Atlanta and save",
+    "titleEs": "FABCON + SQLCON 2027 en Atlanta: inscríbete y ahorra",
+    "summaryEs": "La conferencia se celebra del 8 al 12 de marzo de 2027 en Atlanta; la inscripción anticipada y los códigos promocionales permiten ahorrar en la entrada."
+  },
+  "cm-5400748": {
+    "en": "Announcing the retirement of R and Python visuals in Power BI",
+    "titleEs": "Retirada de los visuales de R y Python en Power BI",
+    "summaryEs": "Los visuales integrados de R y Python dejarán de funcionar en mayo de 2027 en los informes interactivos; los scripts de Python en Power Query no se ven afectados."
+  },
+  "cm-5400776": {
+    "en": "A Leader in Data Integration—six years running",
+    "titleEs": "Líder en integración de datos por sexto año consecutivo",
+    "summaryEs": "Microsoft es reconocida como Líder en el Gartner Magic Quadrant 2026 de herramientas de integración de datos por sexto año seguido."
+  },
+  "cm-5401222": {
+    "en": "The next chapter for CI/CD in Fabric Warehouse (Preview)",
+    "titleEs": "El siguiente capítulo de CI/CD en Fabric Warehouse (Preview)",
+    "summaryEs": "Fabric Warehouse avanza en CI/CD con DacFx, scripts antes y después del despliegue y APIs de definición de elementos, para versionar en Git y automatizar despliegues entre entornos."
+  },
+  "wn-4186649d240c7f": {
+    "en": "JDBC driver high concurrency (Generally Available)",
+    "titleEs": "Alta concurrencia en el driver JDBC (disponibilidad general)",
+    "summaryEs": "El driver JDBC con alta concurrencia ejecuta cargas simultáneas de Spark SQL desde aplicaciones Java. Más información en la documentación del driver JDBC para Fabric Data Engineering."
+  }
+}

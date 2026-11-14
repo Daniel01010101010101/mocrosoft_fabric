@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=875584c6-23b4-f011-bbd3-000d3a3740cc",
   "contentHash": "e75ec400d87b4d4dcd97ac5ef0b6b63ee5a356a29c0c68424499b52cbb37f090",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mayor cuota de Workspace Identity a nivel de tenant",
+      "descriptionEs": ""
+    }
   }
 }

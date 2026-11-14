@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -59,12 +59,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Introducing-Rayfin-A-new-AI-first-way-to-build-deploy-and-govern/ba-p/5191676",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:78"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.965Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "82e845f3b36cf139bf0062838628bd20bc15c306a05502b25add5270a670e388",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Aplicaciones de Fabric back-end con el SDK de Rayfin (versión preliminar)",
+      "summaryEs": "Rayfin (versión preliminar) es un SDK de código abierto y una CLI que permite a los desarrolladores y agentes de codificación definir un back-end de aplicación completo en código (modelos de datos, API, identidad, directivas de acceso y lógica de negocios) e implementarlo en Microsoft Fabric, donde las aplicaciones resultantes se ejecutan como elementos de primera clase con gobernanza integrada y acceso directo a OneLake. Para obtener más información, consulte Fabric Apps."
+    }
   }
 }

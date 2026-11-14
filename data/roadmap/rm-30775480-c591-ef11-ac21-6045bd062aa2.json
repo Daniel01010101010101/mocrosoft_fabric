@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=30775480-c591-ef11-ac21-6045bd062aa2",
   "contentHash": "1b8592700c8895a56a0b48ef7a36f197b12d5ed6f00c71839a8e8898665ea966",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Explorar datos de tablas KQL en Real-Time hub",
+      "descriptionEs": ""
+    }
   }
 }

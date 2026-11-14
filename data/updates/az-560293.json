@@ -9,7 +9,7 @@
   "publishedAt": "2026-04-22T17:30:14.118Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,5 +56,16 @@
     "tags": "Features",
     "gaDate": "2026-04",
     "modified": "2026-04-22T17:30:14.1183372Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "ee7d226d5941d18dbab25161014b91d8b3beba954d27e57a17983d9304c81100",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Disponibilidad general: mirroring mejorado de Azure Database for PostgreSQL en Microsoft Fabric",
+      "summaryEs": "Nuevas capacidades facilitan replicar cargas reales de PostgreSQL a escala, incluidos tipos nativos como JSON y JSONB, sin soluciones alternativas."
+    }
   }
 }

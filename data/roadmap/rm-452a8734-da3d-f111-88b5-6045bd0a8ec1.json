@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=452a8734-da3d-f111-88b5-6045bd0a8ec1",
   "contentHash": "15e1e103d96f73a804325bd50d26ca77152d22115a85d6e0d3a745246c1c5d6d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Eventstream como consumidor de Business Events desde Real-Time Hub",
+      "descriptionEs": ""
+    }
   }
 }

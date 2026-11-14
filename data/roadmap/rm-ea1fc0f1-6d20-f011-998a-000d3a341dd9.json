@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=ea1fc0f1-6d20-f011-998a-000d3a341dd9",
   "contentHash": "3f52cc5e904047cd13ce3cf15129f708d244682917cde4d065366f9142be264f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "OneLake Catalog: pestaña Govern para propietarios de datos",
+      "descriptionEs": ""
+    }
   }
 }

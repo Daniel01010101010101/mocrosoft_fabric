@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=7275a5ad-93ba-f011-bbd3-00224808fcf0",
   "contentHash": "4c66ef9ea0b8e2134c83b1c045ffca8082433eefde212933c213f2b8ccb98e14",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Fabric Extensibility Toolkit: publicación de workloads",
+      "descriptionEs": ""
+    }
   }
 }

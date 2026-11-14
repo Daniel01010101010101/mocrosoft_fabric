@@ -10,7 +10,7 @@
   "publishedAt": "2024-11-22T20:00:49.782Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -69,5 +69,16 @@
     "tags": "Features",
     "gaDate": "2024-11",
     "modified": "2024-11-22T20:00:49.7826157Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "f756ced2acc7177005584593153047b3d9f469765788ab63a2bfc24ae4e6c6ba",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Disponibilidad general: patrón en estrella e identificador de nodo predeterminado en Kusto",
+      "summaryEs": "La semántica de grafos de Kusto admite ya patrones no lineales mediante secuencias separadas por comas y un identificador de nodo predeterminado."
+    }
   }
 }

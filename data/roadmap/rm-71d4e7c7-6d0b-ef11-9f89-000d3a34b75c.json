@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=71d4e7c7-6d0b-ef11-9f89-000d3a34b75c",
   "contentHash": "28718b0ae001946f462fe64805a482b3383432c5057f3ebf313a0ad615376155",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Git integration: compatibilidad con carpetas",
+      "descriptionEs": ""
+    }
   }
 }

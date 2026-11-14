@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=427ca404-ce02-ef11-a1fd-000d3a33ff0b",
   "contentHash": "e225e2c04ce86373d4aa745a32723e64f79cf9194596e2e63793392662756397",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copilot en las apps móviles de Power BI",
+      "descriptionEs": ""
+    }
   }
 }

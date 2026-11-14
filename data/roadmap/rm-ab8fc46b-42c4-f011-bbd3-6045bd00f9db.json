@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=ab8fc46b-42c4-f011-bbd3-6045bd00f9db",
   "contentHash": "cb6cb381aabfee0cb9249d086c0e5caee1a424d469fb3763d8c57c46db914177",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Ancho automático de columnas en tablas",
+      "descriptionEs": ""
+    }
   }
 }

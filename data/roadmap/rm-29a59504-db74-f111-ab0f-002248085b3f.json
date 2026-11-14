@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabrichorizondb&releaseItem=29a59504-db74-f111-ab0f-002248085b3f",
   "contentHash": "113742bfc5a402da042c3fa551881ed4e9d1b15106892d534421db1da5e544bb",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "113742bfc5a402da042c3fa551881ed4e9d1b15106892d534421db1da5e544bb",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Microsoft Fabric HorizonDB",
+      "descriptionEs": "Fabric HorizonDB es una nueva base de datos PostgreSQL sin servidor y nativa de Fabric para aplicaciones modernas de datos e IA. Lleva los datos operacionales directamente a Fabric, conecta datos transaccionales y analíticos y estará disponible como base de datos para las Fabric apps."
+    }
   }
 }

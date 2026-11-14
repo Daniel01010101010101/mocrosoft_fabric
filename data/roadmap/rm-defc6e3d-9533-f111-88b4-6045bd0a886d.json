@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=defc6e3d-9533-f111-88b4-6045bd0a886d",
   "contentHash": "9fc78f7f29ba1d27f0da76186acfbb4b4efcc3b92c07936404cad431704c0095",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: ejecución de consultas (Streaming API)",
+      "descriptionEs": ""
+    }
   }
 }

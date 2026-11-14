@@ -10,7 +10,7 @@
   "publishedAt": "2026-06-02T19:00:47.541Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,5 +57,16 @@
     "tags": "Microsoft Build, Feature",
     "previewDate": "2026-06",
     "modified": "2026-06-02T19:00:47.5410367Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "475fe82784718fdfb758f30913e37e50ae5f27a3206fd5c837a3b2dd0144226f",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Preview pública: integración de OneLake catalog con fuentes de conocimiento de Foundry IQ",
+      "summaryEs": "Foundry IQ admite OneLake catalog como fuente de conocimiento: los agentes basan sus respuestas en tablas, archivos y shortcuts gobernados en Fabric, respetando sus permisos."
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricecosystem&releaseItem=b2e2f16c-a97e-f011-b4cc-00224804b6c3",
   "contentHash": "d54f7481ffeddf0596cb381925720a11718419470b58afad36dd478b15e2e78c",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Bibliotecas geoespaciales de Esri ArcGIS para Fabric Spark",
+      "descriptionEs": ""
+    }
   }
 }

@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -52,12 +52,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:121"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.948Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "96642820919733569f0fa8ecc7ca0c9fac092ee881236ad0e0f04b64466e7fe3",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Políticas de Microsoft Fabric (Vista previa)",
+      "summaryEs": "Las políticas de Microsoft Fabric permiten a los administradores definir y aplicar de forma centralizada reglas de gobernanza basadas en condiciones en el ámbito del inquilino o de la capacidad. Las políticas soportan la gestión centralizada en el catálogo OneLake, registro de auditorías, APIs REST, integración con Git y automatización CI/CD."
+    }
   }
 }

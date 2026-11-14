@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,12 +58,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:117"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.916Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "44f6a30a0111ee06891427a4422e166bf1e6f709b6719b8d5af505894c10c76d",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Servidores remotos MCP para Activator y Eventhouse en Real-Time Intelligence (versión preliminar)",
+      "summaryEs": "Fabric Real-Time Intelligence proporciona servidores remotos del Protocolo de contexto de modelo (MCP) hospedados para Activator y Eventhouse, lo que permite a los asistentes y agentes de IA interactuar con los componentes de RTI mediante lenguaje natural. Mediante el uso del servidor MCP de Activator, los asistentes de IA pueden crear reglas de supervisión, administrar alertas y desencadenar acciones en Fabric Activator. El servidor MCP remoto de Eventhouse permite a los agentes de inteligencia artificial consultar, razonar y actuar en los datos en tiempo real almacenados en un centro de…"
+    }
   }
 }

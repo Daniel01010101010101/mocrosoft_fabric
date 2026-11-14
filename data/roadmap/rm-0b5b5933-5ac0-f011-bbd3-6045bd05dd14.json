@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=0b5b5933-5ac0-f011-bbd3-6045bd05dd14",
   "contentHash": "30f3853e14fe536b94a695d729f9d139dbb5caba89ff0d2ccab9e92b0faeddee",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Disponibilidad general de Fabric Data Agents",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=13725833-bb9a-f011-b4cc-0022480b30e4",
   "contentHash": "1d9988fa89ac39a19543b9cbf8f9ba9d15b676333520433582b3cf4ea3adb220",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copy job: replicación basada en CDC desde Snowflake",
+      "descriptionEs": ""
+    }
   }
 }

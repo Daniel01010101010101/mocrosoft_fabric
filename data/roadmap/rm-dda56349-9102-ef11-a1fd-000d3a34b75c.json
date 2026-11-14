@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=dda56349-9102-ef11-a1fd-000d3a34b75c",
   "contentHash": "f3fe5dedf6e59ec4ee6c454bc1c9ee2d0aa8ef774c823995df76a32ec4f3f4c4",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Ordenar y filtrar tablas y carpetas en Lakehouse",
+      "descriptionEs": ""
+    }
   }
 }

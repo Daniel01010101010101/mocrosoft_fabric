@@ -9,7 +9,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -55,12 +55,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Pipelines-are-evolving-beyond-ETL/ba-p/5177527",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:11"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.983Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "11a7678626e4aa188a964eb1a243f5637b9b03fb3b704022c630db10a51a8dd4",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Actividad de aprobación en canalizaciones de Data Factory (versión preliminar)",
+      "summaryEs": "La nueva actividad Aprobación (versión preliminar) en las canalizaciones de Fabric Data Factory pausa la ejecución hasta que un revisor la apruebe o la rechace desde Outlook o Teams y, a continuación, dirige el flujo de la canalización de forma dinámica en función del resultado (aprobado, rechazado o agotado el tiempo de espera). Para obtener más información, consulte la documentación sobre la actividad de aprobación."
+    }
   }
 }

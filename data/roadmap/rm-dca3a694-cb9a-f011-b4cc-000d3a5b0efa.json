@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=dca3a694-cb9a-f011-b4cc-000d3a5b0efa",
   "contentHash": "4655ea5355f2ca16e90e90eb15195010f956260d7115f192ae067269bba4c442",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copy job: replicación CDC con historial completo (SCD tipo 2)",
+      "descriptionEs": ""
+    }
   }
 }

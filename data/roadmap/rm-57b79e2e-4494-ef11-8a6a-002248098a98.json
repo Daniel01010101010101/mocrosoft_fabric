@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=57b79e2e-4494-ef11-8a6a-002248098a98",
   "contentHash": "fadd0512012b5cc6f82231ece6136beaceb6bf40883a12b31896a9753f16e752",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Anotaciones de puntos de datos en el complemento de Power BI para PowerPoint",
+      "descriptionEs": ""
+    }
   }
 }

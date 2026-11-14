@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=403b7b13-0ca4-f011-bbd3-000d3a5b0efa",
   "contentHash": "d09a5f63e4eca3ff396a75633382c581923ab3f053846c492d2bfa822f052cf2",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "d09a5f63e4eca3ff396a75633382c581923ab3f053846c492d2bfa822f052cf2",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Unifica datos por lotes y en streaming con Copy job y Real-Time Intelligence",
+      "descriptionEs": "La integración de Real-Time Intelligence con Copy job permite enviar a Eventstreams las actualizaciones incrementales de orígenes tradicionalmente por lotes y, a la vez, llevar datos de orígenes en streaming a cualquier destino de Copy job con cargas incrementales. Facilita plataformas híbridas y aplicaciones basadas en eventos sin mover datos a mano."
+    }
   }
 }

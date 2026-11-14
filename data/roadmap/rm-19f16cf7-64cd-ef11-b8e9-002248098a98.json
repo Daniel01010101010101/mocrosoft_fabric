@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=19f16cf7-64cd-ef11-b8e9-002248098a98",
   "contentHash": "9bb79df3f6056a77c610a66038adb65c2a33b47790c1aea1dfc28cc0316f7456",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Job Events (disponibilidad general)",
+      "descriptionEs": ""
+    }
   }
 }

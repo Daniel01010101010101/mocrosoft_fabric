@@ -9,7 +9,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -51,12 +51,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-prompt-to-production-What-s-new-in-Fabric-Apps/ba-p/5369134",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:79"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.985Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "50c3439ef8d85798e3ffa969bfd60150890b21eb85287c6f460e3ad8ad3ce6e9",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Funciones y conectores de Fabric Apps (Vista previa)",
+      "summaryEs": "Las funciones y conectores de Fabric Apps (Preview) añaden conectores de datos Fabric, soporte para PostgreSQL, funciones del lado servidor, almacenamiento secreto, almacenamiento de aplicaciones y métricas integradas."
+    }
   }
 }

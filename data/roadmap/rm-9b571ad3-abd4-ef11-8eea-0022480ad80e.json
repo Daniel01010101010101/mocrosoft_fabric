@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=9b571ad3-abd4-ef11-8eea-0022480ad80e",
   "contentHash": "746a1eca12e567d7a224ee88b082c01ba9c8f98981b4d9537ad1b6d7d348c20f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Workspace Private Link para orígenes y destinos de Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=b0d01e2d-ce07-ef11-9f89-000d3a34b75c",
   "contentHash": "5d934768f34822f23669b3986868cd23ab6a014b9a233d285e2662fcdc142bd0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Diagrama de entidades de bases de datos KQL: funciones, vistas materializadas, directivas de actualización y más",
+      "descriptionEs": ""
+    }
   }
 }

@@ -11,7 +11,7 @@
   "publishedAt": "2026-10-15T17:00:00.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -67,9 +67,14 @@
   },
   "meta": {},
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.909Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "01f5f618994c6fcd18b515d48ec8cb10af8eccdb5d62e91ba1ee237791bb68e9",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Conector ADBC de Databricks para Power BI y Microsoft Fabric (disponibilidad general)",
+      "summaryEs": "El conector de Databricks basado en ADBC ya es GA dentro de la transición de ODBC a ADBC de los conectores de Power Query; las conexiones existentes siguen funcionando sin cambios."
+    }
   }
 }

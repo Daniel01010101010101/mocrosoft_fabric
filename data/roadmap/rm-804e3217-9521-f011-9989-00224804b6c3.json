@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=804e3217-9521-f011-9989-00224804b6c3",
   "contentHash": "cdc00afc840a6f4479dd59ca43d7c46c7302e2b792da4f3d0e1ba2727c97ec20",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Firewall de IP pública del workspace",
+      "descriptionEs": ""
+    }
   }
 }

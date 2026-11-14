@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=d77c56b0-21b0-f011-bbd3-000d3a5b0efa",
   "contentHash": "f6688827c2e80bfd506e6d690469673995b889943e6058c65ec467dd413e18b7",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Git integration: workspaces por rama (relación de carpetas)",
+      "descriptionEs": ""
+    }
   }
 }

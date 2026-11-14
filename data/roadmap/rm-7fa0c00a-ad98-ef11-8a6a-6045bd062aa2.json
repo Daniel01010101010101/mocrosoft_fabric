@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=7fa0c00a-ad98-ef11-8a6a-6045bd062aa2",
   "contentHash": "c5d7abe1e16b1c8cdb989267cad886feb1d953f3ac04629fd9442c0187c2f931",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Conexiones: compatibilidad con Workspace Identities",
+      "descriptionEs": ""
+    }
   }
 }

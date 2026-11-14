@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=3883f4a4-4506-ef11-9f89-000d3a34b75c",
   "contentHash": "f7cad0484bce5290c476ca2e4ae140aaf0eae6c1de22d49c7d2ec1a87419dc1d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Filtros y búsqueda del workspace en carpetas anidadas",
+      "descriptionEs": ""
+    }
   }
 }

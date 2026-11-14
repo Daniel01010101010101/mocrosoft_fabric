@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=3a88492a-6b71-f011-bec3-6045bd09dba9",
   "contentHash": "977ab007d1f6e27372316616a60a6939ef816721e3a73eb44cc6a8c596ec60fd",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Asignación de workloads a nivel de workspace",
+      "descriptionEs": ""
+    }
   }
 }

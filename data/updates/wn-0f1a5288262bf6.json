@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -60,12 +60,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Automate-recurring-business-logic-with-scheduled-User-Data/ba-p/5341912",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:165"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.967Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "fa03d6d152d497391b59b4be80668f919169c6b55c64a4c67a6fbb3641d54808",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Funciones de datos de usuario programadas (Vista previa)",
+      "summaryEs": "Las Funciones de Datos de Usuario Programados (Preview) ejecutan lógica de negocio parametrizada en una cadencia recurrente a través del planificador de trabajos Fabric, con el historial de ejecución disponible en el hub de monitorización. Para más información, consulte la visión general de las funciones de datos de usuario y Programación de una función de datos de usuario."
+    }
   }
 }

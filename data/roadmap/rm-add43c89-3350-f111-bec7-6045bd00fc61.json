@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=add43c89-3350-f111-bec7-6045bd00fc61",
   "contentHash": "5376a183a84cda97e9efd87f214b02ad73072f8c17a0d3decd93ac2dc7eed9bb",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "5376a183a84cda97e9efd87f214b02ad73072f8c17a0d3decd93ac2dc7eed9bb",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Job Insights Library (disponibilidad general)",
+      "descriptionEs": "La Job Insights Library ofrece visibilidad completa de la ejecución de Spark con registros y métricas de consultas, trabajos, etapas y tareas, y permite descargar y guardar los registros del driver y los executors en un Lakehouse u otros destinos para análisis posteriores."
+    }
   }
 }

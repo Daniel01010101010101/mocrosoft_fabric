@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=b55b5022-229e-f011-b41c-00224808fcf0",
   "contentHash": "0d485aa622146ab8fd110144a34e813c8163ba5613a482f0ea3f2841fec34b7e",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Disponibilidad regional de Fabric Graph",
+      "descriptionEs": ""
+    }
   }
 }

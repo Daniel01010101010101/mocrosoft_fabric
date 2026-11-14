@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=54d9c519-8c06-ef11-9f89-000d3a34b75c",
   "contentHash": "2cef50ce561054c705f3df2666a184908cfa9b7e8e2718c7c21ff03b0a70ea09",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Fabric Chargeback app",
+      "descriptionEs": ""
+    }
   }
 }

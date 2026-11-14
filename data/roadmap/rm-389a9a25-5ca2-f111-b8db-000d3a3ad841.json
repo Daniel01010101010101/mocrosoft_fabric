@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=389a9a25-5ca2-f111-b8db-000d3a3ad841",
   "contentHash": "792f9c8cf6211cd4894f59c726d1078bd6d6eb9a5ca695a34e611fb64d76a2e0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Segmentación de selector de fechas con rangos relativos y manuales",
+      "descriptionEs": ""
+    }
   }
 }

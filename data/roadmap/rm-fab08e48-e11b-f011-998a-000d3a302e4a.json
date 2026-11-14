@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=fab08e48-e11b-f011-998a-000d3a302e4a",
   "contentHash": "d637f2b92a66275799a5e9000fcda1d171444307495eab6eb58d46ea852006cb",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copilot para SQL database en Fabric",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=92bffcc0-bf04-f111-8406-6045bd0066ad",
   "contentHash": "4a23a0ec1dc14c13f07cbcc8443cda174e75405822a4abe6cda3b7741b135e9e",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Actualización en vivo de Real-Time Dashboards",
+      "descriptionEs": ""
+    }
   }
 }

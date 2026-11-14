@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=3aac4279-ca3d-f111-88b5-6045bd0066ad",
   "contentHash": "e3174cc3139c3cfa490e1eda58ee8a612dc82e2bc33a2f00136da68485f1134e",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Configuración de alertas de Activator integrada en Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

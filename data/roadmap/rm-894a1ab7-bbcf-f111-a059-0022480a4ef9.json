@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=894a1ab7-bbcf-f111-a059-0022480a4ef9",
   "contentHash": "548ac42e5b452541bcc03a2a3e98976ab749402b651841984a3db8ed6604bbd6",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "548ac42e5b452541bcc03a2a3e98976ab749402b651841984a3db8ed6604bbd6",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Federación de catálogos: AWS Glue",
+      "descriptionEs": "Conecta fácilmente con OneLake tus tablas Delta Lake y Apache Iceberg gestionadas en AWS Glue Data Catalog y Amazon S3."
+    }
   }
 }

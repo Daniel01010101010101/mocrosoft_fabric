@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=aa67c070-3e22-f011-998a-00224809ba60",
   "contentHash": "eb0ce3b172a143742cfba9e92e467a74fc682e5eaf23ccffc18b4d9802161b3f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Modelos compuestos Direct Lake e Import en la web",
+      "descriptionEs": ""
+    }
   }
 }

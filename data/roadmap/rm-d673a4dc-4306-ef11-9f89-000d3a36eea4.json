@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=d673a4dc-4306-ef11-9f89-000d3a36eea4",
   "contentHash": "89b706f985c8c9e4e37a24f7d0bbf052dd65b536c7e68a9f6a29f94ce1091d83",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Model explorer para navegar fácilmente por los objetos del modelo",
+      "descriptionEs": ""
+    }
   }
 }

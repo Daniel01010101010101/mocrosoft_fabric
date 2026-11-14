@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=937c1656-05c2-f011-bbd3-000d3a5b0efa",
   "contentHash": "a4de747919fb59c5340d3bd2f76f5a43d9fe7d02a2ae2e9cd21f9efd2ad94e8b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Marcadores en el visual de mapa de Azure",
+      "descriptionEs": ""
+    }
   }
 }

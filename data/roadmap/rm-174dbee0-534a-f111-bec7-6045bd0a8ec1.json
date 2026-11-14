@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=174dbee0-534a-f111-bec7-6045bd0a8ec1",
   "contentHash": "7f3729959f13df292bf8b0811759345c4e3fb00ee96ed11c018711f36ea32182",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "OneLake Catalog: gobierno con gestión centralizada (dominios, etiquetas, capacidades, etc.)",
+      "descriptionEs": ""
+    }
   }
 }

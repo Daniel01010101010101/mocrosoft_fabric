@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=a037d13b-a84d-f111-bec6-000d3a376c0f",
   "contentHash": "3114c2b69045dcbd3d3d359c2f6ebbeccbda25a4b4518f9217e6566df6f4739c",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "3114c2b69045dcbd3d3d359c2f6ebbeccbda25a4b4518f9217e6566df6f4739c",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Conectividad fiable con el warehouse mediante modo directo",
+      "descriptionEs": "TDS Redirect es un modo de conexión opcional que, tras el saludo inicial, permite a los clientes SQL compatibles conectarse directamente al warehouse, reduciendo saltos intermedios y mejorando la estabilidad en cargas largas como ETL o informes. Llegará primero a workspaces con Private Link."
+    }
   }
 }

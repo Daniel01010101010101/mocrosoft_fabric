@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=5d0bf9bd-bc29-f011-8c4e-0022480939f0",
   "contentHash": "db17a5cd2c5c35fa63cb10ce42403f0d9de252e1fab5c145aa8460c2bd067f44",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Workloads de extensión: experiencia estándar de creación de elementos",
+      "descriptionEs": ""
+    }
   }
 }

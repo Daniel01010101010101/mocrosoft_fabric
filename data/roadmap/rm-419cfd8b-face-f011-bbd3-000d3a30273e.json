@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=419cfd8b-face-f011-bbd3-000d3a30273e",
   "contentHash": "455e4b2eb2ff62647d7ec1cfdec6ecad7bb218524f648961bd564d4929917ad1",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "455e4b2eb2ff62647d7ec1cfdec6ecad7bb218524f648961bd564d4929917ad1",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "API pública de consultas para Ontology",
+      "descriptionEs": "La API pública de consultas de Ontology en Fabric IQ dará acceso programático a sus capacidades de consulta para que aplicaciones y automatizaciones consulten datos respaldados por la ontología sin hacerlo de forma interactiva. La gestión de definiciones y el SDK de administración son capacidades aparte."
+    }
   }
 }

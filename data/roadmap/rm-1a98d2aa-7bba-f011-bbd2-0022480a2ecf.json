@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=1a98d2aa-7bba-f011-bbd2-0022480a2ecf",
   "contentHash": "212b9958875fb0c34d28a84cba485a302eb83398d17706a32e52876b1b76fbb4",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "212b9958875fb0c34d28a84cba485a302eb83398d17706a32e52876b1b76fbb4",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Mostrar los límites de concurrencia y de cola de trabajos en la configuración del workspace",
+      "descriptionEs": "Usuarios y administradores verán los trabajos activos y su estado (en ejecución, en cola o limitados), podrán diagnosticar retrasos causados por límites de concurrencia o colas, y los administradores de capacidad supervisarán la actividad de todos los workspaces según la carga de CU."
+    }
   }
 }

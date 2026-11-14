@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=77ade6da-4421-f011-9989-6045bd030c4d",
   "contentHash": "7cc017cbdfb4d3f6aad66cf1641db9c9d01a96ab6315aee285ede300e38e7f12",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: parámetros en los destinos de salida de Dataflow Gen2",
+      "descriptionEs": ""
+    }
   }
 }

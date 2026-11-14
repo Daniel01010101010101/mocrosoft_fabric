@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=0dc39b62-5621-f011-9989-000d3a329ecb",
   "contentHash": "2504efe1aaa1377616a45b0593e21a3846856976e969040a4edb850fa24d790e",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pipelines: mejoras de la galería de plantillas",
+      "descriptionEs": ""
+    }
   }
 }

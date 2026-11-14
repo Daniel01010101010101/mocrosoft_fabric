@@ -11,7 +11,7 @@
   "publishedAt": "2026-11-03T17:00:00.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -117,9 +117,14 @@
   },
   "meta": {},
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.888Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "15e7b2fd46dd493c075facb4643b0f48036b728547dfc341eabe5d1a06e0b7cc",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Moderniza tu estrategia de integración de datos con Microsoft Fabric si usas Snowflake y Databricks",
+      "summaryEs": "Cómo Microsoft Fabric, como plataforma analítica de extremo a extremo, simplifica la integración de datos en entornos que combinan Snowflake y Azure Databricks."
+    }
   }
 }

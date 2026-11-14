@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=98a73759-e13c-f111-88b5-6045bd00fc61",
   "contentHash": "fda287e37c093cfb28874c766dd6798792bb0116d4d9a72a22e55f1ba31a3164",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "fda287e37c093cfb28874c766dd6798792bb0116d4d9a72a22e55f1ba31a3164",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Dataflows: asistente de migración de Dataflow Gen1 a Gen2",
+      "descriptionEs": "El asistente de migración de Dataflow Gen1 a Gen2 pasará a disponibilidad general. Admite actualizar un dataflow o varios a la vez en workspaces Premium (con Fabric habilitado) y redirige automáticamente las dependencias, de modo que informes, semantic models y otros elementos siguen funcionando sin cambios manuales."
+    }
   }
 }

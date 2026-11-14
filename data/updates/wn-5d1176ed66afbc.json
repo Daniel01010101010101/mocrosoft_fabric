@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,12 +58,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bringing-agentic-warehouse-development-to-Fabric-Data-Warehouse/ba-p/5360190",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:88"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.949Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "1b87b32457745599a1545f4b1105a1db61c74c98588c96d09d5ae9ba7edd47f2",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Servidor MCP de Fabric Data Warehouse (Vista previa)",
+      "summaryEs": "El desarrollo de almacenes de agentes con MCP y Agent Skills (Preview) introduce un servidor remoto de Data Warehouse MCP que permite a agentes de codificación de IA trabajar con almacenes Fabric mediante herramientas autenticadas y reguladas. Para más información, consulta Data Warehouse MCP Server y Skills for Microsoft Fabric."
+    }
   }
 }

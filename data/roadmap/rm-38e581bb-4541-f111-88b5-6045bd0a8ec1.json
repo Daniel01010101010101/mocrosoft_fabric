@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=38e581bb-4541-f111-88b5-6045bd0a8ec1",
   "contentHash": "f4b70f70714af3b5eac09f00be3290608166b4c4d745354ee2f02d6233ceb28f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Supervisar la actividad de Eventhouse por aplicación",
+      "descriptionEs": ""
+    }
   }
 }

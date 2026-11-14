@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=d0e74e09-322e-f111-88b4-000d3a376137",
   "contentHash": "8397c7cc8f60c75d21fcc4bb1476c0c5b2f3d1817308b5320766a8248b8c6170",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Explorador de objetos y editor SQL: mejoras de escalabilidad y rendimiento",
+      "descriptionEs": ""
+    }
   }
 }

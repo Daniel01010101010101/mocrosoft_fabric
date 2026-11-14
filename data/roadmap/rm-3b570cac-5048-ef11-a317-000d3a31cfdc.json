@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=3b570cac-5048-ef11-a317-000d3a31cfdc",
   "contentHash": "b0fe03127b8dd7c1938e90b2e3904f3b092bf1f21ea7f3425decb210df56d5a9",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Detección de anomalías multivariante",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=6c647278-de7f-f111-ab0f-6045bd00f798",
   "contentHash": "29eee55677be69c57b1f1eaad437a1dd24724469add700c47597b4938ce088ba",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pipelines: experiencia de actualización simplificada",
+      "descriptionEs": ""
+    }
   }
 }

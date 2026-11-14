@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=e4bba09b-d6de-f111-84e8-00224809fcb6",
   "contentHash": "25714e72b264843744d775ee342096d808e15a1d281ed638bce3e37cae2e176c",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "25714e72b264843744d775ee342096d808e15a1d281ed638bce3e37cae2e176c",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Mirroring: replicación de vistas desde Google BigQuery",
+      "descriptionEs": ""
+    }
   }
 }

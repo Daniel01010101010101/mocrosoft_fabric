@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=89813fc3-8e82-ef11-ac21-002248098a98",
   "contentHash": "12f6221c0453a94de1e71d98369930f2c5512df80e2f4c7bbc1a075b805d7035",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Tablas temporales (ámbito de sesión)",
+      "descriptionEs": ""
+    }
   }
 }

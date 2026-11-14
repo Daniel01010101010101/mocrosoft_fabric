@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=9b6904f3-5f21-f011-998a-0022480939f0",
   "contentHash": "2fea78bcfd50abc1f3b5f2a5c7c3541809b00c48e07fd6d8ccd60402560e8eac",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Conectores: autenticación con Entra ID en Azure PostgreSQL",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=cosmosdb&releaseItem=5d4dfe86-26a5-f011-bbd3-000d3a5b0efa",
   "contentHash": "5c5bebd46d83b91ae620c40bf381efc00a31959642c2882f244bec5a7aa955b3",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mirroring de Azure Cosmos DB en Microsoft Fabric",
+      "descriptionEs": ""
+    }
   }
 }

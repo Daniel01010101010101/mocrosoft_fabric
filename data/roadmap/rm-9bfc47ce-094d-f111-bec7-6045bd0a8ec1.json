@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=9bfc47ce-094d-f111-bec7-6045bd0a8ec1",
   "contentHash": "a16dcf7c2201bc5f92b52bbbdc717715743e7d311e41f94a68ad71ba8c1e718c",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "a16dcf7c2201bc5f92b52bbbdc717715743e7d311e41f94a68ad71ba8c1e718c",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Ampliación de la API de búsqueda de OneLake catalog a tablas de OneLake y de semantic models",
+      "descriptionEs": "La API de búsqueda de OneLake Catalog (POST /v1/catalog/search), antes limitada a elementos de Fabric, devolverá también tablas de OneLake (por ejemplo, de Lakehouse o bases replicadas) y tablas de semantic models como resultados de primer nivel, ordenados juntos por relevancia."
+    }
   }
 }

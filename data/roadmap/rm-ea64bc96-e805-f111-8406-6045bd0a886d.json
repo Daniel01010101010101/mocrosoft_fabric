@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=ea64bc96-e805-f111-8406-6045bd0a886d",
   "contentHash": "23a323312f79ce0aca89e64a5e3eed4a7fbb4f29eb2513560bda8688498b3148",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "[Preview pública] Data Agent admite UDF de Kusto",
+      "descriptionEs": ""
+    }
   }
 }

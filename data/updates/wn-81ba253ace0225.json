@@ -9,7 +9,7 @@
   "publishedAt": "2026-08-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -59,12 +59,18 @@
     "section": "ga",
     "month": "August 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
-    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Capacity-Overview-Events-in-Real-Time-Hub-Generally-Available/ba-p/5356729"
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Capacity-Overview-Events-in-Real-Time-Hub-Generally-Available/ba-p/5356729",
+    "position": "ga:88"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.126Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "61b227098fd8b75f1257fa8cf45ffd67eceb2fb5909505d5b9986971d181f7d4",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Eventos de información general sobre la capacidad en Real-Time Hub (Disponibilidad general)",
+      "summaryEs": "Eventos de información general sobre la capacidad en Real-Time Hub (disponibilidad general) transmiten un resumen de capacidad y señales de estado para que puedas supervisar la utilización y el estado operativo, detectar estrangulamiento o cambios en el ciclo de vida y activar alertas o acciones automatizadas. Para más información, consulta los eventos Introducción a Azure y Fabric y Resumen de la capacidad de Explore Fabric."
+    }
   }
 }

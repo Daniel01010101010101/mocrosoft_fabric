@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=97cad90e-ba5d-f011-bec1-00224804b6c3",
   "contentHash": "20227355188af638ea515dbd51e38c329eaefbd9228369814d34b295d80aa4d1",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Git integration: autenticación entre tenants con Azure DevOps",
+      "descriptionEs": ""
+    }
   }
 }

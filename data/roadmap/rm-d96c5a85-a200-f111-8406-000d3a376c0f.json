@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=d96c5a85-a200-f111-8406-000d3a376c0f",
   "contentHash": "8d9ed4903da6168584f3d62c4bf22d3d6a89acdc629eb9bdf61139aa1f884d54",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mejores comentarios sobre problemas en los playbooks de OA",
+      "descriptionEs": ""
+    }
   }
 }

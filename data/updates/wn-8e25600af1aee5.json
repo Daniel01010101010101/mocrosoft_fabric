@@ -10,7 +10,7 @@
   "publishedAt": "2026-08-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,12 +57,18 @@
     "section": "ga",
     "month": "August 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
-    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Runtime-2-0-Generally-Available/ba-p/5326359"
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Runtime-2-0-Generally-Available/ba-p/5326359",
+    "position": "ga:89"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.136Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "9312fccca4d7c6dae5ef5a144a33e80f6f4ccda998e5d42ff130127de19e1ad6",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Fabric Runtime 2.0 (Disponible en general)",
+      "summaryEs": "Fabric Runtime 2.0 (Disponible Generalmente) incluye Apache Spark 4.1, Delta Lake 4.2, Python 3.13, Java 21, Scala 2.13 y Azure Linux 3.0, y permanece optativo hasta su lanzamiento predeterminado previsto. Para más información, consulta Runtime 2.0 en Fabric."
+    }
   }
 }

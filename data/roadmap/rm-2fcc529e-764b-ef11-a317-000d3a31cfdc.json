@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=2fcc529e-764b-ef11-a317-000d3a31cfdc",
   "contentHash": "3adfdad0245f409e68bad3a3bdbdcd8aa2f644152dcdec1d865d751b921a0c69",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Azure Data Factory en Fabric",
+      "descriptionEs": ""
+    }
   }
 }

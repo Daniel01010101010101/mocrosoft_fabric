@@ -9,7 +9,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,12 +57,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Cross-domain-intelligence-with-Azure-Monitor-data-in-Microsoft/ba-p/5279352",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:17"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.930Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "adb821181e2a30c5190fc3b24c2ebb1e026befb53366c40dda94736cbc44226e",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Azure Monitor mirroring (Preview)",
+      "summaryEs": "La creación de reflejo de Azure Monitor Logs (versión preliminar) lleva las tablas del espacio de trabajo de Log Analytics a OneLake para su análisis en Fabric sin duplicar los datos. Para más información, consulta Mirror Azure Monitor en Microsoft Fabric."
+    }
   }
 }

@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=2a543dc3-74db-f011-8544-000d3a3740cc",
   "contentHash": "aebe47e3f66e36e81c7572817226d0459d0e9a4de2d8992247782e5bfd639370",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "aebe47e3f66e36e81c7572817226d0459d0e9a4de2d8992247782e5bfd639370",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Elemento Ontology (disponibilidad general)",
+      "descriptionEs": "La disponibilidad general del elemento Ontology de Fabric IQ permite mantener un modelo compartido de entidades, propiedades y relaciones de negocio, conectarlo a orígenes de datos compatibles y dar contexto de negocio a la analítica y a los agentes. Cada integración, función de seguridad o capacidad avanzada tiene su propio calendario."
+    }
   }
 }

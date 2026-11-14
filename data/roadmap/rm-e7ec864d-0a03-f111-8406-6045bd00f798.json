@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=e7ec864d-0a03-f111-8406-6045bd00f798",
   "contentHash": "936d03a885be21c8de6595d562f275019ddb5255d66985aeda2f8db35bda371a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "[Ontology para Foundry IQ] Integración de Ontology con Foundry IQ",
+      "descriptionEs": ""
+    }
   }
 }

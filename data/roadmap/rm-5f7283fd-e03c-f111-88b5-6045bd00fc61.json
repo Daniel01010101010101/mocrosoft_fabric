@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=5f7283fd-e03c-f111-88b5-6045bd00fc61",
   "contentHash": "8856630988ee0b05181679e4134576f241d42d90bb75f386982af88dc48ceaaa",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: asistente de migración de Dataflow Gen1 a Gen2",
+      "descriptionEs": ""
+    }
   }
 }

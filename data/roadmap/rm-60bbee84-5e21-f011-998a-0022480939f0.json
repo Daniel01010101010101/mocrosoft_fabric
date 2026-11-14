@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=60bbee84-5e21-f011-998a-0022480939f0",
   "contentHash": "ec90992e514200008ef2e635c0914251458e7366e43080bf78d22fdd8f9ec3da",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Conectores: nuevos conectores de datos en Copy job y pipelines (Copy activity)",
+      "descriptionEs": ""
+    }
   }
 }

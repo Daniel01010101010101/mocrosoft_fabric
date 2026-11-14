@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=5087315d-e93e-f111-88b5-6045bd00f798",
   "contentHash": "b45a7a65cf8e2784de4e51c95080c35b40fb17ff139bdd8edf0b842018d6d316",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "b45a7a65cf8e2784de4e51c95080c35b40fb17ff139bdd8edf0b842018d6d316",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "GetEvents unificado en Fabric RTI",
+      "descriptionEs": "Una única experiencia de ingesta coherente en Eventstream, Real-Time Hub, KQL/Eventhouse, Activator, Notebook y Lakehouse: conecta un origen, previsualiza los datos, asigna el esquema y llévalos a cualquier destino de RTI en pocos pasos guiados, con inferencia de esquema y vista previa integrada."
+    }
   }
 }

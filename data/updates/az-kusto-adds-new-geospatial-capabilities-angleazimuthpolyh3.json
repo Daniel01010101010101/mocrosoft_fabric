@@ -10,7 +10,7 @@
   "publishedAt": "2024-01-23T17:00:07.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -73,5 +73,16 @@
     "tags": "Features",
     "gaDate": "2024-01",
     "modified": "2024-01-23T17:00:07.0000000Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "bde75604c5c0563221c2c97c70c514d2690f9672e39ccd8fcaab02e519d4c31c",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Disponibilidad general: Azure Data Explorer añade nuevas capacidades geoespaciales",
+      "summaryEs": "Kusto incorpora geo_polygon_to_h3cells(), geo_angle() y geo_azimuth() para indexar polígonos en celdas H3 y calcular ángulos y acimuts."
+    }
   }
 }

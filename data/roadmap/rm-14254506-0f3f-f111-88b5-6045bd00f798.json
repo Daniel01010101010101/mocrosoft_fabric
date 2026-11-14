@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=14254506-0f3f-f111-88b5-6045bd00f798",
   "contentHash": "768757e1ee9091b7887b9f90311ae5a701baccbcd583046bc45866fe5c3d854c",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Ingesta declarativa de archivos en Materialized Lake Views de Fabric",
+      "descriptionEs": ""
+    }
   }
 }

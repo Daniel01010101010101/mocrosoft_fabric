@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=bd066fe5-adac-f111-aaab-7ced8d70ff57",
   "contentHash": "0d6ef12d5a07a24aa30e7b6540d4ef01d13e3feb24cdf58e4a2cba988504e36b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "0d6ef12d5a07a24aa30e7b6540d4ef01d13e3feb24cdf58e4a2cba988504e36b",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Agente NL2SQL avanzado (disponibilidad general)",
+      "descriptionEs": "Advanced NL2SQL genera consultas más precisas para orígenes SQL combinando mejor exploración de datos, comprensión del esquema y razonamiento basado en ejemplos. Antes de generar la consulta examina tablas, columnas y relaciones, lo que mejora la precisión al primer intento y reduce la necesidad de ajustar prompts. Hoy está en Preview mediante el [Preview Runtime](https://learn.microsoft.com/fabric/data-science/data-agent-runtime) y pasará a disponibilidad general."
+    }
   }
 }

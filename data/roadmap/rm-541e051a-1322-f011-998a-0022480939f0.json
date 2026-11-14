@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=541e051a-1322-f011-998a-0022480939f0",
   "contentHash": "81bb7426f72f8bd054be6412c4b9804000b011b4b14849c77decdd50f089ab7d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Integración de notebooks con Variable Libraries",
+      "descriptionEs": ""
+    }
   }
 }

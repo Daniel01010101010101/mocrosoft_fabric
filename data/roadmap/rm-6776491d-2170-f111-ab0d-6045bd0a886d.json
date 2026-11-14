@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricecosystem&releaseItem=6776491d-2170-f111-ab0d-6045bd0a886d",
   "contentHash": "377def9c96d3d24e847ee5a562d8726f5dd63f8bad4a84a2906cebace0137364",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "377def9c96d3d24e847ee5a562d8726f5dd63f8bad4a84a2906cebace0137364",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "OneLake lee datos de Salesforce Data Cloud 360 mediante shortcut",
+      "descriptionEs": "OneLake mostrará en Fabric los datos de Salesforce Data Cloud 360 mediante un shortcut."
+    }
   }
 }

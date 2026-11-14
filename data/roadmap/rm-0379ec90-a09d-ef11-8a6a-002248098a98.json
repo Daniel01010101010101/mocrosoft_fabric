@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=0379ec90-a09d-ef11-8a6a-002248098a98",
   "contentHash": "8d5250d92b6152ab1a5b18957575ab81949909c68465ab501a53be5b620729b4",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Análisis del uso de núcleos de los executors",
+      "descriptionEs": ""
+    }
   }
 }

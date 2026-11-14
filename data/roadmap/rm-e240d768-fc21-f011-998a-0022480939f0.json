@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=e240d768-fc21-f011-998a-0022480939f0",
   "contentHash": "5ecb280aa606e37721c6a2a2dd5954f6f7cfea035e93518ad2fb9877647abddb",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "5ecb280aa606e37721c6a2a2dd5954f6f7cfea035e93518ad2fb9877647abddb",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Clonación de warehouses",
+      "descriptionEs": "Podrás clonar un warehouse entre workspaces."
+    }
   }
 }

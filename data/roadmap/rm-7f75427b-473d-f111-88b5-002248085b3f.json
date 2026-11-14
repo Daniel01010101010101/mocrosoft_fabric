@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=7f75427b-473d-f111-88b5-002248085b3f",
   "contentHash": "55196f85ef40069ebd073e31098bddb0f4dc05dfb2636f5a9776eaf361d0fc70",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "55196f85ef40069ebd073e31098bddb0f4dc05dfb2636f5a9776eaf361d0fc70",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Copy job: replicación basada en CDC desde MySQL",
+      "descriptionEs": "Con el conector CDC de MySQL en Copy job podrás capturar inserciones, actualizaciones y borrados de MySQL y copiarlos a cualquier destino compatible."
+    }
   }
 }

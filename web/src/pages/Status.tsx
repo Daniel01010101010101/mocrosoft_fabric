@@ -232,15 +232,11 @@ export default function Status() {
                 <div className="rounded-xl bg-surface-2 p-3">
                   <dt className="text-xs text-fg-muted">Servicio</dt>
                   <dd className="mt-1 font-medium text-fg">
-                    {status.ai.provider === 'anthropic'
-                      ? 'Claude (Anthropic)'
-                      : status.ai.provider === 'github'
-                        ? 'GitHub Models'
-                        : status.ai.configured
-                          ? 'Configurado'
-                          : 'Pendiente de configurar'}
+                    {status.ai.provider === 'anthropic' || status.ai.configured ? 'Claude (Anthropic)' : 'Traducciones oficiales y guardadas'}
                   </dd>
-                  <dd className="break-all text-xs text-fg-subtle">{status.ai.model ?? 'Sin servicio de IA disponible'}</dd>
+                  <dd className="break-all text-xs text-fg-subtle">
+                    {status.ai.model ?? 'Análisis completo pendiente: añade el secreto ANTHROPIC_API_KEY'}
+                  </dd>
                 </div>
                 <div className="rounded-xl bg-surface-2 p-3">
                   <dt className="text-xs text-fg-muted">En español / con análisis completo</dt>

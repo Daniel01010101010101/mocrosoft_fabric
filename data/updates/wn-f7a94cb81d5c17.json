@@ -9,7 +9,7 @@
   "publishedAt": "2025-02-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -52,6 +52,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-february-2025-feature-summary?ft=All#post-19077-_Toc250850506"
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-february-2025-feature-summary?ft=All#post-19077-_Toc250850506",
+    "position": "preview:25"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "56c6b1aea0df100ff202873a2d0cc87fb9cd4bae57681c450eef1f5ceb7d7e22",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Gobernanza centralizada de datos en el catálogo de OneLake (versión preliminar)",
+      "summaryEs": "Hay una nueva experiencia centralizada de gobernanza de datos en el catálogo de OneLake en versión preliminar. Los propietarios de datos pueden ver información agregada sobre los elementos que crearon, considerar la posibilidad de mejorar su gobernanza mediante la realización de acciones recomendadas y acceder a más información junto con todas las herramientas disponibles en Fabric."
+    }
   }
 }

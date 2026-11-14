@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=bc53aecb-f0ba-f011-bbd3-000d3a3740cc",
   "contentHash": "95c6fee837f45d4319ea7f9f5c41ae6592c514ce597245c98ed8415fdac39862",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "95c6fee837f45d4319ea7f9f5c41ae6592c514ce597245c98ed8415fdac39862",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Shortcut Transformations: ingesta personalizable",
+      "descriptionEs": "Podrás personalizar la ingesta de archivos CSV, Parquet, JSON y Excel: codificación, caracteres de comillas y escape en CSV, modo de actualización (Append Only o Mirror) y modo de esquema (dinámico o fijo), todo desde la interfaz."
+    }
   }
 }

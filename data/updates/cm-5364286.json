@@ -11,7 +11,7 @@
   "publishedAt": "2026-09-03T11:30:43.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,9 +57,14 @@
   },
   "meta": {},
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.004Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "8e625bcf2aa618c8dd0a3314423eff861e0d88446e2d512e6fc2d098bcc861b2",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Arquitectura moderna de Power BI sobre Azure Databricks: comparativa de rendimiento de los modos de almacenamiento",
+      "summaryEs": "Prueba de rendimiento que ayuda a elegir el modo de almacenamiento de los semantic models de Power BI que usan Azure Databricks como origen, considerando coste, seguridad y facilidad de desarrollo."
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=3a31cb8c-8503-ef11-a1fd-000d3a34b75c",
   "contentHash": "ac9fc442cc42ea1b55f068be0e7b2190364c22c1611f0f22d2b8e63f3b25d480",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "User Data Functions en Fabric",
+      "descriptionEs": ""
+    }
   }
 }

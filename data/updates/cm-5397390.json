@@ -11,7 +11,7 @@
   "publishedAt": "2026-11-09T17:00:00.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -67,9 +67,14 @@
   },
   "meta": {},
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.884Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "66c1e47310230bce013fec73d2b430b697c0fcf4ed48b943bc0511cb720f1c4a",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Unificación de SQL Pools: próximos cambios en la interfaz y las APIs",
+      "summaryEs": "Los SQL pools de Fabric Data Warehouse unificarán su configuración entre los modelos integrado y personalizado, con cambios en la interfaz y en las APIs que conviene revisar."
+    }
   }
 }

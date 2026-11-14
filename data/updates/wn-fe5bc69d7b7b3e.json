@@ -9,7 +9,7 @@
   "publishedAt": "2026-07-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -48,12 +48,18 @@
     "section": "ga",
     "month": "July 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
-    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId--1837831120"
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId--1837831120",
+    "position": "ga:93"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.154Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "8b5a58775d6e825b5fdef0d7ff34d70643a77221e4547de3b9ba16f2e0dedf6c",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Estimaciones de recursos basadas en el uso (Disponible en general)",
+      "summaryEs": "Las estimaciones de recursos basadas en el uso ayudan al optimizador de consultas Fabric Data Warehouse a utilizar cardinalidades de ejecución previa para corregir subestimaciones y sobreestimaciones para obtener solicitudes de recursos más eficientes y concurrencia."
+    }
   }
 }

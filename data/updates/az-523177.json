@@ -9,7 +9,7 @@
   "publishedAt": "2025-11-18T17:01:02.716Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,5 +56,16 @@
     "tags": "Features, Microsoft Ignite",
     "gaDate": "2025-11",
     "modified": "2025-11-18T17:01:02.7161876Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "0b03ca042b96e9530fab2b1efd2001edef4e17fb4b51e346afbbb24a8f53eecc",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Disponibilidad general: mirroring en Fabric para PostgreSQL Flexible Server",
+      "summaryEs": "El mirroring de Azure Database for PostgreSQL flexible server ya es GA y admite servidores aislados en red (redes virtuales o private endpoints) y de alta disponibilidad."
+    }
   }
 }

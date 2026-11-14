@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=c38385ff-ce24-f011-8c4e-0022480939f0",
   "contentHash": "7ccc6b1ca6abc66b2480f559f8e5220efda86858de11f1236bec0d8025a0051c",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Conector FluentBit: federación de identidades de carga de trabajo",
+      "descriptionEs": ""
+    }
   }
 }

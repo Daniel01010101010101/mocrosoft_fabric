@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=0fbf16dd-ce8c-ef11-ac21-002248098a98",
   "contentHash": "988042dd619ec9d62cc0411b06ef5e1bb70298620892881c0fc7c0258275c305",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Compatibilidad con RLS/CLS en Spark y Lakehouse",
+      "descriptionEs": ""
+    }
   }
 }

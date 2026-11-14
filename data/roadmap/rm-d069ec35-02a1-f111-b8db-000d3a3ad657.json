@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=d069ec35-02a1-f111-b8db-000d3a3ad657",
   "contentHash": "711da955dc0d1fb71621a28f8460dda557fcf727b43204c705fab0686dc59946",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Cinta de diseño en Power BI Desktop",
+      "descriptionEs": ""
+    }
   }
 }

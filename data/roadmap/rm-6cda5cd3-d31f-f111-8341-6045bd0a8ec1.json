@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=6cda5cd3-d31f-f111-8341-6045bd0a8ec1",
   "contentHash": "56fc198d99b78df82c26835baac9bc5b8b1d8bc8bf3d8d9a8df1b234f264265c",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "56fc198d99b78df82c26835baac9bc5b8b1d8bc8bf3d8d9a8df1b234f264265c",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Temas organizativos para informes de Power BI",
+      "descriptionEs": "Los temas organizativos (Preview) permitirán a los administradores gestionar y distribuir de forma centralizada temas de informe personalizados, para que todos los informes, creados a mano o con Copilot, respeten la identidad visual de la organización."
+    }
   }
 }

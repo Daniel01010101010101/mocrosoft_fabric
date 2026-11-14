@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricecosystem&releaseItem=3087be0d-3771-f011-bec2-000d3a34671f",
   "contentHash": "6f86905fb443e1619fc25e0fb35471b16a69e52ccb05d17abe7c2fb5818b5c74",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Statsig: análisis de experimentación",
+      "descriptionEs": ""
+    }
   }
 }

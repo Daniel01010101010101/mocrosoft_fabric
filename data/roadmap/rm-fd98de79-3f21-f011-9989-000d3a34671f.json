@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=fd98de79-3f21-f011-9989-000d3a34671f",
   "contentHash": "effab393c6ae0b470891e484b0de98619c87e163d232727be601849b42bd5578",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: nuevo destino archivos CSV de SharePoint",
+      "descriptionEs": ""
+    }
   }
 }

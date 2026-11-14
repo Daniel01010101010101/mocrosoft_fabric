@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=be88936f-9d06-ef11-9f89-000d3a33ff0b",
   "contentHash": "64eff6f89d2226ec56e042fd3fb7e195b0c1860b0f8928fb52172cb1777db0d0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pipelines: compatibilidad con Azure Databricks Jobs",
+      "descriptionEs": ""
+    }
   }
 }

@@ -9,7 +9,7 @@
   "publishedAt": "2026-08-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -53,12 +53,18 @@
     "section": "ga",
     "month": "August 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
-    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_43"
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_43",
+    "position": "ga:74"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.136Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "1df37a62f241fb63f6feecbcdee43fec2f93dc19c8b5891ba107d922e527c50b",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Reglas activadoras en Eventstream (Generalmente disponibles)",
+      "summaryEs": "Las reglas de activación en Eventstream te permiten crear, editar, eliminar y abrir reglas de alerta sin salir de Eventstream. Para más información, consulte Añadir un destino de Fabric Activator a un flujo de eventos."
+    }
   }
 }

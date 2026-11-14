@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=435d0880-f2d6-ee11-9079-000d3a310f67",
   "contentHash": "49604dd122978f8c45a590b1c0b8b5eccf241a57bd812d226b877fb500534157",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Crear y adjuntar entornos (Environments)",
+      "descriptionEs": ""
+    }
   }
 }

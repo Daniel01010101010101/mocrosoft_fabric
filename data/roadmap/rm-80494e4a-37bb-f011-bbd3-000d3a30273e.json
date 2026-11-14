@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=80494e4a-37bb-f011-bbd3-000d3a30273e",
   "contentHash": "d57323a7821a8593f71c4e975de3aa6e416998b3ac763a518acdaaf6782017e6",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Formato de datos AzMonStream en Eventhouse",
+      "descriptionEs": ""
+    }
   }
 }

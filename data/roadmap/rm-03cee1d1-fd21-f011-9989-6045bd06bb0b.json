@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=03cee1d1-fd21-f011-9989-6045bd06bb0b",
   "contentHash": "8cd00aef008aec4801a341294c54d2e5898feda42280716c78fe4f7c3e389d35",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mirroring: Open Mirroring con archivos no secuenciales",
+      "descriptionEs": ""
+    }
   }
 }

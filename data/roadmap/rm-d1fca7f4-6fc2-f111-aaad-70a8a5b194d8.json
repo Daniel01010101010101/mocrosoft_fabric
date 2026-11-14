@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=d1fca7f4-6fc2-f111-aaad-70a8a5b194d8",
   "contentHash": "34517510204d41040244a9c2aa8140fcf5edbb964f8c5431b2b46c335c5b080c",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "34517510204d41040244a9c2aa8140fcf5edbb964f8c5431b2b46c335c5b080c",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Dataflows: nuevo destino Presentaciones de PowerPoint (PPTX)",
+      "descriptionEs": "Dataflow Gen2 podrá generar archivos de PowerPoint a partir de datos preparados en Fabric para revisiones de negocio, actualizaciones operativas o reuniones, reutilizando consultas existentes y reduciendo el trabajo manual. Estará disponible en Preview."
+    }
   }
 }

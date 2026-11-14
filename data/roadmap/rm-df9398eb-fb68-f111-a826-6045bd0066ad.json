@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=df9398eb-fb68-f111-a826-6045bd0066ad",
   "contentHash": "c2098726f204b65690fe832d185e163f29a9623112c4a7efc331242797090c0d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "c2098726f204b65690fe832d185e163f29a9623112c4a7efc331242797090c0d",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Build Agent with AI Mode: compatibilidad con semantic models",
+      "descriptionEs": "El modo de IA para crear agentes explorará tablas, medidas, columnas y consultas recientes de los semantic models para generar instrucciones y consultas de ejemplo más relevantes, mostrando los pasos ejecutados. El usuario revisa y confirma la configuración antes de aplicarla."
+    }
   }
 }

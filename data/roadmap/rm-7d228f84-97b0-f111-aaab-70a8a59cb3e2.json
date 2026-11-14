@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=7d228f84-97b0-f111-aaab-70a8a59cb3e2",
   "contentHash": "6b643ee6351091a808334c2fbda93a4ff738e2002727fbe790a3c2d98539ea4b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Eventos de operaciones de capacidad en Real-Time Hub (Preview pública)",
+      "descriptionEs": ""
+    }
   }
 }

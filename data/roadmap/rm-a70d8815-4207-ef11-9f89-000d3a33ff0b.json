@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=a70d8815-4207-ef11-9f89-000d3a33ff0b",
   "contentHash": "301c62865b52e4bd02a7ced57b79e2b7a3cf7303eeef4b14ea3cc5d381173fe2",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Edición en vivo de semantic models Direct Lake en Power BI Desktop",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=dd18e6e7-6fbb-f011-bbd3-6045bd00f9db",
   "contentHash": "6ae9947174d701606b8b520a1ffe1cad8ffe3e0da3fb9dd0480d1e6b981e0df0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "CI/CD de Fabric en la CLI",
+      "descriptionEs": ""
+    }
   }
 }

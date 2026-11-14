@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=8bc8911e-a461-f011-bec1-000d3a35e553",
   "contentHash": "741b2b64d6b04ea2d6bd161a2cd3381de3d6fd0e5ca16357920967a4342a1398",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mejor selección de orígenes de datos en Data Agent",
+      "descriptionEs": ""
+    }
   }
 }

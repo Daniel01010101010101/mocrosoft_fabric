@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=c899806a-4e9b-f111-b8db-6045bd02b663",
   "contentHash": "fed11e11e908fdaaf3f2a170591519b528d02199582393556a434fc464953a24",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Power Query: desplazar columnas de fecha, fecha y hora u hora",
+      "descriptionEs": ""
+    }
   }
 }

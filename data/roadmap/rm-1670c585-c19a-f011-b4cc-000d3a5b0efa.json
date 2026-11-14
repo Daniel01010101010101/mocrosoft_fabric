@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=1670c585-c19a-f011-b4cc-000d3a5b0efa",
   "contentHash": "ec96e5245f67b670baaecb0423de516555ac65e239dd4f34fed5c336c68334c0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copy job: replicación basada en CDC desde SAP mediante Datasphere",
+      "descriptionEs": ""
+    }
   }
 }

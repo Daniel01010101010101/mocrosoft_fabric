@@ -9,7 +9,7 @@
   "publishedAt": "2026-03-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,6 +56,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-march-2026-feature-summary/#post-34196-_Toc224559684"
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-march-2026-feature-summary/#post-34196-_Toc224559684",
+    "position": "preview:47"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "3e5c0fb3ac8b3aee6dce9b59fc8e92d173e981f0ab1375d5ad79074f1b2c02c8",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "MCP de Data Factory (versión preliminar)",
+      "summaryEs": "McP de Data Factory (versión preliminar) permite a los asistentes de inteligencia artificial crear, probar e implementar Dataflow Gen2 mediante lenguaje natural sin configuración manual. Para obtener más información, consulte Data Factory MCP en GitHub."
+    }
   }
 }

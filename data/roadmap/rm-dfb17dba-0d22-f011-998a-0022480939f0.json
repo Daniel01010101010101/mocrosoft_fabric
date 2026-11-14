@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=dfb17dba-0d22-f011-998a-0022480939f0",
   "contentHash": "38f603e7995a109f7265d80ec9109d754e28f1d7f715d3b5cb29bcbf7ffe206d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "38f603e7995a109f7265d80ec9109d754e28f1d7f715d3b5cb29bcbf7ffe206d",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Retención configurable entre 1 y 120 días",
+      "descriptionEs": "Podrás configurar la retención de datos del warehouse entre 1 y 120 días."
+    }
   }
 }

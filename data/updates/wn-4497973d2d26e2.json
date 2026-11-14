@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -51,12 +51,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:188"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.949Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "72325851758ce6a4ef712b3db5cb61ab911016c469c3c63889286d339e4af13e",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Supervisión del área de trabajo (versión preliminar)",
+      "summaryEs": "La monitorización de espacios de trabajo utiliza un elemento de monitorización para recopilar registros y métricas de los elementos Fabric compatibles. Centraliza la telemetría de varios espacios de trabajo, consulta con KQL, crea paneles de control e informes, crea alertas y utiliza el Agente de Operaciones para investigar problemas."
+    }
   }
 }

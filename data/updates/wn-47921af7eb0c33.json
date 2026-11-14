@@ -10,7 +10,7 @@
   "publishedAt": "2026-04-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,6 +58,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-April-2026-Feature-Summary/ba-p/5176490"
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-April-2026-Feature-Summary/ba-p/5176490",
+    "position": "preview:35"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "a7a462dc9cb46585153dd037526c3d150ed4cbf9a8049be61cf0ecf39110232c",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Creación de una descripción automática de IA para modelos semánticos (versión preliminar)",
+      "summaryEs": "Auto-Description para modelos semánticos (versión preliminar) usa Copilot para generar descripciones claras para los modelos semánticos a partir de los metadatos y la estructura del modelo, que los propietarios y colaboradores del modelo pueden revisar, editar y regenerar directamente desde la página de detalles del modelo semántico en el catálogo de OneLake. Para obtener más información, consulte Introducción al catálogo de OneLake."
+    }
   }
 }

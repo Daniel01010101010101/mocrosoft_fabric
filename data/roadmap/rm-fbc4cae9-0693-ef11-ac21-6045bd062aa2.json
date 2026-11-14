@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=fbc4cae9-0693-ef11-ac21-6045bd062aa2",
   "contentHash": "a516baec39757b8998f1fdf1af93c789b0b68a2f77fc4242ca4610d00b93a98c",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Gateways: actualización automática del on-premises data gateway",
+      "descriptionEs": ""
+    }
   }
 }

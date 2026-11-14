@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,12 +56,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-Fabric-Maps-into-Real-Time-Dashboards-Preview/ba-p/5360916",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:92"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.930Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "3735dc7ca3994df29ea1dcfa689d066a7cec97d7e27c3078b79c01037b396900",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Mapas de Fabric en paneles en tiempo real (Vista previa)",
+      "summaryEs": "Mapas de Fabric en paneles en tiempo real (Vista previa) te permite añadir un mapa de Fabric publicado como un mosaico de panel, manteniendo las capas, los filtros y el estilo del mapa en el elemento de mapa. Para más información, consulta Agregar un mosaico de Fabric Maps."
+    }
   }
 }

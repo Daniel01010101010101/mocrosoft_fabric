@@ -14,10 +14,16 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=5a776051-c004-f111-8406-6045bd0066ad",
   "contentHash": "de40bf02cfd5e14d711b5f7b4ceee280b9fe58d3d6ffb5f217ce0b3854cff5c6",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "de40bf02cfd5e14d711b5f7b4ceee280b9fe58d3d6ffb5f217ce0b3854cff5c6",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Visualización de series temporales en Real-Time Dashboards"
+    }
   }
 }

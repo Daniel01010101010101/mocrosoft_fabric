@@ -9,7 +9,7 @@
   "publishedAt": "2025-07-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -54,6 +54,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-july-2025-feature-summary/#post-25898-_Toc204701244"
+    "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-july-2025-feature-summary/#post-25898-_Toc204701244",
+    "position": "preview:151"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "58d83537bbc2ed4a15a95880b008f4db003b538c29320df868e6d47cfb5a5b98",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Pasar valores de parámetros a los elementos de Fabric (Vista previa)",
+      "summaryEs": "El activador le permite activar automáticamente Fabric elementos como canalización y cuaderno siempre que se cumplan determinadas condiciones de datos. No solo puede activar y ejecutar elementos de Fabric, sino también passar valores a los parámetros definidos en los elementos de Fabric."
+    }
   }
 }

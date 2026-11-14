@@ -9,7 +9,7 @@
   "publishedAt": "2025-04-09T16:00:07.001Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,5 +56,16 @@
     "tags": "Features",
     "previewDate": "2025-04",
     "modified": "2025-04-09T16:00:07.0016991Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "f8bf4bf66f8ead246ae814b783ace4c6af3201fce567b4002cc3da4ddc223b8e",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Preview pública: Fabric Mirroring para Azure Database for PostgreSQL - flexible server",
+      "summaryEs": "El mirroring de Azure Database for PostgreSQL flexible server unifica tus datos operacionales en OneLake con integración en un clic y sin construir pipelines ETL."
+    }
   }
 }

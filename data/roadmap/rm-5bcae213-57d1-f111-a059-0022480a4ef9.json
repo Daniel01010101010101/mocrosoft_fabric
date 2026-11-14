@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=5bcae213-57d1-f111-a059-0022480a4ef9",
   "contentHash": "93d0e06db931f07b248b1f7ef7beca431975043b6664bda32975cdf2c6256f29",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Shortcut de Dataverse: mejoras de rendimiento",
+      "descriptionEs": ""
+    }
   }
 }

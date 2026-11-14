@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -60,12 +60,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/ci-cd-with-warehouses-in-microsoft-fabric/",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:184"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.948Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "7f8b1fa2d1a67d2ced26c5e012da8a80a6cdb42e5c25f1465f54db391307efe3",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Control de código fuente del almacén (versión preliminar)",
+      "summaryEs": "Con Control de código fuente con almacén (versión preliminar), puede administrar el desarrollo e implementación de objetos de almacenamiento con versiones. Puedes usar la extensión SQL Database Projects disponible dentro de Visual Studio Code. Para obtener más información sobre el control de código fuente de almacenes, consulte CI/CD con almacenes en Microsoft Fabric."
+    }
   }
 }

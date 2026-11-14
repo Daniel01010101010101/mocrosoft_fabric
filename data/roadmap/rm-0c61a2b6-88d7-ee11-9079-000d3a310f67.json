@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=0c61a2b6-88d7-ee11-9079-000d3a310f67",
   "contentHash": "3cd26bbe15717d345d58c2550007faa5a62fd2d4d3a64aa477ddd84406c9162e",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dos modos de ingesta para destinos Lakehouse de Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

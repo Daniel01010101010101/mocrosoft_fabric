@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=a7762e6d-b555-f011-877a-00224804ca88",
   "contentHash": "aa35ceb307fc02a57b094432870cd946075a8cca835cc28e3e359df5d504b6fe",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Enlaces directos para Eventhouse",
+      "descriptionEs": ""
+    }
   }
 }

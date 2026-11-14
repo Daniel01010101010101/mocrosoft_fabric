@@ -14,10 +14,16 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=a1ffca4a-6cb9-f011-bbd3-000d3a3740cc",
   "contentHash": "ef3f7c651d19cfc633580aadf2ad8ee923a741c0207ee7f7a68f02142d41f217",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "ef3f7c651d19cfc633580aadf2ad8ee923a741c0207ee7f7a68f02142d41f217",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Outbound Access Protection para Eventhouse"
+    }
   }
 }

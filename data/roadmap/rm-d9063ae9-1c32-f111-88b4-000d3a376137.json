@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=d9063ae9-1c32-f111-88b4-000d3a376137",
   "contentHash": "5a1e27cf850818a8bd08e9dc6bd1cdf3b3d74787addab115b960e4c69279372d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copy job: SCD tipo 2 ampliado a Fabric Warehouse y Synapse SQL",
+      "descriptionEs": ""
+    }
   }
 }

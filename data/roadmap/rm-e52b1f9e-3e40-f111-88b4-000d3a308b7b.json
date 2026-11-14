@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=e52b1f9e-3e40-f111-88b4-000d3a308b7b",
   "contentHash": "8b955649111a47577cf0dd7465a304cadc8bcf4837f7b9fe90949b718bc70e34",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Versionado de Ontology",
+      "descriptionEs": ""
+    }
   }
 }

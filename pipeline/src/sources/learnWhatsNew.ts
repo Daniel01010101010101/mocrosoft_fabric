@@ -4,6 +4,8 @@ import { normalizeTitle, sha1 } from '../core/text';
 import type { FetchContext, RawUpdate, SourceFetchResult } from './types';
 
 export const WHATS_NEW_URL = 'https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new';
+/** Versión oficial en español de la misma página (traducción de Microsoft). */
+export const WHATS_NEW_ES_URL = 'https://learn.microsoft.com/es-es/fabric/fundamentals/whats-new';
 
 const MONTHS: Record<string, number> = {
   january: 1, february: 2, march: 3, april: 4, may: 5, june: 6, july: 7, august: 8, september: 9, october: 10, november: 11, december: 12,
@@ -34,6 +36,7 @@ function resolve(href: string): string | null {
  */
 export function parseWhatsNew(html: string, detectedAt: string): RawUpdate[] {
   const $ = cheerio.load(html);
+  const counters: Record<string, number> = { preview: 0, ga: 0 };
   const out: RawUpdate[] = [];
   const sections: { anchor: string; section: 'preview' | 'ga' }[] = [
     { anchor: 'features-currently-in-preview', section: 'preview' },
@@ -59,7 +62,8 @@ export function parseWhatsNew(html: string, detectedAt: string): RawUpdate[] {
         descCell = $(cells[1]);
       }
       const feature = featureCell.text().replace(/\s+/g, ' ').trim();
-      if (!feature || /^feature$/i.test(feature)) return;
+      if (!feature || /^(feature|característica|caracteristica|funcionalidad)$/i.test(feature)) return;
+      const position = `${section}:${counters[section]!++}`;
 
       const links = descCell
         .find('a[href]')
@@ -99,6 +103,7 @@ export function parseWhatsNew(html: string, detectedAt: string): RawUpdate[] {
         stageHint: section,
         meta: {
           section,
+          position,
           ...(monthText ? { month: monthText } : {}),
           page: `${WHATS_NEW_URL}#${anchor}`,
           ...(blogLink ? { blogUrl: blogLink } : {}),
@@ -124,4 +129,15 @@ export async function fetchWhatsNew(ctx: FetchContext): Promise<SourceFetchResul
   }
   ctx.setCache(WHATS_NEW_URL, { etag: res.etag, lastModified: res.lastModified, fetchedAt: new Date().toISOString() });
   return { items, notModified: false, attempts: res.attempts, partialErrors: [] };
+}
+
+/** Descarga la versión oficial en español de la página (sin caché condicional: se mapea por posición). */
+export async function fetchWhatsNewSpanish(ctx: FetchContext): Promise<RawUpdate[]> {
+  const res = await fetchText(WHATS_NEW_ES_URL, {
+    timeoutMs: ctx.config.httpTimeoutMs,
+    retries: ctx.config.httpRetries,
+    userAgent: ctx.config.userAgent,
+    accept: 'text/html',
+  });
+  return parseWhatsNew(res.body, new Date().toISOString());
 }

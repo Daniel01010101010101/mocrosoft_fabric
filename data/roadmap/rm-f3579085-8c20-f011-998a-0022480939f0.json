@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=f3579085-8c20-f011-998a-0022480939f0",
   "contentHash": "962a9266122e75e8b9ee61b85695eac8d7557abc850dc8764bc8719185421edd",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "962a9266122e75e8b9ee61b85695eac8d7557abc850dc8764bc8719185421edd",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Conexiones: nuevo modelo de colaboración",
+      "descriptionEs": "Para reforzar la seguridad, el nuevo modelo para compartir conexiones evitará compartir credenciales de cuentas de Microsoft: cada colaborador iniciará sesión con su propia cuenta."
+    }
   }
 }

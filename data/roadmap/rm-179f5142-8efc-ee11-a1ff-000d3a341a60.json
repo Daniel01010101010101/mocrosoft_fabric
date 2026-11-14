@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=179f5142-8efc-ee11-a1ff-000d3a341a60",
   "contentHash": "0cd1dae18fc84f5d2a98e2b7d156a1b26e9c16a1e4d46260b02d40aafe1a762f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Narrativa con Copilot en Power BI",
+      "descriptionEs": ""
+    }
   }
 }

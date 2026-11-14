@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=02df17af-6fb8-f011-bbd3-000d3a5b0efa",
   "contentHash": "d76681d6c7f72d9131d4375225d0f66fe049e204fa58cddb8001b7d64c194125",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Excedente de capacidad de Fabric (Capacity Overage)",
+      "descriptionEs": ""
+    }
   }
 }

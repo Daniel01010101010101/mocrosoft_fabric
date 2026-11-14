@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=397e4a71-ccf0-f011-8407-002248096d54",
   "contentHash": "95a58a1e5296aeca7ffbb64f966fe1dba8e0b29531ecc434e775059e4aa74345",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "[Preview pública] Data Agent: grafos como origen de datos",
+      "descriptionEs": ""
+    }
   }
 }

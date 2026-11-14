@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=237204de-e8d6-ee11-9079-000d3a341a60",
   "contentHash": "d166cf6a1cdf55b8d757b337dbbd3b55bba7824d2a79f336e0fddcb25eb8981f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Restringir el acceso al contenido con protección mediante etiquetas de confidencialidad de Microsoft Purview",
+      "descriptionEs": ""
+    }
   }
 }

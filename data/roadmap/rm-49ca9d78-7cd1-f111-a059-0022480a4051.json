@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=49ca9d78-7cd1-f111-a059-0022480a4051",
   "contentHash": "42f99f4762bc71baa06b5256e751af8ffe465142c725d91df91ca95d1be74b2b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "42f99f4762bc71baa06b5256e751af8ffe465142c725d91df91ca95d1be74b2b",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Uso de vnodes en las métricas de SQL pools de Query Insights",
+      "descriptionEs": "La vista queryinsights.sql_pool_insights mostrará el uso de vnodes de cada pool (vnodes_used, max_vnodes_available e includes_cache_vnodes) para detectar pools al límite, cruzarlo con queryinsights.exec_requests_history y decidir si escalar la capacidad, ajustar los pools u optimizar consultas. Disponible en Fabric Data Warehouse y SQL analytics endpoints con 30 días de historial."
+    }
   }
 }

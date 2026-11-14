@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=94e9567f-1541-f011-b4cb-6045bd030c4d",
   "contentHash": "6f71aacbc079c2f0dc60ee64832221674004b0d045239e845f116c626d222aae",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Workloads de extensión: acceso a la API de frontend",
+      "descriptionEs": ""
+    }
   }
 }

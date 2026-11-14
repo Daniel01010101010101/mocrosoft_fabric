@@ -10,7 +10,7 @@
   "publishedAt": "2024-02-26T17:00:01.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,5 +58,16 @@
     "tags": "Features",
     "gaDate": "2024-02",
     "modified": "2024-02-26T17:00:01.0000000Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "ff53be59f195a0dfcc50d8ac7e0d1de7f87dffc10ef8021f046793ddf6ee4658",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Compresión NBCROW en la implementación TDS de Kusto",
+      "summaryEs": "Kusto admite NBCROW (Null Bitmap Compressed Row) en el protocolo TDS, que comprime las filas con valores nulos al devolver resultados a clientes MSSQL."
+    }
   }
 }

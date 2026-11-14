@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=0eef9779-9202-ef11-a1fd-000d3a34b75c",
   "contentHash": "46d2c68eb684c4835c782f40cb6757ac2cc52d551fdcdf665785c46d22458c8b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Compatibilidad con esquemas y workspace en el espacio de nombres del Lakehouse",
+      "descriptionEs": ""
+    }
   }
 }

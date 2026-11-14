@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=a53c54ce-4806-ef11-9f89-000d3a34b75c",
   "contentHash": "4f2f919e59e5afec8e7f10d468106a2f7a32da70d123f3daa14f824e9b640870",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Flujo de tareas recomendado para workspaces de Power BI",
+      "descriptionEs": ""
+    }
   }
 }

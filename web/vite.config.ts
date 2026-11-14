@@ -21,7 +21,7 @@ function staticRoutes(): Plugin {
       const dist = path.join(here, 'dist');
       const index = path.join(dist, 'index.html');
       copyFileSync(index, path.join(dist, '404.html'));
-      const routes = ['novedades', 'semanas', 'historico', 'roadmap', 'destacadas', 'categorias', 'estado'];
+      const routes = ['novedades', 'semanas', 'historico', 'roadmap', 'destacadas', 'categorias', 'estado', 'powertable'];
       try {
         routes.push(...CATEGORY_IDS.map((c) => `categorias/${c}`));
         const updates = JSON.parse(readFileSync(path.join(dist, 'api', 'updates.json'), 'utf8')) as { id: string }[];

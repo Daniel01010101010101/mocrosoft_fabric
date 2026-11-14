@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=34631b0a-c065-f111-a826-6045bd00fc61",
   "contentHash": "7211681d97daa9b6f5933e00e7a0760a3ec3bc24d2879f3dba5cff15aa21eaca",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "7211681d97daa9b6f5933e00e7a0760a3ec3bc24d2879f3dba5cff15aa21eaca",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Contexto de relaciones para orígenes SQL",
+      "descriptionEs": "El Data Agent seguirá automáticamente las claves externas del origen SQL para consultar las tablas adecuadas, aunque no las hayas seleccionado, y generará SQL que las une correctamente. Las relaciones que no estén definidas en el origen podrán añadirse con el SDK y la experiencia del Data Agent, y se guardan junto al resto de la configuración en un formato apto para control de código y CI/CD."
+    }
   }
 }

@@ -9,7 +9,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -52,12 +52,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/VNET-Data-Gateway-Autoscaling-Preview/ba-p/5281553",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:14"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.985Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "2332f29056b521a863b221c1b7f838cb4bfef3cb3de30dab30ab1ab97022f4c7",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Escalado automático para Puerta de enlace de datos de red virtual (Vista previa)",
+      "summaryEs": "El autoescalado para Virtual Network Data Gateway (Preview) ajusta automáticamente el número de nodos activos dentro de los límites mínimos y máximos definidos por el administrador en función de la demanda de carga de trabajo, de modo que el gateway absorbe picos sin intervención manual y se reduce para reducir costes durante los periodos de inactividad."
+    }
   }
 }

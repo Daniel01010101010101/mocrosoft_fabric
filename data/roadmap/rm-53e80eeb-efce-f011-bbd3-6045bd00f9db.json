@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=53e80eeb-efce-f011-bbd3-6045bd00f9db",
   "contentHash": "1c77962f0788595e27cc33d6287ba13431292aea8ab76c4d617b06443a9490a0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "[Endpoint MCP de Ontology] Herramientas de consulta",
+      "descriptionEs": ""
+    }
   }
 }

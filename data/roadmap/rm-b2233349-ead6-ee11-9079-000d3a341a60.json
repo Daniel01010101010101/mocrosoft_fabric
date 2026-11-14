@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=b2233349-ead6-ee11-9079-000d3a341a60",
   "contentHash": "2056c4138ccefb50d49416f8d5af6dcff28ebb6a83bb9ff9aa9a996564939ca8",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Deployment pipelines",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=18c74921-f1ce-f011-bbd3-6045bd00f9db",
   "contentHash": "6753a0c9a4b167ef50df4056521f54b9e81e1ef9e18457a4790197cb9b78a8e7",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "[Ontology para Operations Agent] Integración de Ontology con Operations Agent",
+      "descriptionEs": ""
+    }
   }
 }

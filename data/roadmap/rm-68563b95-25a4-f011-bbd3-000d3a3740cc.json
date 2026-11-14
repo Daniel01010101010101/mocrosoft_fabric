@@ -14,10 +14,16 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=68563b95-25a4-f011-bbd3-000d3a3740cc",
   "contentHash": "7103fbbbcb1d8508659cefc31c7c74043b2ea6427372bdd1d8ef78a2269021d4",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "7103fbbbcb1d8508659cefc31c7c74043b2ea6427372bdd1d8ef78a2269021d4",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Interfaz para ver funciones de Eventhouse"
+    }
   }
 }

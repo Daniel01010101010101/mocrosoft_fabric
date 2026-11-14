@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=01ed4164-f6d6-ee11-9079-000d3a341a60",
   "contentHash": "a3db78585dcdc708aa9d86e293d5d54cd3aa2ba8ffc4f78a57dd3be2b1f2946b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Git integration de Data Factory para pipelines",
+      "descriptionEs": ""
+    }
   }
 }

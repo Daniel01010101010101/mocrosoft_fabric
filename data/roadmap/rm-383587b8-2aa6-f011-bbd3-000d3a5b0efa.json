@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=383587b8-2aa6-f011-bbd3-000d3a5b0efa",
   "contentHash": "d95f4f99dfdae1a7bc86774ecbce00c2af4a553ca9bdeeb6ea7adb0a17c74b01",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Origen de streaming de Eventstream: datos meteorológicos en tiempo real",
+      "descriptionEs": ""
+    }
   }
 }

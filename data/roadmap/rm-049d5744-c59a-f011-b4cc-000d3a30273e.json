@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=049d5744-c59a-f011-b4cc-000d3a30273e",
   "contentHash": "7e376df2e487645f53a63879fa8bd210d02cfb9fa6e74096e6e0fea7a6bf13ec",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copy job y actividades: modo consulta en el conector de Lakehouse",
+      "descriptionEs": ""
+    }
   }
 }

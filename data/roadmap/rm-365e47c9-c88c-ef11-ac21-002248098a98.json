@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=365e47c9-c88c-ef11-ac21-002248098a98",
   "contentHash": "37c9bb8eecefdd83ebb40472d76b271e1c9dc3c9ebcb32112acd3769dde0c46f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Facturación con autoescalado para Fabric Spark: disponibilidad general",
+      "descriptionEs": ""
+    }
   }
 }

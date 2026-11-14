@@ -10,7 +10,7 @@
   "publishedAt": "2026-04-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -55,6 +55,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-April-2026-Feature-Summary/ba-p/5176490"
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-April-2026-Feature-Summary/ba-p/5176490",
+    "position": "preview:114"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "05e51f493fc8978e15749f46190ebda3f0816db6c706be7738b7ebc0d119e7b0",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Soporte para Maven en Fabric Environment (versión preliminar)",
+      "summaryEs": "La compatibilidad con Maven en Fabric Environment (versión preliminar) permite que los desarrolladores de Scala y Java agreguen bibliotecas desde repositorios de Maven a un entorno de Fabric cargando y administrando archivos pom.xml directamente, de modo que las dependencias transitivas se resuelvan sin tener que descargar y cargar manualmente archivos JAR. Para obtener más información, vea Administrar bibliotecas en entornos Fabric."
+    }
   }
 }

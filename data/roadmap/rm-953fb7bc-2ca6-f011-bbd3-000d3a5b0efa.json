@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=953fb7bc-2ca6-f011-bbd3-000d3a5b0efa",
   "contentHash": "0b861035c136ee59c7bdf3ba41ff8b6d5d4b4aeada30c2fa567984b388d37fad",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Conector de origen Solace PubSub+ para Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

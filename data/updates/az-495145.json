@@ -9,7 +9,7 @@
   "publishedAt": "2025-06-04T16:00:30.984Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -54,5 +54,16 @@
     "tags": "Features",
     "gaDate": "2025-06",
     "modified": "2025-06-04T16:00:30.9848090Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "d91b3f86040ede123d938a35e2dc557e6e308e5f4ab6fdc274b8dfeeeecd2286",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Disponibilidad general: Upsert y Script activity de Data Factory en Fabric para Azure Database for PostgreSQL",
+      "summaryEs": "Los pipelines de Fabric admiten el método Upsert y la Script activity con Azure Database for PostgreSQL, para combinar datos y ejecutar transformaciones declarativas de forma eficiente."
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=26450555-49b3-f011-bbd2-0022480a2ecf",
   "contentHash": "ccda29356a2bf8bdafb0c19a7b507541be3986ac9551b506c83d9a161d7a6fa1",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Eventos de resumen de capacidad",
+      "descriptionEs": ""
+    }
   }
 }

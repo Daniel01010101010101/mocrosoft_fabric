@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=c5a0b4cb-322e-f111-88b4-000d3a376137",
   "contentHash": "dc3b44d4e8fab8a6de06832eabfb82244f2dd7f4d4bec5f033778a26237723d4",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "dc3b44d4e8fab8a6de06832eabfb82244f2dd7f4d4bec5f033778a26237723d4",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Git y deployment pipelines para el SQL analytics endpoint",
+      "descriptionEs": "El SQL analytics endpoint admitirá Git integration y deployment pipelines:\n* **Git integration:** los cambios del endpoint se versionan junto al resto de elementos de Fabric, con historial, diferencias y posibilidad de volver a un estado anterior.\n* **Deployment pipelines:** se podrá promocionar entre desarrollo, pruebas y producción con la misma experiencia que el Warehouse, sin pasos manuales."
+    }
   }
 }

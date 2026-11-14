@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,12 +57,18 @@
     "section": "ga",
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
-    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-deploy-and-govern-Microsoft-Fabric-at-scale/ba-p/5369145"
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Build-deploy-and-govern-Microsoft-Fabric-at-scale/ba-p/5369145",
+    "position": "ga:23"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.041Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "053090846a3850d22684abdb09683fd539210afa6f6c75949db69f842f8f8cba",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Mejoras de la app de métricas de capacidad (Generalmente disponibles)",
+      "summaryEs": "Las mejoras de la app Capacity Metrics añaden duración del estado de salud, vistas de unidades de capacidad por segundo, mapas de calor, desgloses detallados de contribuidores e integración de contracargos. Para más información, consulte Capacity Metrics app."
+    }
   }
 }

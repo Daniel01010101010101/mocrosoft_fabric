@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,12 +57,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Building-real-time-event-driven-applications-on-Mirrored/ba-p/5190893",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:173"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.909Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "63b5769e11d17f30a5f76459c9c4bb1e6b9ced3f5078164569b26ca7de71cf22",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Transmitir canales de cambios de una base de datos reflejada a Eventstreams (versión preliminar)",
+      "summaryEs": "Conector de fuente de cambios de base de datos reflejada para Eventstreams (versión preliminar) transmite inserciones, actualizaciones y eliminaciones a nivel de fila de Delta Change Data Feed (CDF) desde una base de datos reflejada directamente a un Eventstream de Fabric para un procesamiento basado en eventos y de baja latencia, con total fidelidad del esquema de origen y de los metadatos de cambios, y compatibilidad con Azure SQL, Cosmos DB, Oracle, PostgreSQL, Snowflake y los partners de Open Mirroring. Para más información, véase Capacidades extendidas en espejamiento para Fabric."
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=5075a5ad-93ba-f011-bbd3-00224808fcf0",
   "contentHash": "2900237cbd47a0b8fd78cc9cbedced9b74685b6e3c2a6ab32d2ffb3b168e0cdd",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Synapse Spark 3.5: disponibilidad general",
+      "descriptionEs": ""
+    }
   }
 }

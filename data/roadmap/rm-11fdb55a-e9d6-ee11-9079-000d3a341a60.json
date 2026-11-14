@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=11fdb55a-e9d6-ee11-9079-000d3a341a60",
   "contentHash": "a3af1cb8da05d4ac5a7dff0fae0962212785f48e74bb620d3996bb7f42268a0a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Purview hub para administradores y propietarios de datos",
+      "descriptionEs": ""
+    }
   }
 }

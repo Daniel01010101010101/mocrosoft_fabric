@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=3384cd31-6a83-f011-b4cc-000d3a30273e",
   "contentHash": "bb34fe5369c47e34a1f1be4d52e5ceff4b733d8cb0c3bcd7a2cc91d4f3d31d4b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Crear semantic models Direct Lake en Power BI Desktop",
+      "descriptionEs": ""
+    }
   }
 }

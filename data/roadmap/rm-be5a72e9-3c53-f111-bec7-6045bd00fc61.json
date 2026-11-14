@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=be5a72e9-3c53-f111-bec7-6045bd00fc61",
   "contentHash": "cf6434c7b595d94fd7c1c56668e31f3acfc981503edfd05f7bebc814fa7736e8",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "cf6434c7b595d94fd7c1c56668e31f3acfc981503edfd05f7bebc814fa7736e8",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Foundry Tools en Fabric (disponibilidad general)",
+      "descriptionEs": "Foundry Tools (antes Azure Cognitive Services) incorpora Azure Language, Azure Translator y Azure Content Understanding como endpoints nativos en Fabric para crear soluciones inteligentes sin experiencia en IA ni en ciencia de datos."
+    }
   }
 }

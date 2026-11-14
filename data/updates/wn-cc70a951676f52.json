@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -59,12 +59,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Manage-failure-notifications-from-the-monitoring-hub-in-Fabric/ba-p/5160381",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:110"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.002Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "8b698f00855297426da3710ce459086a0e9cc114d8e4930509ab3155eedf0343",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Administrar notificaciones de error desde el centro de supervisión en Fabric (versión preliminar)",
+      "summaryEs": "La página Errores de programación del centro de supervisión de Fabric (versión preliminar) muestra todos los elementos programados que tienen configuradas notificaciones de error y permite agregar, editar o quitar destinatarios de cualquier elemento desde un único lugar, sin tener que abrir cada elemento por separado. Para obtener más información, consulte Errores de programación (versión preliminar) y Recibir notificaciones de trabajos programados con errores."
+    }
   }
 }

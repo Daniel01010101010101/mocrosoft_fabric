@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=5104f09a-bf8c-ef11-ac21-002248098a98",
   "contentHash": "8a12b3537aee6269e0320037065d9ca1e6eedf8fb9698b9e42f2195a735fe0e4",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "API for GraphQL en Fabric",
+      "descriptionEs": ""
+    }
   }
 }

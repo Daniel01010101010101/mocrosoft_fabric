@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=21a906cd-8603-ef11-a1fd-000d3a34b75c",
   "contentHash": "f75843a37ca796ccd7d862cb483be32e6e6df54cb71c755cc869b3fdfe6152e2",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Extensión satélite de VS Code para User Data Functions en Fabric",
+      "descriptionEs": ""
+    }
   }
 }

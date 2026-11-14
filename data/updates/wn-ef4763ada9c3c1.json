@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -65,12 +65,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-september-2024-monthly-update?ft=All#post-14247-_Toc177485843",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:134"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.004Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "6c16ba120d95a7296d3337e18391a469f378dc24eddcab9ceef520225fbdd166",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Depuración de cuadernos en vscode.dev (versión preliminar)",
+      "summaryEs": "Ahora puede colocar puntos de interrupción y depurar el código del cuaderno con la extensión Synapse VS Code - Remote en vscode.dev. Esta actualización comienza primero con el Fabric Runtime 1.3 (EOSA)."
+    }
   }
 }

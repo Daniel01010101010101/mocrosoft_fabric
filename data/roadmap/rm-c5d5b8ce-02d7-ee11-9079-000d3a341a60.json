@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=c5d5b8ce-02d7-ee11-9079-000d3a341a60",
   "contentHash": "14b8eba90377770c694924caac44cd3c7016056a1daa26eb064e11673339b02a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Filtros persistentes en los workspaces",
+      "descriptionEs": ""
+    }
   }
 }

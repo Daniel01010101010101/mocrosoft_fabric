@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=57c0f1aa-2358-f111-bec7-6045bd00f798",
   "contentHash": "4a6572b34328627c86a6d654ec74e209a76d17de0129f452cee9d051dabb0c78",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "4a6572b34328627c86a6d654ec74e209a76d17de0129f452cee9d051dabb0c78",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Endpoints para modelos basados en tensores",
+      "descriptionEs": "Los ML endpoints, hoy limitados a Keras, LightGBM, Sklearn y XGBoost, podrán activarse también para modelos con esquemas basados en tensores o sin esquema."
+    }
   }
 }

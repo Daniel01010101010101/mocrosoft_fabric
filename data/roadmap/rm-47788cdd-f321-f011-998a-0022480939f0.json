@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=47788cdd-f321-f011-998a-0022480939f0",
   "contentHash": "6305d0fea3ad748f8e9bb7bdd44916372b0283b60e9e53cd60ce5c29d18cdc1b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mirroring: nuevo origen Google BigQuery",
+      "descriptionEs": ""
+    }
   }
 }

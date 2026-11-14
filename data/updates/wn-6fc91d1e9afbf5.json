@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -55,12 +55,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:62"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.930Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "1c2983fd142b08f6ffda74f3af9b388eada474f06f33a95a31e0e0ae120bbd33",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "transformación DeltaFlow en el Eventstream de Fabric Real-Time Intelligence (versión preliminar)",
+      "summaryEs": "DeltaFlow es una funcionalidad en Fabric Eventstream que transforma los eventos de Captura de Datos de Cambios (CDC) sin procesar en un formato aplanado preparado para análisis. En lugar de trabajar con cargas JSON de Debezium profundamente anidadas, DeltaFlow genera filas tabulares que reflejan estrechamente la estructura de las tablas de base de datos de origen, enriquecidas con columnas de metadatos que describen cada cambio. Eventstream admite transformaciones DeltaFlow, que se encuentran actualmente en versión preliminar. Para más información, consulte la transformación de salida de…"
+    }
   }
 }

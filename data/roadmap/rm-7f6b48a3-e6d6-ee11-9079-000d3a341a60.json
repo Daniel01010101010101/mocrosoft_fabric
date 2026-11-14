@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=7f6b48a3-e6d6-ee11-9079-000d3a341a60",
   "contentHash": "e8913c4147ddf515a54ec608186042732417e1ec060e8f026d736f8ef9cf8918",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "API de administración para consultar la configuración delegada del tenant",
+      "descriptionEs": ""
+    }
   }
 }

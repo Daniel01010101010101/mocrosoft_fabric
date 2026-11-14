@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=76396892-86db-f011-8544-000d3a3b0571",
   "contentHash": "9cec0fc933c64b4dea1d5da72f15948e92718da0f96c1a00a1a4fbed0ae4440a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Proveedor de Git integration: GitHub Enterprise Cloud con residencia de datos",
+      "descriptionEs": ""
+    }
   }
 }

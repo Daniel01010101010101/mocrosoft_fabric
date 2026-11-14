@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=a328d155-cf01-f111-8406-6045bd0a8ec1",
   "contentHash": "7f2786f321c13c504d16cf33bdda13a842a584b3942f2e11f1facce5cb86bd39",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "OneLake catalog: Govern para administradores",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=59321613-bc91-ef11-ac21-6045bd062aa2",
   "contentHash": "88eb5be29fd58bb0e829fdf151a68c3f7ff0e7c883e1f597822b37de4f017f43",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Conexión simplificada de Event Hub a Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

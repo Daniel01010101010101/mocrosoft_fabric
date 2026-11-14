@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=91c99409-c19a-f011-b4cc-000d3a5b0efa",
   "contentHash": "d5d96def86bdf227f281f3adf898f75058ff5313b8ea3edc643bb8ada216d3a5",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copy job: replicación basada en CDC desde Oracle",
+      "descriptionEs": ""
+    }
   }
 }

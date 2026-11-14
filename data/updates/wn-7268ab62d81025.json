@@ -10,7 +10,7 @@
   "publishedAt": "2026-06-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,6 +56,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690#toc-hId--1208717068"
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-June-2026-Feature-Summary/ba-p/5190690#toc-hId--1208717068",
+    "position": "preview:28"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "a2d4d4ca6fe2d4fde861b3196c1b685b9b9f23550b80130062b379689a51406c",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Compatibilidad con CI/CD para el punto de conexión de SQL Analytics (versión preliminar)",
+      "summaryEs": "Compatibilidad con CI/CD para el punto de conexión de análisis de SQL (versión preliminar) le permite administrar las definiciones del punto de conexión de análisis de SQL como proyectos de base de datos DacFx en Git, junto con otros elementos de Fabric, e implementar cambios incrementales de esquema mediante Deployment Pipelines de Fabric. Para más información, véase Control de código fuente (versión preliminar)."
+    }
   }
 }

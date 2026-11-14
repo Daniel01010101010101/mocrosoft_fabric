@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=fb4cbf11-63d6-ef11-8ee9-6045bd082f70",
   "contentHash": "4fcd3bb0db97d48b633d80891b02222ead48014b3fc78d0ba135fe4fe1b10a2e",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Colaboración con ISV y mejoras",
+      "descriptionEs": ""
+    }
   }
 }

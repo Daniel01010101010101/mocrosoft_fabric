@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=e5da3598-2ca6-f011-bbd3-000d3a5b0efa",
   "contentHash": "8c1503c6e3cc86fb50d848dc8e5c895f8a890d792c9ef3e736a408ab673ad0cd",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Autenticación con Entra ID en el endpoint personalizado de Eventstream (disponibilidad general)",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=bfaf01f7-b652-f011-877a-0022480939f0",
   "contentHash": "5558b374a2585e92b6cf29de8b5ed56097952f9f387f55180084631af1c7e42e",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mirroring: Open Mirroring para texto delimitado",
+      "descriptionEs": ""
+    }
   }
 }

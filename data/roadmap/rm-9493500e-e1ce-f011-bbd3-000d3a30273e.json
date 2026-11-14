@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=9493500e-e1ce-f011-bbd3-000d3a30273e",
   "contentHash": "2d78e23a41e8cc619c86d699466d5e215510f6924ec95fbc07e3ab06c3279faf",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Conector de origen Azure Service Bus para Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

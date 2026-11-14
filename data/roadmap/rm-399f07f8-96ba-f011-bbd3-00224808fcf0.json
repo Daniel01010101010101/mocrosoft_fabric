@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=399f07f8-96ba-f011-bbd3-00224808fcf0",
   "contentHash": "71d4988e9a96f518d3414f94dcd66339730155c6e0613a0464ed282298165c42",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Fabric Release Channel (Preview pública)",
+      "descriptionEs": ""
+    }
   }
 }

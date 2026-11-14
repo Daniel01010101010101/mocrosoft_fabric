@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=2e8680e3-0c93-ef11-ac21-6045bd062aa2",
   "contentHash": "1d2e478cdf4cfa48810eb1044d273df6b9d00b294bb7e01d62381a463558ee00",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "ArcGIS GeoAnalytics para Microsoft Fabric Spark: Preview pública",
+      "descriptionEs": ""
+    }
   }
 }

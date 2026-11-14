@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=7c18efd5-e4c0-f011-bbd3-000d3a5b0efa",
   "contentHash": "d3a64c38aa69e6560e0bf40e3e6c373a16cb2d712a4282882a3fbc9e2a880c0a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "d3a64c38aa69e6560e0bf40e3e6c373a16cb2d712a4282882a3fbc9e2a880c0a",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Ámbito de workspace para Job Events",
+      "descriptionEs": "Suscríbete a los Job Events de Fabric a nivel de workspace para supervisar la actividad de trabajos de todo el workspace."
+    }
   }
 }

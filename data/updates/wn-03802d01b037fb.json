@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -53,12 +53,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/enhancing-data-transformation-flexibility-with-multiple-schema-inferencing-in-eventstream-preview?ft=All",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:130"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.965Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "807e6fda817068bc28e4d8f46ebcd3d10e7736929d975faadaedb753b0597432",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Inferencia de Esquema-Múltiple en Eventstream (versión preliminar)",
+      "summaryEs": "La inferencia de múltiples esquemas (preview) te permite trabajar con múltiples fuentes de datos que emiten esquemas variables inferiendo y gestionando múltiples esquemas simultáneamente. Para obtener más información, consulte Aumentar la flexibilidad de transformación de datos con la inferencia de múltiples esquemas en Eventstream (versión preliminar)."
+    }
   }
 }

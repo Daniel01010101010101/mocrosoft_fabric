@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=533be634-4c25-f011-8c4d-000d3a302e4a",
   "contentHash": "8794a80f8bb332460cd72fbf6c3c046869cfa394778e562c8f799f2376f67020",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pipelines: capacidades con IA para mantenerlos de forma eficiente",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=f5495e72-de01-f111-8406-6045bd00f798",
   "contentHash": "f0cf5a06a6ddcaef11255f2f93493b16c52f1f0b5a1c1dda1a130e613e2e86be",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "f0cf5a06a6ddcaef11255f2f93493b16c52f1f0b5a1c1dda1a130e613e2e86be",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Environment: compatibilidad con Python Notebook",
+      "descriptionEs": "Los Python Notebooks se integrarán con los Environments para subir y usar bibliotecas y paquetes personalizados."
+    }
   }
 }

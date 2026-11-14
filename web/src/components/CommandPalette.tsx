@@ -1,5 +1,5 @@
 import clsx from 'clsx';
-import { ArrowRight, CornerDownLeft, Map as MapIcon, Newspaper, Search, X } from 'lucide-react';
+import { ArrowRight, BookOpen, CornerDownLeft, Map as MapIcon, Newspaper, Search, X } from 'lucide-react';
 import { AnimatePresence, motion } from 'motion/react';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
@@ -71,7 +71,10 @@ export function CommandPalette({ open, onClose }: { open: boolean; onClose: () =
         ? [{ key: x.id, title: x.nameEs ?? x.name, subtitle: `Roadmap · ${x.product} · ${quarterLabel(x.releaseDate)}`, to: `/roadmap?q=${encodeURIComponent(query)}&item=${x.id}`, kind: 'roadmap' }]
         : [];
     });
-    return [...cats.slice(0, 3), ...hits].slice(0, 14);
+    const guides: Result[] = /power|table|planning|plan\b|guia|guía/.test(nq)
+      ? [{ key: 'guide-powertable', title: 'Guía completa de PowerTable', subtitle: 'Sección especial · cómo implementarlo paso a paso', to: '/powertable', kind: 'category' }]
+      : [];
+    return [...guides, ...cats.slice(0, 3), ...hits].slice(0, 14);
   }, [q, updates.data, roadmap.data]);
 
   useEffect(() => setActive(0), [q]);
@@ -141,7 +144,9 @@ export function CommandPalette({ open, onClose }: { open: boolean; onClose: () =
               <ul>
                 {results.map((r, i) => {
                   const Icon =
-                    r.kind === 'category'
+                    r.key === 'guide-powertable'
+                      ? BookOpen
+                      : r.kind === 'category'
                       ? CATEGORY_ICON[r.to.split('/').pop() as keyof typeof CATEGORY_ICON]
                       : r.kind === 'roadmap'
                         ? MapIcon

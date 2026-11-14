@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -52,12 +52,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:182"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.948Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "85455dcb455f954db07b77db80411c6e65109b92ad461364c188f1597ef81bf9",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Agrupación en clústeres de datos de almacenamiento (versión preliminar)",
+      "summaryEs": "La agrupación en clústeres de datos es una técnica que se usa para organizar y almacenar datos en función de la similitud. La agrupación en clústeres de datos mejora el rendimiento de las consultas y reduce los costos de acceso de proceso y almacenamiento para las consultas mediante la agrupación de registros similares. Para más información y para empezar, consulta Agrupación de datos en Fabric Data Warehouse y Utilizar agrupación de datos en Fabric Data Warehouse (Vista previa)."
+    }
   }
 }

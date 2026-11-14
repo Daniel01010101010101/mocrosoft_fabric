@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=37499ba5-5b21-f011-9989-000d3a5b0147",
   "contentHash": "ad460e64d67f9e4f50e6bd1fc6981735171758f30181c2d04bc1a6f7f59ef1a8",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "ad460e64d67f9e4f50e6bd1fc6981735171758f30181c2d04bc1a6f7f59ef1a8",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Copy job: asistente de errores e información con IA",
+      "descriptionEs": "Copilot ayudará a resolver los errores de Copy job con resúmenes más claros y recomendaciones prácticas."
+    }
   }
 }

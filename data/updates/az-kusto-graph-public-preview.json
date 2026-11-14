@@ -9,7 +9,7 @@
   "publishedAt": "2023-09-11T15:00:47.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -62,5 +62,16 @@
     "tags": "Features",
     "previewDate": "2023-09",
     "modified": "2023-09-11T15:00:47.0000000Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "a378a0c4e3696d779fe93946efd6d1756a6d2fcf6a574fa59ebd6ceadcb21617",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Semántica de grafos en Kusto: una nueva forma de contextualizar series temporales",
+      "summaryEs": "Preview pública de la extensión de grafos de Kusto para modelar relaciones entre datos y contextualizar series temporales en Azure Data Explorer y Fabric."
+    }
   }
 }

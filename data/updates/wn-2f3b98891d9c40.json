@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -53,12 +53,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Stream-Oracle-database-changes-into-Microsoft-Fabric-Eventstream/ba-p/5277839",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:148"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.967Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "2ed42514b2fa0f0a836a1011a231a60062a76e9dfae1f3959152d84dab004073",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Conector de origen de CDC de Oracle Database para Fabric Eventstream (Vista previa)",
+      "summaryEs": "El conector fuente de Oracle Database CDC para Eventstream (Preview) transmite los cambios desde una base de datos Oracle hacia Fabric como un evento de cambio estructurado con valores antes y después, usando Oracle LogMiner para bases de datos locales o en la nube que ejecutan Oracle 12c y posteriores. Para más información, consulte Añadir código fuente Oracle Database CDC a un flujo de eventos (vista previa)."
+    }
   }
 }

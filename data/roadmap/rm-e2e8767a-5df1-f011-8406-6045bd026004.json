@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=e2e8767a-5df1-f011-8406-6045bd026004",
   "contentHash": "ef241cccbb7ebab29f2c87d6470e0868fc7e363cc33889bf0b1d76ef77a34986",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Endpoint de Eventhouse para Data Warehouse",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=821b0b4a-5092-ef11-ac21-002248098a98",
   "contentHash": "cffea4e03b3085477dd87dfaf46e99e58282adf8129fdfa643f7119a2a5d5d97",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Cifrado de OneLake con claves administradas por el cliente",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=a7e979a9-d11f-f111-8341-6045bd0a8ec1",
   "contentHash": "186c53d32c8efc053b0a173c5a1de89ceb503999e2d08d6e022a46fd4dfcf314",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Segmentación de entrada con valores numéricos",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=2218d20b-5321-f011-9989-000d3a34671f",
   "contentHash": "d73e4b8c496f532b6adcd87241649a0f044430c29721d30b4c05a6fdcffdb253",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Varios Lakehouses en el explorador de Lakehouse",
+      "descriptionEs": ""
+    }
   }
 }

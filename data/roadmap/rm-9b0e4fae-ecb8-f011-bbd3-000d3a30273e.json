@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=9b0e4fae-ecb8-f011-bbd3-000d3a30273e",
   "contentHash": "e59967e71e2b20f02a9dbb33852f1add746fda725e82cf34c42fce9a79af7a37",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Coincidencia aproximada de cadenas",
+      "descriptionEs": ""
+    }
   }
 }

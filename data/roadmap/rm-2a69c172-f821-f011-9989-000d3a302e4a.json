@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=2a69c172-f821-f011-9989-000d3a302e4a",
   "contentHash": "4f25455325502435d60b2413e8e454fb21f00c41244d708a8e4227f0c7e4679f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pipelines: utilidad para migrar pipelines de ADF/Synapse a Fabric Data Factory",
+      "descriptionEs": ""
+    }
   }
 }

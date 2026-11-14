@@ -9,7 +9,7 @@
   "publishedAt": "2025-11-06T15:45:17.762Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,5 +56,16 @@
     "gaDate": "2025-10",
     "previewDate": "2025-04",
     "modified": "2025-11-06T15:45:17.7628368Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "627b72f6674a9593190a563a30536fcbcf07149b7a591e8daf382f64cd7ad923",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Disponibilidad general: Azure MCP Server",
+      "summaryEs": "Azure MCP Server, basado en Model Context Protocol, conecta de forma segura servicios de Azure como Cosmos DB, SQL, Microsoft Foundry y Fabric con herramientas de IA como GitHub Copilot."
+    }
   }
 }

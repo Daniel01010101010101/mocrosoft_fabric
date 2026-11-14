@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=dc534013-ab2b-f011-8c4d-0022480939f0",
   "contentHash": "9961bff85a29f0f3d56864f750d5efe057d244bbdb88ac559256e6ea02ed1331",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Real-Time hub más orientado a tareas",
+      "descriptionEs": ""
+    }
   }
 }

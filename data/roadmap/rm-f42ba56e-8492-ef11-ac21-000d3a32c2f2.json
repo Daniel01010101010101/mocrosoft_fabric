@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=f42ba56e-8492-ef11-ac21-000d3a32c2f2",
   "contentHash": "49cc24e7484e167d732b361d9dd483dda997bb3b922b22f1b6d46f0ed080e9cf",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Activator: controles de tolerancia a retrasos",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=3903b8a6-d637-f011-8c4e-000d3a302e4a",
   "contentHash": "b903c895f117078daa9a5c3ef315510fd4d3247dacb34676df1c3ad7db4f9da0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mapas",
+      "descriptionEs": ""
+    }
   }
 }

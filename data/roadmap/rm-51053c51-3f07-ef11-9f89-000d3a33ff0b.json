@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=51053c51-3f07-ef11-9f89-000d3a33ff0b",
   "contentHash": "1327da987bef26f6bf607e57c57059143e4d8a852fb43e8ea247caf66c12e87b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Entregar suscripciones en OneDrive y SharePoint",
+      "descriptionEs": ""
+    }
   }
 }

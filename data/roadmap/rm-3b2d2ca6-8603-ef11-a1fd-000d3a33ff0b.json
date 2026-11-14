@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=3b2d2ca6-8603-ef11-a1fd-000d3a33ff0b",
   "contentHash": "b06a924a58437b047efa4478c8b74837a57d878c97f03e4cd5d63315ec396f28",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Staging predeterminado para los destinos de salida de Dataflow Gen2",
+      "descriptionEs": ""
+    }
   }
 }

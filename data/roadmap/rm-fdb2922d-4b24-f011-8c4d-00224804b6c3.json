@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=fdb2922d-4b24-f011-8c4d-00224804b6c3",
   "contentHash": "dc3ea6d2ca7c61a9b72b05c71abf45be9c656327e91d3ae0e43b4da7d242a505",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Data Agent admite bases de datos replicadas",
+      "descriptionEs": ""
+    }
   }
 }

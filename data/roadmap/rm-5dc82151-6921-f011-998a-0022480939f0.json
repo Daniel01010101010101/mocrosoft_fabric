@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=5dc82151-6921-f011-998a-0022480939f0",
   "contentHash": "ccf1a0c054b364aa37f5d96c03b16d0bbd79754edb2841143127327aa68f7db4",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pipelines: orquestar Copy jobs desde pipelines",
+      "descriptionEs": ""
+    }
   }
 }

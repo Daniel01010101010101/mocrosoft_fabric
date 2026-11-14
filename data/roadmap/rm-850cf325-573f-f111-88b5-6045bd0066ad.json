@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=850cf325-573f-f111-88b5-6045bd0066ad",
   "contentHash": "78e7ec0721929d09ef99e59a777c770647862b3134050770ce32470778601d42",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Migration Assistant: conexión directa con el sistema de origen",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=072d08ee-fd7e-f111-ab0f-6045bd00f798",
   "contentHash": "bdca038bcf6912020844176c6b16f527a37816c44c2013a6ed6aeecb6e609dc3",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "bdca038bcf6912020844176c6b16f527a37816c44c2013a6ed6aeecb6e609dc3",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Pipelines: actividades Fabric Actions y Business Actions",
+      "descriptionEs": "La actividad Fabric Actions permite invocar operaciones de la API REST de Microsoft Fabric desde los pipelines de Data Factory con una experiencia guiada y de poco código. Business Actions permite invocar operaciones de aplicaciones empresariales mediante conectores de Azure Logic Apps."
+    }
   }
 }

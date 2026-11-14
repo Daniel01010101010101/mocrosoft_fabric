@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=26739be5-5821-f011-9989-000d3a329ecb",
   "contentHash": "aa6a96b7818625533c697be22bda4e85259270b69ae1525654e8a239c4247342",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pipelines: actualización de semantic models desde pipelines",
+      "descriptionEs": ""
+    }
   }
 }

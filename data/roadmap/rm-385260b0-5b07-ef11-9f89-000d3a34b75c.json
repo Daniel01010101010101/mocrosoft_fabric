@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=385260b0-5b07-ef11-9f89-000d3a34b75c",
   "contentHash": "484faa8c1672e9ca32a9b179ef094ef098edd84f06c19f94a5a6ca687b89b79e",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "484faa8c1672e9ca32a9b179ef094ef098edd84f06c19f94a5a6ca687b89b79e",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Dataflows: cómputo particionado en Dataflow Gen2",
+      "descriptionEs": "Partitioned Compute permite ejecutar partes de un dataflow en paralelo para reducir su tiempo de evaluación cuando el origen admite particiones (por ejemplo, muchos archivos en ADLS Gen2). Con su disponibilidad general se convierte en una base estable para transformaciones escalables en Fabric."
+    }
   }
 }

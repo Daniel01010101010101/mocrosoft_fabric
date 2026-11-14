@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=7dffc9c9-f203-ef11-a1fd-000d3a34b75c",
   "contentHash": "4c2afe2b41e1f5b82d9eaaf471da113ee3ee7453ee9d0e0b43eac42224671898",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Shortcuts de tabla de OneLake a datos Iceberg",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=1f2fe2c0-3535-f111-88b3-000d3a376c0f",
   "contentHash": "ad2089d5191ad669fbc5432cc02adf1d0ec663df15a7b7a0f06a4172e3560a3a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "ad2089d5191ad669fbc5432cc02adf1d0ec663df15a7b7a0f06a4172e3560a3a",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Dataflows: nuevo destino de datos AWS S3",
+      "descriptionEs": "Amazon S3 llega en Preview como destino de Dataflow Gen2 para publicar datos transformados en Fabric directamente en buckets de S3 con la experiencia de poco código de Power Query. Facilita arquitecturas multinube: preparas y normalizas los datos en Fabric y los pones a disposición de servicios de AWS como Athena o Glue. Durante la Preview está pensado para evaluación y adopción temprana."
+    }
   }
 }

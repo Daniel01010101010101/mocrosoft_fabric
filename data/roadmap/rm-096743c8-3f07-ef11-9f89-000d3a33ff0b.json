@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=096743c8-3f07-ef11-9f89-000d3a33ff0b",
   "contentHash": "829cbac46ede662fc9779c708765f74e4167603479e47296e76596880f2d8d26",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copilot para generar consultas DAX",
+      "descriptionEs": ""
+    }
   }
 }

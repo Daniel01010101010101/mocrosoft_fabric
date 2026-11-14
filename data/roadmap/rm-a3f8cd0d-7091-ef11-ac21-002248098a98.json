@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=a3f8cd0d-7091-ef11-ac21-002248098a98",
   "contentHash": "a57320481ece822c206428ada24179df0dc1759896934459fdbca06b4d3126fa",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pipelines: service principal en las API públicas",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=be908870-b856-f011-877a-000d3a34671f",
   "contentHash": "ccb906935ea0497b5909d84c32890840ce89275216d8885911859722bb161e91",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Operaciones CRUD con código para funciones, vistas materializadas y directivas de actualización",
+      "descriptionEs": ""
+    }
   }
 }

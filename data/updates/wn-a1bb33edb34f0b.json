@@ -10,7 +10,7 @@
   "publishedAt": "2026-08-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,12 +56,18 @@
     "section": "ga",
     "month": "August 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
-    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Migration-Assistant-for-SQL-database-Generally-Available/ba-p/5363606"
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Migration-Assistant-for-SQL-database-Generally-Available/ba-p/5363606",
+    "position": "ga:82"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.136Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "dae430c9ebe4ae4408bdb4de72d72fbf27662a742d907851cbfe19f5b5002be7",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Asistente para la migración a una base de datos SQL (disponibilidad general)",
+      "summaryEs": "Migration Assistant para base de datos SQL ya está disponible de forma general y te permite validar un DACPAC de origen para comprobar su compatibilidad antes de aprovisionar una base de datos SQL en Fabric. Para obtener más información, consulta Fabric Migration Assistant for SQL database."
+    }
   }
 }

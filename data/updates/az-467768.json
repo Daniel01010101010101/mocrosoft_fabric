@@ -9,7 +9,7 @@
   "publishedAt": "2024-11-19T17:00:35.815Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -55,5 +55,16 @@
     "tags": "Features, Microsoft Ignite",
     "previewDate": "2024-11",
     "modified": "2024-11-19T17:00:35.8153253Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "646dad8f368515c11b85d89537feef115d4cf88e31333dd0bfc2f11f4aee4681",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Preview pública: mirroring de Azure SQL Managed Instance a Microsoft Fabric",
+      "summaryEs": "Ya puedes replicar con mirroring los datos de Azure SQL Managed Instance en OneLake casi en tiempo real, sin procesos ETL complejos y con menor coste total."
+    }
   }
 }

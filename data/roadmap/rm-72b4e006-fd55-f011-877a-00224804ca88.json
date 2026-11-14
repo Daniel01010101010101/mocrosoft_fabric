@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=72b4e006-fd55-f011-877a-00224804ca88",
   "contentHash": "a88afbd779ed9618932bc80e4fc61d91bd1f0120e80251d330a23dbe5263d7e0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Configuración del mirroring",
+      "descriptionEs": ""
+    }
   }
 }

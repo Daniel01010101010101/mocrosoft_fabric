@@ -9,7 +9,7 @@
   "publishedAt": "2024-05-27T16:00:02.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,5 +58,16 @@
     "tags": "Features",
     "gaDate": "2024-05",
     "modified": "2024-05-27T16:00:02.0000000Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "4829cb1740d58e1400c1309c9db056bda7c1ec7f81d0542f4025ff8a33a491cd",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Disponibilidad general de la semántica de grafos en Kusto",
+      "summaryEs": "La extensión de grafos de Kusto, el motor de Fabric Real-Time Intelligence y Azure Data Explorer, ya está lista para producción."
+    }
   }
 }

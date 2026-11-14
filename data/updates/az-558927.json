@@ -10,7 +10,7 @@
   "publishedAt": "2026-03-19T17:00:53.040Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,5 +57,16 @@
     "tags": "Features",
     "previewDate": "2026-03",
     "modified": "2026-03-19T17:00:53.0406938Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "85b56b24447ce169de184644986db215a9eab59b4861862879fd98621af4e622",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Preview pública: federación de OneLake catalog en Azure Databricks",
+      "summaryEs": "Azure Databricks puede consultar datos de OneLake sin copiarlos conectando Unity Catalog a OneLake catalog; los Lakehouse de Fabric aparecen junto a tus datos de Databricks."
+    }
   }
 }

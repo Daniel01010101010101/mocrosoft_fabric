@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=235a4a58-888e-ef11-ac21-6045bd062aa2",
   "contentHash": "e43b45c999dd8ab9b55f8620f87783267f2766eb0d7b7e81fd2f6f5945aa57ff",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Deployment pipelines",
+      "descriptionEs": ""
+    }
   }
 }

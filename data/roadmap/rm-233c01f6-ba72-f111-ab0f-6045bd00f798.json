@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=233c01f6-ba72-f111-ab0f-6045bd00f798",
   "contentHash": "a3e518d386825070fff909902f6c865a202ac5ca5519afbc8c6ff9fe67cb32b7",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Generador de visuales con IA para Real-Time Dashboards",
+      "descriptionEs": ""
+    }
   }
 }

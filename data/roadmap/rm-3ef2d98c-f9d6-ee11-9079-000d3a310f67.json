@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=3ef2d98c-f9d6-ee11-9079-000d3a310f67",
   "contentHash": "ba498658c570d31c9a8c79eb5f4b267f4b1bb13de0aa96378230b05913aa4548",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "CI/CD en Dataflow Gen2",
+      "descriptionEs": ""
+    }
   }
 }

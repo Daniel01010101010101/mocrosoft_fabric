@@ -9,7 +9,7 @@
   "publishedAt": "2025-10-01T17:30:57.922Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,5 +56,16 @@
     "tags": "Features",
     "previewDate": "2025-09",
     "modified": "2025-10-01T17:30:57.9229944Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "449228f2f91c0926bc5bdfea7a9019798ce79dac313bd4afb3952c342bef7c70",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Preview pública: integración de la extensión MSSQL con Microsoft Fabric",
+      "summaryEs": "La extensión MSSQL de VS Code permite iniciar sesión con Microsoft Entra ID, explorar tus workspaces de Fabric y conectarte a SQL database in Fabric desde el editor."
+    }
   }
 }

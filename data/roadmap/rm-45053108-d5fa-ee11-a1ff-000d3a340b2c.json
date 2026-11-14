@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=45053108-d5fa-ee11-a1ff-000d3a340b2c",
   "contentHash": "b383b9bec98f780cc25213b3ef98181e4c440c70f415f452f45e909ae5ae2555",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mejoras de rendimiento con cadenas",
+      "descriptionEs": ""
+    }
   }
 }

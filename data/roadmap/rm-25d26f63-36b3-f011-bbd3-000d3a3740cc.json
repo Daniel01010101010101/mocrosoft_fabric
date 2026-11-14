@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=25d26f63-36b3-f011-bbd3-000d3a3740cc",
   "contentHash": "f8b7289cf69f25fd134eab16104b3bda07da46c0e3f4e9cb19ecdd883313cf68",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "f8b7289cf69f25fd134eab16104b3bda07da46c0e3f4e9cb19ecdd883313cf68",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "OneLake catalog: vista previa de datos de tablas y acciones rápidas",
+      "descriptionEs": "OneLake catalog mostrará las descripciones definidas por los usuarios para tablas y columnas y permitirá previsualizar los datos de una tabla con un clic, para descubrir y reutilizar datos con más rapidez y confianza."
+    }
   }
 }

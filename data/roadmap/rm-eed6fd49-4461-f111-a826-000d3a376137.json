@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=eed6fd49-4461-f111-a826-000d3a376137",
   "contentHash": "884180010e71b158ceac45161b53b99921d1f5c0b6119548b080776548357208",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: rendimiento, desactivar la compresión V-Order",
+      "descriptionEs": ""
+    }
   }
 }

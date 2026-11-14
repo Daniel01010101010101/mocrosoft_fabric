@@ -10,7 +10,7 @@
   "publishedAt": "2026-08-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -54,12 +54,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_47"
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-August-2026-Feature-Summary/ba-p/5325824#community-5325824-mcetoc_1k0t9rh2l_47",
+    "position": "preview:176"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.143Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "67e215d890f8eb3b69591db1d6b53553d0f5a5de81888a42617d633eadcb8e95",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Actualizar Dataflow Gen1 a Dataflow Gen2 con el Asistente de Actualización (Vista previa)",
+      "summaryEs": "El Asistente de Actualización de Dataflows actualiza uno o más elementos de Dataflow Gen1 manteniendo sus IDs, nombres, horarios y conexiones. Para más información, consulte Actualizar Dataflow Gen1 a Dataflow Gen2 usando el Asistente de Actualización."
+    }
   }
 }

@@ -14,10 +14,16 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=adf0cd57-5d36-f011-8c4e-0022480939f0",
   "contentHash": "13ac861b32e09d87b083e4f924ac57aadcb29d6642cea60239be1bd2065d6c45",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "13ac861b32e09d87b083e4f924ac57aadcb29d6642cea60239be1bd2065d6c45",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Eventos de OneLake (disponibilidad general)"
+    }
   }
 }

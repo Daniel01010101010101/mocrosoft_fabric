@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=6d0c6c98-1b32-f111-88b4-000d3a376137",
   "contentHash": "9937ac5f6e4c30bb56242056c47e947d2365057135f1043ca2f830b977bc3eac",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "9937ac5f6e4c30bb56242056c47e947d2365057135f1043ca2f830b977bc3eac",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Copy job: copiar datos desde y hacia Fabric Eventstream",
+      "descriptionEs": "Podrás trabajar con datos en tiempo real usando Copy job para mover datos de Fabric Eventstreams a destinos compatibles, o copiar datos de orígenes compatibles a un Eventstream como destino."
+    }
   }
 }

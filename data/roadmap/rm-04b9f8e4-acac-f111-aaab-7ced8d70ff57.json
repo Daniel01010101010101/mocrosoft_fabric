@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=04b9f8e4-acac-f111-aaab-7ced8d70ff57",
   "contentHash": "1fe7067d48ec1e7c3f36059eec4499003421e582ef332ee7a873e05f22b7b670",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "1fe7067d48ec1e7c3f36059eec4499003421e582ef332ee7a873e05f22b7b670",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Consultas de ejemplo parametrizadas",
+      "descriptionEs": "Las Query Templates son consultas de ejemplo parametrizadas para SQL databases y semantic models que enseñan a los Data Agents a responder preguntas de negocio frecuentes. Con patrones de consulta fiables y parámetros reutilizables, los agentes generan consultas más precisas y eficientes. Las plantillas pueden crearse a mano, con IA o mediante una experiencia guiada, y reducen la necesidad de prompts complejos."
+    }
   }
 }

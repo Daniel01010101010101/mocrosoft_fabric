@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=8640c298-fc68-f111-a826-6045bd0066ad",
   "contentHash": "66d522d2cfa3034faf8821fe22f7e408c838abc753fbd8dc7f3530bc14332819",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Data Agent mejora la integración con Ontology",
+      "descriptionEs": ""
+    }
   }
 }

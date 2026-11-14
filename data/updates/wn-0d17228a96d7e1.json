@@ -10,7 +10,7 @@
   "publishedAt": "2026-07-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -61,12 +61,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId--281200875"
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-July-2026-Feature-Summary/ba-p/5325823#toc-hId--281200875",
+    "position": "preview:113"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.154Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "3625925960c137478d899c34b667671aada052dc74e99e5f9263b054183a9fe4",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Características de actualización de Materialized Lake View (Vista previa)",
+      "summaryEs": "La actividad Actualizar vista de lago materializada en las canalizaciones de Fabric Data Factory de Fabric Data Factory te permite actualizar vistas de lago materializadas bajo demanda o según una programación dentro de la orquestación de la canalización. La actualización basada en eventos para vistas materializadas de lago activa actualizaciones de las vistas materializadas de lago dependientes cuando se producen eventos de archivos de OneLake o eventos de trabajos de canalización y cuaderno. Para más información, consulte Programar una actualización materializada de vistas del lago."
+    }
   }
 }

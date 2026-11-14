@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -52,12 +52,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:26"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.909Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "e24dbbc6cdb25ef1edd7eaee7c5cbe7d5b5bc37d5706898d85c2c7ca800035c7",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Cambiar transmisión de eventos en la base de datos SQL en Fabric (Vista previa)",
+      "summaryEs": "El flujo de eventos de cambio (CES) captura los cambios DML a nivel de fila (insertos, actualizaciones y eliminaciones) en la base de datos SQL en Fabric y publica cada cambio en Fabric Eventstream o Azure Event Hubs casi en tiempo real como un CloudEvent, permitiendo análisis posteriores y arquitecturas orientadas a eventos sin ETL. Para más información, consulta Descripción general de la transmisión de eventos de cambio."
+    }
   }
 }

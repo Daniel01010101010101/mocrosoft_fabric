@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=f21b52a0-e7d6-ee11-9079-000d3a341a60",
   "contentHash": "d7df052c49cdb946fdd627d1995463f7ac0c940d771324355bf677e3f912b669",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Etiquetas de confidencialidad de Purview Information Protection",
+      "descriptionEs": ""
+    }
   }
 }

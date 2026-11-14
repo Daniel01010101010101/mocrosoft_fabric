@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=34eb80a4-c49a-f011-b4cc-000d3a30273e",
   "contentHash": "c4cde4a053c8eef5d1b22a10ab61105b8abcd6b41192ce597fd2253d485925be",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "c4cde4a053c8eef5d1b22a10ab61105b8abcd6b41192ce597fd2253d485925be",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Conectores: nuevos conectores en Copy job y actividades de pipeline",
+      "descriptionEs": "Se planean nuevos conectores de origen en Copy job y en actividades de pipeline: Impala, Jira, Netezza, Hive, HubSpot, Shopify, Square y Xero."
+    }
   }
 }

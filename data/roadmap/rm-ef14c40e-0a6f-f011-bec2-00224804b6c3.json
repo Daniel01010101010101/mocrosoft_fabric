@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=ef14c40e-0a6f-f011-bec2-00224804b6c3",
   "contentHash": "c4d5d9dcdbccbe1b92e9834c3a9392fa1dcb0752548ae13546e21bdee1db1e0a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "c4d5d9dcdbccbe1b92e9834c3a9392fa1dcb0752548ae13546e21bdee1db1e0a",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Airflow: registros de Apache Airflow en Workspace Monitoring",
+      "descriptionEs": "Los registros de ejecución de los Apache Airflow jobs podrán consultarse en Workspace Monitoring de Fabric para crear consultas, informes y paneles propios."
+    }
   }
 }

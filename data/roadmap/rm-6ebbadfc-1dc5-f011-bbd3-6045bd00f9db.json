@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=6ebbadfc-1dc5-f011-bbd3-6045bd00f9db",
   "contentHash": "4142809e6f754b1dc890e3237de900032095d1924cc3dfe57f2392275eb5c2ce",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Org Apps (disponibilidad general)",
+      "descriptionEs": ""
+    }
   }
 }

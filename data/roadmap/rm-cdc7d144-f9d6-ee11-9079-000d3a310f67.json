@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=cdc7d144-f9d6-ee11-9079-000d3a310f67",
   "contentHash": "a4f9303212201779515eb0937b25e87cd800f71694bc78f827503b42629d6590",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "a4f9303212201779515eb0937b25e87cd800f71694bc78f827503b42629d6590",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Conexiones: parametrización de conexiones",
+      "descriptionEs": "Para facilitar los flujos basados en metadatos, las conexiones pasarán a ser elementos del workspace, con su control de acceso basado en roles (RBAC) unificado con el workspace y la posibilidad de referenciarlas de forma dinámica."
+    }
   }
 }

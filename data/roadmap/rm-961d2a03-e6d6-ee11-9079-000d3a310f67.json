@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=961d2a03-e6d6-ee11-9079-000d3a310f67",
   "contentHash": "1f5725c84b21a692d5dce0bdd3264755d0da0a9862041f37461c156a9ea52d5d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "API de administración de Fabric",
+      "descriptionEs": ""
+    }
   }
 }

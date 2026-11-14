@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=5e3574f8-d2fa-ee11-a1ff-000d3a340b2c",
   "contentHash": "5e71a86c83065581667e1d4f066211e92feb7a8d93d03ff73bbb31b82e37a816",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "CTE anidadas",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=d6abe9af-f4a0-ef11-8a69-6045bd034fed",
   "contentHash": "fb1c05b49058b77975b7520d667df5444f7cdee1243d8af4cc816115f3f150f0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Fabric Workload Development Kit",
+      "descriptionEs": ""
+    }
   }
 }

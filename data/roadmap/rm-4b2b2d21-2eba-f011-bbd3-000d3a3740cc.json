@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=4b2b2d21-2eba-f011-bbd3-000d3a3740cc",
   "contentHash": "17a3803baf60b8e0bbdf1bf218f94b4266149ad06b894d5c455f96991839a01f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "17a3803baf60b8e0bbdf1bf218f94b4266149ad06b894d5c455f96991839a01f",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Shortcut Transformations: definición de esquema, vista previa y cambios de esquema",
+      "descriptionEs": "Podrás definir y previsualizar el esquema, renombrar columnas, cambiar tipos de datos y gestionar columnas añadidas, ausentes o reordenadas y filas duplicadas en las transformaciones de archivos, sin interrumpir los flujos de trabajo."
+    }
   }
 }

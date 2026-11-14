@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=8790f16d-f23f-f111-88b5-6045bd00f798",
   "contentHash": "48eb925a7d3eb74408dd9bfdee2e1bc4913c04098496e623b6a44ba5944c4af1",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "48eb925a7d3eb74408dd9bfdee2e1bc4913c04098496e623b6a44ba5944c4af1",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Información de entrega en vivo en Eventstream",
+      "descriptionEs": "Eventstream mostrará en tiempo real cómo fluyen los eventos de los orígenes a los destinos: rendimiento, estado de entrega, cuellos de botella y destinos con errores, sin herramientas de supervisión aparte."
+    }
   }
 }

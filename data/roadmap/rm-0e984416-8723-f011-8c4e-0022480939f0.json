@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=0e984416-8723-f011-8c4e-0022480939f0",
   "contentHash": "d743b91d6bad1e0fdb12d82ce1d61e3b31eabb50e6d09e1ca953711527166af4",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "SDK de Python para las API REST de Microsoft Fabric",
+      "descriptionEs": ""
+    }
   }
 }

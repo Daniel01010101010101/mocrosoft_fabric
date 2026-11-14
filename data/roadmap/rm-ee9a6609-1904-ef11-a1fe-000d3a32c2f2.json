@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=ee9a6609-1904-ef11-a1fe-000d3a32c2f2",
   "contentHash": "19ea5923fb6c2e2f240ccaa14f0ac0c5403b451d95c4820b44ef422895ec09fe",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Disponibilidad de Eventhouse en OneLake",
+      "descriptionEs": ""
+    }
   }
 }

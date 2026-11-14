@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=7372eea3-eb59-ef11-a317-000d3a31cfdc",
   "contentHash": "0103e3c7f9d253fe55218b246b28c397f174781678004f6afe54de3bff6a32d0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Nuevo conector de streaming para Azure Service Bus",
+      "descriptionEs": ""
+    }
   }
 }

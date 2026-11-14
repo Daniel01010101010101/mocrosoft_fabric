@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,12 +58,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/new-migration-experience-from-azure-data-factory-to-fabric-preview?ft=All",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:93"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.967Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "b929fcf2877b331f415752c8d6ef735a5d9e6ab09ee374b1553f49ccd6f95f81",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Evaluación de la migración de Fabric para Data Factory (versión preliminar)",
+      "summaryEs": "La nueva evaluación de migración de Fabric para Data Factory (versión preliminar) proporciona una experiencia de evaluación y migración integrada que evalúa la preparación de la canalización de ADF y migra las canalizaciones admitidas a un espacio de trabajo de Fabric con mapeo de conexiones. Para más información, consulta Actualizar tus pipelines de Azure Data Factory a Fabric Data Factory."
+    }
   }
 }

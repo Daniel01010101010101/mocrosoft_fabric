@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=216667c8-3e68-f011-bec3-000d3a329ecb",
   "contentHash": "1b2da5eb5115b065e2899a3d901b46e124cdb82da82183239d664b7d90c7a418",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Data Agent como servidor MCP",
+      "descriptionEs": ""
+    }
   }
 }

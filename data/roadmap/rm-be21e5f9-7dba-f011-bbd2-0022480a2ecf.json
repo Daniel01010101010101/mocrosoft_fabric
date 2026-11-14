@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=be21e5f9-7dba-f011-bbd2-0022480a2ecf",
   "contentHash": "dbe3e344a52f6f0e4e41d9418019b6a431aea426f8dd245d148d4fcae9de7041",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Perfiles de recursos para Fabric Data Engineering",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=714d2deb-263e-f111-88b5-6045bd0066ad",
   "contentHash": "8d0a05c780a2ce2f1c04fd93fb5f6bc26c72edbefd194c6c904ce0a901975137",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "8d0a05c780a2ce2f1c04fd93fb5f6bc26c72edbefd194c6c904ce0a901975137",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Conector HTTP de Eventstream (disponibilidad general)",
+      "descriptionEs": "El conector HTTP de Eventstream pasa a disponibilidad general para ingerir datos de APIs HTTP externas, transformarlos con Eventstream y enviarlos a destinos compatibles para análisis y acción."
+    }
   }
 }

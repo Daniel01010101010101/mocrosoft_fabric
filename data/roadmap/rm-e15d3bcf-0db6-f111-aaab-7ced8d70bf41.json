@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=e15d3bcf-0db6-f111-aaab-7ced8d70bf41",
   "contentHash": "167618e502d1122260ec1593d203932aa5bda070eeff6d3c56022d0403c71e5f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "167618e502d1122260ec1593d203932aa5bda070eeff6d3c56022d0403c71e5f",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Continuidad de negocio y recuperación ante desastres a nivel de workspace para Eventstream",
+      "descriptionEs": "Eventstream participará en la conmutación por error del workspace a una región emparejada, conservando la topología y reanudando los flujos compatibles:\n* Workspace georredundante con infraestructura y eventos replicados.\n* Conmutación completa a la región emparejada sin depender de la región principal.\n* Supervisión del estado de replicación y de la preparación para la conmutación.\nTras la conmutación no se podrá cambiar la topología hasta volver a la región principal."
+    }
   }
 }

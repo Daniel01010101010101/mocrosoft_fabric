@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=9185ea8e-342e-f111-88b4-000d3a376137",
   "contentHash": "d740647780a1ba25df0f386bdd2ac8ec656743cd2e593d445942f19b9f95ca43",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "d740647780a1ba25df0f386bdd2ac8ec656743cd2e593d445942f19b9f95ca43",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Transacciones en Git integration y deployment pipelines",
+      "descriptionEs": "Los despliegues de Fabric Warehouse mediante Git integration y deployment pipelines se ejecutarán como una sola transacción: si algún paso falla, todos los cambios se revierten automáticamente y el warehouse vuelve a su estado anterior, con un mensaje claro sobre el error."
+    }
   }
 }

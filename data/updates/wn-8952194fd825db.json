@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,12 +58,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/26307?ft=All",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:103"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.933Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "10e3175e1c38147ad46ca51f304bb86f5d852de14f03837b1639dc7278a8345c",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Historial del Ítem en la Aplicación de Métricas de Capacidad de Fabric (Vista Previa)",
+      "summaryEs": "La página de historial de ítem de la aplicación de métricas de capacidad de Fabric (versión preliminar) proporciona una vista de 30 días del consumo de capacidad de cómputo con visuales interactivos y filtros para el análisis del área de trabajo y a nivel de ítem. Para obtener más información, consulte Descripción de la página del historial de elementos de la aplicación de métricas (versión preliminar)."
+    }
   }
 }

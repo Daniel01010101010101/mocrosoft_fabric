@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=e42ba56e-8492-ef11-ac21-000d3a32c2f2",
   "contentHash": "8a2cb0c480deef231b225e3015cc8a3dc2d558633b1a1a63a2d3cd72b7b6b05c",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Alertas de Activator en Power BI, KQL Queryset y Real-Time Dashboard",
+      "descriptionEs": ""
+    }
   }
 }

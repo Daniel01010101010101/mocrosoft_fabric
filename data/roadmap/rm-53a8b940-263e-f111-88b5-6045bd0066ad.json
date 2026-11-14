@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=53a8b940-263e-f111-88b5-6045bd0066ad",
   "contentHash": "ab8a75dd3e0eca6849543f5395a939e169802d006a51a8da728071cda71248d1",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Workspace Private Link para el endpoint personalizado de Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

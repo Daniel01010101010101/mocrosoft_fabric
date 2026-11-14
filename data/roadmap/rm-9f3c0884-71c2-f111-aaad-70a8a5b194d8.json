@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=9f3c0884-71c2-f111-aaad-70a8a5b194d8",
   "contentHash": "481679efed776f97d9823ba79e396b7ebcd01e70db2f0db333cdf59470a1dfe7",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "481679efed776f97d9823ba79e396b7ebcd01e70db2f0db333cdf59470a1dfe7",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Power Query: explorar SharePoint en Modern Get Data",
+      "descriptionEs": "La experiencia Modern Get Data de Power Query permitirá navegar por sitios y carpetas de SharePoint para seleccionar archivos sin copiar URLs, previsualizar los datos y empezar a transformarlos, manteniendo la opción de introducir la URL manualmente."
+    }
   }
 }

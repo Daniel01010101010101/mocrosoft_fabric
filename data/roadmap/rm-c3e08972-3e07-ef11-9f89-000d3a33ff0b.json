@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=c3e08972-3e07-ef11-9f89-000d3a33ff0b",
   "contentHash": "c859738b4202375e9ab870c7195a75fd50f8b886558b733783b0736c60cc259a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Crear y ejecutar consultas DAX con la vista de consultas en Power BI Desktop",
+      "descriptionEs": ""
+    }
   }
 }

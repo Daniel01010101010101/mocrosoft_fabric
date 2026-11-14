@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=fbee65ff-2b8b-f111-ab0f-6045bd03ee11",
   "contentHash": "650db23366e8382f9e2ab94ccc0282cb69e3a06893f6709d9dc19207dbdc3205",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Deployment Plan",
+      "descriptionEs": ""
+    }
   }
 }

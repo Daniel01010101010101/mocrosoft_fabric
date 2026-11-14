@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=f0a40ab7-0972-f011-bec3-00224802d8fd",
   "contentHash": "0ab82f0cd31489e34681b6b4719a5b6823c195fd636063b2eee5f723db6922c0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Claves administradas por el cliente para Fabric Warehouse y SQL endpoint",
+      "descriptionEs": ""
+    }
   }
 }

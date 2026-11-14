@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=f69a6609-1904-ef11-a1fe-000d3a32c2f2",
   "contentHash": "e0b8cb1354ea5fecd4621e126ba59eaff1c29bd9c6bbfef78629099077debd98",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Nueva experiencia de exploración de datos desde Real-Time Dashboards",
+      "descriptionEs": ""
+    }
   }
 }

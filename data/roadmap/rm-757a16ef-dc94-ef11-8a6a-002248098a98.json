@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=757a16ef-dc94-ef11-8a6a-002248098a98",
   "contentHash": "904c910c7a5dfc28822034f722c2da36d23091e1c46873e21bf8b72839870e09",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Carpetas en el workspace",
+      "descriptionEs": ""
+    }
   }
 }

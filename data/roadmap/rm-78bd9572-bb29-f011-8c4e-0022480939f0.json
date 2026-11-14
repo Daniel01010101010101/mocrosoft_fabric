@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=78bd9572-bb29-f011-8c4e-0022480939f0",
   "contentHash": "786637894f15dff86c0fcae167183700ccd13ac54756d4d0f1db1d9c7bbddbbf",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Workloads de extensión: compatibilidad con workloads sin backend",
+      "descriptionEs": ""
+    }
   }
 }

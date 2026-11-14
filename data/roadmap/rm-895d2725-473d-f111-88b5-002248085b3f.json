@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=895d2725-473d-f111-88b5-002248085b3f",
   "contentHash": "f743730086d6e69bca84bc0ac8a9a9f4185b5923a2d0a9303fba87c6062e75fd",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "f743730086d6e69bca84bc0ac8a9a9f4185b5923a2d0a9303fba87c6062e75fd",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Copy job: replicación basada en CDC desde PostgreSQL",
+      "descriptionEs": "Con el conector CDC de PostgreSQL en Copy job podrás capturar inserciones, actualizaciones y borrados de PostgreSQL y copiarlos a cualquier destino compatible."
+    }
   }
 }

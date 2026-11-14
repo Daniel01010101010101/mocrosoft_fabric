@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=a6aadfd9-4924-f011-8c4d-00224804b6c3",
   "contentHash": "bb56aa18d367ad4942d69d620ede7521cb458d4adc7aaae4800cb06a22dfe8f3",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Explorar esquemas grandes en el explorador de esquemas de Data Agent",
+      "descriptionEs": ""
+    }
   }
 }

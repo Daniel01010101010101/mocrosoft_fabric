@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=a42a4baf-483d-f111-88b5-002248085b3f",
   "contentHash": "aefa61a99744f841e47db57311742ca376a60758c06c18b4f0a327ef2660c19a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copy job: columnas compuestas de marca de agua en la copia incremental",
+      "descriptionEs": ""
+    }
   }
 }

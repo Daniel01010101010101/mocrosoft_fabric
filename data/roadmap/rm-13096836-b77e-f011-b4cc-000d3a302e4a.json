@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricecosystem&releaseItem=13096836-b77e-f011-b4cc-000d3a302e4a",
   "contentHash": "45ff92f5173a9d952da41d0a3acadce8a42507dfc6f2c906913bca022c3700e5",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Esri ArcGIS Maps",
+      "descriptionEs": ""
+    }
   }
 }

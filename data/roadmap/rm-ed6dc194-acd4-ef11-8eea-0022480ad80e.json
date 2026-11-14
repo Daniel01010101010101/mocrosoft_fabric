@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=ed6dc194-acd4-ef11-8eea-0022480ad80e",
   "contentHash": "b357789f499ac1bd12325d308133bcb85642ebda5107176e30b4bc9be8597199",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Origen de streaming de Eventstream: tabla de Azure Data Explorer",
+      "descriptionEs": ""
+    }
   }
 }

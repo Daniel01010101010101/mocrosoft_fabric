@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=54678565-fb68-f111-a826-6045bd0066ad",
   "contentHash": "6da6282e8bc2eb39a74ad2cbbff7d3acbc46905e659ae8365aa2db0afdacd524",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "6da6282e8bc2eb39a74ad2cbbff7d3acbc46905e659ae8365aa2db0afdacd524",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Build Agent with AI Mode admite archivos como contexto",
+      "descriptionEs": "Podrás subir documentación, glosarios, guías de procesos o diccionarios de datos para que el Creator Agent genere configuraciones de Data Agent más completas y precisas, reutilizando conocimiento existente en lugar de recrearlo en largas conversaciones."
+    }
   }
 }

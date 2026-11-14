@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=c517ae9b-4d92-ef11-ac21-6045bd062aa2",
   "contentHash": "fa192667f842001ad7cf5af8b107a4e142d93b7658707dc30aaaba9d02954169",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Integración de Semantic Link en notebooks para semantic models",
+      "descriptionEs": ""
+    }
   }
 }

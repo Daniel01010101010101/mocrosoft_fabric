@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -60,12 +60,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/AI-assisted-Synapse-Spark-and-pipeline-migration-to-Microsoft/ba-p/5234478",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:5"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.933Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "4260c6eed6e17882a1b07f26ad026ddbb7898e230c6302d2d4c176dd348e8db2",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Aptitudes de migración de Synapse a Fabric asistidas por IA (versión preliminar)",
+      "summaryEs": "Aptitudes de migración de Synapse a Fabric asistidas por IA (versión preliminar) mueva grupos de Spark de Synapse, bases de datos de lago, blocs de notas, definiciones de trabajos de Spark y canalizaciones de Data Factory a Microsoft Fabric desde la línea de comandos mediante API de REST, con rutas de lift-and-shift y de migración y modernización, y un paso de evaluación de solo lectura. Para más información, consulte Habilidades para Microsoft Fabric."
+    }
   }
 }

@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -55,12 +55,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Soft-delete-for-On-premises-data-gateways-in-Microsoft-Fabric/ba-p/5365712",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:140"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.985Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "3c0a666bdfcfe8b9e76551e8003bf3794624dbe1d49e2703e4a9e3e329762dc1",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Eliminación temporal de la puerta de enlace de datos local (on-premises) (Versión preliminar)",
+      "summaryEs": "El borrado temporal (Preview) de la puerta de enlace de datos local mantiene por defecto las puertas de enlace compatibles en modo estándar durante 30 días, para que los administradores del inquilino y de la puerta de enlace puedan recuperar eliminaciones accidentales. Para más información, consulta Gateway soft delete."
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=93f026d7-f7d6-ef11-8ee9-6045bd082f70",
   "contentHash": "2cef8bf925ddf24a915248571682183563c2ace0eb53a54abbc8cc9bc13489b0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Aceleración de consultas sobre tablas Delta de OneLake",
+      "descriptionEs": ""
+    }
   }
 }

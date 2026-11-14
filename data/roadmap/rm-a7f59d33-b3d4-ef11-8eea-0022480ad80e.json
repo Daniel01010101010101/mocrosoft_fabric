@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=a7f59d33-b3d4-ef11-8eea-0022480ad80e",
   "contentHash": "18dfbb083104629638c6e35e6db08b35f7bd2a509c93f90bffd5f37cd39fdb26",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Inferencia de varios esquemas en Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

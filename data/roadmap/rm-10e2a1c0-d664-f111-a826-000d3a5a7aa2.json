@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=10e2a1c0-d664-f111-a826-000d3a5a7aa2",
   "contentHash": "10a8f5afe91c4779bb986046704209e0264fbf4b5a8806d528e1721a1c824100",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Estilos visuales modernos por defecto y mejoras en la personalización de temas",
+      "descriptionEs": ""
+    }
   }
 }

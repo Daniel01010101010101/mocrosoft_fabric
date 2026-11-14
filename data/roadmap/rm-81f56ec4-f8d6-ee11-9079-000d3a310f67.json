@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=81f56ec4-f8d6-ee11-9079-000d3a310f67",
   "contentHash": "cb1b7fee18f32a83cea27bb252e605723efd07ed79cce88404c86ffd93b794d8",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copilot para Data Factory (Dataflow)",
+      "descriptionEs": ""
+    }
   }
 }

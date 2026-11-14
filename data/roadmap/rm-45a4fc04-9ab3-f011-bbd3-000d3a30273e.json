@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=45a4fc04-9ab3-f011-bbd3-000d3a30273e",
   "contentHash": "316d4ac0f8265ed42f962e8b0d7042d36e7150c171613712239f3c70c47e6f16",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "316d4ac0f8265ed42f962e8b0d7042d36e7150c171613712239f3c70c47e6f16",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Dataflows: nuevo destino Google Cloud Storage",
+      "descriptionEs": "Google Cloud Storage llega en Preview como destino de Dataflow Gen2 para depositar datos transformados en Fabric en buckets de GCS con Power Query. Facilita escenarios multinube centralizando la lógica de transformación en Fabric. Durante la Preview está pensado para evaluación y comentarios."
+    }
   }
 }

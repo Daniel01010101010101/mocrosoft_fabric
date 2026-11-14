@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=43353ff1-04c2-f011-bbd3-000d3a5b0efa",
   "contentHash": "b79d5344d45b9a0c9b2675e859aad27976a741b7d38aa47aa663108933ebd763",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Información sobre herramientas moderna en los visuales",
+      "descriptionEs": ""
+    }
   }
 }

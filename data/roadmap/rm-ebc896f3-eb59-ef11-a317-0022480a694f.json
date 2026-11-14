@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=ebc896f3-eb59-ef11-a317-0022480a694f",
   "contentHash": "dd0022aa601c3641925d519a5e8a34b539131e23b2d67c498622a0afebf35287",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "API públicas (REST) para elementos de Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

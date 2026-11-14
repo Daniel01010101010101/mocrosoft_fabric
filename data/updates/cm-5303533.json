@@ -11,7 +11,7 @@
   "publishedAt": "2026-07-22T15:48:26.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -250,9 +250,14 @@
   },
   "meta": {},
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.022Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "e478402f9852660305a8bc97eb34f06d5e4ae77319105483096ec66d37378b43",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Resumen de novedades de Power BI: julio de 2026",
+      "summaryEs": "Novedades de julio en informes, modelado, móvil y análisis integrado: estilos visuales modernos por defecto, formato condicional en líneas y leyendas, nuevas capacidades y APIs de org apps y Model Options."
+    }
   }
 }

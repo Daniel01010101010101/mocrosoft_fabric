@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=6c8b596e-0c71-f011-bec2-000d3a329ecb",
   "contentHash": "3c1ea1e05480e2a7492241fc48a004f0248a87f14dad366cd2bb3c98bc9a1573",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Navegación lateral de Real-Time hub unificada para orígenes de datos",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=b6d8618b-08a2-f111-b8db-000d3a3ad591",
   "contentHash": "b974df3623db91678cd7a02f39452385db71c715b3d971616aaf6c1ce0825b6d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Gobierno de Skills for Fabric",
+      "descriptionEs": ""
+    }
   }
 }

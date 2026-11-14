@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=f282e269-15be-f011-bbd3-000d3a30273e",
   "contentHash": "80062ed579e2f14205da787435f9f650bb0ce08413ca5a2ae8a0ca0d60835da9",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "AutoML con FLAML en endpoints de modelos de ML",
+      "descriptionEs": ""
+    }
   }
 }

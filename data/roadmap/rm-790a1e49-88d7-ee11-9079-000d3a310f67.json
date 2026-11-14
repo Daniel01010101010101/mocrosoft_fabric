@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=790a1e49-88d7-ee11-9079-000d3a310f67",
   "contentHash": "95c6b28d5159a3faf051dd1ae3fc4c44e052891920aa3d8917793009e22a53ec",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pestaña de detalles de Custom App ampliada con toda la información del endpoint",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=a53c2ff6-f894-ef11-8a6a-6045bd062aa2",
   "contentHash": "b786e31a9938a8f077385c4414fdeaf3537a607eca0e9d8c62fedcfc749a668d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Instalar bibliotecas desde una cuenta de almacenamiento ADLS Gen2",
+      "descriptionEs": ""
+    }
   }
 }

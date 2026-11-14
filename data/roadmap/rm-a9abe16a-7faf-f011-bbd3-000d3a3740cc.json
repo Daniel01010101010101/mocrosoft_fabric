@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=a9abe16a-7faf-f011-bbd3-000d3a3740cc",
   "contentHash": "af92af3d91c30f65c34498cbfede776fddd8387a3bd1568e3ebe70558248fa3b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "af92af3d91c30f65c34498cbfede776fddd8387a3bd1568e3ebe70558248fa3b",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Streaming Tables de Lakehouse en Real-Time hub",
+      "descriptionEs": "Las Streaming Tables de Lakehouse llegan a Real-Time hub para descubrir, explorar y actuar sobre datos en streaming desde un único lugar, con integración con Spark y AI Skills para filtrar, abrir, avalar tablas y lanzar análisis avanzados."
+    }
   }
 }

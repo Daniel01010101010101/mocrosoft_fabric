@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=b99d1d6c-103f-f111-88b5-6045bd00f798",
   "contentHash": "05de3683d42e685b30bb584ad54259c4f9f5cd7853192f88425b948a814ae91b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "05de3683d42e685b30bb584ad54259c4f9f5cd7853192f88425b948a814ae91b",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Calidad de datos: conservar e inspeccionar filas corruptas en Shortcut Transformations",
+      "descriptionEs": "Hoy las filas corruptas se descartan sin aviso al convertir archivos a Delta (afecta a cerca del 35 % de los trabajos). La nueva opción las guardará junto a los datos válidos con la ruta del archivo de origen y la fecha de ingesta, para inspeccionarlas con SQL o Power BI, corregirlas y auditarlas. Aplica a CSV, JSON y Excel."
+    }
   }
 }

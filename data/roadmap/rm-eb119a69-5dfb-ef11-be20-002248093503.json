@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=eb119a69-5dfb-ef11-be20-002248093503",
   "contentHash": "0c8fe1801604a264aaabb4c1cf6408bbbbdb3517f7930f32f3a64bcaef568ad5",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mirroring: nuevo origen SQL Server local",
+      "descriptionEs": ""
+    }
   }
 }

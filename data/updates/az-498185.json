@@ -9,7 +9,7 @@
   "publishedAt": "2025-07-14T16:45:47.138Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -55,5 +55,16 @@
     "tags": "Features",
     "previewDate": "2025-07",
     "modified": "2025-07-14T16:45:47.1380482Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "31f06113481923ed8898326ad497c45911c3f2c7937304b00b9c0534877f2fcb",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Preview pública: Cosmos DB en Microsoft Fabric",
+      "summaryEs": "Cosmos DB en Fabric unifica datos operacionales y analítica en OneLake con Real-Time Intelligence, Power BI con Copilot y consultas SQL, sin integrar servicios por separado."
+    }
   }
 }

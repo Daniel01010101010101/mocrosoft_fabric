@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=a9514e2d-9bf9-ef11-be20-002248093503",
   "contentHash": "32894940795ca3976d19210acb6ab440b2f7838f55856968422cc37094cffaea",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Apache Airflow job: pipelines de datos basados en Apache Airflow",
+      "descriptionEs": ""
+    }
   }
 }

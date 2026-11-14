@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=b8bed2a5-5943-f111-88b5-6045bd0a886d",
   "contentHash": "f280c411b649f4ba2e25ed32274f90ad213864ee340a6d66304f10776da2159a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Fabric Runtime 1.3: actualización a Mariner 3.0",
+      "descriptionEs": ""
+    }
   }
 }

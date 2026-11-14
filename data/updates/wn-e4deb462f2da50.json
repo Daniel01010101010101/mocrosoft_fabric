@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -51,12 +51,18 @@
   "meta": {
     "section": "ga",
     "month": "September 2026",
-    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features"
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "position": "ga:69"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.093Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "9cca8a88409744926663fe094d96dfd2d23df1d1b836b94ad83bbbd03f8825a3",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Trabajo DBT en Fabric Data Factory (Disponible Generalmente)",
+      "summaryEs": "El trabajo DBT en Fabric Data Factory te permite crear, programar y monitorizar proyectos DBT de forma nativa con ejecución serverless, pruebas y documentación integradas, y gobernanza mediante Microsoft Entra ID y políticas de seguridad SQL. Para más información, consulta el trabajo de dbt en Microsoft Fabric."
+    }
   }
 }

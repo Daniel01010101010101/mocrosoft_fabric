@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=61e4ab87-eeb1-f111-aaab-70a8a59cbac4",
   "contentHash": "25bda3c4e866c8f94f7f960d5f957ebeaafcb7755a9c0c893ae905c9a14ec163",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "25bda3c4e866c8f94f7f960d5f957ebeaafcb7755a9c0c893ae905c9a14ec163",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Outbound Access Protection para Fabric SQL database",
+      "descriptionEs": "La outbound access protection de Fabric bloquea por defecto las conexiones salientes de un workspace y solo permite las conexiones externas aprobadas mediante managed private endpoints o reglas de conexión de datos, ahora también para Fabric SQL database."
+    }
   }
 }

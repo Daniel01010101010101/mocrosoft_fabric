@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -54,12 +54,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:169"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.965Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "8ee436d7ad782a915abb3a825b034e3ed659c1f909ca8b116cc28b73473aacb3",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Opción de sincronización de metadatos para endpoint de SQL Analytics (vista previa)",
+      "summaryEs": "Ahora puede participar en la nueva opción de sincronización de metadatos del punto de conexión de SQL Analytics, una característica en versión preliminar. La nueva opción, que actualmente solo está disponible mediante activación voluntaria y por ahora solo se aplica a los nuevos endpoints de análisis SQL, es más rápida, ofrece una nueva opción para sincronizar manualmente los metadatos y permite consultas de viaje en el tiempo."
+    }
   }
 }

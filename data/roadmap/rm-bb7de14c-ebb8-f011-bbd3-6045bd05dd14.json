@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=bb7de14c-ebb8-f011-bbd3-6045bd05dd14",
   "contentHash": "ed84b8ddd9f37e461cffa7ca2f8cdeafae4e9d9f411c9241c8f33223db85eda5",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "ed84b8ddd9f37e461cffa7ca2f8cdeafae4e9d9f411c9241c8f33223db85eda5",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Explorar y conectarse a Fabric Warehouse desde VS Code",
+      "descriptionEs": "VS Code permitirá explorar workspaces de Fabric (warehouses, tablas, vistas y otros elementos), conectarse a uno o varios warehouses para consultar o administrar y acceder a esquemas y objetos para desarrollo, depuración o CI/CD sin cambiar de herramienta."
+    }
   }
 }

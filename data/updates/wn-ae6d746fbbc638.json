@@ -9,7 +9,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -55,12 +55,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-cli-in-azure-devops-automation-without-friction-preview?ft=All",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:81"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.985Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "50ab97ac81e11cf07f2d451080e62e44f19d7c22d748189abedbc1a8412004d1",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "CLI de Fabric en Azure DevOps (versión preliminar)",
+      "summaryEs": "La CLI de Fabric de Azure DevOps (versión preliminar) proporciona la CLI de Fabric (fab) como una tarea de canalización integrada de Azure DevOps para automatizar la gestión de espacios de trabajo y elementos sin necesidad de instalación manual de herramientas. Introducción a la CLI de Fabric (disponible con carácter general) en https://aka.ms/FabCLI."
+    }
   }
 }

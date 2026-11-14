@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -55,12 +55,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:0"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.948Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "2a079cc8f7358ad6282d37ec56ae25e15b0baf0842c47b0d02c4add538fa28a0",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Activator como publicador de eventos de negocio (versión preliminar)",
+      "summaryEs": "Activator proporciona una manera sin código de publicar eventos empresariales en Microsoft Fabric. Cuando Activator detecta que se cumple una condición en sus datos, puede emitir un evento empresarial estructurado en el centro de Real-Time, de modo que toda su organización pueda detectarlo, enrutarlo y consumirlo. Para más información, consulta ¿Qué es Fabric Activator? y Resumen de eventos empresariales."
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=422e1a3d-056f-f011-bec2-00224804b6c3",
   "contentHash": "7ece7f09f8fd7dcde188ceff6f682456b2a323800e6ebd1ea98701d39fe54199",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pipelines: parámetros del pipeline en las programaciones",
+      "descriptionEs": ""
+    }
   }
 }

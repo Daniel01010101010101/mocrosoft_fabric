@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=f29a6609-1904-ef11-a1fe-000d3a32c2f2",
   "contentHash": "320368f01091ee0f976ca30b4672a1f8c5d99f486875a53380197bb941e1aa71",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Compatibilidad con AI Anomaly Detector",
+      "descriptionEs": ""
+    }
   }
 }

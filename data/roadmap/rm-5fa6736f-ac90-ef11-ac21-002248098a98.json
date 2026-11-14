@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=5fa6736f-ac90-ef11-ac21-002248098a98",
   "contentHash": "339d1c71f9f47b415b08bee72fc41fe37be6da3238179a2b07d8f26b5f951196",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: API públicas de Dataflow Gen2 con service principal",
+      "descriptionEs": ""
+    }
   }
 }

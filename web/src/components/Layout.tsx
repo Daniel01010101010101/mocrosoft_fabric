@@ -14,6 +14,7 @@ import {
   Sun,
   X,
   Shapes,
+  Table2,
 } from 'lucide-react';
 import { AnimatePresence, motion } from 'motion/react';
 import { useEffect, useMemo, useState, type ReactNode } from 'react';
@@ -34,6 +35,7 @@ const NAV = [
   { to: '/historico', label: 'Histórico', icon: History },
   { to: '/roadmap', label: 'Roadmap y próximas', icon: MapIcon },
   { to: '/destacadas', label: 'Más importantes', icon: Star },
+  { to: '/powertable', label: 'PowerTable · Guía', icon: Table2 },
 ];
 
 export function Logo({ compact = false }: { compact?: boolean }) {
@@ -102,6 +104,9 @@ function Sidebar({ onNavigate }: { onNavigate?: () => void }) {
                       )}
                       <n.icon className={clsx('size-[1.05rem]', isActive ? 'text-brand' : 'text-ink-muted group-hover:text-white')} />
                       <span className="flex-1">{n.label}</span>
+                      {n.to === '/powertable' && (
+                        <span className="rounded-md bg-white/10 px-1.5 py-0.5 text-[0.6rem] font-semibold uppercase tracking-wide text-white/70">Nuevo</span>
+                      )}
                       {n.to === '/novedades' && weekCount > 0 && (
                         <span className="tabular rounded-md bg-brand/15 px-1.5 py-0.5 text-[0.65rem] font-semibold text-brand">{weekCount}</span>
                       )}

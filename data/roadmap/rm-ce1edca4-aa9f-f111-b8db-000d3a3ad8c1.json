@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=ce1edca4-aa9f-f111-b8db-000d3a3ad8c1",
   "contentHash": "7d8b9a8499c5c979a5c64c257b4896323ea6e3f61fb72268b013e654f2a32fa2",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mejoras del lenguaje T-SQL",
+      "descriptionEs": ""
+    }
   }
 }

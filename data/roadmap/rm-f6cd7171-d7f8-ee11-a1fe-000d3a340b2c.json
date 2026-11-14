@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=f6cd7171-d7f8-ee11-a1fe-000d3a340b2c",
   "contentHash": "3c917233045478de19ac9ded01f4e9c8fad2ca57eaf6fb2b727869707bacf4e9",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mejoras del procesador de eventos en Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

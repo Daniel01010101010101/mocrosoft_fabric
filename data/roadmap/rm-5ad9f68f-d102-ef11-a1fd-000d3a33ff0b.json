@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=5ad9f68f-d102-ef11-a1fd-000d3a33ff0b",
   "contentHash": "24c9cd96a01ba1b57b592e87a7d58d823c9d6e2d538e52c21f989f2400e4275c",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Compatibilidad con NFC en las apps móviles de Power BI",
+      "descriptionEs": ""
+    }
   }
 }

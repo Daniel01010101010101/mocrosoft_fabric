@@ -10,7 +10,7 @@
   "publishedAt": "2024-04-10T16:00:10.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,5 +56,16 @@
     "tags": "Features",
     "previewDate": "2024-04",
     "modified": "2024-04-10T16:00:10.0000000Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "696a7f646c90f4b924485f93a9af9fa9f472d47f4a81f210177a7c9ec565cbf2",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Preview pública: mirroring de Azure Cosmos DB en Microsoft Fabric",
+      "summaryEs": "Replica de forma incremental tus datos de Azure Cosmos DB en OneLake en formato Delta Parquet para analizarlos casi en tiempo real sin afectar a las cargas transaccionales."
+    }
   }
 }

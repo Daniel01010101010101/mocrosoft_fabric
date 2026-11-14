@@ -5,7 +5,6 @@ import { afterEach, describe, expect, it } from 'vitest';
 import type { RunIssue } from '../../shared/types';
 import { AiFatalError, AiItemError, ANTHROPIC_LIMITS } from '../src/ai/client';
 import { batchBySize, enrich, needsAnalysis, needsTranslation } from '../src/ai/enrich';
-import { GITHUB_LIMITS, GitHubModelsClient } from '../src/ai/githubModels';
 import { RoadmapBatchSchema, UpdateTranslationBatchSchema, type AnalysisOutput } from '../src/ai/schema';
 import { loadConfig, type PipelineConfig } from '../src/config';
 import { upsertRoadmap, upsertUpdate } from '../src/core/ingest';
@@ -208,49 +207,3 @@ describe('Lotes de traducción', () => {
   });
 });
 
-describe('GitHub Models (IA incluida en GitHub)', () => {
-  const cfg = () => ({ ...loadConfig(), aiProvider: 'github' as const, githubToken: 't', githubModel: 'openai/gpt-4.1-mini' });
-  const okBody = (content: unknown) =>
-    new Response(JSON.stringify({ model: 'openai/gpt-4.1-mini', choices: [{ message: { content: JSON.stringify(content) }, finish_reason: 'stop' }], usage: { prompt_tokens: 3, completion_tokens: 4 } }), { status: 200 });
-  const req = { system: 's', user: 'u', schema: UpdateTranslationBatchSchema, effort: 'low' as const, maxTokens: 9000 };
-
-  it('envía el esquema JSON y valida la respuesta', async () => {
-    let sent: Record<string, any> = {};
-    const fetchImpl = (async (_u: string, init: RequestInit) => {
-      sent = JSON.parse(String(init.body));
-      return okBody({ items: [{ id: 'a', titleEs: 'Hola', summaryEs: 'Resumen' }] });
-    }) as unknown as typeof fetch;
-    const c = new GitHubModelsClient(cfg(), fetchImpl, async () => {});
-    const res = await c.structured(req);
-    expect(res.data.items[0]!.titleEs).toBe('Hola');
-    expect(res.model).toBe('github:openai/gpt-4.1-mini');
-    expect(sent.response_format.type).toBe('json_schema');
-    expect(sent.max_tokens).toBe(4000);
-    expect(c.limits).toBe(GITHUB_LIMITS);
-  });
-
-  it('pasa a modo JSON simple si el modelo no admite esquemas', async () => {
-    const formats: string[] = [];
-    const fetchImpl = (async (_u: string, init: RequestInit) => {
-      const body = JSON.parse(String(init.body));
-      formats.push(body.response_format.type);
-      if (body.response_format.type === 'json_schema') return new Response('{"error":"response_format json_schema not supported"}', { status: 400 });
-      return okBody({ items: [] });
-    }) as unknown as typeof fetch;
-    const c = new GitHubModelsClient(cfg(), fetchImpl, async () => {});
-    await c.structured(req);
-    expect(formats).toEqual(['json_schema', 'json_object']);
-  });
-
-  it('el límite diario detiene la fase de IA hasta la próxima ejecución', async () => {
-    const fetchImpl = (async () => new Response('limit', { status: 429, headers: { 'retry-after': '86400' } })) as unknown as typeof fetch;
-    const c = new GitHubModelsClient(cfg(), fetchImpl, async () => {});
-    await expect(c.structured(req)).rejects.toBeInstanceOf(AiFatalError);
-  });
-
-  it('rechaza respuestas que no cumplen el esquema', async () => {
-    const fetchImpl = (async () => okBody({ nada: true })) as unknown as typeof fetch;
-    const c = new GitHubModelsClient(cfg(), fetchImpl, async () => {});
-    await expect(c.structured(req)).rejects.toBeInstanceOf(AiItemError);
-  });
-});

@@ -11,7 +11,7 @@
   "publishedAt": "2026-10-15T21:06:46.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -290,9 +290,14 @@
   },
   "meta": {},
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.909Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "11edc97fa2e7f76fbd5a5bb548ccb7f82f524a5189d198ce0f312a9e3a8aae12",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Resumen de novedades de Power BI: septiembre de 2026",
+      "summaryEs": "Edición especial coincidiendo con la conferencia europea de Fabric y SQL en Barcelona: nuevas experiencias de Copilot e IA, informes, modelado, conectividad de datos, mejoras para desarrolladores y móvil."
+    }
   }
 }

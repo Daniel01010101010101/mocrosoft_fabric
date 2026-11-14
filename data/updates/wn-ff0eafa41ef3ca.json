@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -60,12 +60,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/monitor-your-eventstreams-with-workspace-monitoring-%E2%80%94-now-with-per-eventstream-c/5331185",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:71"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.948Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "c8e64b840258da56ef12f394197f8a824b749c3107bc10e1affa256dee6cf108",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Supervisión del área de trabajo de Eventstream (versión preliminar)",
+      "summaryEs": "La supervisión del área de trabajo para flujos de eventos (versión preliminar) te permite elegir qué flujos de eventos envían datos de rendimiento, errores y estado de los nodos a tres tablas KQL del Eventhouse de supervisión del área de trabajo. Para obtener más información, consulte Supervisión de Eventstream en Supervisión del espacio de trabajo y Descripción general de Supervisión del espacio de trabajo."
+    }
   }
 }

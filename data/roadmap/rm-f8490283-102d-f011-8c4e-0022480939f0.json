@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=f8490283-102d-f011-8c4e-0022480939f0",
   "contentHash": "456ee4e544f9ddefda1c3dd10804b4c6e573167c0b488bd267eb70ad46a71b2a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Edición de semantic models en el servicio de Power BI (disponibilidad general)",
+      "descriptionEs": ""
+    }
   }
 }

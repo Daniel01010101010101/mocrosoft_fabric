@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=8afe9065-0c74-f111-ab0f-6045bd00f798",
   "contentHash": "41ffcf71f6cf91bd495ba02bb3ac51a05876b768ddc3383ce6fd1879796669e9",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Reglas de Activator en Fabric Database Hub para supervisar la salud y el rendimiento de los recursos",
+      "descriptionEs": ""
+    }
   }
 }

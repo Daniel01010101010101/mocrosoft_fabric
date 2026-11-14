@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datascience&releaseItem=e399e3d4-b624-f011-8c4d-00224804b6c3",
   "contentHash": "6d64465a13c383af70015ed9b21804a2ed259bcf1108207c933f4c7e23ce7add",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Autenticación con service principal en Semantic Link",
+      "descriptionEs": ""
+    }
   }
 }

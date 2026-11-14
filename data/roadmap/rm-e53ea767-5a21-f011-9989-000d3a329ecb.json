@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=e53ea767-5a21-f011-9989-000d3a329ecb",
   "contentHash": "c3acbf41761cec718ce7809446b38ab343759180fa879b63d0cee216653170ba",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: Modern Get Data con IA",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,7 +14,7 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=bd904fac-c7b2-f111-aaab-70a8a59cb78c",
   "contentHash": "8f90d063b41d54607decd75d1ae69e70612c967920d455506ee35691ce4977b8",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-13T22:14:33.049Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [
     {
       "at": "2026-11-13T22:14:33.049Z",
@@ -31,6 +31,11 @@
   ],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Microsoft Copilot en Power BI - Fabric",
+      "descriptionEs": ""
+    }
   }
 }

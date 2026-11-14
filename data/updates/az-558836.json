@@ -10,7 +10,7 @@
   "publishedAt": "2026-03-25T20:00:39.263Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,5 +58,16 @@
     "tags": "Features",
     "gaDate": "2026-03",
     "modified": "2026-03-25T20:00:39.2632249Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "dbbd6d817ea8a7baf04b1d3d21a9716724ad6e73a0617cf3bd259482c5881ddd",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Disponibilidad general: mirroring de Cosmos DB en Microsoft Fabric con private endpoints",
+      "summaryEs": "El mirroring de Azure Cosmos DB admite private endpoints y restricciones de red virtual, para analizar datos operacionales sin renunciar a la seguridad de red."
+    }
   }
 }

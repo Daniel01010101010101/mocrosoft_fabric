@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=7ae96023-9ddf-f111-84e8-00224809f154",
   "contentHash": "4ad7617ce415ee73db8310d0d4dffe19b18dbb1cf84feea2f80fd12453762039",
   "detectedAt": "2026-11-13T22:14:33.049Z",
-  "updatedAt": "2026-11-13T22:14:33.049Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "4ad7617ce415ee73db8310d0d4dffe19b18dbb1cf84feea2f80fd12453762039",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Crear SQL databases de Fabric desde SSMS",
+      "descriptionEs": "Crea nuevas SQL databases en Fabric con el nuevo cuadro de diálogo Create Fabric SQL Database de SQL Server Management Studio (SSMS). [Más información](https://aka.ms/ssms-release-notes)"
+    }
   }
 }

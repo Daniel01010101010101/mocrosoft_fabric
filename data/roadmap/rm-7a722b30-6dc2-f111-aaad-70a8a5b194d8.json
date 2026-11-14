@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=7a722b30-6dc2-f111-aaad-70a8a5b194d8",
   "contentHash": "476ffeea45e6cce0415e7f85d0eaf91ddd48fa5b13d6a3b303a49cba2e840743",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "476ffeea45e6cce0415e7f85d0eaf91ddd48fa5b13d6a3b303a49cba2e840743",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Dataflows: nuevo destino PostgreSQL",
+      "descriptionEs": "El destino PostgreSQL de Dataflow Gen2 pasará a disponibilidad general para publicar datos preparados en Fabric directamente en tablas de PostgreSQL con Power Query.\n* Entrega datos depurados y normalizados a PostgreSQL.\n* Simplifica cargas recurrentes mediante el refresco del dataflow, sin trabajos de exportación aparte.\n* Completa la conectividad de lectura existente para preparar datos en Fabric y devolverlos a PostgreSQL."
+    }
   }
 }

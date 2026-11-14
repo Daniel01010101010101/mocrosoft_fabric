@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -61,12 +61,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Using-Bulk-Copy-API-for-faster-ingestion-in-Fabric-Data/ba-p/5195627",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:22"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.933Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "1605b010042c7d64872cf68394654fbb2222d250653b7c6e95524b36a25c3082",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "API de copia masiva para una ingesta más rápida (versión preliminar)",
+      "summaryEs": "Bulk Copy API (versión preliminar) escribe datos directamente en las tablas de Fabric Data Warehouse desde el código de la aplicación, sin necesidad de almacenar temporalmente los archivos primero, en sustitución de las instrucciones INSERT fila por fila para mejorar el rendimiento de la ingesta. Puede usarlo a través de SqlBulkCopy para C#, SQLServerBulkCopy para Java, la utilidad bcp y herramientas como SSIS, Azure Data Factory e Informatica. Para obtener más información, consulte Ingesta de datos en el almacenamiento mediante BCP API (versión preliminar)."
+    }
   }
 }

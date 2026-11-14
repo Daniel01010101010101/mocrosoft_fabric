@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=9e6a5f0c-b7d4-ef11-8eea-0022480ad80e",
   "contentHash": "cc393c395f1f9bb86cac200a0118c0966dcc393935fd73f6fd0d7dd38eee3b4f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Deserialización con el registro de esquemas de Confluent en el conector de Eventstream",
+      "descriptionEs": ""
+    }
   }
 }

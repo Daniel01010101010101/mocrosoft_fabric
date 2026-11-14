@@ -11,7 +11,7 @@
   "publishedAt": "2026-08-24T15:00:00.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -87,9 +87,14 @@
   },
   "meta": {},
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.004Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "39cd5343e681239b1b1efc024450ae086893db1b19b94fb8a7e054cc7b3bb304",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Actualiza Dataflows Gen1 de Power BI a Dataflows Gen2 de Fabric con el asistente (Preview)",
+      "summaryEs": "El Dataflows Upgrade Wizard guía la actualización de Dataflows Gen1 a Dataflows Gen2 (CI/CD) en workspaces con capacidad de Fabric, conservando las propiedades clave del dataflow original."
+    }
   }
 }

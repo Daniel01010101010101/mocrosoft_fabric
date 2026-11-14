@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=bb19728e-ed09-ef11-9f89-000d3a33ff0b",
   "contentHash": "291703162376a7bc979ddd87b4fccb57087c6bc4563e750435fa90f4fadda144",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Las API REST de Fabric Core admiten service principal",
+      "descriptionEs": ""
+    }
   }
 }

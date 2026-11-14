@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=1dbe5728-0aa4-f011-bbd3-000d3a5b0efa",
   "contentHash": "0ff56a2f637fb046782d5070853ed23f44de253d072afa809753bb8c439d40c1",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Procesamiento en streaming y análisis en tiempo real de los feeds de cambios de bases replicadas",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=e1d73f32-b99a-f011-b4cc-000d3a5b0efa",
   "contentHash": "ba4a26b4ea277b829dd70baff885705d316bf30ef1b02abed1b4f911a5823580",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copy job: más formatos de archivo (ORC, Excel, Avro y XML)",
+      "descriptionEs": ""
+    }
   }
 }

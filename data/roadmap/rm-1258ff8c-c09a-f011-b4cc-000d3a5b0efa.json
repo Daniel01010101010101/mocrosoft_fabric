@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=1258ff8c-c09a-f011-b4cc-000d3a5b0efa",
   "contentHash": "037dd21091f43eb79d2566fde8df68699a8eecbf0e791e7567363421f05bc1da",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copy job: replicación basada en CDC desde Google BigQuery",
+      "descriptionEs": ""
+    }
   }
 }

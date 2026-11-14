@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=6920d992-86d7-ee11-9079-000d3a310f67",
   "contentHash": "264cdb4e95a63d48b0c53afb103a9f37210d2c479075e73adfed515ce629411b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Compatibilidad con Delta en la representación en OneLake de la base de datos KQL",
+      "descriptionEs": ""
+    }
   }
 }

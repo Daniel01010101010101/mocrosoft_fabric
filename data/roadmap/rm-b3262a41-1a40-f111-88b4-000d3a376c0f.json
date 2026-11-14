@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=b3262a41-1a40-f111-88b4-000d3a376c0f",
   "contentHash": "fcae1a201230d2afccdc688769c41e0613dd6a4ba439560545bb2a0ab1f2bcfe",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "fcae1a201230d2afccdc688769c41e0613dd6a4ba439560545bb2a0ab1f2bcfe",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Protección de red entrante para OneLake con reglas de instancia de recurso",
+      "descriptionEs": "Una forma sencilla y segura de limitar el acceso a OneLake solo a los recursos de Azure de tu aplicación, bloqueando el resto del acceso público, mediante reglas de instancia de recurso."
+    }
   }
 }

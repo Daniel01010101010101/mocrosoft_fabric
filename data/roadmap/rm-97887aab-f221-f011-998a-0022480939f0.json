@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=97887aab-f221-f011-998a-0022480939f0",
   "contentHash": "c6e976e1217a74ff15917dabb884caf4d3adc1504933644dc4b3df6a742a2370",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mirroring: nuevo origen Dataverse",
+      "descriptionEs": ""
+    }
   }
 }

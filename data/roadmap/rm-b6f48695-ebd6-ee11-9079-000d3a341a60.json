@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=b6f48695-ebd6-ee11-9079-000d3a341a60",
   "contentHash": "bef6b7af5bf6d9ea756db8953b571b4a048879323f3d21f52717c8fa8043486f",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Opciones de disparadores mejoradas",
+      "descriptionEs": ""
+    }
   }
 }

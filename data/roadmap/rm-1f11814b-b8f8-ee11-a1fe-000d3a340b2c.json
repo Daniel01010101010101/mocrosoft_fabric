@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=dataengineering&releaseItem=1f11814b-b8f8-ee11-a1fe-000d3a340b2c",
   "contentHash": "bfb77e3e262150ffae95f6075ab4709b3903b611cbb028b0cb97dc181fef1f4b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "VS Code para la Web: compatibilidad con depuración",
+      "descriptionEs": ""
+    }
   }
 }

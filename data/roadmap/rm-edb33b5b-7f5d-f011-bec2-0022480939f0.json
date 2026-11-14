@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datawarehouse&releaseItem=edb33b5b-7f5d-f011-bec2-0022480939f0",
   "contentHash": "a07163a8384037b4835f649ab7ac82633e872370f90a8b654a6c7dad36c93614",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "a07163a8384037b4835f649ab7ac82633e872370f90a8b654a6c7dad36c93614",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Funciones escalares definidas por el usuario (UDFs)",
+      "descriptionEs": "Las UDF escalares incorporan nuevas capacidades: INLINE = AUTO, mensajes de error mejorados, compatibilidad con funciones integradas especiales y las instrucciones CONTINUE/BREAK en UDF basadas en cálculos."
+    }
   }
 }

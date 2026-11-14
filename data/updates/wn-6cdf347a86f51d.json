@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -50,12 +50,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:8"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.930Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "312db1d770ccb269ceae8237bab476878c5c98fba1fe9e22acc894d5d00060f5",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Opciones de ALTER DATABASE SET en SQL Database",
+      "summaryEs": "ALTER DATABASE SET Las opciones de SQL Database ahora están disponibles como característica en versión preliminar. Para obtener más información, vea ALTER DATABASE SET options (Transact-SQL) para la base de datos SQL en Fabric. La compatibilidad con la intercalación y la indexación de texto completo también están disponibles en SQL Database como características en versión preliminar."
+    }
   }
 }

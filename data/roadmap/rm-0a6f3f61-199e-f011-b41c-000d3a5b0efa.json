@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=0a6f3f61-199e-f011-b41c-000d3a5b0efa",
   "contentHash": "c46e014f7027e6fdeea4d7e6e295435240e655ac8ec5f88cc5b010ab0e528ab0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Pipelines: actividad de mantenimiento de Lakehouse",
+      "descriptionEs": ""
+    }
   }
 }

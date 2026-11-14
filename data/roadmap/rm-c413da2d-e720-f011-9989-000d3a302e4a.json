@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=c413da2d-e720-f011-9989-000d3a302e4a",
   "contentHash": "5ffd2065bbc146473914725fda5be037a017ebc7e469b2bb75d22c1b279bea29",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Managed private endpoints en Eventstream para orígenes Azure Event Hubs e IoT Hub",
+      "descriptionEs": ""
+    }
   }
 }

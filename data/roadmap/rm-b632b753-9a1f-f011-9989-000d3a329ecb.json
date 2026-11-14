@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=b632b753-9a1f-f011-9989-000d3a329ecb",
   "contentHash": "af337ed251c3dca13d04335f16e0ca3c78da90a110e068f8479e2d634539b8b1",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "OneLake security: permiso ReadWrite",
+      "descriptionEs": ""
+    }
   }
 }

@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=e326538e-d31f-f111-8341-6045bd0a8ec1",
   "contentHash": "56605f03698f098cd1288697b7f3a9440bae889ad336baf6d9b558be0b820815",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "56605f03698f098cd1288697b7f3a9440bae889ad336baf6d9b558be0b820815",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Añadir al preajuste en visuales de Power BI",
+      "descriptionEs": "Toma el formato de un visual y añádelo al tema personalizado del informe para reutilizarlo en otros visuales del mismo informe o de uno nuevo."
+    }
   }
 }

@@ -10,7 +10,7 @@
   "publishedAt": "2026-08-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -53,12 +53,18 @@
     "section": "ga",
     "month": "August 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
-    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Billing-personas-for-PowerTable-within-Planning-in-Fabric-IQ/ba-p/5360168"
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Billing-personas-for-PowerTable-within-Planning-in-Fabric-IQ/ba-p/5360168",
+    "position": "ga:85"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:51.136Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "e7338f1764cfcb92ca23a7acf80c1a9fd1abe9aeab8df450eef1cba139bab04c",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Personas de facturación PowerTable (Generalmente disponibles)",
+      "summaryEs": "Las personas de facturación para PowerTable en Fabric Planning suelen estar disponibles, con facturación basada en roles para Planificadores, Partes Interesadas y Espectadores. Para más información, consulte Facturación y uso para la planificación en Fabric."
+    }
   }
 }

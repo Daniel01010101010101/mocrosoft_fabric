@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=22187e7b-a1af-f111-aaab-70a8a59cb884",
   "contentHash": "cc78aa43f50378ecc2dbdbc09a8b1a11ad6df6b539288db95fc2f16ad3feeeb3",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "cc78aa43f50378ecc2dbdbc09a8b1a11ad6df6b539288db95fc2f16ad3feeeb3",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Modo desarrollador (PBIP): recarga de cambios externos",
+      "descriptionEs": "Power BI Desktop detectará y aplicará automáticamente los cambios hechos en archivos de proyectos PBIP con herramientas externas como Visual Studio Code, sin reiniciar la aplicación."
+    }
   }
 }

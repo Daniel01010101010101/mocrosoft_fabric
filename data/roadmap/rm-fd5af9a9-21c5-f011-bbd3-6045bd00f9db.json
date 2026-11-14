@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=fd5af9a9-21c5-f011-bbd3-6045bd00f9db",
   "contentHash": "96f1907228d6ccad07463168f596312c4c724f96e7caafc16e52a8683d0c21c0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Analizador de rendimiento en la web",
+      "descriptionEs": ""
+    }
   }
 }

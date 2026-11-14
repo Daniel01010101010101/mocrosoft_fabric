@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=9cc12116-6ec2-f111-aaad-70a8a5b194d8",
   "contentHash": "86daf305f45a80d2d30f2db57c5c6d0c36fd0ee1c79562942698e781c5c7e653",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "86daf305f45a80d2d30f2db57c5c6d0c36fd0ee1c79562942698e781c5c7e653",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Dataflows: nuevo destino Documento HTML",
+      "descriptionEs": "Dataflow Gen2 podrá generar documentos HTML a partir de datos preparados en Fabric, pensados para usuarios de negocio que quieran compartir resultados fáciles de abrir en un navegador, sin una solución de informes aparte. Estará disponible en Preview."
+    }
   }
 }

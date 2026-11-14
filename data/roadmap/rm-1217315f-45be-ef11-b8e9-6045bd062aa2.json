@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=1217315f-45be-ef11-b8e9-6045bd062aa2",
   "contentHash": "7cf047595cad8c89511ca8286285dc5aa5810c521766756008a0bb84be982283",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Eventos de Fabric y Azure (disponibilidad general)",
+      "descriptionEs": ""
+    }
   }
 }

@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -60,12 +60,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/digital-twin-builder-in-microsoft-fabric-real-time-intelligence-revolutionizing-digital-twin-creation-and-management?ft=All",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:64"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.949Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "edac8a5cd44cde4162af125f581289df448489ed6552a1a6bd3790ab6d99a91d",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Generador de gemelos digitales (versión preliminar)",
+      "summaryEs": "El generador de gemelos digitales (versión preliminar) es un elemento dentro de la carga de trabajo de inteligencia en tiempo real. Los gemelos digitales crean representaciones basadas en datos y en tiempo real de entidades. Es un elemento de modelado de datos que crea representaciones digitales de entornos reales para optimizar las operaciones físicas mediante datos. Para más información, consulte ¿Qué es el generador de gemelos digitales (versión preliminar)?"
+    }
   }
 }

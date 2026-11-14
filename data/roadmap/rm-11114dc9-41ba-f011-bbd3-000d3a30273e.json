@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=11114dc9-41ba-f011-bbd3-000d3a30273e",
   "contentHash": "176e9d69248289d24b130bc970ad6f903577790a22b0329d65b24685050bb6cb",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Reordenar los workspaces abiertos en la barra de navegación",
+      "descriptionEs": ""
+    }
   }
 }

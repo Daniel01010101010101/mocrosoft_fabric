@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=4833aefd-cc53-f111-bec7-6045bd0066ad",
   "contentHash": "a3607a817c05475a29a52cdb4c19323dedfa727cd8792af9035b28ac4016fed3",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Umbrales dinámicos en las reglas de Activator",
+      "descriptionEs": ""
+    }
   }
 }

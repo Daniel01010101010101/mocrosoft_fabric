@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=e31334da-267e-f111-ab0f-6045bd00f798",
   "contentHash": "d8c6b1d13626be66f1d521a937bae1d1f431a0a483dacadc43dca43522735572",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "d8c6b1d13626be66f1d521a937bae1d1f431a0a483dacadc43dca43522735572",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Airflow: compatibilidad con Apache Airflow 3.x",
+      "descriptionEs": "Los Apache Airflow Jobs de Fabric, basados en Apache Airflow de código abierto y sin infraestructura que gestionar, se actualizan para admitir la versión 3.3 de Apache Airflow."
+    }
   }
 }

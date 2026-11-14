@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=9b42191b-fb9c-f011-b41c-000d3a5b0efa",
   "contentHash": "d6603ea308ffe24cfff6ef58a989d64f91cbd1311dc8e0d5e3865fef51be7176",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Copy job y actividades: mejor rendimiento de lectura de un único CSV grande",
+      "descriptionEs": ""
+    }
   }
 }

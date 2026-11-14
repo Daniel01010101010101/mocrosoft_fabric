@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=766c85a9-a100-f111-8406-000d3a376c0f",
   "contentHash": "cbda0fe7e5523d60607a156bf2099527f2a31d87f2304a3c7e763c8746e77061",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Ontology de Fabric IQ como origen de Operations Agent",
+      "descriptionEs": ""
+    }
   }
 }

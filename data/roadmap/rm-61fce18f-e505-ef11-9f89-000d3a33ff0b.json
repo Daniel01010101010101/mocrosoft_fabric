@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=61fce18f-e505-ef11-9f89-000d3a33ff0b",
   "contentHash": "922057b9f19c4e13ff68a4517f5cc50f25ec03ceb7ca943ad9b1930533c73b6d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Private Link a nivel de tenant",
+      "descriptionEs": ""
+    }
   }
 }

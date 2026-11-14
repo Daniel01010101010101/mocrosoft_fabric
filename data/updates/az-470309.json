@@ -10,7 +10,7 @@
   "publishedAt": "2024-11-22T20:00:49.782Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -55,5 +55,16 @@
     "tags": "Features",
     "previewDate": "2024-11",
     "modified": "2024-11-22T20:00:49.7826157Z"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "2b0e4f9cefa9bd9976c461733050b3b616d9bf375ce45ce7ab499928a3469476",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Preview pública: nuevos operadores de grafos en Kusto",
+      "summaryEs": "Kusto incorpora graph-shortest-paths, para encontrar los caminos más cortos entre nodos, y graph-mark-components, para identificar componentes conectados en un grafo."
+    }
   }
 }

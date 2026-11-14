@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=11e6c855-b090-ef11-ac21-002248098a98",
   "contentHash": "6bcaf4c9788323322f93cfd2a3bc64224ee13e3cbc47a1d330aedbffeec02568",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: exportar resultados de consultas de Power Query en Power BI Desktop",
+      "descriptionEs": ""
+    }
   }
 }

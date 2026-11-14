@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=61963fc1-c6f0-f011-8407-000d3a3ac4a5",
   "contentHash": "d7db19ecc7a624b7ecde23a4a40566290bef76efc309e4b69af4ecd464f02db4",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "d7db19ecc7a624b7ecde23a4a40566290bef76efc309e4b69af4ecd464f02db4",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Protege los Eventstreams de Fabric con claves administradas por el cliente",
+      "descriptionEs": "Las claves administradas por el cliente (CMK) del workspace se aplicarán a los Eventstreams para cifrar los datos en reposo con Azure Key Vault, incluida la rotación y revocación de claves."
+    }
   }
 }

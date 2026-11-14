@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=13f1b373-04c2-f011-bbd3-000d3a5b0efa",
   "contentHash": "3ce98ed096111d9ec59f0747ef0782e1a656f9a25649a3c9ada6153f9c593781",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Nuevo visual de tarjeta",
+      "descriptionEs": ""
+    }
   }
 }

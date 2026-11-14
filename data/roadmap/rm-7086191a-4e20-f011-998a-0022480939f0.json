@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=7086191a-4e20-f011-998a-0022480939f0",
   "contentHash": "cf78b37e3d77f5fd55cfcf66b9eccb39bcddad71a80fc530a77ff88104ccd5d0",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Directivas de prevención de pérdida de datos de Purview para datos estructurados en OneLake",
+      "descriptionEs": ""
+    }
   }
 }

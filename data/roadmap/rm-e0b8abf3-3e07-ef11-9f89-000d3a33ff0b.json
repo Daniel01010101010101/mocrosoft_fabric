@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=e0b8abf3-3e07-ef11-9f89-000d3a33ff0b",
   "contentHash": "ba58dc129bca770ef67b52683f1c6e2a510c457906c05f4f19abd92e54e18153",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Suscripciones dinámicas por destinatario",
+      "descriptionEs": ""
+    }
   }
 }

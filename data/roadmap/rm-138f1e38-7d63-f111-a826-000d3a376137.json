@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=138f1e38-7d63-f111-a826-000d3a376137",
   "contentHash": "14ea44d81451fe39757d01954c902bfe7c7f8fc9872af2fe9ac898f9467538ed",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "14ea44d81451fe39757d01954c902bfe7c7f8fc9872af2fe9ac898f9467538ed",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Airflow: refresco de Dataflow Gen2",
+      "descriptionEs": "Con el Apache Airflow Job de Fabric podrás orquestar tus procesos y, con un proveedor integrado de Microsoft, lanzar refrescos de Dataflows desde tus DAG de Airflow."
+    }
   }
 }

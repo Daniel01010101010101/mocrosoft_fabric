@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=3253d652-cf9c-f111-b8db-6045bd02b37f",
   "contentHash": "62ffdc111c64524b7f64bf18cacc20099a272cc46b404c66e755176e72cce8ae",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "62ffdc111c64524b7f64bf18cacc20099a272cc46b404c66e755176e72cce8ae",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Agente de IA para empezar con Eventhouse",
+      "descriptionEs": "Una experiencia de Copilot basada en agentes para crear y modelar un Eventhouse, conectarlo a Eventstream o crear shortcuts de OneLake mediante lenguaje natural."
+    }
   }
 }

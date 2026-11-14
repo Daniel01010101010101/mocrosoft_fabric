@@ -14,10 +14,17 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=24b8f3c2-c39d-f011-b41c-6045bd00f9db",
   "contentHash": "0ad57c4c9e57e7d633fa686a073969dfd8c5e312e337d971ca521588ccb30e6d",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
-    "status": "pending",
-    "attempts": 0
+    "status": "done",
+    "sourceHash": "0ad57c4c9e57e7d633fa686a073969dfd8c5e312e337d971ca521588ccb30e6d",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "nameEs": "Pipelines: Workspace Identity en las actividades de pipeline",
+      "descriptionEs": "Podrás usar la autenticación con Workspace Identity (WI) de Fabric en las actividades de los pipelines para ejecutar procesos automatizados con identidades seguras."
+    }
   }
 }

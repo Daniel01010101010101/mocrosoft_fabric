@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=45a0a782-4c92-ef11-ac21-6045bd062aa2",
   "contentHash": "82b0d6200a9aea72935720d95815258df3539b07edcaa3d360ce3289277ac16a",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Compatibilidad con ALM en Org Apps",
+      "descriptionEs": ""
+    }
   }
 }

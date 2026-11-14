@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=powerbi&releaseItem=823bcd14-04c2-f011-bbd3-000d3a5b0efa",
   "contentHash": "8bef178b5b994ac6bdcde2c3674a1766bc68322f11e953d700b11940dbe7dd02",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Mejoras del visual de imagen",
+      "descriptionEs": ""
+    }
   }
 }

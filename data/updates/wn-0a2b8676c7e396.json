@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,12 +57,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/microsoft-fabric-november-2023-update/#post-5122-_Toc1381410242",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:107"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.916Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "db3c30697496602991e160f12930f2dc2d87f4baf7b89a0882f553801ad544e5",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Compatibilidad de Lakehouse con canalizaciones de integración e implementación de Git (versión preliminar)",
+      "summaryEs": "El Lakehouse ahora se integra con las funcionalidades de administración del ciclo de vida en Microsoft Fabric, lo que proporciona una colaboración estandarizada entre todos los miembros del equipo de desarrollo durante toda la vida del producto. Las canalizaciones de integración y despliegue de Lakehouse git facilitan un proceso eficaz de versionado y lanzamiento de productos al entregar continuamente funciones y correcciones de errores en múltiples entornos."
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=2ffb8c93-29bb-f011-bbd3-6045bd00f9db",
   "contentHash": "104e6b41e9cd79b3129ea7472dc17d3cdb62025e8731817cf4017a010eae9ff7",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Fabric Local MCP (disponibilidad general)",
+      "descriptionEs": ""
+    }
   }
 }

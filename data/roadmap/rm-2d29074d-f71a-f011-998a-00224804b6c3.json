@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=sqldatabase&releaseItem=2d29074d-f71a-f011-998a-00224804b6c3",
   "contentHash": "b6bf0d3ee4da8dc3313ddf9eaf586a4f2758e2732b031c521705c72591ceef24",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Crear bases de datos con todas las intercalaciones de Azure SQL Database",
+      "descriptionEs": ""
+    }
   }
 }

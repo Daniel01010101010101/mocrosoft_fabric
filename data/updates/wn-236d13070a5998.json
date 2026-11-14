@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,12 +56,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:124"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.930Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "e88f08b91c31200e51c09440661a4502ae0e2adddbd723df99ad6add86ba05f7",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Mirroring para Azure Database for MySQL (versión preliminar)",
+      "summaryEs": "Mirroring en Fabric proporciona una experiencia sencilla para evitar procesos ETL complejos (extracción, transformación, carga) e integrar perfectamente los datos de Azure Database for MySQL existentes con el resto de los datos en Fabric. Para obtener más información, consulte Mirroring Azure Database for MySQL."
+    }
   }
 }

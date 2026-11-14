@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=ddb75e86-23a6-f011-bbd3-000d3a5b0efa",
   "contentHash": "f9a700000e689752ef905d11bd055d813a141d9cf5b0575d921ac9b2cf8f7535",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Conector de Eventstream: MongoDB CDC",
+      "descriptionEs": ""
+    }
   }
 }

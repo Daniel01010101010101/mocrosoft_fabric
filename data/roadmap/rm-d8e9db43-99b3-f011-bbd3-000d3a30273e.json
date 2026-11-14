@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=datafactory&releaseItem=d8e9db43-99b3-f011-bbd3-000d3a30273e",
   "contentHash": "b293f62e2fc94c267d9e306f6fcb5f80148bb796517b2de382559e380b212010",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Dataflows: referencias relativas a elementos del «workspace actual»",
+      "descriptionEs": ""
+    }
   }
 }

@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -55,12 +55,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:172"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.909Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "c61b7a4032ed7852b48b1e47acd1cf01f32e6da5c9303b01c28fdb1cd30291c5",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Soporte para bases de datos SQL para enlaces privados (Vista previa)",
+      "summaryEs": "Puedes usar enlaces privados a nivel de tenant y espacio de trabajo para proporcionar acceso seguro al tráfico de datos en Microsoft Fabric, incluyendo la base de datos SQL. Para bases de datos SQL, los enlaces privados a nivel de espacio de trabajo están en vista previa. Para más información, consulte Configurar y usar enlaces privados."
+    }
   }
 }

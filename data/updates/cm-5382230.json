@@ -11,7 +11,7 @@
   "publishedAt": "2026-11-03T18:00:00.000Z",
   "datePrecision": "exact",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -60,9 +60,14 @@
   },
   "meta": {},
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.888Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "69afe9f0ff13e4477d1d863a09103efc9ff26a61a50f155c331e1d615c1f27b4",
+    "model": "claude-traduccion-guardada",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Contexto para los eventos en streaming: uniones con datos de referencia de tablas Delta de OneLake en Fabric Eventstream",
+      "summaryEs": "Eventstream enriquece eventos en tiempo real uniéndolos con tablas Delta de OneLake, para alertas más relevantes y decisiones más rápidas (por ejemplo, en logística de cadena de frío)."
+    }
   }
 }

@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=3ed3d63a-6eb8-f011-bbd3-00224808fcf0",
   "contentHash": "7da72df26c902513315989c2dafa7f8255e13fa114cefb81faa1109a07ba2f8b",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Surge Protection V2 (a nivel de workspace)",
+      "descriptionEs": ""
+    }
   }
 }

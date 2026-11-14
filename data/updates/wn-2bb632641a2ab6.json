@@ -9,7 +9,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -52,12 +52,18 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/easily-load-fabric-onelake-data-into-excel-onelake-catalog-and-modern-get-data-are-integrated-into-excel-for-windows-preview?ft=All",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:109"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.967Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "366741fc3cb755c66f09ae3689f9fb3c1021085e1413655734ba0dc989bea7d9",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Cargar datos de Fabric OneLake en Excel",
+      "summaryEs": "Cargue fácilmente datos de Fabric OneLake en Excel con el catálogo integrado de OneLake y la moderna experiencia de obtener datos (versión preliminar). Para obtener más información y pasos para empezar, consulte el catálogo de OneLake y Obtenga Datos están integrados en Excel para Windows."
+    }
   }
 }

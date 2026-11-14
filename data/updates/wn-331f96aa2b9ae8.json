@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -51,12 +51,18 @@
   "meta": {
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
-    "backfill": "true"
+    "backfill": "true",
+    "position": "preview:174"
   },
   "tr": {
-    "status": "pending",
-    "attempts": 1,
-    "lastAttemptAt": "2026-11-14T04:25:50.967Z",
-    "lastError": "Unexpected token 'O', \"OK\r\n\" is not valid JSON"
+    "status": "done",
+    "sourceHash": "8c748117f873229373a05b9e96514d6d80fd2f80c70a19c68e6bd8cf3149bf36",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Viaje en el tiempo mediante el punto de conexión de SQL Analytics (versión preliminar)",
+      "summaryEs": "Time Travel mediante el punto de conexión de análisis SQL (versión preliminar) amplía la experiencia de viaje en el tiempo de Fabric Data Warehouse al punto de conexión de análisis SQL para que pueda consultar los datos de Lakehouse exactamente tal y como estaban en cualquier momento anterior al agregar OPTION (FOR TIMESTAMP AS OF '...') una sola vez en la instrucción T-SQL."
+    }
   }
 }

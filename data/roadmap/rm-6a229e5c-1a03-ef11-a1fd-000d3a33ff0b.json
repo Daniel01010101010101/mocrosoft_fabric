@@ -14,10 +14,15 @@
   "url": "https://roadmap.fabric.microsoft.com/?product=conversationalanalytics&releaseItem=6a229e5c-1a03-ef11-a1fd-000d3a33ff0b",
   "contentHash": "821c26a406ac04a30e751937e67b80dd557c74028eafe5decc06cacae3c4c5d8",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-12T23:36:30.708Z",
+  "updatedAt": "2026-11-14T04:42:26.431Z",
   "history": [],
   "ai": {
     "status": "pending",
-    "attempts": 0
+    "attempts": 0,
+    "model": "claude-traduccion-guardada",
+    "result": {
+      "nameEs": "Operaciones con IA y poco código en Data Wrangler (Preview pública)",
+      "descriptionEs": ""
+    }
   }
 }
