@@ -1,0 +1,49 @@
+{
+  "id": "cm-5420043",
+  "kind": "blog",
+  "source": "fabric-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-Influencers-Spotlight-October-2026/ba-p/5420043",
+  "title": "Fabric Influencers Spotlight: October 2026",
+  "author": "slindsay",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-15T22:27:38.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-15T23:31:14.980Z",
+  "updatedAt": "2026-11-15T23:31:14.980Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The October Fabric Influencers Spotlight brings together 46 posts, videos and tutorials from Microsoft MVPs, Fabric Super Users and community contributors, many of them inspired by the announcements at FabCon Barcelona. This month opens with a special look at Fabric Apps and Fabric IQ. You'll find hands-on write-back and forecasting apps, a first look at building with the Rayfin CLI, and practical guidance on making data agents and semantic models secure, governed and ready for AI. After that, the community covers the full platform: deployment plans and CI/CD, Fabric policies and workspace architecture, Spark performance, Direct Lake, Real-Time Intelligence with Fabric Maps, and Power BI modeling techniques, plus FabCon recaps and a free DP-700 study course.",
+    "html": "<p>The October Fabric Influencers Spotlight brings together 46 posts, videos and tutorials from Microsoft MVPs, Fabric Super Users and community contributors, many of them inspired by the announcements at FabCon Barcelona. This month opens with a special look at Fabric Apps and Fabric IQ. You'll find hands-on write-back and forecasting apps, a first look at building with the Rayfin CLI, and practical guidance on making data agents and semantic models secure, governed and ready for AI. After that, the community covers the full platform: deployment plans and CI/CD, Fabric policies and workspace architecture, Spark performance, Direct Lake, Real-Time Intelligence with Fabric Maps, and Power BI modeling techniques, plus FabCon recaps and a free DP-700 study course.</p>",
+    "excerpt": "The October Fabric Influencers Spotlight brings together 46 posts, videos and tutorials from Microsoft MVPs, Fabric Super Users and community contributors, many of them inspired by the announcements at FabCon Barcelona. This month opens with a special look at Fabric Apps and Fabric IQ. You'll find hands-on write-back…",
+    "images": [],
+    "codeBlocks": [],
+    "links": []
+  },
+  "contentHash": "1303721824031386f9ae1c571d2e83aa5871e84123bd3197fc9ea14681b8cd8a",
+  "categories": [
+    "copilot-ai"
+  ],
+  "primaryCategory": "copilot-ai",
+  "type": "announcement",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 45,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "data-scientists",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}
