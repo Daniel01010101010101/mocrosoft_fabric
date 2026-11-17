@@ -10,7 +10,7 @@
   "publishedAt": "2026-06-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -63,11 +63,11 @@
     "status": "done",
     "sourceHash": "a2d4d4ca6fe2d4fde861b3196c1b685b9b9f23550b80130062b379689a51406c",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Compatibilidad con CI/CD para el punto de conexión de SQL Analytics (versión preliminar)",
-      "summaryEs": "Compatibilidad con CI/CD para el punto de conexión de análisis de SQL (versión preliminar) le permite administrar las definiciones del punto de conexión de análisis de SQL como proyectos de base de datos DacFx en Git, junto con otros elementos de Fabric, e implementar cambios incrementales de esquema mediante Deployment Pipelines de Fabric. Para más información, véase Control de código fuente (versión preliminar)."
+      "titleEs": "Soporte CI/CD para endpoint de análisis SQL (Vista previa)",
+      "summaryEs": "El soporte CI/CD para endpoint de analítica SQL (Preview) te permite gestionar definiciones de endpoints de SQL Analytics como proyectos de base de datos DacFx en Git junto con otros elementos de Fabric y desplegar cambios incrementales de esquema a través de las canalizaciones de despliegue de Fabric. Para más información, véase Control de código fuente (versión preliminar)."
     }
   }
 }

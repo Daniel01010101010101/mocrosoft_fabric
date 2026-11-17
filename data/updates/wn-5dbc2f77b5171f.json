@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,17 +58,17 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/execute-power-query-programmatically-in-microsoft-fabric?ft=All",
     "backfill": "true",
-    "position": "preview:66"
+    "position": "preview:65"
   },
   "tr": {
     "status": "done",
     "sourceHash": "21e8008f16ab74774035e4ab63f7c779b0fff14cb1fb303448bf2715f2bdaf85",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Evaluar Power Query de forma programática (versión preliminar)",
-      "summaryEs": "Evaluate Power Query mediante programación en Microsoft Fabric (versión preliminar) introduce una API REST pública para ejecutar scripts Power Query M mediante programación, permitiendo la automatización, integración con Spark, canalizaciones y acceso a más de 100 orígenes de datos con un tiempo de espera de 90 segundos para las transformaciones. Para obtener más información, consulte Execute Query API Reference (Referencia de la API de ejecución de consultas)."
+      "titleEs": "Evaluar Power Query programáticamente (vista previa)",
+      "summaryEs": "Evaluar Power Query programáticamente en Microsoft Fabric (Vista previa) introduce una API pública REST para ejecutar scripts Power Query M de forma programática, permitiendo automatización, integración con Spark y canales, y acceso a 100+ fuentes de datos con un tiempo de espera de 90 segundos para transformaciones. Para obtener más información, consulte Execute Query API Reference (Referencia de la API de ejecución de consultas)."
     }
   }
 }

@@ -9,7 +9,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -51,17 +51,17 @@
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146",
-    "position": "ga:22"
+    "position": "ga:24"
   },
   "tr": {
     "status": "done",
     "sourceHash": "bd5a2266bf9a8152c2674b61efc4743ba9609bfafb47ec1bf99521d479eb58c2",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "IntuigenceAI para Fabric (disponibilidad general)",
-      "summaryEs": "IntuigenceAI para Fabric convierte documentos industriales y registros en un grafo de conocimiento consultable en OneLake."
+      "titleEs": "IntuigenceAI para Fabric (Disponible en general)",
+      "summaryEs": "IntuigenceAI para Fabric convierte documentos y registros industriales en un grafo de conocimiento consultable en OneLake."
     }
   }
 }

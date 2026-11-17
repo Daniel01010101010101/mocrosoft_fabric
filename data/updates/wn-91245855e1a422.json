@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,17 +57,17 @@
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_157",
-    "position": "ga:12"
+    "position": "ga:14"
   },
   "tr": {
     "status": "done",
     "sourceHash": "ce24bea70c8900e7c88a5c931739efbe8caf05d7507e9400ac6597e6d3e5a81a",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
       "titleEs": "Descarga de diagnósticos de flujo de datos (Disponible en general)",
-      "summaryEs": "La descarga de diagnósticos de Dataflow proporciona registros estructurados de ejecución para la resolución de problemas y el soporte. Para más información, véase Monitor Dataflow Gen2."
+      "summaryEs": "La descarga de diagnósticos de flujo de datos proporciona registros estructurados de ejecución para la resolución de problemas y el soporte. Para más información, véase Monitor Dataflow Gen2."
     }
   }
 }

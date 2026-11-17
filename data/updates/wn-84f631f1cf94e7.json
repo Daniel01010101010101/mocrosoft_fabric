@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -59,16 +59,16 @@
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Get-tenant-wide-visibility-into-workspace-networking-policies/ba-p/5361690",
-    "position": "ga:72"
+    "position": "ga:74"
   },
   "tr": {
     "status": "done",
     "sourceHash": "394dee2a7af0c57da029eca3bba2817d2a2203fb5eef99cd8426289db74dbefe",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Políticas de comunicación de red de Fabric: API de administración (disponible de forma general)",
+      "titleEs": "API de administración de políticas de comunicación de red de Fabric (disponibilidad general)",
       "summaryEs": "La API de Administración de Políticas de Comunicación de Redes de Listas ofrece una vista paginada a nivel de inquilino de las políticas de red entrante y saliente de espacios de trabajo. Para más información, consulte Políticas de comunicación de red."
     }
   }

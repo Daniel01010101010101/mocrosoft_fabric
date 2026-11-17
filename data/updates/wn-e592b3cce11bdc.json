@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,17 +57,17 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/zero-copy-access-to-onelake-data-in-azure-databricks-preview?ft=All",
     "backfill": "true",
-    "position": "preview:193"
+    "position": "preview:191"
   },
   "tr": {
     "status": "done",
     "sourceHash": "1b271112ce4c73717542c07f7dec8ecf219ea55b85d6e3af19cdce6ca8b7d7ab",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Acceso de copia cero a datos de OneLake en Azure Databricks (versión preliminar)",
-      "summaryEs": "Federación de catálogo de OneLake en Azure Databricks (Vista previa) permite a Unity Catalog consultar los datos de Fabric almacenados en OneLake sin copiarlos, manteniendo OneLake como la fuente de verdad al permitir que Databricks analice tablas mediante metadatos sincronizados y acceso a datos de copia cero. Para obtener más información, consulte Habilitar la federación del catálogo de OneLake."
+      "titleEs": "Acceso sin copia cero a datos de OneLake en Azure Databricks (Vista previa)",
+      "summaryEs": "La federación de catálogos OneLake en Azure Databricks (Preview) permite a Unity Catalog consultar datos Fabric almacenados en OneLake sin copiar, manteniendo OneLake como fuente de verdad mientras permite a Databricks computar analizar tablas mediante metadatos sincronizados y acceso a datos sin copias. Para obtener más información, consulte Habilitar la federación del catálogo de OneLake."
     }
   }
 }

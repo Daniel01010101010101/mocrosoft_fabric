@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,16 +56,16 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "backfill": "true",
-    "position": "preview:58"
+    "position": "preview:57"
   },
   "tr": {
     "status": "done",
     "sourceHash": "7535984f097fbc514a2d1b31cffc66485a03a4201eceafa2ae830b85d9b02abc",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Asistente de migración de almacenes de datos para Teradata (Vista previa)",
+      "titleEs": "Data Warehouse Migration Assistant para Teradata (Vista previa)",
       "summaryEs": "Comienza a planificar la migración de Teradata a Fabric Data Warehouse (vista previa) con el Asistente para migración de Fabric para Data Warehouse."
     }
   }

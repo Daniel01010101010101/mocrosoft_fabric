@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -49,17 +49,17 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "backfill": "true",
-    "position": "preview:147"
+    "position": "preview:146"
   },
   "tr": {
     "status": "done",
     "sourceHash": "ddec3252f5b7630597254724f5cf9662fab7714fa5f4ab36c2bb12f7f3da805d",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Actualización optimizada para actualizaciones y eliminaciones de vistas materializadas de lago (Vista previa)",
-      "summaryEs": "La actualización óptima para actualizaciones y eliminaciones permite que las vistas materializadas de los lagos procesen las filas de código fuente cambiadas y eliminadas de forma incremental. Los consejos de actualización identifican filas únicas para que Fabric pueda evitar una actualización completa cuando cambien los datos de origen soportados."
+      "titleEs": "Actualización óptima para actualizaciones y eliminaciones de vistas materializadas de lago (Vista previa)",
+      "summaryEs": "La actualización óptima para actualizaciones y eliminaciones permite que las vistas materializadas del lago procesen de forma incremental las filas de origen modificadas y eliminadas. Los consejos de actualización identifican filas únicas para que Fabric pueda evitar una actualización completa cuando cambien los datos de origen soportados."
     }
   }
 }

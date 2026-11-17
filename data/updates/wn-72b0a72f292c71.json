@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -51,16 +51,16 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "backfill": "true",
-    "position": "preview:150"
+    "position": "preview:149"
   },
   "tr": {
     "status": "done",
     "sourceHash": "d1d4bf78a3a3741bbbf35206d2560c1e976c2e093300dbb04f10befa312e8cf1",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Proceso con particiones para Dataflow Gen2 (versión preliminar)",
+      "titleEs": "Computación particionada para Dataflow Gen2 (Vista previa)",
       "summaryEs": "El proceso con particiones es una funcionalidad del motor de Dataflow Gen2 que permite que partes de la lógica de flujo de datos se ejecuten en paralelo, lo que reduce el tiempo para completar sus evaluaciones. Para más información, consulte Proceso con particiones en Dataflow Gen2."
     }
   }

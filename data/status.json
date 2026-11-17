@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-11-17T19:53:04.407Z",
+  "generatedAt": "2026-11-17T23:40:38.960Z",
   "lastRun": {
-    "id": "run-20261117195256",
+    "id": "run-20261117234026",
     "trigger": "schedule",
-    "startedAt": "2026-11-17T19:52:56.332Z",
-    "finishedAt": "2026-11-17T19:53:04.405Z",
-    "durationMs": 8073,
+    "startedAt": "2026-11-17T23:40:26.273Z",
+    "finishedAt": "2026-11-17T23:40:38.958Z",
+    "durationMs": 12685,
     "status": "success",
     "sources": [
       {
         "source": "fabric-blog",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 1129,
+        "durationMs": 1007,
         "fetched": 20,
-        "created": 8,
-        "updated": 0,
-        "unchanged": 12,
+        "created": 0,
+        "updated": 2,
+        "unchanged": 18,
         "rejected": 0
       },
       {
         "source": "powerbi-blog",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 1120,
+        "durationMs": 1019,
         "fetched": 20,
-        "created": 2,
-        "updated": 0,
-        "unchanged": 18,
+        "created": 0,
+        "updated": 1,
+        "unchanged": 19,
         "rejected": 0
       },
       {
         "source": "learn-whats-new",
-        "status": "not-modified",
+        "status": "ok",
         "attempts": 1,
-        "durationMs": 410,
-        "fetched": 0,
-        "created": 0,
-        "updated": 0,
-        "unchanged": 0,
+        "durationMs": 608,
+        "fetched": 299,
+        "created": 4,
+        "updated": 229,
+        "unchanged": 66,
         "rejected": 0
       },
       {
         "source": "azure-updates",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 612,
-        "fetched": 41,
-        "created": 0,
+        "durationMs": 3991,
+        "fetched": 42,
+        "created": 1,
         "updated": 0,
         "unchanged": 41,
         "rejected": 0
@@ -56,11 +56,11 @@
         "source": "fabric-roadmap",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 4082,
+        "durationMs": 4720,
         "fetched": 1132,
         "created": 0,
-        "updated": 3,
-        "unchanged": 1129,
+        "updated": 0,
+        "unchanged": 1132,
         "rejected": 0
       }
     ],
@@ -74,16 +74,16 @@
       "translated": 0,
       "requests": 0,
       "roadmapTranslated": 0,
-      "pendingUpdates": 391,
+      "pendingUpdates": 396,
       "pendingRoadmap": 963,
       "inputTokens": 0,
       "outputTokens": 0
     },
     "totals": {
-      "newUpdates": 10,
-      "updatedUpdates": 0,
+      "newUpdates": 5,
+      "updatedUpdates": 232,
       "newRoadmap": 0,
-      "changedRoadmap": 3,
+      "changedRoadmap": 0,
       "duplicatesLinked": 0
     },
     "issues": [
@@ -91,25 +91,25 @@
         "level": "warning",
         "stage": "config",
         "message": "Análisis con IA pendiente: falta configurar el secreto ANTHROPIC_API_KEY. Mientras tanto se usan las traducciones oficiales de Microsoft Learn y las traducciones ya guardadas; el resto se traducirá automáticamente en cuanto se configure la clave.",
-        "at": "2026-11-17T19:53:04.373Z"
+        "at": "2026-11-17T23:40:38.835Z"
       }
     ],
-    "workflowRunUrl": "https://github.com/Daniel01010101010101/mocrosoft_fabric/actions/runs/44163284191"
+    "workflowRunUrl": "https://github.com/Daniel01010101010101/mocrosoft_fabric/actions/runs/44201376106"
   },
-  "lastSuccessfulRunAt": "2026-11-17T19:53:04.405Z",
-  "lastSuccessfulRunId": "run-20261117195256",
-  "lastAttemptAt": "2026-11-17T19:52:56.332Z",
+  "lastSuccessfulRunAt": "2026-11-17T23:40:38.958Z",
+  "lastSuccessfulRunId": "run-20261117234026",
+  "lastAttemptAt": "2026-11-17T23:40:26.273Z",
   "consecutiveFailures": 0,
   "health": "ok",
   "counts": {
-    "updates": 391,
+    "updates": 396,
     "roadmap": 1132,
     "aiDoneUpdates": 0,
-    "aiPendingUpdates": 391,
+    "aiPendingUpdates": 396,
     "aiErrorUpdates": 0,
     "aiDoneRoadmap": 169,
     "aiPendingRoadmap": 963,
-    "translatedUpdates": 380
+    "translatedUpdates": 384
   },
   "ai": {
     "configured": false,

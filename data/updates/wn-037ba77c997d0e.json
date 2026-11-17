@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -61,11 +61,11 @@
     "status": "done",
     "sourceHash": "dcf4725326fb3ab6f8c404a2b555f85dcc6e84409157adf08b86ca850017f029",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
       "titleEs": "Commit Git a nivel de archivo (Vista previa)",
-      "summaryEs": "Commit de Git a nivel de archivo (versión preliminar) realiza un commit de los archivos seleccionados de un elemento de Fabric compatible mientras los archivos inacabados permanecen en el espacio de trabajo. Para más información, consulte Comparar y confirmar elementos de Fabric."
+      "summaryEs": "El commit de Git a nivel de archivo (Preview) realiza un commit de los archivos seleccionados de un elemento Fabric compatible mientras los archivos no terminados permanecen en el espacio de trabajo. Para más información, consulte Comparar y confirmar elementos de Fabric."
     }
   }
 }

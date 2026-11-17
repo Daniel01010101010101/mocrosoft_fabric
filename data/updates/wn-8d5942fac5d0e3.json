@@ -9,7 +9,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -54,11 +54,11 @@
     "status": "done",
     "sourceHash": "afb79663cf36128e490f8d8289dd373564511c9d1fb5ca03f7cfd9daa288a29a",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Gestión de reglas del activador (Vista previa)",
-      "summaryEs": "La gestión de reglas Activator (Preview) proporciona una vista central de Real-Time Hub para las reglas creadas en las experiencias de Fabric."
+      "titleEs": "Gestión de reglas del activador (vista previa)",
+      "summaryEs": "La gestión de reglas de Activator (Versión preliminar) proporciona una vista central de Real-Time Hub para las reglas creadas en las experiencias de Fabric."
     }
   }
 }

@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -60,16 +60,16 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/introducing-new-openai-plugins-for-eventhouse-preview?ft=All",
     "backfill": "true",
-    "position": "preview:144"
+    "position": "preview:143"
   },
   "tr": {
     "status": "done",
     "sourceHash": "e1dbb280e9d78b08c21e532f985e886ffead2a8297e41b7813fc69e6d8b00204",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Complementos de OpenAI para Eventhouse (versión preliminar)",
+      "titleEs": "Plugins de OpenAI para Eventhouse (Vista previa)",
       "summaryEs": "Ahora puede usar dos potentes complementos de IA para Eventhouse: AI Embed Text Plugin y AI Chat Completion Prompt Plugin. Conecte datos de Eventhouse a aplicaciones con tecnología openAI para escenarios avanzados de análisis e inteligencia artificial. Para obtener más información, consulte ai_embed_text (versión preliminar) y ai_chat_completion (versión preliminar)."
     }
   }

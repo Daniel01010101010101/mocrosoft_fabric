@@ -9,7 +9,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,16 +56,16 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/fabric-september-2024-monthly-update?ft=All#post-14247-_Toc177485830",
     "backfill": "true",
-    "position": "preview:61"
+    "position": "preview:60"
   },
   "tr": {
     "status": "done",
     "sourceHash": "599f6de3c3461e6c92e020d0e62bff4512ed39306740f3311e255890aa5ebc4e",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Mapeo de columnas Delta en el endpoint de análisis SQL",
+      "titleEs": "Asignación de columnas Delta en el punto de conexión de análisis de SQL",
       "summaryEs": "El punto de conexión de análisis SQL ahora admite Tablas Delta con la asignación de columnas habilitada. Para más información, consulte Asignación de columnas delta. Esta característica está actualmente en versión preliminar."
     }
   }

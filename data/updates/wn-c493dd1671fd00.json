@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,17 +57,17 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Planning-in-Microsoft-Fabric-From-insight-to-action/ba-p/5369552",
     "backfill": "true",
-    "position": "preview:132"
+    "position": "preview:131"
   },
   "tr": {
     "status": "done",
     "sourceHash": "0ed6d3763f272aa526f7e638ebdc2ea10728713518b5b74c95ceab0ea3bf477b",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Motor de planificación nativo (Vista previa)",
-      "summaryEs": "El Motor de Planificación Nativa (Preview) escala los modelos de planificación a decenas de millones de celdas y recalcula valores dependientes a medida que cambian las entradas. Para obtener más información, consulte Planning en Fabric."
+      "titleEs": "Motor de planificación nativo (vista previa)",
+      "summaryEs": "Native Planning Engine (Preview) escala los modelos de planificación a decenas de millones de celdas y recalcula valores dependientes a medida que cambian las entradas. Para obtener más información, consulte Planning en Fabric."
     }
   }
 }

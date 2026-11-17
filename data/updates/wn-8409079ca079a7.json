@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -61,11 +61,11 @@
     "status": "done",
     "sourceHash": "2aa263b7b52864b85c6472ed12abdb77e0b7db30c197fa5c562a7b0d42b3852b",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Mensajes largos de Eventstream y Eventhouse (Vista previa)",
-      "summaryEs": "El soporte de mensajes grandes (Preview) ingiere cargas útiles de eventos más ricas a través de Eventstream y Eventhouse. Para más información, consulte Introducción a Eventstream."
+      "titleEs": "Mensajes grandes de Eventstream y Eventhouse (vista previa)",
+      "summaryEs": "El soporte de mensajes grandes (Preview) ingiere cargas útiles de eventos más completas a través de Eventstream y Eventhouse. Para más información, consulte Introducción a Eventstream."
     }
   }
 }

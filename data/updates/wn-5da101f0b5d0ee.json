@@ -10,7 +10,7 @@
   "publishedAt": "2026-07-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -61,17 +61,17 @@
     "month": "July 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Job-concurrency-and-queue-monitoring-for-Spark-now-with-a/ba-p/5323779",
-    "position": "ga:98"
+    "position": "ga:100"
   },
   "tr": {
     "status": "done",
     "sourceHash": "2004f9459dae5d182903a07ebb84d5e9d05e18f5265dac8e78a66cb3a7d2564a",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Monitorización de trabajos de Spark (Disponibilidad general)",
-      "summaryEs": "La concurrencia de trabajos y la monitorización de colas (Generalmente Disponible) añaden una vista a nivel de capacidad para que puedas comparar el uso de recursos de Spark entre espacios de trabajo, identificar contención y ajustar límites. Para más información, consulte Concurrencia de trabajos y monitorización de colas y Límites y colas de concurrencia en Apache Spark for Fabric."
+      "titleEs": "Monitorización de trabajos de Spark (Disponible en general)",
+      "summaryEs": "La monitorización de concurrencia de trabajos y colas (Disponible en general) añade una vista a nivel de capacidad para que puedas comparar el uso de recursos de Spark entre espacios de trabajo, identificar contenciones y ajustar límites. Para más información, consulte Concurrencia de trabajos y monitorización de colas y Límites y colas de concurrencia en Apache Spark for Fabric."
     }
   }
 }

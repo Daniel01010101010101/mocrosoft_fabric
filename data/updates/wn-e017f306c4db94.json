@@ -9,7 +9,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -53,16 +53,16 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/on-premises-data-gateway-june-2025-release?ft=All",
     "backfill": "true",
-    "position": "preview:86"
+    "position": "preview:85"
   },
   "tr": {
     "status": "done",
     "sourceHash": "75e20b18e418e094720c96b199ecdab45dd5b62fc7b91fe45acce1494d1adbd2",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Acción de la tabla upsert de Fabric Data Factory en el Lakehouse Connector (vista previa)",
+      "titleEs": "Acción de la tabla Upsert de Fabric Data Factory en el Lakehouse Connector (vista previa)",
       "summaryEs": "La acción de tabla Upsert (versión preliminar) del conector de Lakehouse está en versión preliminar."
     }
   }

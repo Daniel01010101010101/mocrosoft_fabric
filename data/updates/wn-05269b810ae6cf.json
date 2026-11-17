@@ -1,0 +1,65 @@
+{
+  "id": "wn-05269b810ae6cf",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/database/hub/overview",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/database/hub/overview",
+  "title": "Database Hub",
+  "originalLanguage": "en",
+  "languageConfidence": 0.63,
+  "publishedAt": "2026-11-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-17T23:40:26.273Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Database Hub provides a unified operational experience for managing database estates across Azure, Microsoft Fabric, on-premises environments, and supported multicloud environments.",
+    "html": "<a href=\"https://learn.microsoft.com/en-us/fabric/database/hub/overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Database Hub</a> provides a unified operational experience for managing database estates across Azure, Microsoft Fabric, on-premises environments, and supported multicloud environments.",
+    "excerpt": "Database Hub provides a unified operational experience for managing database estates across Azure, Microsoft Fabric, on-premises environments, and supported multicloud environments.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Database Hub",
+        "url": "https://learn.microsoft.com/en-us/fabric/database/hub/overview"
+      }
+    ]
+  },
+  "contentHash": "b019a7d5c2d9112f657ee3cf0b7b5262dcd91b2854f60d5d33e5159b3c15ded4",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "position": "ga:0",
+    "month": "November 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "b019a7d5c2d9112f657ee3cf0b7b5262dcd91b2854f60d5d33e5159b3c15ded4",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Database Hub",
+      "summaryEs": "Database Hub ofrece una experiencia operativa unificada para gestionar los estados de bases de datos en Azure, Microsoft Fabric, entornos locales y entornos multicloud compatibles."
+    }
+  }
+}

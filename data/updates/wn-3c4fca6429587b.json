@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,17 +58,17 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Resource-Profiles-in-Microsoft-Fabric-Data-Engineering-Preview/ba-p/5182862",
     "backfill": "true",
-    "position": "preview:162"
+    "position": "preview:161"
   },
   "tr": {
     "status": "done",
     "sourceHash": "7793a8d575823e32515764b84d420d2a6abc8a50a74d4304ca7fd4e2d3c2897b",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Perfiles de recursos en Ingeniería de datos de Fabric (Versión preliminar)",
-      "summaryEs": "Los Perfiles de recursos en Ingeniería de datos de Fabric (versión preliminar) son perfiles de proceso de Spark preconfigurados —optimizados para escritura intensiva, para lectura intensiva en Spark y para lectura intensiva en Power BI— que se seleccionan para cada entorno, de modo que Fabric aplique automáticamente una configuración adaptada a la carga de trabajo sin necesidad de ajustar manualmente decenas de propiedades de Spark. Para más información, consulte Configurar configuraciones de perfiles de recursos."
+      "titleEs": "Perfiles de recursos en Fabric Data Engineering (vista previa)",
+      "summaryEs": "Los perfiles de recursos en Fabric Data Engineering (Preview) son perfiles de cómputo preconfigurados de Spark —con mucha escritura, lectura intensiva para Spark y alta lectura para Power BI— que seleccionas por entorno para que Fabric aplique automáticamente ajustes con conciencia de carga de trabajo sin ajustar manualmente decenas de propiedades de Spark. Para más información, consulte Configurar configuraciones de perfiles de recursos."
     }
   }
 }

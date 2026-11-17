@@ -10,7 +10,7 @@
   "publishedAt": "2026-04-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -65,11 +65,11 @@
     "status": "done",
     "sourceHash": "a7a462dc9cb46585153dd037526c3d150ed4cbf9a8049be61cf0ecf39110232c",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Creación de una descripción automática de IA para modelos semánticos (versión preliminar)",
-      "summaryEs": "Auto-Description para modelos semánticos (versión preliminar) usa Copilot para generar descripciones claras para los modelos semánticos a partir de los metadatos y la estructura del modelo, que los propietarios y colaboradores del modelo pueden revisar, editar y regenerar directamente desde la página de detalles del modelo semántico en el catálogo de OneLake. Para obtener más información, consulte Introducción al catálogo de OneLake."
+      "titleEs": "Crear autodescripción con IA para modelos semánticos (vista previa)",
+      "summaryEs": "La Autodescripción para Modelos Semánticos (Vista previa) se utiliza Copilot para generar descripciones claras para modelos semánticos a partir de los metadatos y la estructura del modelo, que los propietarios y colaboradores pueden revisar, editar y regenerar directamente desde la página de detalles semánticos del modelo en el catálogo de OneLake. Para obtener más información, consulte Introducción al catálogo de OneLake."
     }
   }
 }

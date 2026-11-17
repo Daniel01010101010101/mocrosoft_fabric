@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -61,5 +61,6 @@
       "titleEs": "Centro de Base de Datos (Vista previa)",
       "summaryEs": "Database Hub (Preview) ofrece una experiencia operativa unificada para gestionar las propiedades de bases de datos en Azure, Microsoft Fabric, entornos locales y entornos multinube compatibles."
     }
-  }
+  },
+  "removedFromSourceAt": "2026-11-17T23:40:26.273Z"
 }

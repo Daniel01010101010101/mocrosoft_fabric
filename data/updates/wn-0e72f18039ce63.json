@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -54,17 +54,17 @@
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_59",
-    "position": "ga:27"
+    "position": "ga:29"
   },
   "tr": {
     "status": "done",
     "sourceHash": "ed639bc0043821d056711b9f78cfa2e66708dc25782bbf83e3577e863fdeeb8b",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Registro de Esquemas de Eventos (Disponible Generalmente)",
-      "summaryEs": "El Registro de Esquemas de Eventos define y valida contratos para productores de eventos y consumidores fiables. Para obtener más información, consulte Introducción al Registro de esquemas."
+      "titleEs": "Registro de Esquema de Eventos (Disponibilidad general)",
+      "summaryEs": "El Registro de Esquemas de Eventos define y valida contratos para productores y consumidores de eventos fiables. Para obtener más información, consulte Introducción al Registro de esquemas."
     }
   }
 }

@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,17 +57,17 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/32822?ft=All",
     "backfill": "true",
-    "position": "preview:82"
+    "position": "preview:81"
   },
   "tr": {
     "status": "done",
     "sourceHash": "1903b1e4b0fb08bc2b90015c16623cafce3604d0278af921c6a0d9aea598d99f",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Conexión de Fabric en Notebooks (versión preliminar)",
-      "summaryEs": "Conexión de Fabric en Notebook (versión preliminar) le permite la capacidad de crear y administrar conexiones de origen de datos en la nube directamente en notebooks. Para más información, consulta ¿Qué es Fabric Connection en los cuadernos?"
+      "titleEs": "Fabric Connection dentro del Notebook (vista previa)",
+      "summaryEs": "Fabric Connection dentro de Notebook (Vista previa) te permite crear y gestionar conexiones de fuentes de datos en la nube directamente dentro de los notebooks. Para más información, consulta ¿Qué es Fabric Connection en los cuadernos?"
     }
   }
 }

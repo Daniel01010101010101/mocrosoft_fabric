@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -62,11 +62,11 @@
     "status": "done",
     "sourceHash": "c70899cee67f0c0cf0ef415daa2ea13f9918bf770f012ad7606243ca1ad1eebe",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Retención de datos configurable en Fabric Data Warehouse (versión preliminar)",
-      "summaryEs": "Retención de datos configurable (versión preliminar) en Fabric Data Warehouse permite establecer la ventana de retención del historial de datos de un almacén de datos entre 1 y 120 días con un solo comando T-SQL. Este período de retención rige el viaje en el tiempo, los clones a un momento dado, los puntos de restauración y las instantáneas de almacenamiento. Para más información, consulte Retención de datos en Fabric Data Warehouse (Vista previa)."
+      "titleEs": "Retención de datos configurable en Fabric Data Warehouse (vista previa)",
+      "summaryEs": "Retención de datos configurable (Preview) en Fabric Data Warehouse te permite establecer la ventana de retención del historial de datos para un almacén entre 1 y 120 días con un solo comando T-SQL. Este período de retención rige el viaje en el tiempo, los clones a un momento dado, los puntos de restauración y las instantáneas de almacenamiento. Para más información, consulte Retención de datos en Fabric Data Warehouse (Vista previa)."
     }
   }
 }

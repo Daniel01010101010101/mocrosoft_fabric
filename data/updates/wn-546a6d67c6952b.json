@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -65,11 +65,11 @@
     "status": "done",
     "sourceHash": "21a5ee19a7c7256fab841aca439ddf09976dfff2fb8e6617a741d9bdbed25e0c",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Azure Monitor a Fabric Eventhouse (versión preliminar)",
-      "summaryEs": "De Azure Monitor a Fabric Eventhouse (versión preliminar) le permite enrutar la telemetría de las máquinas virtuales mediante Azure Monitor Agent y las reglas de recopilación de datos hacia Eventhouse para la ingesta con administración de esquemas, las consultas ad hoc, el análisis de series temporales y la activación. Para obtener más información, consulte Send datos de cliente de máquina virtual para Fabric y Azure Data Explorer (versión preliminar)."
+      "titleEs": "Azure Monitor to Fabric Eventhouse (Preview)",
+      "summaryEs": "Azure Monitor to Fabric Eventhouse (Vista previa) te permite enrutar la telemetría de VM a través de Azure Monitor Agent y reglas de recogida de datos hacia Eventhouse para la gestión de esquemas, consultas ad hoc, análisis de series temporales y activación. Para obtener más información, consulte Send datos de cliente de máquina virtual para Fabric y Azure Data Explorer (versión preliminar)."
     }
   }
 }

@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -62,11 +62,11 @@
     "status": "done",
     "sourceHash": "d980188434860b9c2fa2f62e5b5da412c707e786bd8005394678745b9519b6fd",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
       "titleEs": "API de relaciones de elementos Fabric (Vista previa)",
-      "summaryEs": "La API de relaciones de elementos Fabric (Preview) devuelve dependencias de elementos aguas arriba y aguas abajo, bordes de relaciones tipadas y espacios de trabajo relacionados para análisis de impacto, catálogos, comprobaciones CI/CD y agentes de IA. Para más información, consulte la referencia de la API Fabric REST."
+      "summaryEs": "La API de relaciones de elementos de Fabric (Preview) devuelve dependencias de elementos aguas arriba y descendente, bordes de relaciones tipadas y espacios de trabajo relacionados para análisis de impacto, catálogos, comprobaciones CI/CD y agentes de IA. Para más información, consulte la referencia de la API Fabric REST."
     }
   }
 }

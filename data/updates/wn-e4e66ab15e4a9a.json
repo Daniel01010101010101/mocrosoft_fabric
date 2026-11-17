@@ -9,7 +9,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,11 +58,11 @@
     "status": "done",
     "sourceHash": "89e2942285cc5d78e1f56211fff17805090a0ac3e758e24fe7dbf630b9ecc1cb",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Los agentes de datos devuelven hasta 1.000 filas (Vista previa)",
-      "summaryEs": "Los agentes de datos Fabric devuelven hasta 1.000 filas (Vista previa), ampliando los resultados disponibles para análisis posteriores. Para más información, consulte soporte de archivos de agentes de datos."
+      "titleEs": "Los agentes de datos devuelven hasta 1.000 filas (vista previa)",
+      "summaryEs": "Los agentes de datos de Fabric devuelven hasta 1.000 filas (vista previa), ampliando los resultados disponibles para análisis posteriores. Para más información, consulte soporte de archivos de agentes de datos."
     }
   }
 }

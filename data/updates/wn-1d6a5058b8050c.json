@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,17 +57,17 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Data-Warehouse-Monitor-A-Unified-Monitoring-Experience-for/ba-p/5180024",
     "backfill": "true",
-    "position": "preview:128"
+    "position": "preview:127"
   },
   "tr": {
     "status": "done",
     "sourceHash": "d3345edaab685d5c42870b87fe378114f265e0f905b69705689015df41bb4cc4",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Monitor de Fabric Data Warehouse (Vista previa)",
-      "summaryEs": "Monitor for Fabric Data Warehouse (Preview) (anteriormente Query Activity) es una monitorización unificada para Fabric Data Warehouse que muestra consultas activas e históricas una al lado de la otra, soporta análisis de rendimiento de ejecución cruzada impulsados por Query Insights y te permite cancelar consultas de larga duración con un solo clic. Para más información, consulte Monitorizar consultas T-SQL en Fabric Data Warehouse (Vista previa)."
+      "titleEs": "Monitorizar Fabric Data Warehouse (Vista previa)",
+      "summaryEs": "Monitor for Fabric Data Warehouse (Preview) (anteriormente Query Activity) es una monitorización unificada para Fabric Data Warehouse que muestra consultas activas e históricas una al lado de la otra, soporta análisis de rendimiento cruzado impulsado por Query Insights y permite cancelar consultas de larga duración con un solo clic. Para más información, consulte Monitorizar consultas T-SQL en Fabric Data Warehouse (Vista previa)."
     }
   }
 }

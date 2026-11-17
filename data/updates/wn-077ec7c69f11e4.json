@@ -1,0 +1,70 @@
+{
+  "id": "wn-077ec7c69f11e4",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_39",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-warehouse/custom-sql-pools",
+  "title": "Warehouse custom SQL pools and the SQL pool statement classifier (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-09-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-17T23:40:26.273Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "SQL pool statement classification automatically separates data-loading and query statements into workload pools. For more information, see Custom SQL pools.",
+    "html": "<a href=\"https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_39\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">SQL pool statement classification</a> automatically separates data-loading and query statements into workload pools. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-warehouse/custom-sql-pools\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Custom SQL pools</a>.",
+    "excerpt": "SQL pool statement classification automatically separates data-loading and query statements into workload pools. For more information, see Custom SQL pools.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "SQL pool statement classification",
+        "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_39"
+      },
+      {
+        "label": "Custom SQL pools",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-warehouse/custom-sql-pools"
+      }
+    ]
+  },
+  "contentHash": "30031279ae25fc7c37d38d180a2647fda09827e5c7ef9793ed13a83279c26a0a",
+  "categories": [
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "position": "ga:62",
+    "month": "September 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
+    "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_39"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "30031279ae25fc7c37d38d180a2647fda09827e5c7ef9793ed13a83279c26a0a",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Almacén: grupos SQL personalizados y el clasificador de instrucciones de pool SQL (disponibilidad general)",
+      "summaryEs": "La clasificación de sentencias de pool SQL separa automáticamente las sentencias de carga de datos y las de consulta en grupos de carga de trabajo. Para más información, consulte Grupos de SQL personalizados."
+    }
+  }
+}

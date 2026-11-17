@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -61,17 +61,17 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-Excel-to-Delta-Tables-Simplifying-Excel-Data-Ingestion-with/ba-p/5185370",
     "backfill": "true",
-    "position": "preview:73"
+    "position": "preview:72"
   },
   "tr": {
     "status": "done",
     "sourceHash": "221539907f681b5ea99b0352de086c7530afe68ff130c222dc4ba0481697ad27",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "De Excel a tablas Delta con transformaciones de acceso directo (versión preliminar)",
-      "summaryEs": "De Excel a tablas Delta con transformaciones de acceso directo (versión preliminar) amplía el modelo de ingesta sin código de transformaciones de acceso directo a libros de .xlsx y .xls de varias hojas, con detección automática de hojas, coincidencia con comodines de hojas, salida en tabla combinada o una tabla por hoja, administración de cambios en el esquema, sincronización continua y normalización de los nombres de las hojas para convertirlos en nombres de tabla Delta válidos. Para más información, véase Transformaciones de acceso directo (archivo)."
+      "titleEs": "Tablas de Excel a Delta con transformaciones de shortcut (Vista previa)",
+      "summaryEs": "Tablas de Excel a Delta con transformaciones de acceso directo (Vista previa) extiende el modelo de ingestión de transformaciones de atajos de código cero a múltiples hojas .xlsx y .xls libros de cálculo, con descubrimiento automático de hojas, coincidencia de hojas comodines, salida por tabla combinada o tabla por hoja, manejo de deriva de esquemas, sincronización continua y sanitización de nombres de hojas para convertirlos en nombres válidos de tabla Delta. Para más información, véase Transformaciones de acceso directo (archivo)."
     }
   }
 }

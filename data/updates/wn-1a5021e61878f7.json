@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -62,10 +62,10 @@
     "status": "done",
     "sourceHash": "9bf969194bf562e7a048ae7cedff624b3a7f368374f60337aa7089f1f0a00778",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Ingesta continua de Azure Storage a Eventhouse (Versión preliminar)",
+      "titleEs": "Ingestión continua desde Azure Storage a Eventhouse (Vista previa)",
       "summaryEs": "Ahora puede usar la ingesta continua de Azure Storage a Eventhouse (versión preliminar) para ingerir automáticamente y de manera eficaz datos de Azure Storage en Eventhouse. Para obtener más información, consulte Obtener datos de Azure Storage."
     }
   }

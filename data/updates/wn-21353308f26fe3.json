@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -49,16 +49,16 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "backfill": "true",
-    "position": "preview:115"
+    "position": "preview:114"
   },
   "tr": {
     "status": "done",
     "sourceHash": "360b2037fa25217d6b92a0d224e65cbfad311b28923361a134a8fa244ce74785",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "MAX_ROLLOVER_FILES en sesiones de eventos extendidos con blobs de Azure Storage (versión preliminar)",
+      "titleEs": "MAX_ROLLOVER_FILES en sesiones extendidas de evento usando Azure Storage blobs (vista previa)",
       "summaryEs": "Para las nuevas sesiones de eventos extendidos en SQL Database en Fabric, puede especificar la opción MAX_ROLLOVER_FILES para conservar solo el número especificado de los blobs de Azure Storage más recientes. Para obtener más información, consulte event_file target."
     }
   }

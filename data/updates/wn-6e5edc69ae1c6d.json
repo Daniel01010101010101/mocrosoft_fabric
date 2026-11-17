@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -54,16 +54,16 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "backfill": "true",
-    "position": "preview:154"
+    "position": "preview:153"
   },
   "tr": {
     "status": "done",
     "sourceHash": "fbcc4c2bf9a4316f0cdd7f81b9800acf00c25ee14e5a0713b660b46f151a2760",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Funcionalidades de APIpublic para flujos de datos de Dataflow Gen2 en Fabric Data Factory (versión preliminar)",
+      "titleEs": "Capacidades de la API pública para flujos de datos de flujo de datos Gen2 en Fabric Data Factory (vista previa)",
       "summaryEs": "Esta versión preliminar de las API públicas de Dataflows Gen 2 permite a los usuarios crear, actualizar y supervisar sus flujos de trabajo de datos mediante programación. Las API admiten una amplia gama de operaciones, como CRUD de flujos de datos (Crear, Leer, Actualizar y Eliminar), programar y supervisar, lo que facilita a los usuarios administrar sus procesos de integración de datos."
     }
   }

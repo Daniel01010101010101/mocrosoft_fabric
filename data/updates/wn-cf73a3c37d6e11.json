@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,17 +56,17 @@
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_8",
-    "position": "ga:47"
+    "position": "ga:49"
   },
   "tr": {
     "status": "done",
     "sourceHash": "b75b591b17c61d8979184172fe8eecbbfd8a24df6fad3c069e22be354952c02c",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Fabric Core MCP Server (Disponibilidad general)",
-      "summaryEs": "Fabric Core MCP Server ofrece a agentes de IA compatibles acceso autenticado y auditado a los espacios de trabajo de Fabric, elementos, permisos, búsqueda e información de capacidad. Para obtener más información, consulte Get started with Fabric Core MCP Server."
+      "titleEs": "Fabric Core MCP Server (Disponible en general)",
+      "summaryEs": "Fabric Core MCP Server ofrece a agentes de IA compatibles acceso autenticado y auditado a espacios de trabajo, elementos, permisos, búsqueda e información de capacidad de Fabric. Para obtener más información, consulte Get started with Fabric Core MCP Server."
     }
   }
 }

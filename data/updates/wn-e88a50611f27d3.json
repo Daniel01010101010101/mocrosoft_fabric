@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -62,11 +62,11 @@
     "status": "done",
     "sourceHash": "87c9d03fb97c8ca0c2228eeccd4a149bf39fa2c30801cb485d2c33b79d3e42ac",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Motor NL2SQL mejorado para Fabric Data Agent (versión preliminar)",
-      "summaryEs": "Motor NL2SQL mejorado (Preview) de Fabric Data Agent mejora la precisión, la transparencia y la resiliencia al traducir lenguaje natural en SQL en lakehouses, almacenes y bases de datos reflejadas. Usa consultas de ejemplo para seguir patrones, formula preguntas aclarantes cuando la intención es ambigua y expone diagnósticos estructurados, disponibles al habilitar la versión preliminar Fabric Data Agent Runtime. Para más información, véase conceptos de agentes de datos Fabric."
+      "titleEs": "Motor NL2SQL mejorado para Fabric Data Agent (vista previa)",
+      "summaryEs": "El motor mejorado NL2SQL (Preview) para Agente de datos de Fabric mejora la precisión, transparencia y resiliencia al traducir lenguaje natural a SQL en lakehouses, almacenes y bases de datos espejadas. Usa consultas de ejemplo para seguir patrones, formula preguntas aclarantes cuando la intención es ambigua y expone diagnósticos estructurados, disponibles al habilitar la versión preliminar Fabric Data Agent Runtime. Para más información, véase conceptos de agentes de datos Fabric."
     }
   }
 }

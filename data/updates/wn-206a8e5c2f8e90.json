@@ -9,7 +9,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,11 +58,11 @@
     "status": "done",
     "sourceHash": "b888d24766c6a76fc5afd18671855d1dbc623be4cc95fadecb91437aa2de850b",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Respuestas de Fabric IQ sobre agentes de datos y ontologías (Vista previa)",
-      "summaryEs": "Las respuestas de agentes de datos y ontologías de Fabric IQ (Preview) extienden la respuesta a preguntas de negocio más allá de los informes y modelos semánticos."
+      "titleEs": "Respuestas a agentes de datos y ontologías de Fabric IQ (vista previa)",
+      "summaryEs": "Las respuestas del agente de datos y de ontología de Fabric IQ (Preview) amplían la respuesta a preguntas de negocio más allá de los informes y modelos semánticos."
     }
   }
 }

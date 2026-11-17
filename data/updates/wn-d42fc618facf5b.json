@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -53,17 +53,17 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "backfill": "true",
-    "position": "preview:157"
+    "position": "preview:156"
   },
   "tr": {
     "status": "done",
     "sourceHash": "476f8a3c4e9bd7af0e9f8b64b2601443e3318ce5bfebc0ad05acfd14ac2a46ae",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Paneles de visualización de series temporales en tiempo real (Vista previa)",
-      "summaryEs": "Elementos visuales específicos del panel de Real-Time Dashboard en Real-Time Dashboards añade funciones específicas para navegar, comparar y personalizar datos temporales, como una barra de búsqueda en la leyenda, fijación y superposición para comparar series, varios paneles con tiempo alineado, escalado flexible del eje Y, asignación de colores y zoom con un control deslizante temporal."
+      "titleEs": "Visualización de series temporales de Real-Time Dashboards (versión preliminar)",
+      "summaryEs": "gráficos específicos de Real-Time Dashboards en Real-Time Dashboards añaden capacidades dedicadas para navegar, comparar y personalizar datos basados en el tiempo, incluyendo una barra de búsqueda de leyendas, pin-and-overlay para comparación de series, múltiples paneles de tiempo alineado, escalado flexible en el eje Y, asignación de color y zoom con un control deslizante de tiempo."
     }
   }
 }

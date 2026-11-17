@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -52,17 +52,17 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "backfill": "true",
-    "position": "preview:188"
+    "position": "preview:186"
   },
   "tr": {
     "status": "done",
     "sourceHash": "72325851758ce6a4ef712b3db5cb61ab911016c469c3c63889286d339e4af13e",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Supervisión del área de trabajo (versión preliminar)",
-      "summaryEs": "La monitorización de espacios de trabajo utiliza un elemento de monitorización para recopilar registros y métricas de los elementos Fabric compatibles. Centraliza la telemetría de varios espacios de trabajo, consulta con KQL, crea paneles de control e informes, crea alertas y utiliza el Agente de Operaciones para investigar problemas."
+      "titleEs": "Monitorización del espacio de trabajo (Vista previa)",
+      "summaryEs": "La monitorización del espacio de trabajo utiliza un elemento de monitorización para recopilar registros y métricas de los elementos de Fabric compatibles. Centraliza la telemetría de varios espacios de trabajo, consulta con KQL, crea paneles de control e informes, crea alertas y utiliza el Agente de Operaciones para investigar problemas."
     }
   }
 }

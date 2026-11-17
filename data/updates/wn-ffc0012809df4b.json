@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,17 +56,17 @@
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_122",
-    "position": "ga:41"
+    "position": "ga:43"
   },
   "tr": {
     "status": "done",
     "sourceHash": "f7df6d6eb0e9c1643d4282a566adafb7986f65b53baf1d486682d7dd1f193a0e",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Intervalo de espera entre reintentos de la canalización (Disponibilidad general)",
-      "summaryEs": "El intervalo de espera entre reintentos de la canalización aumenta progresivamente el intervalo entre intentos de reintento de actividad. Para más información, consulte Intentos de actividad."
+      "titleEs": "Retroceso de reintentos de tubería (Disponible en general)",
+      "summaryEs": "El retroceso exponencial en los reintentos de la canalización aumenta progresivamente el intervalo entre intentos de reintento de actividad. Para más información, consulte Intentos de actividad."
     }
   }
 }

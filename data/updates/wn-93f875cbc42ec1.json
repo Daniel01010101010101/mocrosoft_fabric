@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -62,10 +62,10 @@
     "status": "done",
     "sourceHash": "c60f8c3713cb483fd1ceb7df3644408c01c5bb3f0dc4c2b072c048461a1ca090",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Invocar la actividad del paquete SSIS en canalizaciones de Data Factory (versión preliminar)",
+      "titleEs": "Invocar la actividad del paquete SSIS en las canalizaciones de Data Factory (vista previa)",
       "summaryEs": "La actividad Invocar paquete SSIS (versión preliminar) habilita la ejecución de paquetes desde la orquestación de canalizaciones en Fabric. Para obtener más información, lea Blog: Invocar la actividad de paquetes SSIS en Microsoft Fabric (versión preliminar)."
     }
   }

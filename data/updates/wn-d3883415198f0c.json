@@ -9,7 +9,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -53,17 +53,17 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_68",
-    "position": "preview:142"
+    "position": "preview:141"
   },
   "tr": {
     "status": "done",
     "sourceHash": "937850434cb0bd1e76a844a122d8bda036815b599eb87b5a04a1b0e5e7ef2a30",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Ontología como fuente del panel de control en tiempo real (Vista previa)",
-      "summaryEs": "Ontology como fuente de paneles en tiempo real (versión preliminar) incorpora entidades y relaciones empresariales a visualizaciones en vivo."
+      "titleEs": "Ontología como fuente de un panel de control en tiempo real (Vista previa)",
+      "summaryEs": "La ontología como fuente de Real-Time Dashboard (Vista previa) incorpora entidades empresariales y relaciones a visualizaciones en vivo."
     }
   }
 }

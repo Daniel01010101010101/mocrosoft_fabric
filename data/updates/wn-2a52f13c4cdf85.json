@@ -1,0 +1,72 @@
+{
+  "id": "wn-2a52f13c4cdf85",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/database/horizondb/overview",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/database/horizondb/overview",
+  "title": "Fabric HorizonDB (Preview)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-17T23:40:28.874Z",
+  "datePrecision": "detected",
+  "detectedAt": "2026-11-17T23:40:26.273Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Fabric HorizonDB (Preview) is a managed PostgreSQL service in Microsoft Fabric with workload-driven autoscaling. You can build operational applications with familiar PostgreSQL tools, mirror data to OneLake for analytics, query Fabric data through federation, and load analytical results into PostgreSQL with Copy jobs. For more information, see What is Fabric HorizonDB?",
+    "html": "<a href=\"https://aka.ms/fabrichdbannouncement\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric HorizonDB (Preview)</a> is a managed PostgreSQL service in Microsoft Fabric with workload-driven autoscaling. You can build operational applications with familiar PostgreSQL tools, mirror data to OneLake for analytics, query Fabric data through federation, and load analytical results into PostgreSQL with Copy jobs. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/database/horizondb/overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">What is Fabric HorizonDB?</a>",
+    "excerpt": "Fabric HorizonDB (Preview) is a managed PostgreSQL service in Microsoft Fabric with workload-driven autoscaling. You can build operational applications with familiar PostgreSQL tools, mirror data to OneLake for analytics, query Fabric data through federation, and load analytical results into PostgreSQL with Copy jobs.…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Fabric HorizonDB (Preview)",
+        "url": "https://aka.ms/fabrichdbannouncement"
+      },
+      {
+        "label": "What is Fabric HorizonDB?",
+        "url": "https://learn.microsoft.com/en-us/fabric/database/horizondb/overview"
+      }
+    ]
+  },
+  "contentHash": "7ec10d8aaec18d49dc633af4001ca16425b6352f23c4a775407b5687ca7cc7a8",
+  "categories": [
+    "databases"
+  ],
+  "primaryCategory": "databases",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 49,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "architects",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "preview",
+    "position": "preview:88",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "7ec10d8aaec18d49dc633af4001ca16425b6352f23c4a775407b5687ca7cc7a8",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Fabric HorizonDB (Vista previa)",
+      "summaryEs": "Fabric HorizonDB (Vista previa) es un servicio PostgreSQL gestionado en Microsoft Fabric con escalado automático impulsado por carga de trabajo. Puedes crear aplicaciones operativas con las herramientas PostgreSQL conocidas, replicar datos a OneLake para análisis, consultar datos de Fabric mediante federación y cargar resultados analíticos en PostgreSQL con trabajos de Copy. Para más información, consulte ¿Qué es Fabric HorizonDB?"
+    }
+  }
+}

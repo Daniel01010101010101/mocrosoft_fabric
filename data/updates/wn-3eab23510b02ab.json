@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -63,10 +63,10 @@
     "status": "done",
     "sourceHash": "a65f7501044f7bead126a6fa6fc7042e0f3163b4e2308f215096f2aa420ebc7d",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Perspectivas de observabilidad de Fabric (Vista previa)",
+      "titleEs": "Fabric Observability Insights (vista previa)",
       "summaryEs": "Fabric Observability Insights (Preview) utiliza un agente de operaciones y un contexto nativo de Fabric para investigar fallos en la canalización. Para más información, consulte Visión general de la monitorización del espacio de trabajo."
     }
   }

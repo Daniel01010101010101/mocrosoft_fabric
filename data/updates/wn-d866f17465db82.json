@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,17 +57,17 @@
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_4",
-    "position": "ga:46"
+    "position": "ga:48"
   },
   "tr": {
     "status": "done",
     "sourceHash": "bfd4f1802b55e80e532a98038408c5ce6e95d8cc3fb0853b73580f0ab0653d56",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "DLP restringe el acceso (Disponibilidad general)",
-      "summaryEs": "Restricción de acceso de DLP (Disponibilidad general) limita automáticamente el acceso cuando las políticas de Microsoft Purview detectan información sensible. Para más información, consulte la acción Restringir acceso para las directivas DLP."
+      "titleEs": "DLP restringir el acceso (Disponible en general)",
+      "summaryEs": "Restricción de acceso de DLP (Disponible con carácter general) limita automáticamente el acceso cuando las políticas de Microsoft Purview detectan información sensible. Para más información, consulte la acción Restringir acceso para las directivas DLP."
     }
   }
 }

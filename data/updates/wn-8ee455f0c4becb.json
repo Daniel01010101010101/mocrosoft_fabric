@@ -9,7 +9,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -60,11 +60,11 @@
     "status": "done",
     "sourceHash": "036224fa768577a39059cb5328b354dfd9cc0f0b6d6c72881ef2f9add7d859cc",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Comentarios del agente de datos en Microsoft 365 Copilot (Vista previa)",
-      "summaryEs": "Los comentarios sobre el agente de datos en Microsoft 365 Copilot (Vista previa) ayudan a los creadores a revisar los comentarios de los usuarios y a mejorar las respuestas de los agentes. Para más información, consulta comentarios de consumidores y creadores de agentes de datos."
+      "titleEs": "Comentarios sobre agentes de datos en Microsoft 365 Copilot (Vista previa)",
+      "summaryEs": "La retroalimentación de los agentes de datos en Microsoft 365 Copilot (Vista previa) ayuda a los creadores a revisar las opiniones de los consumidores y mejorar las respuestas de los agentes. Para más información, consulta comentarios de consumidores y creadores de agentes de datos."
     }
   }
 }

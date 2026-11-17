@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,17 +58,17 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Workspace-Outbound-Access-Protection-OAP-for-Operations-Agent/ba-p/5363817",
     "backfill": "true",
-    "position": "preview:191"
+    "position": "preview:189"
   },
   "tr": {
     "status": "done",
     "sourceHash": "a005189b0bfece43b53dab624e69e0fc64e8e0f966156cda84d797551f41cb7d",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Protección de acceso saliente al espacio de trabajo para el Agente de Operaciones (Vista previa)",
-      "summaryEs": "La protección de acceso saliente al espacio de trabajo para el Agente de Operaciones aplica políticas de espacio de trabajo a acciones salientes como notificaciones de Teams, desencadenantes de flujo de trabajo y operaciones entre espacios de trabajo. Para más información, consulte Protección de acceso saliente al espacio de trabajo para el Agente de Operaciones."
+      "titleEs": "Protección de acceso saliente en el espacio de trabajo para Operations Agent (vista previa)",
+      "summaryEs": "La protección de acceso saliente al espacio de trabajo para Operations Agent aplica políticas de espacio de trabajo a acciones salientes como notificaciones de Teams, activadores de flujo de trabajo y operaciones entre espacios de trabajo. Para más información, consulte Protección de acceso saliente al espacio de trabajo para el Agente de Operaciones."
     }
   }
 }

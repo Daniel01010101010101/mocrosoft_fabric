@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -66,10 +66,10 @@
     "status": "done",
     "sourceHash": "8b698f00855297426da3710ce459086a0e9cc114d8e4930509ab3155eedf0343",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Administrar notificaciones de error desde el centro de supervisión en Fabric (versión preliminar)",
+      "titleEs": "Gestionar notificaciones de fallos desde el hub de monitorización en Fabric (Vista previa)",
       "summaryEs": "La página Errores de programación del centro de supervisión de Fabric (versión preliminar) muestra todos los elementos programados que tienen configuradas notificaciones de error y permite agregar, editar o quitar destinatarios de cualquier elemento desde un único lugar, sin tener que abrir cada elemento por separado. Para obtener más información, consulte Errores de programación (versión preliminar) y Recibir notificaciones de trabajos programados con errores."
     }
   }

@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -69,11 +69,11 @@
     "status": "done",
     "sourceHash": "122cdefadfacadf374276cc70a141bb18bd103f2c4c9147a129f396fbd45ed1a",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
       "titleEs": "Generación avanzada de DAX para modelos semánticos (Vista previa)",
-      "summaryEs": "La generación avanzada de DAX para agentes de datos Fabric (Preview) permite a un agente de datos planificar su enfoque, inspeccionar los valores semánticos del modelo y los resultados intermedios, refinar su razonamiento y ejecutar una consulta final de DAX antes de responder. Para más información, consulte entorno de ejecución del agente de datos de Fabric y procedimientos recomendados para modelos semánticos para el agente de datos."
+      "summaryEs": "La generación avanzada de DAX para agentes de datos Fabric (Preview) permite a un agente de datos planificar su enfoque, inspeccionar los valores semánticos del modelo y resultados intermedios, refinar su razonamiento y ejecutar una consulta final de DAX antes de responder. Para más información, consulte entorno de ejecución del agente de datos de Fabric y procedimientos recomendados para modelos semánticos para el agente de datos."
     }
   }
 }

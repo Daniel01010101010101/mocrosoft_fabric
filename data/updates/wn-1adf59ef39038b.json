@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,16 +56,16 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/on-premises-data-gateway-december-2025-release",
     "backfill": "true",
-    "position": "preview:48"
+    "position": "preview:47"
   },
   "tr": {
     "status": "done",
     "sourceHash": "7288101c6c7e6f5768dca4e53a01c8755186daf7c64a09ec94cc25dd8a14637e",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Opción de actualización manual de puerta de enlace de datos local de Data Factory (versión preliminar)",
+      "titleEs": "Opción de actualización manual de Data Factory On-premises data gateway (Vista previa)",
       "summaryEs": "La versión Gateway de diciembre de 2025 (versión 3000.298) proporciona una nueva opción de actualización manual (en versión preliminar) a través del portal o la API de Fabric. La versión de noviembre sirve como versión de línea base para esta característica y puede empezar a realizar actualizaciones manuales a partir de diciembre. Para más información, consulte Actualización de una puerta de enlace de datos local."
     }
   }

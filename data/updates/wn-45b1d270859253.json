@@ -1,0 +1,82 @@
+{
+  "id": "wn-45b1d270859253",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-mapping-data-flows-transforms",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-mapping-data-flows-transforms",
+  "title": "Mapping Data Flow transforms in Dataflow Gen2 (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-17T23:40:26.273Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Mapping data flow transforms in Dataflow Gen2 and the built-in Mapping Data Flow migration experience are generally available. Author, execute, and monitor Spark-based transformations in Fabric, or upgrade eligible Azure Data Factory and Azure Synapse Analytics pipelines containing Mapping Data Flows. For networking restrictions, see MDF transform limitations. For pricing details, see Dataflow Gen2 pricing.",
+    "html": "<a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-mapping-data-flows-transforms\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Mapping data flow transforms in Dataflow Gen2</a> and the <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-mapping-data-flows-transforms-upgrade\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">built-in Mapping Data Flow migration experience</a> are generally available. Author, execute, and monitor Spark-based transformations in Fabric, or upgrade eligible Azure Data Factory and Azure Synapse Analytics pipelines containing Mapping Data Flows. For networking restrictions, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-mapping-data-flows-transforms#limitations\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">MDF transform limitations</a>. For pricing details, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-factory/pricing-dataflows-gen2\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Dataflow Gen2 pricing</a>.",
+    "excerpt": "Mapping data flow transforms in Dataflow Gen2 and the built-in Mapping Data Flow migration experience are generally available. Author, execute, and monitor Spark-based transformations in Fabric, or upgrade eligible Azure Data Factory and Azure Synapse Analytics pipelines containing Mapping Data Flows. For networking…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Mapping data flow transforms in Dataflow Gen2",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-mapping-data-flows-transforms"
+      },
+      {
+        "label": "built-in Mapping Data Flow migration experience",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-mapping-data-flows-transforms-upgrade"
+      },
+      {
+        "label": "MDF transform limitations",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-mapping-data-flows-transforms#limitations"
+      },
+      {
+        "label": "Dataflow Gen2 pricing",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-factory/pricing-dataflows-gen2"
+      }
+    ]
+  },
+  "contentHash": "a811128db0a1c4ac848c2d0028b7169b45f9e3ce53ffd9a3a8e5697df3f86612",
+  "categories": [
+    "data-factory"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 59,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "developers",
+      "architects",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "position": "ga:1",
+    "month": "November 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "a811128db0a1c4ac848c2d0028b7169b45f9e3ce53ffd9a3a8e5697df3f86612",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Transformaciones de Data Flow en Dataflow Gen2 (Disponibilidad general)",
+      "summaryEs": "Las transformaciones de Mapping Data Flow en Dataflow Gen2 y la experiencia integrada de migración de Mapping Data Flow están generalmente disponibles. Cree, ejecute y supervise transformaciones basadas en Spark en Fabric, o actualice canalizaciones aptas de Azure Data Factory y Azure Synapse Analytics que contienen flujos de datos de asignación. Para las restricciones de red, consulte Limitaciones de transformación MDF. Para obtener más información sobre los precios, consulte Precios de Dataflow Gen2."
+    }
+  }
+}

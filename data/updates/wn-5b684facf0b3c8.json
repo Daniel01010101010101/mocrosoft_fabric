@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -63,11 +63,11 @@
     "status": "done",
     "sourceHash": "49455abd68fae35a40b9ad2679c2ffb4c965574c113646ee15f131144ff48429",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Compatibilidad del Agente de datos con funciones de Eventhouse, vistas materializadas y accesos directos (versión preliminar)",
-      "summaryEs": "Data Agent ahora detecta y consulta funciones definidas por el usuario (UDF), vistas materializadas y tablas de acceso directo, por lo que llama a la lógica KQL validada, usa vistas agregadas previamente para obtener respuestas más rápidas y llega a los datos federados desde orígenes fuera del centro de eventos. Para más información, véase conceptos de agentes de datos Fabric."
+      "titleEs": "Soporte de Data Agent para funciones de Eventhouse, vistas materializadas y accesos directos (Vista previa)",
+      "summaryEs": "Data Agent ahora descubre y consulta funciones definidas por el usuario (UDF), vistas materializadas y tablas de acceso directo de Eventhouse, por lo que llama a la lógica KQL validada, utiliza vistas preagregadas para respuestas más rápidas y accede a datos federados desde fuentes externas a la casa de eventos. Para más información, véase conceptos de agentes de datos Fabric."
     }
   }
 }

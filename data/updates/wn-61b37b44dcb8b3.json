@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -52,16 +52,16 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "backfill": "true",
-    "position": "preview:177"
+    "position": "preview:176"
   },
   "tr": {
     "status": "done",
     "sourceHash": "b90aabfe5b37546c0d56ef3b941240a74fb06d5c0c2899f50adab0e812c8b8ba",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Upsert a la tabla delta con el conector Lakehouse (Vista previa)",
+      "titleEs": "Upsert en tabla Delta con el conector Lakehouse (Vista previa)",
       "summaryEs": "Hemos agregado compatibilidad con upsert al conector de Lakehouse, lo que permite escrituras directas en tablas Delta, tanto en trabajos de copia como en actividades de copia dentro de Pipeline. Para más información, vea Configuración de Lakehouse en una actividad de copia."
     }
   }

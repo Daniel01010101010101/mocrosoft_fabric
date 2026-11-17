@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -59,10 +59,10 @@
     "status": "done",
     "sourceHash": "46cafabd20e4d85d02aff6d0d887497e990b98638dfae6a501b7fcbc4a076613",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Soporte multimodal de AI Functions (Vista previa)",
+      "titleEs": "Soporte multimodal de Funciones de IA (Vista previa)",
       "summaryEs": "Las funciones de IA aplican transformaciones de una línea y con tecnología LLM a grandes tramas de datos pandas o PySpark con alta simultaneidad de forma predeterminada. Para más información, véase Usar entrada multimodal con funciones de IA (Vista previa)."
     }
   }

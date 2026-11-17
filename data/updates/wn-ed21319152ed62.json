@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,16 +57,16 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/sharepoint-site-picker-for-easily-connecting-sharepoint-data-in-microsoft-fabric-preview?ft=All",
     "backfill": "true",
-    "position": "preview:49"
+    "position": "preview:48"
   },
   "tr": {
     "status": "done",
     "sourceHash": "6985f25a791e084ce832d660aee5de8dfc09f7297066c028fefa2fb003c4e5bf",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Selector de sitios de origen de datos de SharePoint de Data Factory (versión preliminar)",
+      "titleEs": "Selector de sitios del origen de datos SharePoint en Data Factory (Vista previa)",
       "summaryEs": "El Selector de sitios de SharePoint (versión preliminar) reemplaza la introducción manual de URL por una lista desplegable navegable y que permite búsquedas para seleccionar sitios de SharePoint en Dataflow Gen2, Pipelines, tarea de copia y accesos directos de Lakehouse. Para obtener más información, vea Conector de carpetas de SharePoint."
     }
   }

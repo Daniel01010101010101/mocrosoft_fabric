@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,17 +58,17 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_43",
-    "position": "preview:186"
+    "position": "preview:184"
   },
   "tr": {
     "status": "done",
     "sourceHash": "904257560a6892ee34d7dcae27226f365a57062fbd6763bdc7489a2dc4143ff8",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Integración con la función de datos de usuario en Data Warehouse (Vista previa)",
-      "summaryEs": "La integración con Warehouse User Data Function (Preview) invoca lógica personalizada de Python desde funciones externas de T-SQL. Para más información, consulte Fabric User Data Functions en Warehouse."
+      "titleEs": "Integración con la Función de Datos de Usuario de Warehouse (Vista previa)",
+      "summaryEs": "Warehouse User Data Function integration (Versión preliminar) invoca lógica Python personalizada desde funciones externas de T-SQL. Para más información, consulte Fabric User Data Functions en Warehouse."
     }
   }
 }

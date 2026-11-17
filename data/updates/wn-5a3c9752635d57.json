@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,17 +56,17 @@
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_139",
-    "position": "ga:3"
+    "position": "ga:5"
   },
   "tr": {
     "status": "done",
     "sourceHash": "504e00041d5599399fcde2acb86ffe7baac339b358ef7aeca4c1f8473bba7e84",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Preparación de trabajos de copia personalizada (Disponibilidad general)",
-      "summaryEs": "La preparación del trabajo Custom Copy selecciona la base de datos y el esquema de staging para escenarios CDC y SCD Tipo 2. Para más información, consulta Captura de datos de cambios en el trabajo de copia."
+      "titleEs": "Staging de tareas de copia personalizada (Disponible con carácter general)",
+      "summaryEs": "La preparación del trabajo Copy personalizado selecciona la base de datos de ensayo y el esquema para los escenarios CDC y SCD Tipo 2. Para más información, consulta Captura de datos de cambios en el trabajo de copia."
     }
   }
 }

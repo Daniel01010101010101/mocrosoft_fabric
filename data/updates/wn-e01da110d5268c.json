@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -60,17 +60,17 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/recent-data-get-back-to-your-data-faster-in-fabric-preview?ft=All",
     "backfill": "true",
-    "position": "preview:158"
+    "position": "preview:157"
   },
   "tr": {
     "status": "done",
     "sourceHash": "1af5e2eb7d1d397ea478e2457a837a0fdf828b50e5a99ce5e7adb0ac8b6eb214",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Datos recientes en Dataflow Gen2 (versión preliminar)",
-      "summaryEs": "Recent data in Dataflow Gen2 (Preview) proporciona acceso rápido a los elementos de datos usados con más frecuencia en la cinta de opciones Power Query y Modern Get Data, lo que le permite saltar directamente a tablas, archivos, carpetas y bases de datos usados recientemente sin navegación. Para más información, consulta Obtener experiencia en datos y ¿Qué es Dataflow Gen2?"
+      "titleEs": "Datos recientes en Dataflow Gen2 (vista previa)",
+      "summaryEs": "Los datos recientes en Dataflow Gen2 (Vista previa) proporcionan acceso rápido a los elementos de datos más usados en la cinta de Power Query y en Modern Get Data, permitiéndote saltar directamente a tablas, archivos, carpetas y bases de datos usados recientemente sin necesidad de navegación. Para más información, consulta Obtener experiencia en datos y ¿Qué es Dataflow Gen2?"
     }
   }
 }

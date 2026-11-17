@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -64,11 +64,11 @@
     "status": "done",
     "sourceHash": "0a37e4e734842a4b06282522f93830a84f5985083413a7ac3bc39cc45afb7006",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Biblioteca de diagnósticos de JobInsight (versión preliminar)",
-      "summaryEs": "JobInsight es una biblioteca de diagnósticos para analizar aplicaciones Spark completadas a través de API para consultas, trabajos, fases, tareas, ejecutores y registros de eventos. Para más información, consulte Biblioteca de Información Laboral (Vista previa)."
+      "titleEs": "Biblioteca de Diagnósticos de JobInsight (vista previa)",
+      "summaryEs": "JobInsight es una biblioteca de diagnóstico para analizar aplicaciones Spark finalizadas mediante APIs para consultas, trabajos, etapas, tareas, ejecutores y registros de eventos. Para más información, consulte Biblioteca de Información Laboral (Vista previa)."
     }
   }
 }

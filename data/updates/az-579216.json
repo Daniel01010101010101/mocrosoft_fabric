@@ -1,0 +1,56 @@
+{
+  "id": "az-579216",
+  "kind": "azure-update",
+  "source": "azure-updates",
+  "url": "https://azure.microsoft.com/en-us/updates?id=579216",
+  "title": "Generally Available: Database Hub in Microsoft Fabric",
+  "originalLanguage": "en",
+  "languageConfidence": 0.91,
+  "publishedAt": "2026-11-17T20:00:32.909Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-17T23:40:26.273Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Database Hub in Microsoft Fabric is a unified experience for discovering, managing, monitoring, and optimizing databases across SQL Server, Azure SQL, PostgreSQL, Azure Cosmos DB, and Fabric SQL. By bringing AI-powered insights and agents into a single control plane, Database Hub simplifies database operations and helps you modernize your data estate.\nLearn more.",
+    "html": "Database Hub in Microsoft Fabric is a unified experience for discovering, managing, monitoring, and optimizing databases across SQL Server, Azure SQL, PostgreSQL, Azure Cosmos DB, and Fabric SQL. By bringing AI-powered insights and agents into a single control plane, Database Hub simplifies database operations and helps you modernize your data estate.<br /><p><a href=\"https://aka.ms/databasehublearndoc\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Learn more</a>. </p>",
+    "excerpt": "Database Hub in Microsoft Fabric is a unified experience for discovering, managing, monitoring, and optimizing databases across SQL Server, Azure SQL, PostgreSQL, Azure Cosmos DB, and Fabric SQL. By bringing AI-powered insights and agents into a single control plane, Database Hub simplifies database operations and…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Learn more",
+        "url": "https://aka.ms/databasehublearndoc"
+      }
+    ]
+  },
+  "contentHash": "ab4c30bf0b7b7e52213d78b6dcd773749bdb07bfdffdccc2a521050a7723374e",
+  "categories": [
+    "platform"
+  ],
+  "primaryCategory": "platform",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 62,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "azureStatus": "Launched",
+    "products": "Azure SQL Database",
+    "tags": "Microsoft Ignite, Feature",
+    "gaDate": "2026-11",
+    "modified": "2026-11-17T20:00:32.9099044Z"
+  }
+}

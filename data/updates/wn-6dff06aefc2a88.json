@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -52,16 +52,16 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "backfill": "true",
-    "position": "preview:170"
+    "position": "preview:169"
   },
   "tr": {
     "status": "done",
     "sourceHash": "3460dd24136a8ecb40090db4abfa7044e2348e93e2726e207e595c3b1d3f56b8",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Virtualización de datos de SQL Database (versión preliminar)",
+      "titleEs": "Virtualización de datos de bases de datos SQL (Vista previa)",
       "summaryEs": "La virtualización de datos (vista previa) en la base de datos SQL permite consultar datos externos almacenados en OneLake usando T-SQL. Con la sintaxis de virtualización de datos, puede ejecutar consultas Transact-SQL (T-SQL) en archivos que almacenan datos en formatos de datos comunes en OneLake. Puede combinar estos datos con datos relacionales almacenados localmente mediante combinaciones."
     }
   }

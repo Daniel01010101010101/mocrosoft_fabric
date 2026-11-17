@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,17 +56,17 @@
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_130",
-    "position": "ga:42"
+    "position": "ga:44"
   },
   "tr": {
     "status": "done",
     "sourceHash": "ec249c42ef5c7ba38d9be32890658468bc0d66cc211f3c3c4d63ad29a996642c",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Capacidades de duplicación extendida (Disponibilidad general)",
-      "summaryEs": "Las capacidades de duplicación extendida añaden flujos de cambios y duplicación de vista de origen para escenarios avanzados de replicación. Para obtener más información, consulte Funcionalidades extendidas en reflejo."
+      "titleEs": "Capacidades de espejado extendido (Disponible en general)",
+      "summaryEs": "Las capacidades ampliadas de mirroring añaden fuentes de cambios de datos y mirroring de vistas de origen para escenarios avanzados de replicación. Para obtener más información, consulte Funcionalidades extendidas en reflejo."
     }
   }
 }

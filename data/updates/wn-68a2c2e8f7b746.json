@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -64,11 +64,11 @@
     "status": "done",
     "sourceHash": "4daea01edf666b040f4ff03488c2045188293a2306835f83ae8d40fa02568c4a",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "trabajo de copia e integración con Eventstream (Vista previa)",
-      "summaryEs": "La integración entre el trabajo de copia y Eventstream (Preview) utiliza Eventstream como fuente o destino de trabajo de copia. Para más información, consulta ¿Qué es el trabajo de copia?."
+      "titleEs": "Integración de trabajo de copia y Eventstream (Vista previa)",
+      "summaryEs": "La integración de Copy job y Eventstream (Vista previa) utiliza Eventstream como origen o destino de Copy job. Para más información, consulta ¿Qué es el trabajo de copia?."
     }
   }
 }

@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -59,11 +59,11 @@
     "status": "done",
     "sourceHash": "982234435b0299342821cdc0bfbd0362bf9e2098a9ebef8d14d470b3c8de0cad",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
       "titleEs": "Eventos de eliminación suave y recuperación de elementos (Vista previa)",
-      "summaryEs": "Los eventos de eliminación suave y recuperación de elementos (Preview) exponen eventos del ciclo de vida en Real-Time Hub para escenarios de automatización y auditoría. Para más información, consulta eventos de artículos en el espacio de trabajo Fabric."
+      "summaryEs": "Los eventos de eliminación suave y recuperación de elementos (vista previa) exponen eventos del ciclo de vida en Real-Time Hub para escenarios de automatización y auditoría. Para más información, consulta eventos de artículos en el espacio de trabajo Fabric."
     }
   }
 }

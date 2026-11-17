@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -66,5 +66,6 @@
       "titleEs": "Clasificador de instrucciones de grupo de SQL (Disponible con carácter general)",
       "summaryEs": "La clasificación de las sentencias SQL en pools separa automáticamente las sentencias de carga de datos y las de consulta en pools de carga de trabajo. Para más información, consulte Grupos de SQL personalizados."
     }
-  }
+  },
+  "removedFromSourceAt": "2026-11-17T23:40:26.273Z"
 }

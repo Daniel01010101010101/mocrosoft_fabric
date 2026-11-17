@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -68,5 +68,6 @@
       "titleEs": "Warehouse custom SQL pools (Vista previa)",
       "summaryEs": "Utilizar pools SQL personalizados para equilibrar rendimiento y coste explica cómo el enrutamiento de cargas de trabajo y la asignación de pools afectan al rendimiento, la concurrencia y el consumo de capacidad. Para más información, consulte Configurar pools SQL personalizados."
     }
-  }
+  },
+  "removedFromSourceAt": "2026-11-17T23:40:26.273Z"
 }

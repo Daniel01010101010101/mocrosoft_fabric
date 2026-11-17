@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,17 +56,17 @@
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_121",
-    "position": "ga:40"
+    "position": "ga:42"
   },
   "tr": {
     "status": "done",
     "sourceHash": "466b6540e675c456e5bf020c308084424c4fd585abecfeb39c56a78cf72d6d0c",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Actividad de mantenimiento de Lakehouse (Disponible de forma general)",
-      "summaryEs": "La actividad de mantenimiento de Lakehouse ejecuta las operaciones VACUUM y OPTIMIZE como pasos de canalización orquestados. Para más información, consulta la actividad de mantenimiento de Lakehouse."
+      "titleEs": "Actividad de mantenimiento de Lakehouse (Disponibilidad general)",
+      "summaryEs": "La actividad de mantenimiento de Lakehouse ejecuta las operaciones VACUUM y OPTIMIZE como pasos orquestados de la canalización. Para más información, consulta la actividad de mantenimiento de Lakehouse."
     }
   }
 }

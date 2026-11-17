@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -69,5 +69,6 @@
       "titleEs": "Asignación de transformaciones Data Flow en Dataflow Gen2 (versión preliminar)",
       "summaryEs": "Flujos de datos de asignación en Dataflow Gen2 (versión preliminar) introduce capacidades de transformación basadas en Spark directamente en la experiencia de creación de Dataflow Gen2, lo que permite realizar transformaciones de datos a gran escala con la capacidad de procesamiento de Spark y migrar los flujos de datos de asignación a Fabric. Para obtener más información sobre los precios, consulte Precios de Dataflow Gen2."
     }
-  }
+  },
+  "removedFromSourceAt": "2026-11-17T23:40:26.273Z"
 }

@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,10 +57,10 @@
     "status": "done",
     "sourceHash": "298b368f732dfd53e115f30c7e5ff6b9c63aa33509f4fea49f11df93b64fd50e",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Edición avanzada para consultas de destino de datos en Dataflow Gen2 (versión preliminar)",
+      "titleEs": "Edición avanzada para consultas de destino de datos en Dataflow Gen2 (Vista previa)",
       "summaryEs": "Ahora puede usar la edición avanzada para las consultas de destino de datos en Dataflow Gen2 para modificar la lógica de consulta del lado de destino directamente en la creación."
     }
   }

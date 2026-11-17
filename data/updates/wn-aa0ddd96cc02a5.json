@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,17 +56,17 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_161",
-    "position": "preview:52"
+    "position": "preview:51"
   },
   "tr": {
     "status": "done",
     "sourceHash": "cba8f4122f61657dda9d7d821355aa3aeb31c0c78397174069e3b7745446af34",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Esquema dinámico de almacén de datos (Vista previa)",
-      "summaryEs": "Los esquemas dinámicos de destino del almacén (Preview) evolucionan las tablas de destino cuando cambia la salida de la consulta Dataflow Gen2. Para más información, consulte opciones de esquema de destino de datos."
+      "titleEs": "Esquema dinámico de almacén de datos de flujo de datos (Vista previa)",
+      "summaryEs": "Los esquemas dinámicos de destino de almacén (Preview) evolucionan las tablas de destino cuando cambia la salida de la consulta Dataflow Gen2. Para más información, consulte opciones de esquema de destino de datos."
     }
   }
 }

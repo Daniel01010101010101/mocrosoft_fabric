@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -63,11 +63,11 @@
     "status": "done",
     "sourceHash": "ce0b0052fa4f593f0625d34e8dd036886e7be62325c3b7a135ed45bf2b9419de",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Asociación de una identidad para elementos (versión preliminar)",
-      "summaryEs": "Las identidades asociadas para los elementos (versión preliminar) permiten asociar un usuario, una entidad de servicio o una identidad administrada con Fabric Lakehouses y Eventstreams a través de la API REST, quitando la dependencia del propietario del elemento. Para obtener más información, consulte Administración de identidades asociadas a elementos de Fabric."
+      "titleEs": "Asociación de una identidad para elementos (Vista previa)",
+      "summaryEs": "Las identidades asociadas para elementos (Vista previa) te permiten asociar un usuario, principal de servicio o identidad gestionada con Fabric Lakehouses y Eventstreams mediante la API REST, eliminando la dependencia del propietario del elemento. Para obtener más información, consulte Administración de identidades asociadas a elementos de Fabric."
     }
   }
 }

@@ -9,7 +9,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -52,17 +52,17 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_86",
-    "position": "preview:112"
+    "position": "preview:111"
   },
   "tr": {
     "status": "done",
     "sourceHash": "fb45d321f5bca522aabe5dddaa2a1e383bab7d32c6d227a38cb630cd4d04661b",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Asigna servicios de entidades externos (Vista previa)",
-      "summaryEs": "Los servicios de entidades externas en Fabric Maps (Preview) se conectan a servicios GIS hospedados y a servicios geoespaciales basados en estándares. Para más información, véase Crear capas desde servicios de entidades externos."
+      "titleEs": "Servicios de entidades externos en Mapas (Vista previa)",
+      "summaryEs": "Los servicios externos de características en Fabric Maps (Preview) conectan servicios geoespaciales alojados de GIS y basados en estándares. Para más información, véase Crear capas desde servicios de entidades externos."
     }
   }
 }

@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -66,10 +66,10 @@
     "status": "done",
     "sourceHash": "5e2a5db164c3ff307ada4ed1bb7160f3f1fe681f61abda9d108740f38b1b31db",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Detección de anomalías (versión preliminar)",
+      "titleEs": "Detección de anomalías (Vista previa)",
       "summaryEs": "Con una interfaz sin código, la selección automática de modelos y alertas flexibles, el seguimiento de los cambios y eventos inesperados es fácil con la detección de anomalías en Real-Time Intelligence (versión preliminar). Para obtener más información, consulte AI-Powered Real-Time Intelligence with Anomaly Detection (Preview) (Inteligencia con detección de anomalías [versión preliminar]). La facturación de Anomaly Detector comienza en diciembre."
     }
   }

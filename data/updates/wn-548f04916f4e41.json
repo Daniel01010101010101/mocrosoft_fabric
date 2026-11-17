@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -63,11 +63,11 @@
     "status": "done",
     "sourceHash": "4382878f6dd127f92540d3c9f9895cc9fdf3db31063d05c78689ddb118ee5550",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Eventos de Operación de Capacidad en Real-Time Hub (Vista previa)",
-      "summaryEs": "Los Eventos de Operación de Capacidad en Real-Time Hub (Preview) proporcionan telemetría a nivel de operación para el consumo de capacidad, duración, limitación, espacios de trabajo y elementos. Para más información, véase Explorar los eventos de funcionamiento de la capacidad de Fabric."
+      "titleEs": "Eventos de Operación de Capacidad en Real-Time Hub (vista previa)",
+      "summaryEs": "Los eventos de operación de capacidad en Real-Time Hub (Vista previa) proporcionan telemetría a nivel operativo para consumo de capacidad, duración, limitación, espacios de trabajo y elementos. Para más información, véase Explorar los eventos de funcionamiento de la capacidad de Fabric."
     }
   }
 }

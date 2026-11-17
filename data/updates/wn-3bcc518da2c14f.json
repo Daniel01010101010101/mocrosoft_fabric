@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -60,17 +60,17 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Accelerate-JSON-workloads-with-the-Native-Execution-Engine-in/ba-p/5364366",
     "backfill": "true",
-    "position": "preview:131"
+    "position": "preview:130"
   },
   "tr": {
     "status": "done",
     "sourceHash": "7ef2275a34e9699c343074b9b4d35f1f418de69604e72ae2433c445911eab47d",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Aceleración JSON de Native Execution Engine (Vista previa)",
-      "summaryEs": "Native Execution Engine JSON acceleration (Preview) lee y analiza JSON a través del camino vectorizado nativo, de modo que las transformaciones Spark soportadas pueden permanecer columnares sin cambios en el código. Para más información, consulte Motor de ejecución nativo para Fabric Data Engineering y runtime de Apache Spark en Fabric."
+      "titleEs": "Aceleración JSON del motor de ejecución nativo (vista previa)",
+      "summaryEs": "La aceleración JSON (Preview) del motor de ejecución nativa lee y analiza JSON a través de la ruta nativa vectorizada, de modo que las transformaciones Spark compatibles puedan mantenerse columnares sin cambios en el código. Para más información, consulte Motor de ejecución nativo para Fabric Data Engineering y runtime de Apache Spark en Fabric."
     }
   }
 }

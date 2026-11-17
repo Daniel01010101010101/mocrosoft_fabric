@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -54,16 +54,16 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/compute-auto-scaling-choices-to-better-optimize-price-performance-for-sql-databases-in-microsoft-fabric-preview?ft=All",
     "backfill": "true",
-    "position": "preview:116"
+    "position": "preview:115"
   },
   "tr": {
     "status": "done",
     "sourceHash": "a90f190d84f354dfcb8aa6c917522ffa61fdf1d29fabc12138c08a837d036be6",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Opción de límite máximo de núcleos virtuales en bases de datos SQL (versión preliminar)",
+      "titleEs": "Opción de límite máximo de vCores en bases de datos SQL (Vista previa)",
       "summaryEs": "La opción Límite máximo de núcleos virtuales (versión preliminar) permite limitar el proceso de base de datos SQL en 4 o 32 núcleos virtuales para controlar los costos y proteger las capacidades compartidas de escenarios ruidosos y vecinos. Para más información, consulta Control compute usage."
     }
   }

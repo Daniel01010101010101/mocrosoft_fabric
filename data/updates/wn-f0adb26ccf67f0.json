@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,17 +57,17 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_81",
-    "position": "preview:67"
+    "position": "preview:66"
   },
   "tr": {
     "status": "done",
     "sourceHash": "bc277b152db11f5403d3983dac9000d8f41a860ffb7980047c2297583be9c829",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Registros de monitorización de espacios de trabajo de Eventhouse (Vista previa)",
-      "summaryEs": "Los registros de monitorización de espacios de trabajo de Eventhouse (Preview) exponen la limitación de velocidad, eventos de tamaño subóptimo y eventos de escalado horizontal. Para más información, consulte Monitor Eventhouse."
+      "titleEs": "Registros de monitorización del espacio de trabajo de Eventhouse (Vista previa)",
+      "summaryEs": "Los registros de monitorización del espacio de trabajo de Eventhouse (Preview) exponen eventos de limitación, tamaño subóptimo y escalabilidad. Para más información, consulte Monitor Eventhouse."
     }
   }
 }

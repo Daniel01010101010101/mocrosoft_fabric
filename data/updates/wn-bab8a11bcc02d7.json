@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -62,11 +62,11 @@
     "status": "done",
     "sourceHash": "005883dc06f5433c640dcf7d981f7cc8f37fd7baccae30ec747dfcd16523e104",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Autenticación de identidad del área de trabajo de origen de Azure Event Hubs (versión preliminar)",
-      "summaryEs": "La autenticación de identidad del área de trabajo para el origen de Azure Event Hubs permite que un origen de Azure Event Hubs de Eventstream use la identidad del área de trabajo en lugar de claves de acceso compartidas para acceder mediante Microsoft Entra ID. Para más información, consulta Añadir un código fuente de Azure Event Hubs a un eventstream."
+      "titleEs": "Autenticación de identidad del espacio de trabajo de origen Azure Event Hubs (Vista previa)",
+      "summaryEs": "La autenticación de identidad de espacio de trabajo de origen de Azure Event Hubs permite que una fuente de Eventstream Azure Event Hubs use la identidad del espacio de trabajo en lugar de claves de acceso compartidas para el acceso basado en Microsoft Entra ID. Para más información, consulta Añadir un código fuente de Azure Event Hubs a un eventstream."
     }
   }
 }

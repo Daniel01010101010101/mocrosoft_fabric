@@ -9,7 +9,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -50,16 +50,16 @@
     "section": "preview",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "backfill": "true",
-    "position": "preview:161"
+    "position": "preview:160"
   },
   "tr": {
     "status": "done",
     "sourceHash": "8306f65ed10f68440563bc810cc5faea396a6da85d338c8ec7b637acef252df8",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Actualizar la actividad del endpoint de analítica SQL (Vista previa)",
+      "titleEs": "Actividad Actualizar el punto de conexión de análisis SQL (Vista previa)",
       "summaryEs": "La actividad Actualizar endpoint de análisis de SQL (versión preliminar) actualiza un endpoint de análisis de SQL de un lakehouse bajo demanda o según una programación dentro de una canalización de Fabric."
     }
   }

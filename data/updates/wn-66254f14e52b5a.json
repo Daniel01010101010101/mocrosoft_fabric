@@ -9,7 +9,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -55,17 +55,17 @@
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Fabric-September-2026-Feature-Summary/ba-p/5325825#community-5325825-mcetoc_1k3kj91s5_99",
-    "position": "ga:39"
+    "position": "ga:41"
   },
   "tr": {
     "status": "done",
     "sourceHash": "05e6f4fd592e6315af037b239036ccd0c12709cfcccc1150d8f3a0d92921e0ce",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Tareas MCP de Data-agent (Disponibles en general)",
-      "summaryEs": "Las tareas MCP de data-agent admiten operaciones de larga duración del Model Context Protocol a través de un punto final de data-agent publicado. Para más información, véase Agente de datos como servidor MCP."
+      "titleEs": "Tareas MCP de agentes de datos (Disponibilidad general)",
+      "summaryEs": "Las tareas MCP del agente de datos soportan operaciones de larga duración del Protocolo de Contexto de Modelo a través de un endpoint publicado del agente de datos. Para más información, véase Agente de datos como servidor MCP."
     }
   }
 }

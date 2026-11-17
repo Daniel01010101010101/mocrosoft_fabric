@@ -10,7 +10,7 @@
   "publishedAt": "2026-07-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,17 +58,17 @@
     "month": "July 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Understand-your-data-with-the-OneLake-storage-report-Generally/ba-p/5295144",
-    "position": "ga:101"
+    "position": "ga:103"
   },
   "tr": {
     "status": "done",
     "sourceHash": "34dd3481351da01382525b49cbfb56990bf42578f070baf6f15efdc73b098c82",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Informes del tamaño de los elementos de OneLake (disponible de forma general)",
-      "summaryEs": "El informe del tamaño de los elementos de OneLake te proporciona un informe de almacenamiento del área de trabajo que desglosa los datos de los elementos, los datos del sistema, los datos eliminados de forma temporal y el estado de facturación en el portal de Fabric. Para obtener más información, consulte Obtener el tamaño de los elementos de OneLake."
+      "titleEs": "Informes de tamaño de ítem en OneLake (Disponibilidad general)",
+      "summaryEs": "El informe de tamaño de elemento de OneLake te proporciona un informe de almacenamiento en el espacio de trabajo que desglosa los datos de elementos, datos del sistema, datos eliminados de forma suave y estado de facturación en el portal Fabric. Para obtener más información, consulte Obtener el tamaño de los elementos de OneLake."
     }
   }
 }

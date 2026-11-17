@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -58,16 +58,16 @@
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Advancing-the-Microsoft-Fabric-SQL-Query-Editor/ba-p/5364033",
-    "position": "ga:71"
+    "position": "ga:73"
   },
   "tr": {
     "status": "done",
     "sourceHash": "ec929ec5d439bd3fc79bdd21a49817f6dda0923f4756aafc20231800195e5928",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Mejoras del editor de consultas SQL (Disponible en general)",
+      "titleEs": "Mejoras en el editor de consultas SQL (Disponible en general)",
       "summaryEs": "Las mejoras del editor de consultas SQL añaden una cuadrícula de resultados más rápida, explorador de objetos escalables e IntelliSense, controles de guardado automático, gestión masiva de consultas, .sql importación y exportación de archivos, e integraciones con OneLake Analytics y modelos semánticos. Para más información, consulte Editor de consultas SQL."
     }
   }

@@ -9,7 +9,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-17T23:40:26.273Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -52,16 +52,16 @@
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146",
-    "position": "ga:17"
+    "position": "ga:19"
   },
   "tr": {
     "status": "done",
     "sourceHash": "f911b238029640ae69d079ecfdeed951893050008defb9797b709ed5fea3bd56",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-14T04:42:26.431Z",
+    "generatedAt": "2026-11-17T23:40:26.273Z",
     "attempts": 0,
     "result": {
-      "titleEs": "ArcGIS Maps for Fabric (Disponibilidad general)",
+      "titleEs": "ArcGIS Maps for Fabric (Disponible de forma general)",
       "summaryEs": "ArcGIS Maps para Microsoft Fabric añade análisis espacial, capas de flujo y mapeo OneLake a Fabric."
     }
   }
