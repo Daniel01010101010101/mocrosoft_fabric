@@ -1,0 +1,70 @@
+{
+  "id": "cm-5422974",
+  "kind": "blog",
+  "source": "powerbi-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Power-BI-at-Ignite-Building-on-the-momentum/ba-p/5422974",
+  "title": "Power BI at Ignite: Building on the momentum",
+  "author": "mohammadali",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-17T18:30:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-17T19:52:56.332Z",
+  "updatedAt": "2026-11-17T19:52:56.332Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "If you haven't already, read Bogdan Crivat's Microsoft Fabric Ignite blog post for a complete look at our Ignite announcements across Microsoft Fabric.\nComing out of FabCon/SQLCon in Barcelona and the Power Platform Community Conference, I'm more excited than ever about what's ahead for Power BI. It's been inspiring to see the community explore new AI-powered experiences and rethink how we interact with data, uncover insights, and make decisions.\nAt FabCon, I shared that Power BI is entering its next chapter. Your ideas, enthusiasm, and feedback since then have helped shape what we're delivering this week. At Ignite, two key parts of that chapter are ready for you to try: Power BI Desktop for Apps and semantic views, both now in public preview.\nPower BI Desktop for Apps: Build apps where you already build reports\nIn Barcelona, we gave you an early look at a new app-building experience in Power BI Desktop, powered by Fabric apps. This week, it arrives in preview as Power BI Desktop for Apps.\nIt starts where Power BI always has with a semantic model you already trust. Choose a published semantic model, describe the app you want in natural language, and an agent builds it and iterates with you. Refine the result with direct edits and a design pane, preview it locally, and publish it to Microsoft Fabric when it's ready.\nBecause these are apps, they can do more than display data. They can accept inputs, preserve shared state, and support operational workflows. That makes room for everything from a focused portal for a team's reports to a planning app where people enter targets, approve them, and comment in context, all built on the definitions your organization already trusts.\nReports aren't going anywhere; they remain the fastest way to explore and share insights. Apps extend what you can build on the same semantic model when people need to act on what they see.\nThis experience isn't limited to Fabric capacity customers. Apps in Power BI are available to Power BI Pro customers in the coming weeks, with support for Premium Per User coming in the months ahead. Fabric apps, the technology underneath, is also now generally available.\nFigure: Creating an app with the new experience in Power BI Desktop.\nThe apps you build with Power BI Desktop for apps come with a new set of visuals made for Fabric apps. Charts, maps, KPI cards, slicers and data grids share consistent typography, color and spacing, so an app looks cohesive without requiring you to hand-tune every visual. They work in light and dark themes and adapt to your app's own colors.\nThey also behave the way Power BI users expect. With the Fabric visuals packages you get familiar Power BI capabilities like tooltips, cross-filtering and cross-highlighting, so selecting a point in one visual focuses the rest of the page. They support keyboard navigation and screen readers too.\nTo learn more about how we're designing visuals for people and agents alike, refer to the blogpost on Data visualization in the agentic era.\nFigure: Examples of Fabric visuals capabilities.\nSemantic views: an open semantic layer, built on Apache Ossie\nThe semantic layer is an organization's most strategic asset. With more than 22 million Power BI semantic models in use every day, Power BI is the world's most widely adopted semantic layer, and the business meaning in those models increasingly grounds agents, apps, and Microsoft Copilot.\nToday, semantic views enter public preview as the first semantic layer based on Apache Ossie (incubating) open standards, with the unparalleled modeling power of Power BI behind it. You define governed business metrics and semantics directly where your data lives in OneLake, in an open format designed for interoperability. Measures can be written in DAX, so a definition like Total Sales can carry year-over-year and rolling-period logic, not just a simple sum. Define a metric once and reuse it across reports, apps, and AI, within Fabric and, through Apache Ossie, with platforms such as Snowflake and other partners over time.\nSemantic models remain the heart of Power BI and Fabric IQ. Semantic views complement them by separating business definitions from compute, so the definitions your teams agree on can move across engines and ecosystems without being rebuilt. We'll keep advancing Apache Ossie with Snowflake and the broader community, including establishing DAX as an Ossie-recognized query language.\nFigure: Defining governed business metrics in a semantic view.\nWhat's ahead\nIf you're ready to take the next step and want to learn how to build apps for your teams and organization, we invite you to join Data Days: AI Work​ to learn from practitioners through real projects, working demos, and follow-along sessions. Whether you want to understand the possibilities, find a pattern to try, or share what you build, explore the sessions and find your next step at aka.ms/DataDays.\nRegister for our upcoming Fabric and SQL Community Conferences: Atlanta | Sydney—use code MSCUST to save.\nThank you for building with us and for continuing to challenge us to imagine what comes next. I can't wait to see what you create.",
+    "html": "<p>If you haven't already, read Bogdan Crivat's <a href=\"https://aka.ms/Fabric-Ignite26\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Microsoft Fabric Ignite blog post</a> for a complete look at our Ignite announcements across Microsoft Fabric.</p>\n<p>Coming out of FabCon/SQLCon in Barcelona and the Power Platform Community Conference, I'm more excited than ever about what's ahead for Power BI. It's been inspiring to see the community explore new AI-powered experiences and rethink how we interact with data, uncover insights, and make decisions.</p>\n<p>At FabCon, I shared that Power BI is entering its next chapter. Your ideas, enthusiasm, and feedback since then have helped shape what we're delivering this week. At Ignite, two key parts of that chapter are ready for you to try: Power BI Desktop for Apps and semantic views, both now in public preview.</p>\n<h2><span>Power BI Desktop for Apps: Build apps where you already build reports</span></h2>\n<p>In Barcelona, we gave you an early look at a new app-building experience in Power BI Desktop, powered by Fabric apps. This week, it arrives in preview as Power BI Desktop for Apps.</p>\n<p>It starts where Power BI always has with a semantic model you already trust. Choose a published semantic model, describe the app you want in natural language, and an agent builds it and iterates with you. Refine the result with direct edits and a design pane, preview it locally, and publish it to Microsoft Fabric when it's ready.</p>\n<p>Because these are apps, they can do more than display data. They can accept inputs, preserve shared state, and support operational workflows. That makes room for everything from a focused portal for a team's reports to a planning app where people enter targets, approve them, and comment in context, all built on the definitions your organization already trusts.</p>\n<p>Reports aren't going anywhere; they remain the fastest way to explore and share insights. Apps extend what you can build on the same semantic model when people need to act on what they see.</p>\n<p>This experience isn't limited to Fabric capacity customers. Apps in Power BI are available to Power BI Pro customers in the coming weeks, with support for Premium Per User coming in the months ahead. <a href=\"https://aka.ms/FabricApps-Ignite26\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric apps</a>, the technology underneath, is also now generally available.</p>\n<em>Figure: Creating an app with the new experience in Power BI Desktop</em><em>.</em>\n<p>The apps you build with Power BI Desktop for apps come with a new set of visuals made for Fabric apps. Charts, maps, KPI cards, slicers and data grids share consistent typography, color and spacing, so an app looks cohesive without requiring you to hand-tune every visual. They work in light and dark themes and adapt to your app's own colors.</p>\n<p>They also behave the way Power BI users expect. With the Fabric visuals packages you get familiar Power BI capabilities like tooltips, cross-filtering and cross-highlighting, so selecting a point in one visual focuses the rest of the page. They support keyboard navigation and screen readers too.</p>\n<p>To learn more about how we're designing visuals for people and agents alike, refer to the blogpost on <a href=\"https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/data-visualization-in-the-agentic-era/5376290\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Data visualization in the agentic era</a>.</p>\n<em>Figure:</em> <em>Examples</em><em> of </em><em>Fabric visual</em><em>s</em><em> capabilities</em><em>.</em>\n<h2><span>Semantic views: an open semantic layer, built on Apache Ossie</span></h2>\n<p>The semantic layer is an organization's most strategic asset. With more than 22 million Power BI semantic models in use every day, Power BI is the world's most widely adopted semantic layer, and the business meaning in those models increasingly grounds agents, apps, and Microsoft Copilot.</p>\n<p>Today, semantic views enter public preview as the first semantic layer based on Apache Ossie (incubating) open standards, with the unparalleled modeling power of Power BI behind it. You define governed business metrics and semantics directly where your data lives in OneLake, in an open format designed for interoperability. Measures can be written in DAX, so a definition like Total Sales can carry year-over-year and rolling-period logic, not just a simple sum. Define a metric once and reuse it across reports, apps, and AI, within Fabric and, through Apache Ossie, with platforms such as Snowflake and other partners over time.</p>\n<p>Semantic models remain the heart of Power BI and Fabric IQ. Semantic views complement them by separating business definitions from compute, so the definitions your teams agree on can move across engines and ecosystems without being rebuilt. We'll keep advancing Apache Ossie with Snowflake and the broader community, including establishing DAX as an Ossie-recognized query language.</p>\n<em>Figure: </em><em>Defining governed business metrics in</em><em> a semantic view</em><em>.</em>\n<h2><span>What's ahead</span></h2>\n<p>If you're ready to take the next step and want to learn how to build apps for your teams and organization, we invite you to join <strong>Data Days: AI <a target=\"_blank\" rel=\"noopener noreferrer nofollow\">Work​</a></strong> to learn from practitioners through real projects, working demos, and follow-along sessions. Whether you want to understand the possibilities, find a pattern to try, or share what you build, explore the sessions and find your next step at <a href=\"https://aka.ms/DataDays\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">aka.ms/DataDays</a>.</p>\n<p>Register for our upcoming Fabric and SQL Community Conferences: <a href=\"https://fabriccon.com/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Atlanta | Sydney</a>—use code MSCUST to save.</p>\n<p>Thank you for building with us and for continuing to challenge us to imagine what comes next. I can't wait to see what you create.</p>",
+    "excerpt": "If you haven't already, read Bogdan Crivat's Microsoft Fabric Ignite blog post for a complete look at our Ignite announcements across Microsoft Fabric. Coming out of FabCon/SQLCon in Barcelona and the Power Platform Community Conference, I'm more excited than ever about what's ahead for Power BI. It's been inspiring…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Microsoft Fabric Ignite blog post",
+        "url": "https://aka.ms/Fabric-Ignite26"
+      },
+      {
+        "label": "Fabric apps",
+        "url": "https://aka.ms/FabricApps-Ignite26"
+      },
+      {
+        "label": "Data visualization in the agentic era",
+        "url": "https://community.fabric.microsoft.com/blog/fbc_fabricupdatesblogs/data-visualization-in-the-agentic-era/5376290"
+      },
+      {
+        "label": "aka.ms/DataDays",
+        "url": "https://aka.ms/DataDays"
+      },
+      {
+        "label": "Atlanta | Sydney",
+        "url": "https://fabriccon.com/"
+      }
+    ]
+  },
+  "contentHash": "6b3d32207302aa75db3196abb94f3e4376e85dfb6642102647dc1eab690afeba",
+  "categories": [
+    "power-bi"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "event",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 30,
+    "level": "bajo",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "data-scientists",
+      "developers",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}
