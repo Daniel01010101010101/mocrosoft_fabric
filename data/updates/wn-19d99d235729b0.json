@@ -1,0 +1,60 @@
+{
+  "id": "wn-19d99d235729b0",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-destination-business-events",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-destination-business-events",
+  "title": "Publish and consume Business Events from Eventstream (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-18T23:10:13.380Z",
+  "updatedAt": "2026-11-18T23:10:13.380Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Turn streaming data into business events and consume them in Eventstream to filter, transform, and route business signals in real time. For more information, see Publish business events from an eventstream and Consume business events in an eventstream.",
+    "html": "Turn streaming data into business events and consume them in Eventstream to filter, transform, and route business signals in real time. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-destination-business-events\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Publish business events from an eventstream</a> and <a href=\"https://learn.microsoft.com/en-us/fabric/real-time-hub/add-source-business-events\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Consume business events in an eventstream</a>.",
+    "excerpt": "Turn streaming data into business events and consume them in Eventstream to filter, transform, and route business signals in real time. For more information, see Publish business events from an eventstream and Consume business events in an eventstream.",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Publish business events from an eventstream",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-destination-business-events"
+      },
+      {
+        "label": "Consume business events in an eventstream",
+        "url": "https://learn.microsoft.com/en-us/fabric/real-time-hub/add-source-business-events"
+      }
+    ]
+  },
+  "contentHash": "095ffab5fc0e940e751c9c3303d550d860190acf1917c1bbec0179e17903ca64",
+  "categories": [
+    "real-time-intelligence"
+  ],
+  "primaryCategory": "real-time-intelligence",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 56,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "position": "ga:0",
+    "month": "November 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features"
+  }
+}

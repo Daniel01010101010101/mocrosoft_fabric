@@ -9,7 +9,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-17T23:40:26.273Z",
+  "updatedAt": "2026-11-18T23:10:13.380Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -52,7 +52,7 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/From-prompt-to-production-What-s-new-in-Fabric-Apps/ba-p/5369134",
     "backfill": "true",
-    "position": "preview:78"
+    "position": "preview:77"
   },
   "tr": {
     "status": "done",

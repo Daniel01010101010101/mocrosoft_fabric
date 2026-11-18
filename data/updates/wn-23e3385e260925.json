@@ -9,7 +9,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-17T23:40:26.273Z",
+  "updatedAt": "2026-11-18T23:10:13.380Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -52,17 +52,17 @@
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146",
-    "position": "ga:20"
+    "position": "ga:22"
   },
   "tr": {
     "status": "done",
     "sourceHash": "073e71aaa8e537851265958ef5dd5bf59b6c427eb3c72c53ab4c944ebaebc7fe",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-17T23:40:26.273Z",
+    "generatedAt": "2026-11-18T23:10:13.380Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Fiabilidad de datos de Telmai (Disponibilidad general)",
-      "summaryEs": "Telmai Data Reliability for Fabric supervisa las tablas OneLake para detectar cambios en volumen, esquema, frescura y integridad."
+      "titleEs": "Migración de Spectral Core Fabric (disponibilidad general)",
+      "summaryEs": "Spectral Core Fabric Migration guía el movimiento de bases de datos, la traducción SQL, la conversión de esquemas y la validación."
     }
   }
 }

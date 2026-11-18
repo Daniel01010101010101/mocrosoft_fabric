@@ -7,15 +7,22 @@
   "name": "Bring your own Eventhub to Fabric Eventstream",
   "description": "You can now shortcut an existing Azure Event Hub as a fully featured Eventstream, bringing your own hub into Fabric without rebuilding pipelines. The shortcut stream behaves like a native Eventstream, including processing and routing.With this capability, you can:- Connect an existing Event Hub to Fabric as an Eventstream.- Process shortcut hub data with Eventstream operators.- Route events to Fabric destinations without recreating sources.",
   "releaseType": "preview",
-  "releaseStatus": "planned",
+  "releaseStatus": "shipped",
   "releaseDate": "Q4 2026",
   "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
   "wave": "2026 Wave 1 (Rubidium)",
   "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=ee5af75d-3f4a-f111-bec7-002248085b3f",
   "contentHash": "c1d483423ad3d8a00b77c789c0d8581171a612062ef421f03757f5a5afbc135c",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
-  "history": [],
+  "updatedAt": "2026-11-18T23:10:13.380Z",
+  "history": [
+    {
+      "at": "2026-11-18T23:10:13.380Z",
+      "field": "releaseStatus",
+      "from": "planned",
+      "to": "shipped"
+    }
+  ],
   "ai": {
     "status": "done",
     "sourceHash": "c1d483423ad3d8a00b77c789c0d8581171a612062ef421f03757f5a5afbc135c",

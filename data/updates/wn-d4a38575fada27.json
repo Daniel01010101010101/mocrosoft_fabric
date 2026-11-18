@@ -1,0 +1,61 @@
+{
+  "id": "wn-d4a38575fada27",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/enterprise/surge-protection#workspace-level-surge-protection",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/enterprise/surge-protection#workspace-level-surge-protection",
+  "title": "Workspace-level surge protection (Generally Available)",
+  "originalLanguage": "en",
+  "languageConfidence": 0.89,
+  "publishedAt": "2026-11-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-18T23:10:13.380Z",
+  "updatedAt": "2026-11-18T23:10:13.380Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Workspace-level surge protection lets capacity admins cap a workspace's compute consumption, automatically or manually block excessive consumers, exempt mission-critical workspaces, and restore blocked workspaces. For release status, see the Microsoft Fabric roadmap. For more information, see Manage surge protection for Fabric capacities.",
+    "html": "Workspace-level surge protection lets capacity admins cap a workspace's compute consumption, automatically or manually block excessive consumers, exempt mission-critical workspaces, and restore blocked workspaces. For release status, see the <a href=\"https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&amp;releaseItem=d327a257-51ad-f111-aaab-6045bd041d32\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Microsoft Fabric roadmap</a>. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/enterprise/surge-protection#workspace-level-surge-protection\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Manage surge protection for Fabric capacities</a>.",
+    "excerpt": "Workspace-level surge protection lets capacity admins cap a workspace's compute consumption, automatically or manually block excessive consumers, exempt mission-critical workspaces, and restore blocked workspaces. For release status, see the Microsoft Fabric roadmap. For more information, see Manage surge protection…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Microsoft Fabric roadmap",
+        "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=d327a257-51ad-f111-aaab-6045bd041d32"
+      },
+      {
+        "label": "Manage surge protection for Fabric capacities",
+        "url": "https://learn.microsoft.com/en-us/fabric/enterprise/surge-protection#workspace-level-surge-protection"
+      }
+    ]
+  },
+  "contentHash": "35da97f0333b54dca655c0bd4bed9589f6e4c88f6dcf8f04fa25c4b67eefa483",
+  "categories": [
+    "admin-governance"
+  ],
+  "primaryCategory": "admin-governance",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 59,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "developers",
+      "administrators"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "position": "ga:1",
+    "month": "November 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features"
+  }
+}

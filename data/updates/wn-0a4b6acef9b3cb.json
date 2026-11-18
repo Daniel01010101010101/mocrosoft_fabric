@@ -9,7 +9,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-17T23:40:26.273Z",
+  "updatedAt": "2026-11-18T23:10:13.380Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -63,5 +63,6 @@
       "titleEs": "Publicador de eventos empresariales de Eventstream (Vista previa)",
       "summaryEs": "Eventstream ahora publica Business Events como destino integrado, de modo que filtras, agregas, aplicas umbrales y emites señales de negocio reguladas y detectables desde el lienzo de Eventstream sin código."
     }
-  }
+  },
+  "removedFromSourceAt": "2026-11-18T23:10:13.380Z"
 }

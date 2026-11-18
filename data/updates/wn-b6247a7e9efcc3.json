@@ -9,7 +9,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
+  "updatedAt": "2026-11-18T23:10:13.380Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -59,7 +59,7 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://blog.fabric.microsoft.com/blog/empowering-businesses-with-smart-capacity-planning-introducing-the-microsoft-fabric-sku-estimator?ft=All",
     "backfill": "true",
-    "position": "preview:95"
+    "position": "preview:94"
   },
   "tr": {
     "status": "done",

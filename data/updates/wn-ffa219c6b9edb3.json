@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-17T23:40:26.273Z",
+  "updatedAt": "2026-11-18T23:10:13.380Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -64,5 +64,6 @@
       "titleEs": "Protección contra sobretensiones a nivel de espacio de trabajo (Vista previa)",
       "summaryEs": "La protección contra sobretensiones a nivel de espacio permite a los administradores de capacidad limitar el consumo de cómputo de un espacio de trabajo, bloquear automática o manualmente usuarios excesivos, eximir espacios de trabajo críticos y restaurar espacios de trabajo bloqueados. Para más información, consulte Gestionar la protección contra sobretensiones para las capacidades de Fabric."
     }
-  }
+  },
+  "removedFromSourceAt": "2026-11-18T23:10:13.380Z"
 }

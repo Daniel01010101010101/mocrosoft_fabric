@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-17T23:40:26.273Z",
+  "updatedAt": "2026-11-18T23:10:13.380Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -59,7 +59,7 @@
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#features-currently-in-preview",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Bring-your-Google-Lakehouse-Runtime-Catalog-data-to-OneLake/ba-p/5360492",
     "backfill": "true",
-    "position": "preview:99"
+    "position": "preview:98"
   },
   "tr": {
     "status": "done",

@@ -9,7 +9,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-17T23:40:26.273Z",
+  "updatedAt": "2026-11-18T23:10:13.380Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -51,17 +51,17 @@
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
     "blogUrl": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/FabCon-and-SQLCon-Barcelona-2026-What-s-new-in-Microsoft-OneLake/ba-p/5369146",
-    "position": "ga:18"
+    "position": "ga:20"
   },
   "tr": {
     "status": "done",
     "sourceHash": "69b7f3199bd1266ca9df94db069d4d3a852034bac40a48a985f1d9f9f11f22c3",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-17T23:40:26.273Z",
+    "generatedAt": "2026-11-18T23:10:13.380Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Conector Atlan para Fabric (Disponible en general)",
-      "summaryEs": "El conector Atlan para Fabric añade contexto empresarial y un linaje más profundo entre los elementos de Fabric."
+      "titleEs": "Fiabilidad de datos de Telmai (Disponibilidad general)",
+      "summaryEs": "Telmai Data Reliability for Fabric supervisa las tablas OneLake para detectar cambios en volumen, esquema, frescura y integridad."
     }
   }
 }
