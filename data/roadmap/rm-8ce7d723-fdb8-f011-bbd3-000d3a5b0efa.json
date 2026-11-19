@@ -1,0 +1,23 @@
+{
+  "id": "rm-8ce7d723-fdb8-f011-bbd3-000d3a5b0efa",
+  "releaseItemId": "8ce7d723-fdb8-f011-bbd3-000d3a5b0efa",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Outbound access protection for Deployment Pipeline",
+  "description": "Fabric administrators want to ensure that data in Fabric isnt exfiltrated to unpermitted destinations outside of Fabric unintentionally or by due to  malicious intent . This feature is to track support for CICD - Deployment Pipelines under OAP.",
+  "releaseType": "ga",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=8ce7d723-fdb8-f011-bbd3-000d3a5b0efa",
+  "contentHash": "06f7065ea8c572d61ec8b1be0a0217235c7d63a276893ccd8bf571a72932a24a",
+  "detectedAt": "2026-11-19T23:15:37.142Z",
+  "updatedAt": "2026-11-19T23:15:37.142Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

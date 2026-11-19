@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-18T23:10:13.380Z",
+  "updatedAt": "2026-11-19T23:15:37.142Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -52,7 +52,7 @@
     "section": "ga",
     "month": "September 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features",
-    "position": "ga:72"
+    "position": "ga:73"
   },
   "tr": {
     "status": "done",

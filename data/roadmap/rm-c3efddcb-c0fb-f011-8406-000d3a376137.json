@@ -1,0 +1,23 @@
+{
+  "id": "rm-c3efddcb-c0fb-f011-8406-000d3a376137",
+  "releaseItemId": "c3efddcb-c0fb-f011-8406-000d3a376137",
+  "product": "Real-Time Intelligence",
+  "productId": "58cb90aa-4203-ef11-a1fd-000d3a36eea4",
+  "category": "real-time-intelligence",
+  "name": "Outbound Access Protection for Fabric Maps",
+  "description": "Outbound access protection is one of the top security asks from the Fabric Enterprise customers. Today WS OAP support only limited set of items which limits the adoption of Fabric for Customers. Maps in Fabric complies with Fabric Workspace Outbound Access Protection (OAP). When OAP is enabled, the maps  workloads enforce outbound network policies, allowing connections only to approved destinations such as managed private endpoints. Non compliant outbound calls are blocked and surfaced clearly. This ensures Fabric Maps aligns with enterprise network security requirements and helps prevent unintended or unauthorized data exfiltration.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q3 2026",
+  "releaseQuarterStart": "2026-07-01T00:00:00.000Z",
+  "wave": "2026 Wave 1 (Rubidium)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=real-timeintelligence&releaseItem=c3efddcb-c0fb-f011-8406-000d3a376137",
+  "contentHash": "ea444f5801f6a01befc60a48fa093007ef5422997460a91082f1d0cf9c8362ac",
+  "detectedAt": "2026-11-19T23:15:37.142Z",
+  "updatedAt": "2026-11-19T23:15:37.142Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

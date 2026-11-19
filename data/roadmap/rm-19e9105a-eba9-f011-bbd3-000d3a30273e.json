@@ -1,0 +1,23 @@
+{
+  "id": "rm-19e9105a-eba9-f011-bbd3-000d3a30273e",
+  "releaseItemId": "19e9105a-eba9-f011-bbd3-000d3a30273e",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Outbound Access Protection for Data Warehouse",
+  "description": "Fabric administrators want to ensure that data in Fabric isnt exfiltrated to unpermitted destinations outside of Fabric unintentionally or by due to  malicious intent . In this milestone, we will provide controls to ensure Data Warehouse in a Fabric workspace can only connect to approved endpoints. The date for GA is currently a placeholder. We'll update that once we have clarity on GA dates.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2025",
+  "releaseQuarterStart": "2025-10-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=19e9105a-eba9-f011-bbd3-000d3a30273e",
+  "contentHash": "22dc74a848dc357c15b39ce14a0698d667000419d57ae0f1d8122f16d6d500ba",
+  "detectedAt": "2026-11-19T23:15:37.142Z",
+  "updatedAt": "2026-11-19T23:15:37.142Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

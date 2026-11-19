@@ -1,0 +1,23 @@
+{
+  "id": "rm-f5e0f66e-63e4-f111-84e8-6045bd018eb6",
+  "releaseItemId": "f5e0f66e-63e4-f111-84e8-6045bd018eb6",
+  "product": "OneLake",
+  "productId": "338c69fe-dcd6-ee11-9079-000d3a310f67",
+  "category": "onelake",
+  "name": "Outbound access protection for Snowflake DB",
+  "description": "",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "FY27 Q2 (Oct-Dec 2026)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=onelake&releaseItem=f5e0f66e-63e4-f111-84e8-6045bd018eb6",
+  "contentHash": "dceaf770d59acc02652412682cd23c799094a2872be484c96cbf9e8d92bced62",
+  "detectedAt": "2026-11-19T23:15:37.142Z",
+  "updatedAt": "2026-11-19T23:15:37.142Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

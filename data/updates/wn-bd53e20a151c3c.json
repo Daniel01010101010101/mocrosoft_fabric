@@ -1,0 +1,58 @@
+{
+  "id": "wn-bd53e20a151c3c",
+  "kind": "whats-new",
+  "source": "learn-whats-new",
+  "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/sql-analytics-endpoint-metadata-sync#new-metadata-sync",
+  "docsUrl": "https://learn.microsoft.com/en-us/fabric/data-engineering/sql-analytics-endpoint-metadata-sync#new-metadata-sync",
+  "title": "SQL analytics endpoint metadata sync",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-01T00:00:00.000Z",
+  "datePrecision": "month",
+  "detectedAt": "2026-11-19T23:15:37.142Z",
+  "updatedAt": "2026-11-19T23:15:37.142Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "New metadata sync on SQL analytics endpoint provides improved data freshness, and performance. For more information, see SQL analytics endpoint metadata sync",
+    "html": "<a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/sql-analytics-endpoint-metadata-sync#new-metadata-sync\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">New metadata sync on SQL analytics endpoint</a> provides improved data freshness, and performance. For more information, see <a href=\"https://learn.microsoft.com/en-us/fabric/data-engineering/sql-analytics-endpoint-metadata-sync\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">SQL analytics endpoint metadata sync</a>",
+    "excerpt": "New metadata sync on SQL analytics endpoint provides improved data freshness, and performance. For more information, see SQL analytics endpoint metadata sync",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "New metadata sync on SQL analytics endpoint",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/sql-analytics-endpoint-metadata-sync#new-metadata-sync"
+      },
+      {
+        "label": "SQL analytics endpoint metadata sync",
+        "url": "https://learn.microsoft.com/en-us/fabric/data-engineering/sql-analytics-endpoint-metadata-sync"
+      }
+    ]
+  },
+  "contentHash": "31f531e1cf0e39dea84c0606248850d2448b668451ab920ca7f59cdbb94ae9a9",
+  "categories": [
+    "data-warehouse"
+  ],
+  "primaryCategory": "data-warehouse",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 59,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {
+    "section": "ga",
+    "position": "ga:0",
+    "month": "November 2026",
+    "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features"
+  }
+}

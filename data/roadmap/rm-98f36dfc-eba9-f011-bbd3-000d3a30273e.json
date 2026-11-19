@@ -1,0 +1,23 @@
+{
+  "id": "rm-98f36dfc-eba9-f011-bbd3-000d3a30273e",
+  "releaseItemId": "98f36dfc-eba9-f011-bbd3-000d3a30273e",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Outbound Access Protection for shortcuts",
+  "description": "Fabric administrators want to ensure that data in Fabric isnt exfiltrated to unpermitted destinations outside of Fabric unintentionally or by due to  malicious intent . In this milestone, we will provide controls to ensure Shortcuts in a Fabric workspace can only connect to approved data sources or endpoints outside of Fabric.",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q1 2026",
+  "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=98f36dfc-eba9-f011-bbd3-000d3a30273e",
+  "contentHash": "c6ff0618e13ed8b6570b14c46c1d2cad4b5a0e1aa1747bbb28633f1bc53b5e5c",
+  "detectedAt": "2026-11-19T23:15:37.142Z",
+  "updatedAt": "2026-11-19T23:15:37.142Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

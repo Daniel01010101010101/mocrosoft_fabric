@@ -1,0 +1,23 @@
+{
+  "id": "rm-fa9df8b5-f6bb-f011-bbd2-0022480a2ecf",
+  "releaseItemId": "fa9df8b5-f6bb-f011-bbd2-0022480a2ecf",
+  "product": "Administration, Governance and Security",
+  "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
+  "category": "admin-governance",
+  "name": "Outbound access protection for KQL queryset",
+  "description": "",
+  "releaseType": "preview",
+  "releaseStatus": "shipped",
+  "releaseDate": "Q2 2026",
+  "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
+  "wave": "2025 Wave 2 (Krypton)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=fa9df8b5-f6bb-f011-bbd2-0022480a2ecf",
+  "contentHash": "05f13b0a9fb9e2c625514ca91cb34caa3e133b7b9cb0b09ee33301eed5a7a484",
+  "detectedAt": "2026-11-19T23:15:37.142Z",
+  "updatedAt": "2026-11-19T23:15:37.142Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}
