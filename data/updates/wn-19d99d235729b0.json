@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-18T23:10:13.380Z",
-  "updatedAt": "2026-11-18T23:10:13.380Z",
+  "updatedAt": "2026-11-19T04:14:02.432Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -56,5 +56,16 @@
     "position": "ga:0",
     "month": "November 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "095ffab5fc0e940e751c9c3303d550d860190acf1917c1bbec0179e17903ca64",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-19T04:14:02.432Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Publicar y consumir eventos empresariales desde Eventstream (Disponible en general)",
+      "summaryEs": "Convierte los datos en streaming en eventos empresariales y consómelos en Eventstream para filtrar, transformar y enrutar las señales empresariales en tiempo real. Para más información, consulte Publicar eventos empresariales desde un flujo de eventos y Consumar eventos empresariales en un flujo de eventos."
+    }
   }
 }

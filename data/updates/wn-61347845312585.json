@@ -9,7 +9,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-18T23:10:13.380Z",
+  "updatedAt": "2026-11-19T04:14:02.432Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,11 +57,11 @@
     "status": "done",
     "sourceHash": "69b7f3199bd1266ca9df94db069d4d3a852034bac40a48a985f1d9f9f11f22c3",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-18T23:10:13.380Z",
+    "generatedAt": "2026-11-19T04:14:02.432Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Fiabilidad de datos de Telmai (Disponibilidad general)",
-      "summaryEs": "Telmai Data Reliability for Fabric supervisa las tablas OneLake para detectar cambios en volumen, esquema, frescura y integridad."
+      "titleEs": "Conector Atlan para Fabric (Disponible en general)",
+      "summaryEs": "El conector Atlan para Fabric añade contexto empresarial y un linaje más profundo entre los elementos de Fabric."
     }
   }
 }

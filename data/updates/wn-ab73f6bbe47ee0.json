@@ -9,7 +9,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-18T23:10:13.380Z",
+  "updatedAt": "2026-11-19T04:14:02.432Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,11 +57,11 @@
     "status": "done",
     "sourceHash": "d99c697d593c14536b1cfee071e5056297a26cf82dcb8c261d4b906dece5b833",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-18T23:10:13.380Z",
+    "generatedAt": "2026-11-19T04:14:02.432Z",
     "attempts": 0,
     "result": {
-      "titleEs": "IntuigenceAI para Fabric (Disponible en general)",
-      "summaryEs": "IntuigenceAI para Fabric convierte documentos y registros industriales en un grafo de conocimiento consultable en OneLake."
+      "titleEs": "Migración de Spectral Core Fabric (disponibilidad general)",
+      "summaryEs": "Spectral Core Fabric Migration guía el movimiento de bases de datos, la traducción SQL, la conversión de esquemas y la validación."
     }
   }
 }

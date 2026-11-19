@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-18T23:10:13.380Z",
-  "updatedAt": "2026-11-18T23:10:13.380Z",
+  "updatedAt": "2026-11-19T04:14:02.432Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,5 +57,16 @@
     "position": "ga:1",
     "month": "November 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "35da97f0333b54dca655c0bd4bed9589f6e4c88f6dcf8f04fa25c4b67eefa483",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-19T04:14:02.432Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Protección contra sobretensiones a nivel de Workspace (Disponibilidad general)",
+      "summaryEs": "La protección contra sobretensiones a nivel de espacio permite a los administradores de capacidad limitar el consumo de cómputo de un espacio de trabajo, bloquear automática o manualmente usuarios excesivos, eximir espacios de trabajo críticos y restaurar espacios de trabajo bloqueados. Para el estado de la versión, consulte la hoja de ruta de Microsoft Fabric. Para más información, consulte Gestionar la protección contra sobretensiones para las capacidades de Fabric."
+    }
   }
 }
