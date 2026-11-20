@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-19T23:15:37.142Z",
-  "updatedAt": "2026-11-19T23:15:37.142Z",
+  "updatedAt": "2026-11-20T19:08:02.479Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -54,5 +54,16 @@
     "position": "ga:0",
     "month": "November 2026",
     "page": "https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new#generally-available-features"
+  },
+  "tr": {
+    "status": "done",
+    "sourceHash": "31f531e1cf0e39dea84c0606248850d2448b668451ab920ca7f59cdbb94ae9a9",
+    "model": "microsoft-learn-es",
+    "generatedAt": "2026-11-20T19:08:02.479Z",
+    "attempts": 0,
+    "result": {
+      "titleEs": "Sincronización de metadatos de endpoint de SQL analytics",
+      "summaryEs": "La nueva sincronización de metadatos en SQL analytics endpoint proporciona una mayor frescura y rendimiento de los datos. Para más información, consulte Sincronización de metadatos del punto de conexión de análisis de SQL"
+    }
   }
 }

@@ -9,7 +9,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-19T23:15:37.142Z",
+  "updatedAt": "2026-11-20T19:08:02.479Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -55,11 +55,11 @@
     "status": "done",
     "sourceHash": "ace1c37200eb3c612f4ee968d9d76faa04db75cd35fd82078420f32a91bba0fa",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-19T23:15:37.142Z",
+    "generatedAt": "2026-11-20T19:08:02.479Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Migración de Spectral Core Fabric (disponibilidad general)",
-      "summaryEs": "Spectral Core Fabric Migration guía el movimiento de bases de datos, la traducción SQL, la conversión de esquemas y la validación."
+      "titleEs": "Inteligencia de procesos Celonis (Disponibilidad general)",
+      "summaryEs": "Celonis Process Intelligence incorpora flujos de procesos y análisis de causas raíz a Fabric."
     }
   }
 }

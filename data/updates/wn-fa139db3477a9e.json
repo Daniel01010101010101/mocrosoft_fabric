@@ -10,7 +10,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-19T23:15:37.142Z",
+  "updatedAt": "2026-11-20T19:08:02.479Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -64,11 +64,11 @@
     "status": "done",
     "sourceHash": "053090846a3850d22684abdb09683fd539210afa6f6c75949db69f842f8f8cba",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-19T23:15:37.142Z",
+    "generatedAt": "2026-11-20T19:08:02.479Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Experiencia de gobierno del catálogo OneLake (Disponible en general)",
-      "summaryEs": "OneLake catalog Govern experience centraliza la gobernanza para arrendatarios, dominios, capacidades, espacios de trabajo, etiquetas y políticas. Para más información, consulte Gobierne su entorno de datos."
+      "titleEs": "Mejoras en la app Métricas de Capacidad (Disponibilidad general)",
+      "summaryEs": "Las mejoras de la app Capacity Metrics añaden duración del estado de salud, vistas por unidades de capacidad por segundo, mapas de calor, análisis de contribuyentes y integración con contracargos. Para más información, consulte Capacity Metrics app."
     }
   }
 }

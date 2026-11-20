@@ -9,7 +9,7 @@
   "publishedAt": "2026-09-01T00:00:00.000Z",
   "datePrecision": "month",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-19T23:15:37.142Z",
+  "updatedAt": "2026-11-20T19:08:02.479Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -57,11 +57,11 @@
     "status": "done",
     "sourceHash": "69b7f3199bd1266ca9df94db069d4d3a852034bac40a48a985f1d9f9f11f22c3",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-19T23:15:37.142Z",
+    "generatedAt": "2026-11-20T19:08:02.479Z",
     "attempts": 0,
     "result": {
-      "titleEs": "ArcGIS Maps for Fabric (Disponible de forma general)",
-      "summaryEs": "ArcGIS Maps para Microsoft Fabric añade análisis espacial, capas de flujo y mapeo OneLake a Fabric."
+      "titleEs": "Conector Atlan para Fabric (Disponible en general)",
+      "summaryEs": "El conector Atlan para Fabric añade contexto empresarial y un linaje más profundo entre los elementos de Fabric."
     }
   }
 }

@@ -10,7 +10,7 @@
   "publishedAt": "2026-11-12T23:36:33.354Z",
   "datePrecision": "detected",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-19T23:15:37.142Z",
+  "updatedAt": "2026-11-20T19:08:02.479Z",
   "relatedSources": [],
   "relatedIds": [],
   "content": {
@@ -64,11 +64,11 @@
     "status": "done",
     "sourceHash": "a005189b0bfece43b53dab624e69e0fc64e8e0f966156cda84d797551f41cb7d",
     "model": "microsoft-learn-es",
-    "generatedAt": "2026-11-19T23:15:37.142Z",
+    "generatedAt": "2026-11-20T19:08:02.479Z",
     "attempts": 0,
     "result": {
-      "titleEs": "Protección de acceso saliente en el espacio de trabajo para mapas de Fabric (vista previa)",
-      "summaryEs": "La protección de acceso saliente del espacio de trabajo para Fabric Maps (Preview) solo permite fuentes de datos mapas aprobadas y servicios geoespaciales externos mediante reglas de conexión de datos del espacio de trabajo. Para más información, consulte Protección de acceso saliente al espacio de trabajo para Fabric Maps."
+      "titleEs": "Protección de acceso saliente en el espacio de trabajo para Operations Agent (vista previa)",
+      "summaryEs": "La protección de acceso saliente al espacio de trabajo para Operations Agent aplica políticas de espacio de trabajo a acciones salientes como notificaciones de Teams, activadores de flujo de trabajo y operaciones entre espacios de trabajo. Para más información, consulte Protección de acceso saliente al espacio de trabajo para el Agente de Operaciones."
     }
   }
 }
