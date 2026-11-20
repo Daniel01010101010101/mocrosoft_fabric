@@ -1,0 +1,23 @@
+{
+  "id": "rm-4b58794a-1de5-f111-84e8-6045bd0187f7",
+  "releaseItemId": "4b58794a-1de5-f111-84e8-6045bd0187f7",
+  "product": "IQ",
+  "productId": "cef5a30d-562f-f011-8c4d-6045bd096d8f",
+  "category": "copilot-ai",
+  "name": "Outbound access protection for Ontology",
+  "description": "Outbound access protection for Ontology and Ontology Agent",
+  "releaseType": "preview",
+  "releaseStatus": "planned",
+  "releaseDate": "Q4 2026",
+  "releaseQuarterStart": "2026-10-01T00:00:00.000Z",
+  "wave": "FY27 Q2 (Oct-Dec 2026)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=iq&releaseItem=4b58794a-1de5-f111-84e8-6045bd0187f7",
+  "contentHash": "e08a58991f22d7053c58d9f9f8364bb80e7a6ccf35a05c6ae440e2b70b0ebe34",
+  "detectedAt": "2026-11-20T22:50:20.414Z",
+  "updatedAt": "2026-11-20T22:50:20.414Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}
