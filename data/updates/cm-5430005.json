@@ -1,0 +1,67 @@
+{
+  "id": "cm-5430005",
+  "kind": "blog",
+  "source": "fabric-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/On-premises-data-gateway-November-2026-release/ba-p/5430005",
+  "docsUrl": "https://learn.microsoft.com/data-integration/gateway/service-dual-relay",
+  "title": "On-premises data gateway November 2026 release",
+  "author": "goupadhy",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-20T12:45:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-20T15:36:29.609Z",
+  "updatedAt": "2026-11-20T15:36:29.609Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "The November 2026 release of the on-premises data gateway (version 3000.342) continues our commitment to secure, reliable and accessible connectivity between on-premises data sources and Microsoft Fabric services.\nThis release focuses on strengthening gateway security, improving performance and reliability, enhancing diagnostics, and updating underlying dependencies to maintain compatibility with the latest Power Query capabilities.\nThis release gateway brings more reliable data transfers, improvements to Oracle DirectQuery and expanded diagnostics in the gateway setup application to make troubleshooting easier. It also brings compatibility updates for the November 2026 release of Power BI Desktop, so queries run the same way in Power BI Desktop and in cloud refreshes. It also includes improvements to authentication handling, gateway request processing, and resource utilization, helping organizations maintain stable and secure connectivity across enterprise environments.\nGeneral improvements and fixes\nThe November 2026 gateway release (3000.342) includes several reliability, performance, and operational improvements.\n• Improved authentication reliability: Fixed an issue to ensure service principal token refresh metadata is retained across gateway operations, supporting more consistent authentication behavior.\n• Enhanced gateway message processing: Improved handling of duplicate packet acknowledgments to prevent redundant processing and improve reliability.\n• Optimized memory management: Reduced memory allocation overhead during gateway serialization, helping improve resource efficiency.\n• Improved caching performance: Enhanced caching behavior to minimize redundant operations and improve processing efficiency.\n• Enhanced service stability: Refined request throttling behavior to improve reliability under varying workloads.\nThese updates help deliver a more consistent and reliable gateway experience.\nSecurity improvements and updates\nSecurity remains a key priority for the on-premises data gateway. The November 2026 release includes dependency updates designed to address identified security vulnerabilities and strengthen the overall security posture of gateway deployments.\nKey security updates include:\n• Cryptography dependency update: Updated dependencies to address an identified vulnerability associated with System.Security.Cryptography.Pkcs.\n• Updated third-party dependencies: Incorporated applicable security and maintenance updates to gateway components.\nAs part of our ongoing commitment to security and reliability, we continuously evaluate and update third-party dependencies. These updates help maintain a secure and stable gateway experience. We encourage customers to upgrade to the latest gateway version to benefit from these security improvements.\nFeature updates and new capabilities in OPDG: Gateway Dual Relay\nDual Relay is a resiliency feature for the On-premises Data Gateway that provides two relay endpoints: a primary relay and a secondary relay in a backup region.\nIf the primary relay becomes unavailable, gateway communication can continue through the secondary relay, provided the gateway can reach it. Following are the benefits of dual relay feature\n• Improves gateway communication reliability and availability.\n• Reduces dependency on a single regional relay.\n• Provides automatic failover capability.\n• Helps minimize service interruptions caused by regional relay failures.\n• Requires no manual activation for eligible gateways. Learn more in the related documentation.\nPower BI Desktop compatibility\nThis update brings the on-premises data gateway up to date with the November 2026 release of Power BI Desktop.\n• Download on-premises data gateway (standard mode)\n• Download on-premises data gateway (personal mode)\nWith this version of the gateway, reports you publish to the Power BI Service and refresh through the gateway use the same query execution logic and runtime as the November version of Power BI Desktop.\nNext steps\nUpgrade to version 3000.342 to get the latest accessibility, configuration reliability and diagnostics improvements.\nPlease share feedback and feature requests through the Power BI Ideas forum to help shape future gateway investments.\nThank you!",
+    "html": "<p>The November 2026 release of the on-premises data gateway (version 3000.342) continues our commitment to secure, reliable and accessible connectivity between on-premises data sources and Microsoft Fabric services.</p>\n<p>This release focuses on strengthening gateway security, improving performance and reliability, enhancing diagnostics, and updating underlying dependencies to maintain compatibility with the latest Power Query capabilities.</p>\n<p>This release gateway brings more reliable data transfers, improvements to Oracle DirectQuery and expanded diagnostics in the gateway setup application to make troubleshooting easier. It also brings compatibility updates for the November 2026 release of Power BI Desktop, so queries run the same way in Power BI Desktop and in cloud refreshes. It also includes improvements to authentication handling, gateway request processing, and resource utilization, helping organizations maintain stable and secure connectivity across enterprise environments.</p>\n<h2><strong>General improvements and fixes</strong></h2>\n<p>The November 2026 gateway release (3000.342) includes several reliability, performance, and operational improvements.</p>\n<ul>\n<li>Improved authentication reliability: Fixed an issue to ensure service principal token refresh metadata is retained across gateway operations, supporting more consistent authentication behavior.</li>\n<li>Enhanced gateway message processing: Improved handling of duplicate packet acknowledgments to prevent redundant processing and improve reliability.</li>\n<li>Optimized memory management: Reduced memory allocation overhead during gateway serialization, helping improve resource efficiency.</li>\n<li>Improved caching performance: Enhanced caching behavior to minimize redundant operations and improve processing efficiency.</li>\n<li>Enhanced service stability: Refined request throttling behavior to improve reliability under varying workloads.</li>\n</ul>\n<p>These updates help deliver a more consistent and reliable gateway experience.</p>\n<h2>Security improvements and updates</h2>\n<p>Security remains a key priority for the on-premises data gateway. The November 2026 release includes dependency updates designed to address identified security vulnerabilities and strengthen the overall security posture of gateway deployments.</p>\n<p>Key security updates include:</p>\n<ul>\n<li><strong>Cryptography dependency update:</strong> Updated dependencies to address an identified vulnerability associated with System.Security.Cryptography.Pkcs.</li>\n<li><strong>Updated third-party dependencies:</strong> Incorporated applicable security and maintenance updates to gateway components.</li>\n</ul>\n<p>As part of our ongoing commitment to security and reliability, we continuously evaluate and update third-party dependencies. These updates help maintain a secure and stable gateway experience. We encourage customers to upgrade to the latest gateway version to benefit from these security improvements.</p>\n<h2>Feature updates and new capabilities in OPDG: Gateway Dual Relay</h2>\n<p><strong>Dual Relay</strong> is a resiliency <a href=\"https://learn.microsoft.com/data-integration/gateway/service-dual-relay\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">feature</a> for the On-premises Data Gateway that provides two relay endpoints: a <strong>primary relay</strong> and a <strong>secondary relay in a backup region</strong>.</p>\n<p>If the primary relay becomes unavailable, gateway communication can continue through the secondary relay, provided the gateway can reach it. Following are the benefits of dual relay feature</p>\n<ul>\n<li>Improves gateway communication reliability and availability.</li>\n<li>Reduces dependency on a single regional relay.</li>\n<li>Provides automatic failover capability.</li>\n<li>Helps minimize service interruptions caused by regional relay failures.</li>\n<li>Requires no manual activation for eligible gateways. Learn more <a href=\"https://learn.microsoft.com/data-integration/gateway/service-dual-relay\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">in the related documentation.</a></li>\n</ul>\n<h2><strong>Power BI Desktop compatibility</strong></h2>\n<p>This update brings the on-premises data gateway up to date with the November 2026 release of Power BI Desktop.</p>\n<ul>\n<li><a href=\"https://download.microsoft.com/download/d/a/1/da1fddb8-6da8-4f50-b4d0-18019591e182/GatewayInstall-26-11.exe\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Download on-premises data gateway (standard mode)</a></li>\n<li><a href=\"https://download.microsoft.com/download/6/0/2/602A459E-E1A3-4FB9-B07F-FC2B60881900/On-premises%20data%20gateway%20(personal%20mode)-26-11.exe\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Download on-premises data gateway (personal mode)</a></li>\n</ul>\n<p>With this version of the gateway, reports you publish to the Power BI Service and refresh through the gateway use the same query execution logic and runtime as the November version of Power BI Desktop.</p>\n<h2><strong>Next steps</strong></h2>\n<p>Upgrade to version 3000.342 to get the latest accessibility, configuration reliability and diagnostics improvements.</p>\n<p>Please share feedback and feature requests through the <a href=\"https://ideas.powerbi.com/ideas/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Power BI Ideas</a> forum to help shape future gateway investments.</p>\n<p>Thank you!</p>",
+    "excerpt": "The November 2026 release of the on-premises data gateway (version 3000.342) continues our commitment to secure, reliable and accessible connectivity between on-premises data sources and Microsoft Fabric services. This release focuses on strengthening gateway security, improving performance and reliability, enhancing…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "feature",
+        "url": "https://learn.microsoft.com/data-integration/gateway/service-dual-relay"
+      },
+      {
+        "label": "Download on-premises data gateway (standard mode)",
+        "url": "https://download.microsoft.com/download/d/a/1/da1fddb8-6da8-4f50-b4d0-18019591e182/GatewayInstall-26-11.exe"
+      },
+      {
+        "label": "Download on-premises data gateway (personal mode)",
+        "url": "https://download.microsoft.com/download/6/0/2/602A459E-E1A3-4FB9-B07F-FC2B60881900/On-premises%20data%20gateway%20(personal%20mode)-26-11.exe"
+      },
+      {
+        "label": "Power BI Ideas",
+        "url": "https://ideas.powerbi.com/ideas/"
+      }
+    ]
+  },
+  "contentHash": "90eadc8161a88d445bd0028ecce6fc9e5036527ec662154eac6ade83fc8fb999",
+  "categories": [
+    "data-factory",
+    "power-bi"
+  ],
+  "primaryCategory": "data-factory",
+  "type": "announcement",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 33,
+    "level": "bajo",
+    "transformative": false,
+    "audiences": [
+      "data-analysts",
+      "administrators",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}
