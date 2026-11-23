@@ -1,0 +1,47 @@
+{
+  "id": "cm-5408564",
+  "kind": "blog",
+  "source": "fabric-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Fabric-Updates-Blog/Enable-Azure-Blob-Storage-Events-Without-Compromising-Your/ba-p/5408564",
+  "title": "Enable Azure Blob Storage Events Without Compromising Your Tenant Private Links Policy",
+  "author": "GEGUIRGU",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-23T20:00:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-23T22:40:51.533Z",
+  "updatedAt": "2026-11-23T22:40:51.533Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Learn how to keep Microsoft Fabric tenant private links enabled while allowing approved Azure Blob Storage events through workspace Resource Instance Rules.",
+    "html": "<p>Learn how to keep Microsoft Fabric tenant private links enabled while allowing approved Azure Blob Storage events through workspace Resource Instance Rules.</p>",
+    "excerpt": "Learn how to keep Microsoft Fabric tenant private links enabled while allowing approved Azure Blob Storage events through workspace Resource Instance Rules.",
+    "images": [],
+    "codeBlocks": [],
+    "links": []
+  },
+  "contentHash": "591d710bbb685690c039d2051a51b5812d184f81f587d34aa9455e93e8f3f932",
+  "categories": [
+    "security"
+  ],
+  "primaryCategory": "security",
+  "type": "announcement",
+  "stage": "none",
+  "technologies": [],
+  "impact": {
+    "score": 38,
+    "level": "bajo",
+    "transformative": false,
+    "audiences": [
+      "administrators",
+      "business-users"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}
