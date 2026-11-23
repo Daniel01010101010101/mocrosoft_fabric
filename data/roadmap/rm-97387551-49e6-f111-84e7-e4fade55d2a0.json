@@ -1,0 +1,23 @@
+{
+  "id": "rm-97387551-49e6-f111-84e7-e4fade55d2a0",
+  "releaseItemId": "97387551-49e6-f111-84e7-e4fade55d2a0",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Git Integration - Branch workspace admin profile",
+  "description": "Branch workspace admin profile (aka. admin delegation) lets developers use the branch-out experience without needing create-workspace or assign-capacity permissions. Workspace admins keep full control through pre-configured guardrails while unblocking developer workflows.GA version will include API support for configuring the profile.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "FY27 Q3 (Jan-Mar 2027)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=97387551-49e6-f111-84e7-e4fade55d2a0",
+  "contentHash": "55a9ce2358fbf5cdbdec5951e7790485ee99c87f5a43b2804332af1b0e413a30",
+  "detectedAt": "2026-11-23T18:26:38.669Z",
+  "updatedAt": "2026-11-23T18:26:38.669Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}

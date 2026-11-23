@@ -1,0 +1,23 @@
+{
+  "id": "rm-9696e3bc-49e6-f111-84e7-e4fade55d2a0",
+  "releaseItemId": "9696e3bc-49e6-f111-84e7-e4fade55d2a0",
+  "product": "Fabric Developer Experiences",
+  "productId": "c6da6b3b-ded6-ee11-9079-000d3a310f67",
+  "category": "developer-apis",
+  "name": "Git Integration - File level commit",
+  "description": "Commit individual files within a supported Fabric item to Git, rather than committing the entire item at once. File-level commits give developers granular change history, support partial commits of in-progress work, and produce smaller, easier-to-review pull requests.GA version will include support of commit to another branch.",
+  "releaseType": "ga",
+  "releaseStatus": "planned",
+  "releaseDate": "Q1 2027",
+  "releaseQuarterStart": "2027-01-01T00:00:00.000Z",
+  "wave": "FY27 Q3 (Jan-Mar 2027)",
+  "url": "https://roadmap.fabric.microsoft.com/?product=fabricdeveloperexperiences&releaseItem=9696e3bc-49e6-f111-84e7-e4fade55d2a0",
+  "contentHash": "8746dde55a8210664d9f7ab537b4460c36fa1bac518942cee74e88c451d7ac6f",
+  "detectedAt": "2026-11-23T18:26:38.669Z",
+  "updatedAt": "2026-11-23T18:26:38.669Z",
+  "history": [],
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  }
+}
