@@ -4,7 +4,7 @@
   "product": "Administration, Governance and Security",
   "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
   "category": "admin-governance",
-  "name": "Outbound Access Protection for DI",
+  "name": "Outbound Access Protection for DI (Preview)",
   "description": "Fabric administrators want to ensure that data in Fabric isnt exfiltrated to unpermitted destinations outside of Fabric unintentionally or by due to  malicious intent . In this milestone, we will provide controls to ensure Data Integration items:  Dataflows Gen2.1 and Data Pipelines can only connect to the specific data sources and connectors as configured by Workspace Admins.In the future we will addData exfiltration support for more Fabric experiences.",
   "releaseType": "preview",
   "releaseStatus": "shipped",
@@ -12,10 +12,17 @@
   "releaseQuarterStart": "2026-01-01T00:00:00.000Z",
   "wave": "2025 Wave 2 (Krypton)",
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=be7227c8-6d24-f011-8c4d-00224804b6c3",
-  "contentHash": "2988d75d0cfc246eafc0c4406523a22fa947b9e6e33e9a9ecd18eab9248d7db0",
+  "contentHash": "d87a9715dbcc2d04d445d311e7bf6cfca7bbb957ca8298da700307bfb755cd8c",
   "detectedAt": "2026-11-12T23:36:30.708Z",
-  "updatedAt": "2026-11-14T04:42:26.431Z",
-  "history": [],
+  "updatedAt": "2026-11-24T21:16:01.354Z",
+  "history": [
+    {
+      "at": "2026-11-24T21:16:01.354Z",
+      "field": "name",
+      "from": "Outbound Access Protection for DI",
+      "to": "Outbound Access Protection for DI (Preview)"
+    }
+  ],
   "ai": {
     "status": "pending",
     "attempts": 0,

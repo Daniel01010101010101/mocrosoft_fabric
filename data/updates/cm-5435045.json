@@ -1,0 +1,67 @@
+{
+  "id": "cm-5435045",
+  "kind": "blog",
+  "source": "powerbi-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Paginated-reports-in-Power-BI-support-outbound-access-protection/ba-p/5435045",
+  "docsUrl": "https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-overview",
+  "title": "Paginated reports in Power BI support outbound access protection (Preview)",
+  "author": "kayu",
+  "originalLanguage": "en",
+  "languageConfidence": 0.99,
+  "publishedAt": "2026-11-24T18:00:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-24T21:16:01.354Z",
+  "updatedAt": "2026-11-24T21:16:01.354Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Paginated reports can combine data from Power BI semantic models and other data sources with external resources such as maps and images. Workspace admins can control which destinations the Power BI service can reach when it renders these reports.\nPaginated reports now support workspace outbound access protection (OAP). When a workspace admin enables OAP for a Fabric workspace, outbound connections from paginated reports are blocked by default. The workspace admin can then create OAP exception rules to allow the connection types and destinations that the reports in that workspace are supposed to access.\nWhy control outbound access at the workspace level?\nOAP helps workspace admins reduce unintended outbound access when the Power BI service renders paginated reports. Report authors define the data and content their reports need, and workspace admins decide which connections to allow. Authors can keep designing print-ready operational, financial, and regulatory reports using approved connections.\nHow OAP applies to paginated report connections\nA paginated report might query a Fabric lakehouse or an Azure SQL database for transaction data, query a Power BI semantic model for business metrics, and retrieve images from an external host. The Power BI service makes these requests when it renders the report. Depending on the source, the service can use a cloud connector, a configured data gateway, or a Web connection. The service, not the viewer’s browser, retrieves external images.\nOAP checks these outbound requests against the workspace’s data connection rules. If a required data source isn’t allowed, the report can’t retrieve data from that source. The following screenshot shows the error Power BI displays when OAP blocks a required connection.\nFigure: Unable to render a paginated report because OAP blocked data source access.\nIf OAP blocks an external image or map, that resource might not display. The rest of the report can still render if its required data sources are available.\nConfigure only the connections your reports need\nStart by identifying the connections the Power BI service needs to render your paginated reports. Review each report definition and its configured connections for data sources, semantic models, gateways, map services, and external image hosts. Embedded images don’t require an external request, but images referenced by URL do.\nNext, enable OAP for the workspace and add data connection rules for the required connectors and destinations. For example, use the SQL Server connector for a Fabric SQL analytics endpoint and the Web connector for maps and external images. For a report that queries a Power BI semantic model, use the Analysis Services connector and an XML for Analysis (XMLA) connection string so the report-to-model connection follows the workspace’s OAP rules.\nIf a paginated report queries a semantic model in another workspace, allowing the report-to-model connection doesn't allow the model to connect to its underlying data sources. Those connections are governed separately by the semantic model workspace's outbound access policy, if enabled.\nIn the following screenshot, you can see an example of an OAP policy with multiple exceptions, enabling a paginated report to pull data from Fabric Lakehouse and warehouse sources, query a semantic model, and fetch content from Web destinations.\nFigure: An OAP policy with multiple exceptions for a sample paginated report.\nAfter the policy takes effect, run a representative report in a test workspace. Check data retrieval and any parameters, subscriptions, maps, or external images the report uses. Confirm that destinations without an applicable rule remain blocked.\nNext steps\n• Learn more about the feature in the Workspace outbound access protection overview.\n• Follow the step-by-step setup in Enable workspace outbound access protection.\n• Share suggestions on the Fabric Ideas site.\n• Ask questions in the Fabric Community.",
+    "html": "<p>Paginated reports can combine data from Power BI semantic models and other data sources with external resources such as maps and images. Workspace admins can control which destinations the Power BI service can reach when it renders these reports.</p>\n<p>Paginated reports now support workspace outbound access protection (OAP). When a workspace admin enables OAP for a Fabric workspace, outbound connections from paginated reports are blocked by default. The workspace admin can then create OAP exception rules to allow the connection types and destinations that the reports in that workspace are supposed to access.</p>\n<h2>Why control outbound access at the workspace level?</h2>\n<p>OAP helps workspace admins reduce unintended outbound access when the Power BI service renders paginated reports. Report authors define the data and content their reports need, and workspace admins decide which connections to allow. Authors can keep designing print-ready operational, financial, and regulatory reports using approved connections.</p>\n<h2>How OAP applies to paginated report connections</h2>\n<p>A paginated report might query a Fabric lakehouse or an Azure SQL database for transaction data, query a Power BI semantic model for business metrics, and retrieve images from an external host. The Power BI service makes these requests when it renders the report. Depending on the source, the service can use a cloud connector, a configured data gateway, or a Web connection. The service, not the viewer’s browser, retrieves external images.</p>\n<p>OAP checks these outbound requests against the workspace’s data connection rules. If a required data source isn’t allowed, the report can’t retrieve data from that source. The following screenshot shows the error Power BI displays when OAP blocks a required connection.</p>\n<em>Figure: Unable to render a paginated report because OAP blocked data source access.</em>\n<p>If OAP blocks an external image or map, that resource might not display. The rest of the report can still render if its required data sources are available.</p>\n<h2>Configure only the connections your reports need</h2>\n<p>Start by identifying the connections the Power BI service needs to render your paginated reports. Review each report definition and its configured connections for data sources, semantic models, gateways, map services, and external image hosts. Embedded images don’t require an external request, but images referenced by URL do.</p>\n<p>Next, enable OAP for the workspace and add data connection rules for the required connectors and destinations. For example, use the SQL Server connector for a Fabric SQL analytics endpoint and the Web connector for maps and external images. For a report that queries a Power BI semantic model, use the Analysis Services connector and an XML for Analysis (XMLA) connection string so the report-to-model connection follows the workspace’s OAP rules.</p>\n<p>If a paginated report queries a semantic model in another workspace, allowing the report-to-model connection doesn't allow the model to connect to its underlying data sources. Those connections are governed separately by the semantic model workspace's outbound access policy, if enabled.</p>\n<p>In the following screenshot, you can see an example of an OAP policy with multiple exceptions, enabling a paginated report to pull data from Fabric Lakehouse and warehouse sources, query a semantic model, and fetch content from Web destinations.</p>\n<em>Figure: An OAP policy with multiple exceptions for a sample paginated report.</em>\n<p>After the policy takes effect, run a representative report in a test workspace. Check data retrieval and any parameters, subscriptions, maps, or external images the report uses. Confirm that destinations without an applicable rule remain blocked.</p>\n<h2>Next steps</h2>\n<ul>\n<li>Learn more about the feature in the <a href=\"https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace outbound access protection overview</a>.</li>\n<li>Follow the step-by-step setup in <a href=\"https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-set-up\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Enable workspace outbound access protection</a>.</li>\n<li>Share suggestions on the <a href=\"https://ideas.fabric.microsoft.com/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Ideas</a> site.</li>\n<li>Ask questions in the <a href=\"https://community.fabric.microsoft.com/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Community</a>.</li>\n</ul>",
+    "excerpt": "Paginated reports can combine data from Power BI semantic models and other data sources with external resources such as maps and images. Workspace admins can control which destinations the Power BI service can reach when it renders these reports. Paginated reports now support workspace outbound access protection…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Workspace outbound access protection overview",
+        "url": "https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-overview"
+      },
+      {
+        "label": "Enable workspace outbound access protection",
+        "url": "https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-set-up"
+      },
+      {
+        "label": "Fabric Ideas",
+        "url": "https://ideas.fabric.microsoft.com/"
+      },
+      {
+        "label": "Fabric Community",
+        "url": "https://community.fabric.microsoft.com/"
+      }
+    ]
+  },
+  "contentHash": "c6288aba1ce65ad63a8871fee5f158dd9415d67d82fae439317ec556752bb8d7",
+  "categories": [
+    "power-bi"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "feature",
+  "stage": "preview",
+  "technologies": [],
+  "impact": {
+    "score": 52,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "data-scientists",
+      "developers"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}

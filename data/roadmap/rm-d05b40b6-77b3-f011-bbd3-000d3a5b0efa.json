@@ -4,7 +4,7 @@
   "product": "Administration, Governance and Security",
   "productId": "796a0af7-2dc7-ee11-9079-000d3a3419a8",
   "category": "admin-governance",
-  "name": "Outbound Access Protection for DI",
+  "name": "Outbound Access Protection for DI (Generally Available)",
   "description": "Fabric administrators want to ensure that data in Fabric isnt exfiltrated to unpermitted destinations outside of Fabric unintentionally or by malicious intent . In this milestone, we will provide controls to ensure Data Factory items:  Dataflows Gen2 (with CICD), Data Pipelines and Copy Job can only connect to the specific data sources and connectors as configured by Workspace Admins.",
   "releaseType": "ga",
   "releaseStatus": "shipped",
@@ -12,10 +12,17 @@
   "releaseQuarterStart": "2026-04-01T00:00:00.000Z",
   "wave": "2025 Wave 2 (Krypton)",
   "url": "https://roadmap.fabric.microsoft.com/?product=administration%2Cgovernanceandsecurity&releaseItem=d05b40b6-77b3-f011-bbd3-000d3a5b0efa",
-  "contentHash": "6bf2fa869623d20a0bfd7efeea421dd40cb2e49fc56ac87f62a6e3f28494c49f",
+  "contentHash": "cfc1baa8174e3e98d4fe72d13078be97687ca22770a3f8b18313d28eafc14321",
   "detectedAt": "2026-11-19T23:15:37.142Z",
-  "updatedAt": "2026-11-19T23:15:37.142Z",
-  "history": [],
+  "updatedAt": "2026-11-24T21:16:01.354Z",
+  "history": [
+    {
+      "at": "2026-11-24T21:16:01.354Z",
+      "field": "name",
+      "from": "Outbound Access Protection for DI",
+      "to": "Outbound Access Protection for DI (Generally Available)"
+    }
+  ],
   "ai": {
     "status": "pending",
     "attempts": 0

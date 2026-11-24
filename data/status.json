@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-24T17:55:43.950Z",
+  "generatedAt": "2026-11-24T21:16:11.508Z",
   "lastRun": {
-    "id": "run-20261124175534",
+    "id": "run-20261124211601",
     "trigger": "schedule",
-    "startedAt": "2026-11-24T17:55:34.132Z",
-    "finishedAt": "2026-11-24T17:55:43.946Z",
-    "durationMs": 9814,
+    "startedAt": "2026-11-24T21:16:01.354Z",
+    "finishedAt": "2026-11-24T21:16:11.504Z",
+    "durationMs": 10150,
     "status": "success",
     "sources": [
       {
         "source": "fabric-blog",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 1158,
+        "durationMs": 1039,
         "fetched": 20,
         "created": 0,
         "updated": 0,
@@ -23,7 +23,7 @@
         "source": "powerbi-blog",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 1066,
+        "durationMs": 1061,
         "fetched": 20,
         "created": 1,
         "updated": 0,
@@ -34,7 +34,7 @@
         "source": "learn-whats-new",
         "status": "not-modified",
         "attempts": 1,
-        "durationMs": 313,
+        "durationMs": 108,
         "fetched": 0,
         "created": 0,
         "updated": 0,
@@ -45,7 +45,7 @@
         "source": "azure-updates",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 1553,
+        "durationMs": 1644,
         "fetched": 42,
         "created": 0,
         "updated": 0,
@@ -56,11 +56,11 @@
         "source": "fabric-roadmap",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 4577,
+        "durationMs": 5450,
         "fetched": 1144,
         "created": 0,
-        "updated": 0,
-        "unchanged": 1144,
+        "updated": 3,
+        "unchanged": 1141,
         "rejected": 0
       }
     ],
@@ -74,8 +74,8 @@
       "translated": 0,
       "requests": 0,
       "roadmapTranslated": 0,
-      "pendingUpdates": 406,
-      "pendingRoadmap": 975,
+      "pendingUpdates": 407,
+      "pendingRoadmap": 976,
       "inputTokens": 0,
       "outputTokens": 0
     },
@@ -83,7 +83,7 @@
       "newUpdates": 1,
       "updatedUpdates": 0,
       "newRoadmap": 0,
-      "changedRoadmap": 0,
+      "changedRoadmap": 3,
       "duplicatesLinked": 0
     },
     "issues": [
@@ -91,24 +91,24 @@
         "level": "warning",
         "stage": "config",
         "message": "Análisis con IA pendiente: falta configurar el secreto ANTHROPIC_API_KEY. Mientras tanto se usan las traducciones oficiales de Microsoft Learn y las traducciones ya guardadas; el resto se traducirá automáticamente en cuanto se configure la clave.",
-        "at": "2026-11-24T17:55:43.902Z"
+        "at": "2026-11-24T21:16:11.475Z"
       }
     ],
-    "workflowRunUrl": "https://github.com/Daniel01010101010101/mocrosoft_fabric/actions/runs/45453848521"
+    "workflowRunUrl": "https://github.com/Daniel01010101010101/mocrosoft_fabric/actions/runs/45489295296"
   },
-  "lastSuccessfulRunAt": "2026-11-24T17:55:43.946Z",
-  "lastSuccessfulRunId": "run-20261124175534",
-  "lastAttemptAt": "2026-11-24T17:55:34.132Z",
+  "lastSuccessfulRunAt": "2026-11-24T21:16:11.504Z",
+  "lastSuccessfulRunId": "run-20261124211601",
+  "lastAttemptAt": "2026-11-24T21:16:01.354Z",
   "consecutiveFailures": 0,
   "health": "ok",
   "counts": {
-    "updates": 406,
+    "updates": 407,
     "roadmap": 1144,
     "aiDoneUpdates": 0,
-    "aiPendingUpdates": 406,
+    "aiPendingUpdates": 407,
     "aiErrorUpdates": 0,
-    "aiDoneRoadmap": 169,
-    "aiPendingRoadmap": 975,
+    "aiDoneRoadmap": 168,
+    "aiPendingRoadmap": 976,
     "translatedUpdates": 387
   },
   "ai": {
