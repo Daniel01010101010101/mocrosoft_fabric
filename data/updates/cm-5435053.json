@@ -1,0 +1,84 @@
+{
+  "id": "cm-5435053",
+  "kind": "blog",
+  "source": "powerbi-blog",
+  "url": "https://community.fabric.microsoft.com/t5/Power-BI-Updates-Blog/Workspace-outbound-access-protection-for-Power-BI-semantic/ba-p/5435053",
+  "docsUrl": "https://learn.microsoft.com/rest/api/fabric/core/workspaces/get-outbound-cloud-connection-rules?tabs=HTTP",
+  "title": "Workspace outbound access protection for Power BI semantic models and interactive reports (Generally Available)",
+  "author": "kayu",
+  "originalLanguage": "en",
+  "languageConfidence": 1,
+  "publishedAt": "2026-11-24T17:00:00.000Z",
+  "datePrecision": "exact",
+  "detectedAt": "2026-11-24T17:55:34.132Z",
+  "updatedAt": "2026-11-24T17:55:34.132Z",
+  "relatedSources": [],
+  "relatedIds": [],
+  "content": {
+    "text": "Workspace outbound access protection (OAP) is generally available for Power BI semantic models and interactive Power BI reports in Microsoft Fabric workspaces. With OAP, workspace admins can limit which data sources semantic models reach. They can also limit which semantic models in other workspaces interactive reports can query. These rules help reduce unintended outbound access and mitigate data exfiltration risks.\nSemantic model creators choose their data sources. Report authors choose their semantic models. Workspace admins decide which outbound connections they want to allow in their workspaces. You can have semantic models and reports in the same workspace if you don’t need strict governance controls. You can also place them in separate workspaces if you don’t want to give report authors direct access to the underlying data sources of the semantic models.\nWhich workspace controls each connection\nAn interactive report can always query a semantic model in its own local workspace. For a model in another workspace, however, the report workspace admin must add a Power BI Semantic Model exception to the report workspace’s OAP policy. The exception applies to the report workspace, not to individual reports.\nWhen OAP is on in the model workspace, that workspace’s rules control which data sources the semantic model can reach. Examples include an Azure SQL database, a Fabric lakehouse, or a source reached through a data gateway. Allowing the report-to-model connection in the report workspace doesn’t allow the model-to-source connection in the model workspace, or vice versa. Each workspace enforces its own separate OAP policy.\nThere are some special cases to consider:\n• A semantic model might need an OAP exception even for a lakehouse or warehouse in the same workspace because SQL and ADLS Gen2 connections are considered external connections even if the destination is in the same Fabric workspace. Check the model’s data sources and the connection types to determine the required OAP exceptions.\n• For interactive Power BI reports, note that OAP only governs the connection to the semantic model. OAP does not apply to outbound requests originating from features rendered in the user’s browser, such as an ImageURL or a custom visual. To control browser connections, you must rely on firewalls and other the security controls in your local network.\nExample: Finance reports use a shared semantic model\nA finance team publishes interactive reports for regional controllers. The reports use a shared semantic model in a separate analytics workspace. Model owners maintain revenue and expense measures there. The semantic model uses DirectLake over OneLake against an approved Fabric warehouse.\nThe reporting workspace admin adds a Power BI Semantic Model exception for the analytics workspace. The analytics workspace admin adds a separate rule for the SQL Fabric warehouse. Looking at the data connections of the semantic model, the analytics workspace admin can see that the model uses an ADSL Gen2 connection to access the Fabric warehouse data. (Side note, for DirectLake over SQL it would be a SQL connection against the warehouses SQL endpoint.) The diagram shows which workspace controls each connection.\nFigure: The reporting workspace allows access to the shared semantic model. The analytics workspace allows Direct Lake access to Fabric warehouse data in OneLake.\nA report bound to a semantic model in an unapproved workspace can’t open because the OAP policy in the report workspace would block the connection. If a semantic model in the analytics workspace wanted to use a different data source, the connection would equally be blocked, refreshes would fail in import mode, queries would fail in DirectQuery mode, and framing would fail in DirectLake mode. The analytics workspace admin must review and approve each new destination separately by adding a corresponding OAP exception. Neither team needs to broaden the other workspace’s rules. The governance controls are managed separately for each workspace.\nPlan your rollout\nBefore you enable OAP in production, coordinate with report owners, semantic model owners, and workspace admins. Involve gateway admins if needed. Group reports and models with similar connection needs. Check that their connection formats are supported and the required rules are available.\nStart with a few representative reports and semantic models in a test workspace. Identify where each model resides, which sources it uses, and who owns the connections. You can use Copilot to facilitate and accelerate this process.\nThen set rules in each workspace. In report workspaces, allow only the other workspaces that host the semantic models your reports need. In the semantic model workspaces, allow only the data sources that the models need. Check model connections even when reports and semantic models share the same workspace. Again, you can use Copilot to facilitate the configuration or use the Fabric REST APIs (Get Outbound Cloud Connection Rules and Set Outbound Cloud Connection Rules) directly to manage OAP across multiple workspaces efficiently.\nAfter the rules take effect, test reports and semantic models separately. Open a report as a viewer would. Depending on the model, run an Import refresh or a DirectQuery query, or check access to the required Direct Lake tables. Confirm that unapproved destinations stay blocked in the test workspaces.\nRecord why each exception exists and who owns it. Review the rules when you rebind a report, move a model, or change a source endpoint. If a cross-workspace report stops opening after you rebind it, check the report workspace’s exception. If the model can’t refresh or query a source, check the model workspace’s rules. Use Copilot and Fabric REST APIs for efficiency.\nNext steps\n• Learn more in the Workspace outbound access protection overview and the guidance for semantic models and interactive Power BI reports.\n• Follow the step-by-step setup in Enable workspace outbound access protection.\n• Share suggestions on the Fabric Ideas site.\n• Ask questions in the Fabric Community.",
+    "html": "<p>Workspace outbound access protection (OAP) is generally available for Power BI semantic models and interactive Power BI reports in Microsoft Fabric workspaces. With OAP, workspace admins can limit which data sources semantic models reach. They can also limit which semantic models in other workspaces interactive reports can query. These rules help reduce unintended outbound access and mitigate data exfiltration risks.</p>\n<p>Semantic model creators choose their data sources. Report authors choose their semantic models. Workspace admins decide which outbound connections they want to allow in their workspaces. You can have semantic models and reports in the same workspace if you don’t need strict governance controls. You can also place them in separate workspaces if you don’t want to give report authors direct access to the underlying data sources of the semantic models.</p>\n<h2>Which workspace controls each connection</h2>\n<p>An interactive report can always query a semantic model in its own local workspace. For a model in another workspace, however, the report workspace admin must add a Power BI Semantic Model exception to the report workspace’s OAP policy. The exception applies to the report workspace, not to individual reports.</p>\n<p>When OAP is on in the model workspace, that workspace’s rules control which data sources the semantic model can reach. Examples include an Azure SQL database, a Fabric lakehouse, or a source reached through a data gateway. Allowing the report-to-model connection in the report workspace doesn’t allow the model-to-source connection in the model workspace, or vice versa. Each workspace enforces its own separate OAP policy.</p>\n<p>There are some special cases to consider:</p>\n<ul>\n<li>A semantic model might need an OAP exception even for a lakehouse or warehouse in the same workspace because SQL and ADLS Gen2 connections are considered external connections even if the destination is in the same Fabric workspace. Check the model’s data sources and the connection types to determine the required OAP exceptions.</li>\n<li>For interactive Power BI reports, note that OAP only governs the connection to the semantic model. OAP does not apply to outbound requests originating from features rendered in the user’s browser, such as an ImageURL or a custom visual. To control browser connections, you must rely on firewalls and other the security controls in your local network.</li>\n</ul>\n<h2>Example: Finance reports use a shared semantic model</h2>\n<p>A finance team publishes interactive reports for regional controllers. The reports use a shared semantic model in a separate analytics workspace. Model owners maintain revenue and expense measures there. The semantic model uses DirectLake over OneLake against an approved Fabric warehouse.</p>\n<p>The reporting workspace admin adds a Power BI Semantic Model exception for the analytics workspace. The analytics workspace admin adds a separate rule for the SQL Fabric warehouse. Looking at the data connections of the semantic model, the analytics workspace admin can see that the model uses an ADSL Gen2 connection to access the Fabric warehouse data. (Side note, for DirectLake over SQL it would be a SQL connection against the warehouses SQL endpoint.) The diagram shows which workspace controls each connection.</p>\n<em>Figure: The reporting workspace allows access to the shared semantic model. The analytics workspace allows Direct Lake access to Fabric warehouse data in OneLake.</em>\n<p>A report bound to a semantic model in an unapproved workspace can’t open because the OAP policy in the report workspace would block the connection. If a semantic model in the analytics workspace wanted to use a different data source, the connection would equally be blocked, refreshes would fail in import mode, queries would fail in DirectQuery mode, and framing would fail in DirectLake mode. The analytics workspace admin must review and approve each new destination separately by adding a corresponding OAP exception. Neither team needs to broaden the other workspace’s rules. The governance controls are managed separately for each workspace.</p>\n<h2>Plan your rollout</h2>\n<p>Before you enable OAP in production, coordinate with report owners, semantic model owners, and workspace admins. Involve gateway admins if needed. Group reports and models with similar connection needs. Check that their connection formats are supported and the required rules are available.</p>\n<p>Start with a few representative reports and semantic models in a test workspace. Identify where each model resides, which sources it uses, and who owns the connections. You can use Copilot to facilitate and accelerate this process.</p>\n<p>Then set rules in each workspace. In report workspaces, allow only the other workspaces that host the semantic models your reports need. In the semantic model workspaces, allow only the data sources that the models need. Check model connections even when reports and semantic models share the same workspace. Again, you can use Copilot to facilitate the configuration or use the Fabric REST APIs (<a href=\"https://learn.microsoft.com/rest/api/fabric/core/workspaces/get-outbound-cloud-connection-rules?tabs=HTTP\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Get Outbound Cloud Connection Rules</a> and <a href=\"https://learn.microsoft.com/rest/api/fabric/core/workspaces/set-outbound-cloud-connection-rules?tabs=HTTP\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Set Outbound Cloud Connection Rules</a>) directly to manage OAP across multiple workspaces efficiently.</p>\n<p>After the rules take effect, test reports and semantic models separately. Open a report as a viewer would. Depending on the model, run an Import refresh or a DirectQuery query, or check access to the required Direct Lake tables. Confirm that unapproved destinations stay blocked in the test workspaces.</p>\n<p>Record why each exception exists and who owns it. Review the rules when you rebind a report, move a model, or change a source endpoint. If a cross-workspace report stops opening after you rebind it, check the report workspace’s exception. If the model can’t refresh or query a source, check the model workspace’s rules. Use Copilot and Fabric REST APIs for efficiency.</p>\n<h2>Next steps</h2>\n<ul>\n<li>Learn more in the <a href=\"https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-overview\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Workspace outbound access protection overview</a> and the <a href=\"https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-semantic-models\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">guidance for semantic models</a> and <a href=\"https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-power-bi-reports\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">interactive Power BI reports</a>.</li>\n<li>Follow the step-by-step setup in <a href=\"https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-set-up\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Enable workspace outbound access protection</a>.</li>\n<li>Share suggestions on the <a href=\"https://ideas.fabric.microsoft.com/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Ideas</a> site.</li>\n<li>Ask questions in the <a href=\"https://community.fabric.microsoft.com/\" target=\"_blank\" rel=\"noopener noreferrer nofollow\">Fabric Community</a>.</li>\n</ul>",
+    "excerpt": "Workspace outbound access protection (OAP) is generally available for Power BI semantic models and interactive Power BI reports in Microsoft Fabric workspaces. With OAP, workspace admins can limit which data sources semantic models reach. They can also limit which semantic models in other workspaces interactive…",
+    "images": [],
+    "codeBlocks": [],
+    "links": [
+      {
+        "label": "Get Outbound Cloud Connection Rules",
+        "url": "https://learn.microsoft.com/rest/api/fabric/core/workspaces/get-outbound-cloud-connection-rules?tabs=HTTP"
+      },
+      {
+        "label": "Set Outbound Cloud Connection Rules",
+        "url": "https://learn.microsoft.com/rest/api/fabric/core/workspaces/set-outbound-cloud-connection-rules?tabs=HTTP"
+      },
+      {
+        "label": "Workspace outbound access protection overview",
+        "url": "https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-overview"
+      },
+      {
+        "label": "guidance for semantic models",
+        "url": "https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-semantic-models"
+      },
+      {
+        "label": "interactive Power BI reports",
+        "url": "https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-power-bi-reports"
+      },
+      {
+        "label": "Enable workspace outbound access protection",
+        "url": "https://learn.microsoft.com/fabric/security/workspace-outbound-access-protection-set-up"
+      },
+      {
+        "label": "Fabric Ideas",
+        "url": "https://ideas.fabric.microsoft.com/"
+      },
+      {
+        "label": "Fabric Community",
+        "url": "https://community.fabric.microsoft.com/"
+      }
+    ]
+  },
+  "contentHash": "395136756c9ad6528e352f8e0782b7db0412ce6193804d65066333b1850e1c10",
+  "categories": [
+    "power-bi",
+    "admin-governance"
+  ],
+  "primaryCategory": "power-bi",
+  "type": "feature",
+  "stage": "ga",
+  "technologies": [],
+  "impact": {
+    "score": 64,
+    "level": "medio",
+    "transformative": false,
+    "audiences": [
+      "data-engineers",
+      "data-analysts",
+      "data-scientists",
+      "architects"
+    ],
+    "basis": "heuristic"
+  },
+  "ai": {
+    "status": "pending",
+    "attempts": 0
+  },
+  "meta": {}
+}
