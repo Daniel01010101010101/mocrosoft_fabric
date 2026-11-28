@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-28T02:11:58.012Z",
+  "generatedAt": "2026-11-28T04:45:48.266Z",
   "lastRun": {
-    "id": "run-20261128021148",
+    "id": "run-20261128044539",
     "trigger": "schedule",
-    "startedAt": "2026-11-28T02:11:48.818Z",
-    "finishedAt": "2026-11-28T02:11:58.004Z",
-    "durationMs": 9186,
+    "startedAt": "2026-11-28T04:45:39.956Z",
+    "finishedAt": "2026-11-28T04:45:48.260Z",
+    "durationMs": 8304,
     "status": "success",
     "sources": [
       {
         "source": "fabric-blog",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 659,
+        "durationMs": 904,
         "fetched": 20,
         "created": 0,
         "updated": 0,
@@ -23,7 +23,7 @@
         "source": "powerbi-blog",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 706,
+        "durationMs": 896,
         "fetched": 20,
         "created": 0,
         "updated": 0,
@@ -34,7 +34,7 @@
         "source": "learn-whats-new",
         "status": "not-modified",
         "attempts": 1,
-        "durationMs": 231,
+        "durationMs": 571,
         "fetched": 0,
         "created": 0,
         "updated": 0,
@@ -45,7 +45,7 @@
         "source": "azure-updates",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 1945,
+        "durationMs": 960,
         "fetched": 42,
         "created": 0,
         "updated": 0,
@@ -56,7 +56,7 @@
         "source": "fabric-roadmap",
         "status": "ok",
         "attempts": 1,
-        "durationMs": 4743,
+        "durationMs": 3893,
         "fetched": 1144,
         "created": 0,
         "updated": 0,
@@ -91,14 +91,14 @@
         "level": "warning",
         "stage": "config",
         "message": "Análisis con IA pendiente: falta configurar el secreto ANTHROPIC_API_KEY. Mientras tanto se usan las traducciones oficiales de Microsoft Learn y las traducciones ya guardadas; el resto se traducirá automáticamente en cuanto se configure la clave.",
-        "at": "2026-11-28T02:11:57.972Z"
+        "at": "2026-11-28T04:45:48.216Z"
       }
     ],
-    "workflowRunUrl": "https://github.com/Daniel01010101010101/mocrosoft_fabric/actions/runs/46096839019"
+    "workflowRunUrl": "https://github.com/Daniel01010101010101/mocrosoft_fabric/actions/runs/46109001733"
   },
-  "lastSuccessfulRunAt": "2026-11-28T02:11:58.004Z",
-  "lastSuccessfulRunId": "run-20261128021148",
-  "lastAttemptAt": "2026-11-28T02:11:48.818Z",
+  "lastSuccessfulRunAt": "2026-11-28T04:45:48.260Z",
+  "lastSuccessfulRunId": "run-20261128044539",
+  "lastAttemptAt": "2026-11-28T04:45:39.956Z",
   "consecutiveFailures": 0,
   "health": "ok",
   "counts": {
